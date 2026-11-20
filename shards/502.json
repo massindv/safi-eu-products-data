@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "502",
-  "count": 5,
-  "updated_at": "2026-11-20T18:14:56.889393+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T18:28:54.436029+00:00",
   "products": {
     "5021991938917": {
       "barcode": "5021991938917",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:14:56.135546+00:00"
+      "updated_at": "2026-11-20T18:28:53.450664+00:00"
     },
     "5029396738767": {
       "barcode": "5029396738767",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:14:56.164387+00:00"
+      "updated_at": "2026-11-20T18:28:53.469843+00:00"
     },
     "5021991941177": {
       "barcode": "5021991941177",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:14:56.405856+00:00"
+      "updated_at": "2026-11-20T18:28:53.813275+00:00"
     },
     "5021427905780": {
       "barcode": "5021427905780",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:14:56.437964+00:00"
+      "updated_at": "2026-11-20T18:28:53.865435+00:00"
     },
     "5029396000437": {
       "barcode": "5029396000437",
@@ -110,7 +110,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:14:56.619350+00:00"
+      "updated_at": "2026-11-20T18:28:54.147937+00:00"
+    },
+    "5027659525031": {
+      "barcode": "5027659525031",
+      "product_name": "Sauce aigre douce pour sautés",
+      "store": "delhaize.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:28:54.207586+00:00"
     }
   }
 }

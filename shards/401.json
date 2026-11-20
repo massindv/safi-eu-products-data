@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "401",
-  "count": 9,
-  "updated_at": "2026-11-20T18:14:56.868916+00:00",
+  "count": 12,
+  "updated_at": "2026-11-20T18:28:54.422131+00:00",
   "products": {
     "4018077632006": {
       "barcode": "4018077632006",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:14:56.220105+00:00"
+      "updated_at": "2026-11-20T18:28:53.546115+00:00"
     },
     "4012200401057": {
       "barcode": "4012200401057",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:14:56.231006+00:00"
+      "updated_at": "2026-11-20T18:28:53.559584+00:00"
     },
     "4016241050564": {
       "barcode": "4016241050564",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T18:14:56.262335+00:00"
+      "updated_at": "2026-11-20T18:28:53.607887+00:00"
     },
     "4016241043023": {
       "barcode": "4016241043023",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:14:56.263687+00:00"
+      "updated_at": "2026-11-20T18:28:53.610686+00:00"
     },
     "4014500041445": {
       "barcode": "4014500041445",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:14:56.264238+00:00"
+      "updated_at": "2026-11-20T18:28:53.611723+00:00"
     },
     "4014400400007": {
       "barcode": "4014400400007",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:14:56.297412+00:00"
+      "updated_at": "2026-11-20T18:28:53.659432+00:00"
     },
     "4017100127007": {
       "barcode": "4017100127007",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:14:56.354502+00:00"
+      "updated_at": "2026-11-20T18:28:53.736813+00:00"
     },
     "40198125": {
       "barcode": "40198125",
@@ -146,7 +146,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:14:56.488395+00:00"
+      "updated_at": "2026-11-20T18:28:53.922070+00:00"
     },
     "4017100374104": {
       "barcode": "4017100374104",
@@ -164,7 +164,61 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:14:56.504039+00:00"
+      "updated_at": "2026-11-20T18:28:53.947690+00:00"
+    },
+    "4011100001336": {
+      "barcode": "4011100001336",
+      "product_name": "M&M's Chocolat 300g",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "sucre, pâte de cacao, LAIT écrémé en poudre, LACTOSE et protéines de LAIT, beurre de cacao, beurre concentré (LAIT), matière grasse de palme, sirop de glucose, matière grasse de karité, amidon, émulsifiant (lécithine de SOJA), colorants*, dextrine, agent d'enrobage (cire de carnauba), arômes, sel, huile de noix de coco,",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:28:54.192106+00:00"
+    },
+    "4017100126819": {
+      "barcode": "4017100126819",
+      "product_name": "Leibniz Zoo Bauernhof",
+      "store": "delhaize.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_Weizenmehl_ 50%, Roh-Rohrzucker 22%, _Dinkelmehl_ 13%, Sonnenblumenöl 11%, _Hafervollkornmehl_ 6,8%, Apfelextrakt, Oligofruktose, Backtriebmittel: Natriumcarbonate, Diphosphate; Salz, Emulgator: Lecithine (_Soja_); _Magermilchpulver_, Aromen (_Milch_), Säuerungsmittel: Citronensäure; _Hühnervolleipulver_.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:28:54.202216+00:00"
+    },
+    "4017100146312": {
+      "barcode": "4017100146312",
+      "product_name": "Zoo",
+      "store": "delhaize.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:28:54.203457+00:00"
     }
   }
 }

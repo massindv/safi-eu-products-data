@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "625",
+  "count": 1,
+  "updated_at": "2026-11-20T18:28:54.609893+00:00",
+  "products": {
+    "6258951689438": {
+      "barcode": "6258951689438",
+      "product_name": "Guacamole bio",
+      "store": "delhaize.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:28:54.211079+00:00"
+    }
+  }
+}

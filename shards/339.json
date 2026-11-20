@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "339",
   "count": 2,
-  "updated_at": "2026-11-20T18:14:56.792292+00:00",
+  "updated_at": "2026-11-20T18:28:54.381784+00:00",
   "products": {
     "3392590205413": {
       "barcode": "3392590205413",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:14:56.543829+00:00"
+      "updated_at": "2026-11-20T18:28:54.017410+00:00"
     },
     "3394230000136": {
       "barcode": "3394230000136",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:14:56.552072+00:00"
+      "updated_at": "2026-11-20T18:28:54.036120+00:00"
     }
   }
 }

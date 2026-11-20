@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "007",
-  "count": 6,
-  "updated_at": "2026-11-20T18:14:56.653663+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T18:28:54.220805+00:00",
   "products": {
     "0071475740012": {
       "barcode": "0071475740012",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:14:56.187911+00:00"
+      "updated_at": "2026-11-20T18:28:53.489373+00:00"
     },
     "0070177116088": {
       "barcode": "0070177116088",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:14:56.406109+00:00"
+      "updated_at": "2026-11-20T18:28:53.813560+00:00"
     },
     "0070177087784": {
       "barcode": "0070177087784",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:14:56.406205+00:00"
+      "updated_at": "2026-11-20T18:28:53.813672+00:00"
     },
     "0070177063597": {
       "barcode": "0070177063597",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:14:56.406299+00:00"
+      "updated_at": "2026-11-20T18:28:53.813765+00:00"
     },
     "0070177051174": {
       "barcode": "0070177051174",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:14:56.406622+00:00"
+      "updated_at": "2026-11-20T18:28:53.814055+00:00"
     },
     "0070734529481": {
       "barcode": "0070734529481",
@@ -119,7 +119,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:14:56.406793+00:00"
+      "updated_at": "2026-11-20T18:28:53.814240+00:00"
+    },
+    "00724289": {
+      "barcode": "00724289",
+      "product_name": "Brownies",
+      "store": "delhaize.be",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sucre, huile de colza, oeufs, farine de _blé_, chocolat 10% (sucre, pâte de cacao), morceaux de chocolat 10% (sucre, pâte de cacao, beurre de cacao, émulsifiant (_lécithine de soja_), arôme naturel de vanille), sirop de glucose, stabilisant (glycérol), poudre de cacao maigre, sirop de glucose-fructose, farine de mais, sel, poudre à lever (carbonate de sodium), arôme, émulsifiant (lécithine de colza), conservateur (sorbate de potassium).",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:28:54.214484+00:00"
     }
   }
 }

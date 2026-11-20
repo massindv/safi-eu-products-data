@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "349",
-  "count": 2,
-  "updated_at": "2026-11-20T18:14:56.812621+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T18:28:54.384935+00:00",
   "products": {
     "3498425562055": {
       "barcode": "3498425562055",
@@ -24,7 +24,7 @@
       ],
       "reason": "Contains carmine / E120 / karmijnzuur insect colorant; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:14:56.501320+00:00"
+      "updated_at": "2026-11-20T18:28:53.942037+00:00"
     },
     "3493373037013": {
       "barcode": "3493373037013",
@@ -42,7 +42,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:14:56.611009+00:00"
+      "updated_at": "2026-11-20T18:28:54.132628+00:00"
+    },
+    "3492590100012": {
+      "barcode": "3492590100012",
+      "product_name": "chips de crevette",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "tapioca flour, peeled shrimp (20%), sugar, salt, garlic, flavor enhancer: sodium monoglutamate, acidifiers: sodium bicarbonate and citric acid, frying oil: sunflower oil,",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:28:54.192266+00:00"
     }
   }
 }

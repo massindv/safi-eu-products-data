@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "104",
   "count": 1,
-  "updated_at": "2026-11-20T18:14:56.690083+00:00",
+  "updated_at": "2026-11-20T18:28:54.256653+00:00",
   "products": {
     "10418615": {
       "barcode": "10418615",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:14:56.365975+00:00"
+      "updated_at": "2026-11-20T18:28:53.754223+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "013",
   "count": 1,
-  "updated_at": "2026-11-20T18:14:56.655101+00:00",
+  "updated_at": "2026-11-20T18:28:54.224385+00:00",
   "products": {
     "01365979": {
       "barcode": "01365979",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T18:14:56.530752+00:00"
+      "updated_at": "2026-11-20T18:28:53.989428+00:00"
     }
   }
 }
