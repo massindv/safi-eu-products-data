@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "858",
+  "count": 1,
+  "updated_at": "2026-11-20T16:47:59.267570+00:00",
+  "products": {
+    "8589155872905": {
+      "barcode": "8589155872905",
+      "product_name": "AH frei von Laktose Magerer Quark",
+      "store": "ah.nl",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.013598+00:00"
+    }
+  }
+}

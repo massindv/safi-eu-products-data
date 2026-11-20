@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "074",
-  "count": 4,
-  "updated_at": "2026-11-20T16:32:35.260231+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:47:59.047725+00:00",
   "products": {
     "0747546698062": {
       "barcode": "0747546698062",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.074238+00:00"
+      "updated_at": "2026-11-20T16:47:58.813565+00:00"
     },
     "0748246320253": {
       "barcode": "0748246320253",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.131465+00:00"
+      "updated_at": "2026-11-20T16:47:58.888195+00:00"
     },
     "0748051600182": {
       "barcode": "0748051600182",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:32:35.151812+00:00"
+      "updated_at": "2026-11-20T16:47:58.909349+00:00"
     },
     "0748946822286": {
       "barcode": "0748946822286",
@@ -74,7 +74,45 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:32:35.154562+00:00"
+      "updated_at": "2026-11-20T16:47:58.911190+00:00"
+    },
+    "0746007956017": {
+      "barcode": "0746007956017",
+      "product_name": "Soja om mee te koken",
+      "store": "ah.nl",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Water, 15% zonnebloemolie, 6% sojaboon, glucosestroop, verdikkingsmiddel (E410), zout.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:58.990249+00:00"
+    },
+    "0745307090193": {
+      "barcode": "0745307090193",
+      "product_name": "Smeerkaas naturel 20+",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "melk, water, smeltzout (kaliumfosfaat [E340], polyfosfaat [E452], trifosfaat [E451], difosfaat [E450], natriumcitraat [E331]), weipoeder, melkeiwit, zout, mageremelkpoeder, zuursel, stremsel, kleurstof (caroteen [E160a]).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.001117+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "311",
-  "count": 2,
-  "updated_at": "2026-11-20T16:32:35.330136+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:47:59.114939+00:00",
   "products": {
     "3116430208941": {
       "barcode": "3116430208941",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.057867+00:00"
+      "updated_at": "2026-11-20T16:47:58.790007+00:00"
     },
     "3112301101946": {
       "barcode": "3112301101946",
@@ -38,7 +38,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:32:35.245446+00:00"
+      "updated_at": "2026-11-20T16:47:58.988141+00:00"
+    },
+    "3116740030614": {
+      "barcode": "3116740030614",
+      "product_name": "180G SCOUBIFIZZ LUTTI",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sucre, Sirop de glucose-fructose, Farine de BLE, Acidifiants (Acide malique, Acide citrique), Dextrose, Huile végétale (Palme), Arômes, Colorants (Curcumine, Bleu patenté V, Bleu brillant FCF, Anthocyanes), Antioxydants (Extrait riche en tocopherols, Acide ascorbique).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.018927+00:00"
     }
   }
 }

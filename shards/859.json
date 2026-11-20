@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "859",
-  "count": 3,
-  "updated_at": "2026-11-20T16:32:35.493754+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:47:59.268149+00:00",
   "products": {
     "8590421620854": {
       "barcode": "8590421620854",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:32:34.914289+00:00"
+      "updated_at": "2026-11-20T16:47:58.607157+00:00"
     },
     "8593894911856": {
       "barcode": "8593894911856",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.134195+00:00"
+      "updated_at": "2026-11-20T16:47:58.891675+00:00"
     },
     "8590421621165": {
       "barcode": "8590421621165",
@@ -65,7 +65,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.208281+00:00"
+      "updated_at": "2026-11-20T16:47:58.951538+00:00"
+    },
+    "8590471412058": {
+      "barcode": "8590471412058",
+      "product_name": "Pain het brood céréales",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.016466+00:00"
     }
   }
 }

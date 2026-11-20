@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "348",
-  "count": 1,
-  "updated_at": "2026-11-20T16:32:35.363098+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:47:59.139858+00:00",
   "products": {
     "3483981001049": {
       "barcode": "3483981001049",
@@ -20,7 +20,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.207118+00:00"
+      "updated_at": "2026-11-20T16:47:58.950533+00:00"
+    },
+    "3480341000780": {
+      "barcode": "3480341000780",
+      "product_name": "Carré Frais - format familial",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "lait écrémé et crème (origine France) sel, ferments lactiques,",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:58.994737+00:00"
+    },
+    "3480341001114": {
+      "barcode": "3480341001114",
+      "product_name": "Suprême de bresse bleu (Offre gourmande)",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_Lait_ pasteurisé (origine France), _crème_ (origine France), sel, ferments.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:58.996715+00:00"
     }
   }
 }

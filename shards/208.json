@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "208",
-  "count": 5,
-  "updated_at": "2026-11-20T16:32:35.279917+00:00",
+  "count": 8,
+  "updated_at": "2026-11-20T16:47:59.071124+00:00",
   "products": {
     "2082310002897": {
       "barcode": "2082310002897",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.045599+00:00"
+      "updated_at": "2026-11-20T16:47:58.778962+00:00"
     },
     "2081240001857": {
       "barcode": "2081240001857",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.045722+00:00"
+      "updated_at": "2026-11-20T16:47:58.779030+00:00"
     },
     "2084240001698": {
       "barcode": "2084240001698",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.045752+00:00"
+      "updated_at": "2026-11-20T16:47:58.779045+00:00"
     },
     "2082550001995": {
       "barcode": "2082550001995",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.046086+00:00"
+      "updated_at": "2026-11-20T16:47:58.779221+00:00"
     },
     "2085850002693": {
       "barcode": "2085850002693",
@@ -92,7 +92,61 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.046129+00:00"
+      "updated_at": "2026-11-20T16:47:58.779243+00:00"
+    },
+    "2087400002450": {
+      "barcode": "2087400002450",
+      "product_name": "Pain Bio Epeautre 500gr",
+      "store": "delhaize.be",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:47:59.018196+00:00"
+    },
+    "2083520002455": {
+      "barcode": "2083520002455",
+      "product_name": "Bio pain trio",
+      "store": "delhaize.be",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:47:59.018375+00:00"
+    },
+    "2082250002452": {
+      "barcode": "2082250002452",
+      "product_name": "Pain bio Alpha",
+      "store": "delhaize.be",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:47:59.018420+00:00"
     }
   }
 }

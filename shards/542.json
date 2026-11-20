@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "542",
-  "count": 10,
-  "updated_at": "2026-11-20T16:32:35.464667+00:00",
+  "count": 11,
+  "updated_at": "2026-11-20T16:47:59.227432+00:00",
   "products": {
     "5425021250022": {
       "barcode": "5425021250022",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:34.996328+00:00"
+      "updated_at": "2026-11-20T16:47:58.704787+00:00"
     },
     "5425016330029": {
       "barcode": "5425016330029",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.009392+00:00"
+      "updated_at": "2026-11-20T16:47:58.729902+00:00"
     },
     "5420019834253": {
       "barcode": "5420019834253",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.046607+00:00"
+      "updated_at": "2026-11-20T16:47:58.779481+00:00"
     },
     "5425028540096": {
       "barcode": "5425028540096",
@@ -76,7 +76,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:32:35.070341+00:00"
+      "updated_at": "2026-11-20T16:47:58.807038+00:00"
     },
     "5420051400454": {
       "barcode": "5420051400454",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:35.084944+00:00"
+      "updated_at": "2026-11-20T16:47:58.827895+00:00"
     },
     "5425020161503": {
       "barcode": "5425020161503",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.115669+00:00"
+      "updated_at": "2026-11-20T16:47:58.873351+00:00"
     },
     "5425031410034": {
       "barcode": "5425031410034",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.190030+00:00"
+      "updated_at": "2026-11-20T16:47:58.936710+00:00"
     },
     "5425027280115": {
       "barcode": "5425027280115",
@@ -148,7 +148,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:35.195204+00:00"
+      "updated_at": "2026-11-20T16:47:58.941070+00:00"
     },
     "5425024150367": {
       "barcode": "5425024150367",
@@ -168,7 +168,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.229743+00:00"
+      "updated_at": "2026-11-20T16:47:58.972313+00:00"
     },
     "5425035760012": {
       "barcode": "5425035760012",
@@ -186,7 +186,27 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.229774+00:00"
+      "updated_at": "2026-11-20T16:47:58.972341+00:00"
+    },
+    "5425021496437": {
+      "barcode": "5425021496437",
+      "product_name": "FLANDRIEN kaas extra gerijpt",
+      "store": "colruyt.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "gepasteuriseerde koemelk, zout, zuursel, dierlijk stremsel, converveermiddel: natriumnitraat, lysozym (ei), kleurstof: annatto E160b(ii),",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:47:58.997915+00:00"
     }
   }
 }

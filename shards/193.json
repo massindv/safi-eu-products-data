@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "193",
+  "count": 1,
+  "updated_at": "2026-11-20T16:47:59.066255+00:00",
+  "products": {
+    "1938699604676": {
+      "barcode": "1938699604676",
+      "product_name": "EU Product",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.000687+00:00"
+    }
+  }
+}

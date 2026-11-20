@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "361",
+  "count": 1,
+  "updated_at": "2026-11-20T16:47:59.157564+00:00",
+  "products": {
+    "3614070096282": {
+      "barcode": "3614070096282",
+      "product_name": "Pure Chèvre",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:47:59.004149+00:00"
+    }
+  }
+}

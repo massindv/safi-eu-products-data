@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "227",
-  "count": 10,
-  "updated_at": "2026-11-20T16:32:35.289178+00:00",
+  "count": 19,
+  "updated_at": "2026-11-20T16:47:59.080760+00:00",
   "products": {
     "2277891001180": {
       "barcode": "2277891001180",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:32:35.040443+00:00"
+      "updated_at": "2026-11-20T16:47:58.774067+00:00"
     },
     "2273988001248": {
       "barcode": "2273988001248",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:32:35.041761+00:00"
+      "updated_at": "2026-11-20T16:47:58.775162+00:00"
     },
     "2274244001095": {
       "barcode": "2274244001095",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.043872+00:00"
+      "updated_at": "2026-11-20T16:47:58.777957+00:00"
     },
     "2271954002855": {
       "barcode": "2271954002855",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.044654+00:00"
+      "updated_at": "2026-11-20T16:47:58.778426+00:00"
     },
     "2273709002189": {
       "barcode": "2273709002189",
@@ -94,7 +94,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.070996+00:00"
+      "updated_at": "2026-11-20T16:47:58.807792+00:00"
     },
     "2271148001909": {
       "barcode": "2271148001909",
@@ -114,7 +114,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.074181+00:00"
+      "updated_at": "2026-11-20T16:47:58.813454+00:00"
     },
     "2275278003253": {
       "barcode": "2275278003253",
@@ -132,7 +132,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.074339+00:00"
+      "updated_at": "2026-11-20T16:47:58.813742+00:00"
     },
     "2278881002996": {
       "barcode": "2278881002996",
@@ -152,7 +152,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:32:35.127111+00:00"
+      "updated_at": "2026-11-20T16:47:58.882879+00:00"
     },
     "2271715001585": {
       "barcode": "2271715001585",
@@ -170,7 +170,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:32:35.129260+00:00"
+      "updated_at": "2026-11-20T16:47:58.885187+00:00"
     },
     "2277591003453": {
       "barcode": "2277591003453",
@@ -190,7 +190,169 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:32:35.129972+00:00"
+      "updated_at": "2026-11-20T16:47:58.886317+00:00"
+    },
+    "2276222001998": {
+      "barcode": "2276222001998",
+      "product_name": "Nederlands rond volkoren heel",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.016929+00:00"
+    },
+    "2275423001899": {
+      "barcode": "2275423001899",
+      "product_name": "AH Ciabatta",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017159+00:00"
+    },
+    "2274252009991": {
+      "barcode": "2274252009991",
+      "product_name": "Half wit tarwe-maïsbrood",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017213+00:00"
+    },
+    "2274259001158": {
+      "barcode": "2274259001158",
+      "product_name": "Pain  au maïs",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017264+00:00"
+    },
+    "2276621002992": {
+      "barcode": "2276621002992",
+      "product_name": "Liefde en Passie Desem Pompoen brood",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017433+00:00"
+    },
+    "2274251001255": {
+      "barcode": "2274251001255",
+      "product_name": "Bakkers brood",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017453+00:00"
+    },
+    "2272678001490": {
+      "barcode": "2272678001490",
+      "product_name": "Stevig speltbrood",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017472+00:00"
+    },
+    "2275689000902": {
+      "barcode": "2275689000902",
+      "product_name": "Volkoren muesli bol",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017804+00:00"
+    },
+    "2270948001492": {
+      "barcode": "2270948001492",
+      "product_name": "Bakkers Brood",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017892+00:00"
     }
   }
 }

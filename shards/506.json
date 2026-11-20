@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "506",
-  "count": 6,
-  "updated_at": "2026-11-20T16:32:35.402668+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T16:47:59.172769+00:00",
   "products": {
     "5060466511880": {
       "barcode": "5060466511880",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:32:34.912778+00:00"
+      "updated_at": "2026-11-20T16:47:58.601253+00:00"
     },
     "5060139432993": {
       "barcode": "5060139432993",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:32:34.982940+00:00"
+      "updated_at": "2026-11-20T16:47:58.691201+00:00"
     },
     "5061005130128": {
       "barcode": "5061005130128",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:32:34.983518+00:00"
+      "updated_at": "2026-11-20T16:47:58.691906+00:00"
     },
     "5060194790731": {
       "barcode": "5060194790731",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:34.991313+00:00"
+      "updated_at": "2026-11-20T16:47:58.697435+00:00"
     },
     "5060088707449": {
       "barcode": "5060088707449",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:32:35.067345+00:00"
+      "updated_at": "2026-11-20T16:47:58.801507+00:00"
     },
     "5060709280344": {
       "barcode": "5060709280344",
@@ -121,7 +121,25 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.116122+00:00"
+      "updated_at": "2026-11-20T16:47:58.874183+00:00"
+    },
+    "5060425284190": {
+      "barcode": "5060425284190",
+      "product_name": "Cheesecake Caramel Beurre Salé",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Crème (LAIT), fromage blanc (LAIT), sucre, farine de BLE enrichie [avec carbonate de calcium, acide folique, fer, niacine, thiamine], sucre roux (sucre, sirop de sucre), sirop de glucose-fructose, LAIT concentré sucré écrémé, LAIT concentré sucré, huile de palme, farine complète de BLE, sirop de glucose, OEUF, fécule de maïs, beurre (LAIT), beurre demi-sel (LAIT), huile de colza, sel, sirop de sucre inverti, pectines, poudres à lever (bicarbonate de sodium, bicarbonate d'ammonium), épaississant (agar-agar), conservateur (sorbate de potassium), correcteur d'acidité (acide citrique). Allergènes : voir les ingrédients en GRAS et CAPITALES. Peut contenir des fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.006459+00:00"
     }
   }
 }

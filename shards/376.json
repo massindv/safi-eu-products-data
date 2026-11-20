@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "376",
-  "count": 11,
-  "updated_at": "2026-11-20T16:32:35.381494+00:00",
+  "count": 19,
+  "updated_at": "2026-11-20T16:47:59.160703+00:00",
   "products": {
     "3760049790214": {
       "barcode": "3760049790214",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:34.968790+00:00"
+      "updated_at": "2026-11-20T16:47:58.674538+00:00"
     },
     "3760056265118": {
       "barcode": "3760056265118",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.009290+00:00"
+      "updated_at": "2026-11-20T16:47:58.729761+00:00"
     },
     "3760092218055": {
       "barcode": "3760092218055",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.045446+00:00"
+      "updated_at": "2026-11-20T16:47:58.778898+00:00"
     },
     "3760091726667": {
       "barcode": "3760091726667",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.050847+00:00"
+      "updated_at": "2026-11-20T16:47:58.783273+00:00"
     },
     "3760226261292": {
       "barcode": "3760226261292",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.169049+00:00"
+      "updated_at": "2026-11-20T16:47:58.923457+00:00"
     },
     "3760091725776": {
       "barcode": "3760091725776",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.196457+00:00"
+      "updated_at": "2026-11-20T16:47:58.941564+00:00"
     },
     "3760014287466": {
       "barcode": "3760014287466",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.224914+00:00"
+      "updated_at": "2026-11-20T16:47:58.968684+00:00"
     },
     "3760150610159": {
       "barcode": "3760150610159",
@@ -148,7 +148,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.224948+00:00"
+      "updated_at": "2026-11-20T16:47:58.968717+00:00"
     },
     "3760018890068": {
       "barcode": "3760018890068",
@@ -166,7 +166,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.225597+00:00"
+      "updated_at": "2026-11-20T16:47:58.969814+00:00"
     },
     "3760020505929": {
       "barcode": "3760020505929",
@@ -184,7 +184,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.243273+00:00"
+      "updated_at": "2026-11-20T16:47:58.985938+00:00"
     },
     "3760341070540": {
       "barcode": "3760341070540",
@@ -202,7 +202,151 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.243527+00:00"
+      "updated_at": "2026-11-20T16:47:58.986261+00:00"
+    },
+    "3760056265323": {
+      "barcode": "3760056265323",
+      "product_name": "stracchino",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait pasteurise, ferments lactiques, crème pasteurisée, sel, coagulant microbien.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:58.995421+00:00"
+    },
+    "3760134851103": {
+      "barcode": "3760134851103",
+      "product_name": "Camembert Fermier de la Clémendière",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:58.996329+00:00"
+    },
+    "3760280680862": {
+      "barcode": "3760280680862",
+      "product_name": "Fromage fondu au cheddar en tranches",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Fromages (dont cheddar 40%), lait pasteurisé, beurre, eau, lactosérum en poudre, sel de fonte : citrate de sodium, sel, correcteur d'acidité : acide citrique, colorant : bixine de rocou.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:58.996988+00:00"
+    },
+    "3760161340809": {
+      "barcode": "3760161340809",
+      "product_name": "Brie",
+      "store": "colruyt.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait de vache pasteurisé, ferments lactiques, sel.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:47:58.999496+00:00"
+    },
+    "3760056260083": {
+      "barcode": "3760056260083",
+      "product_name": "C. Azzura Gorgonzola Et Mascarpone",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:47:59.004194+00:00"
+    },
+    "3760043160624": {
+      "barcode": "3760043160624",
+      "product_name": "Le fromage blanc des limousins",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait pasteurisé origine France, crème pasteurisée origine France, ferments lactiques. 40% de matières grasses sur extrait sec, toit 7,9% de matières grasses dans le produit fini. contient plus de 82% d'humidité.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.006683+00:00"
+    },
+    "3760226260431": {
+      "barcode": "3760226260431",
+      "product_name": "Tablette de chocolat 75% de cacao",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Cacao*, sucre de canne*, beurre de cacao*, émulsifiant : lécithine de tournesol*, fleur de sel.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.018761+00:00"
+    },
+    "3760151013126": {
+      "barcode": "3760151013126",
+      "product_name": "Barres son avoine chocolat sans sucres ajoutés",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Son d'avoine (gluten) 20,4%, sirop d'oligofructose, chocolat noir de couverture au maltitol 18% (pâte de cacao, édulcorant: maltitol, beurre de cacao, émulsifiant: lecithine de soja, arôme naturel de vanille), protéines de lait (lécithine de tournesol), édulcorant: sirop de maltitol, extrudés de soja (isolat de protéines de soja, amidon de tapioca, sel), protéines de blé, stabilisants: glycérol et fibre d'acacia, huile de tournesol, émulsifiant : lecithine de soja, arôme naturel amande amère (fruits à coques) 0,2%, sel.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.019875+00:00"
     }
   }
 }

@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "211",
+  "count": 1,
+  "updated_at": "2026-11-20T16:47:59.072499+00:00",
+  "products": {
+    "2119210001351": {
+      "barcode": "2119210001351",
+      "product_name": "Tijger Wit",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017776+00:00"
+    }
+  }
+}

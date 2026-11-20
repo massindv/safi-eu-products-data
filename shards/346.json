@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "346",
-  "count": 1,
-  "updated_at": "2026-11-20T16:32:35.361327+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T16:47:59.138731+00:00",
   "products": {
     "3460410521729": {
       "barcode": "3460410521729",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.228728+00:00"
+      "updated_at": "2026-11-20T16:47:58.971565+00:00"
+    },
+    "34652343": {
+      "barcode": "34652343",
+      "product_name": "Fromage de chèvre en tranches",
+      "store": "colruyt.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait de chèvre pasteurisé, sel, ferments lactiques, coagulant microbien.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:47:58.999562+00:00"
     }
   }
 }

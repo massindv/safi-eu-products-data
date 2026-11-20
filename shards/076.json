@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "076",
   "count": 2,
-  "updated_at": "2026-11-20T16:32:35.260895+00:00",
+  "updated_at": "2026-11-20T16:47:59.052874+00:00",
   "products": {
     "0762111141798": {
       "barcode": "0762111141798",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.202623+00:00"
+      "updated_at": "2026-11-20T16:47:58.946452+00:00"
     },
     "0762111213709": {
       "barcode": "0762111213709",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.202658+00:00"
+      "updated_at": "2026-11-20T16:47:58.946501+00:00"
     }
   }
 }

@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "921",
+  "count": 1,
+  "updated_at": "2026-11-20T16:47:59.342658+00:00",
+  "products": {
+    "9215356007043306300000000078": {
+      "barcode": "9215356007043306300000000078",
+      "product_name": "pain de mie sans croûte nature",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.016395+00:00"
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "301",
-  "count": 3,
-  "updated_at": "2026-11-20T16:32:35.320692+00:00",
+  "count": 5,
+  "updated_at": "2026-11-20T16:47:59.101948+00:00",
   "products": {
     "3017760542890": {
       "barcode": "3017760542890",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:34.969656+00:00"
+      "updated_at": "2026-11-20T16:47:58.675023+00:00"
     },
     "3017760000062": {
       "barcode": "3017760000062",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.049505+00:00"
+      "updated_at": "2026-11-20T16:47:58.782171+00:00"
     },
     "3017760656092": {
       "barcode": "3017760656092",
@@ -56,7 +56,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.058268+00:00"
+      "updated_at": "2026-11-20T16:47:58.790586+00:00"
+    },
+    "3017760363969": {
+      "barcode": "3017760363969",
+      "product_name": "biscottes complete heudebert",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.016021+00:00"
+    },
+    "3017760667890": {
+      "barcode": "3017760667890",
+      "product_name": "Box Best of",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de blé 69%, huile végétales (palme, colza), emmental râpé séché 4%, sucre, sirop de glucose-fructose, sel, poudre à lever (carbonates d'ammonium, carbonates acide de sodium, phosphate de calcium), graines de sésame 1%, farine d'orge malté, lactosérum en poudre (de lait), levure sèche, graines de pavot, émulsifiant (lécithines de soja), gluten (de blé), arômes (contient céleri, blé), aromate, épice.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.021845+00:00"
     }
   }
 }

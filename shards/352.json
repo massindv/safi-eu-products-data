@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "352",
-  "count": 4,
-  "updated_at": "2026-11-20T16:32:35.364508+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:47:59.141790+00:00",
   "products": {
     "3523230028431": {
       "barcode": "3523230028431",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:34.998619+00:00"
+      "updated_at": "2026-11-20T16:47:58.708359+00:00"
     },
     "3523230052856": {
       "barcode": "3523230052856",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:34.999213+00:00"
+      "updated_at": "2026-11-20T16:47:58.709058+00:00"
     },
     "3523230039680": {
       "barcode": "3523230039680",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.021731+00:00"
+      "updated_at": "2026-11-20T16:47:58.750461+00:00"
     },
     "3523680438224": {
       "barcode": "3523680438224",
@@ -74,7 +74,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.243954+00:00"
+      "updated_at": "2026-11-20T16:47:58.986673+00:00"
+    },
+    "3529380014591": {
+      "barcode": "3529380014591",
+      "product_name": "Tomme blanche",
+      "store": "carrefour.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:47:59.004664+00:00"
+    },
+    "3529380014607": {
+      "barcode": "3529380014607",
+      "product_name": "pur Brebis",
+      "store": "carrefour.be",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:47:59.015091+00:00"
     }
   }
 }

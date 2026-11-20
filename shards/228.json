@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "228",
-  "count": 7,
-  "updated_at": "2026-11-20T16:32:35.292419+00:00",
+  "count": 10,
+  "updated_at": "2026-11-20T16:47:59.081488+00:00",
   "products": {
     "2287580001353": {
       "barcode": "2287580001353",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:34.985665+00:00"
+      "updated_at": "2026-11-20T16:47:58.694132+00:00"
     },
     "2287483001894": {
       "barcode": "2287483001894",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:32:35.043029+00:00"
+      "updated_at": "2026-11-20T16:47:58.777369+00:00"
     },
     "2286657002491": {
       "barcode": "2286657002491",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.043605+00:00"
+      "updated_at": "2026-11-20T16:47:58.777777+00:00"
     },
     "2289549001152": {
       "barcode": "2289549001152",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.043922+00:00"
+      "updated_at": "2026-11-20T16:47:58.777993+00:00"
     },
     "2289872001997": {
       "barcode": "2289872001997",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.044596+00:00"
+      "updated_at": "2026-11-20T16:47:58.778386+00:00"
     },
     "2289838003188": {
       "barcode": "2289838003188",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:32:35.129670+00:00"
+      "updated_at": "2026-11-20T16:47:58.885736+00:00"
     },
     "2289089001803": {
       "barcode": "2289089001803",
@@ -128,7 +128,61 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.132555+00:00"
+      "updated_at": "2026-11-20T16:47:58.890058+00:00"
+    },
+    "2287833001895": {
+      "barcode": "2287833001895",
+      "product_name": "Liefde & Passie Ciabatta",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017184+00:00"
+    },
+    "2280828000590": {
+      "barcode": "2280828000590",
+      "product_name": "Kaneelbroodje",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017280+00:00"
+    },
+    "2289885001199": {
+      "barcode": "2289885001199",
+      "product_name": "Les Pains Triomphe",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "tarwebloem, water, 4,6% zonnebloempit, 4,3% lijnzaad, tarwegluten, bakkersgist, gebroken rogge, moutmeel (gerst, tarwe), sojagrut, gejodeerd zout, tarwezetmeel, plantaardige olie (koolzaad, zonnebloem), roggezuurdesempoeder, 0,3% pompoenpit, meelverbeteraar (ascorbinezuur [E300]).",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017643+00:00"
     }
   }
 }

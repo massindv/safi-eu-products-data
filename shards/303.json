@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "303",
-  "count": 14,
-  "updated_at": "2026-11-20T16:32:35.324412+00:00",
+  "count": 17,
+  "updated_at": "2026-11-20T16:47:59.103488+00:00",
   "products": {
     "3038352910101": {
       "barcode": "3038352910101",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:34.958253+00:00"
+      "updated_at": "2026-11-20T16:47:58.653823+00:00"
     },
     "3033610061816": {
       "barcode": "3033610061816",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:34.967795+00:00"
+      "updated_at": "2026-11-20T16:47:58.673664+00:00"
     },
     "3033491270864": {
       "barcode": "3033491270864",
@@ -60,7 +60,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.020535+00:00"
+      "updated_at": "2026-11-20T16:47:58.749181+00:00"
     },
     "3033491916533": {
       "barcode": "3033491916533",
@@ -78,7 +78,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.021004+00:00"
+      "updated_at": "2026-11-20T16:47:58.749850+00:00"
     },
     "3033491432736": {
       "barcode": "3033491432736",
@@ -96,7 +96,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.021428+00:00"
+      "updated_at": "2026-11-20T16:47:58.750246+00:00"
     },
     "3033491214509": {
       "barcode": "3033491214509",
@@ -114,7 +114,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.022782+00:00"
+      "updated_at": "2026-11-20T16:47:58.751160+00:00"
     },
     "3033491729218": {
       "barcode": "3033491729218",
@@ -132,7 +132,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:32:35.023304+00:00"
+      "updated_at": "2026-11-20T16:47:58.751758+00:00"
     },
     "3033491915017": {
       "barcode": "3033491915017",
@@ -152,7 +152,7 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.028229+00:00"
+      "updated_at": "2026-11-20T16:47:58.759802+00:00"
     },
     "3038350015006": {
       "barcode": "3038350015006",
@@ -170,7 +170,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.087933+00:00"
+      "updated_at": "2026-11-20T16:47:58.830588+00:00"
     },
     "3038350013002": {
       "barcode": "3038350013002",
@@ -188,7 +188,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.088389+00:00"
+      "updated_at": "2026-11-20T16:47:58.830997+00:00"
     },
     "3038350014603": {
       "barcode": "3038350014603",
@@ -206,7 +206,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.090497+00:00"
+      "updated_at": "2026-11-20T16:47:58.833634+00:00"
     },
     "3038354199603": {
       "barcode": "3038354199603",
@@ -224,7 +224,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.094722+00:00"
+      "updated_at": "2026-11-20T16:47:58.843031+00:00"
     },
     "3033710074518": {
       "barcode": "3033710074518",
@@ -242,7 +242,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.195942+00:00"
+      "updated_at": "2026-11-20T16:47:58.941357+00:00"
     },
     "3033710076017": {
       "barcode": "3033710076017",
@@ -260,7 +260,65 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.196082+00:00"
+      "updated_at": "2026-11-20T16:47:58.941415+00:00"
+    },
+    "3033491279782": {
+      "barcode": "3033491279782",
+      "product_name": "Danette saveur chocolat noisette 125 g x 4",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "LAIT entier, LAIT écrémé reconstitué à base de LAIT en poudre, sucre, crème (LAIT), cacao maigre, chocolat (2%) (sucre, pâte de cacao, cacao maigre, émulsifiant (lécithine de soja), arôme), perméat de petit LAIT (lactosérum) en poudre, épaississants (amidon transformé: E1442, carraghénanes: E407), amidon, arôme",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.005621+00:00"
+    },
+    "3033490005221": {
+      "barcode": "3033490005221",
+      "product_name": "Mousse au chocolat",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "LAIT entier (67,5%), chocolat (9,4%) (pâte de cacao, sucre, émulsifiant (lécithine de SOJA), arôme), chocolat en poudre (6,6%) (cacao en poudre, sucre), sucre (6,5%), crème (LAIT) (6,1%), émulsifiant (esters lactiques des mono - et diglycérides d'acides gras (E 472b)), gélatine bovine, cacao maigre, épaississant (amidon tranformé de mais (E1442)), sel",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "gelatin"
+      ],
+      "reason": "Contains unverified gelatin source",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.007075+00:00"
+    },
+    "3033491010071": {
+      "barcode": "3033491010071",
+      "product_name": "Recette cremeuse aux fruits panache 125gx16",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "LAIT entier (Origine France) sucre (9,6% en moyenne) fruits (5,6%) (fraise, framboise, abricot, pêche) LAIT écrémé concentré ou en poudre (Origine UE) crème (LAIT) (Origine France) épaississants (amidons transformés / E1442, amidon transformé / E1422 (dans variété abricot), gomme guar / E412 (dans variétés fraise, abricot et pêche), carraghénanes / E407) sirop de glucose-fructose (0,7% en moyenne) (dans variétés fraise, abricot, pêche) arômes ferments lactiques (LAIT) jus de carotte noire concentré (dans variété framboise) colorants (extrait de paprika / E160c et riboflavine / E101 (dans variétés abricot et pêche), carmin / E120 (dans variété fraise)) correcteurs d'acidité (acide citrique / E330, citrate de sodium / E331)",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "insect_derived"
+      ],
+      "reason": "Contains carmine / E120 insect colorant",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.007816+00:00"
     }
   }
 }

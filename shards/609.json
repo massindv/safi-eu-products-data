@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "609",
-  "count": 1,
-  "updated_at": "2026-11-20T16:32:35.478230+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:47:59.233789+00:00",
   "products": {
     "6091091000301": {
       "barcode": "6091091000301",
@@ -22,7 +22,43 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.089456+00:00"
+      "updated_at": "2026-11-20T16:47:58.832021+00:00"
+    },
+    "6091303441113": {
+      "barcode": "6091303441113",
+      "product_name": "ANANAS : Ananas Queen Victoria pièce",
+      "store": "delhaize.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:47:58.990508+00:00"
+    },
+    "6095505771788": {
+      "barcode": "6095505771788",
+      "product_name": "Krokante radijsmix",
+      "store": "jumbo.com",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "radijs 85%, suiker 8%, palm olie 7%, zout",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:47:59.027458+00:00"
     }
   }
 }

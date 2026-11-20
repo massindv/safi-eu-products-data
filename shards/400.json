@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "400",
-  "count": 15,
-  "updated_at": "2026-11-20T16:32:35.382609+00:00",
+  "count": 18,
+  "updated_at": "2026-11-20T16:47:59.161880+00:00",
   "products": {
     "4002391377101": {
       "barcode": "4002391377101",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:32:34.927377+00:00"
+      "updated_at": "2026-11-20T16:47:58.633071+00:00"
     },
     "4002971288209": {
       "barcode": "4002971288209",
@@ -49,7 +49,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:32:35.025788+00:00"
+      "updated_at": "2026-11-20T16:47:58.755754+00:00"
     },
     "40084077": {
       "barcode": "40084077",
@@ -67,7 +67,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.076289+00:00"
+      "updated_at": "2026-11-20T16:47:58.816116+00:00"
     },
     "4002359011399": {
       "barcode": "4002359011399",
@@ -85,7 +85,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:32:35.092414+00:00"
+      "updated_at": "2026-11-20T16:47:58.836938+00:00"
     },
     "4002359017988": {
       "barcode": "4002359017988",
@@ -103,7 +103,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.095006+00:00"
+      "updated_at": "2026-11-20T16:47:58.843391+00:00"
     },
     "4002359002083": {
       "barcode": "4002359002083",
@@ -121,7 +121,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:32:35.100492+00:00"
+      "updated_at": "2026-11-20T16:47:58.856628+00:00"
     },
     "4002359003035": {
       "barcode": "4002359003035",
@@ -139,7 +139,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.116507+00:00"
+      "updated_at": "2026-11-20T16:47:58.875007+00:00"
     },
     "4002359654404": {
       "barcode": "4002359654404",
@@ -157,7 +157,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:35.116552+00:00"
+      "updated_at": "2026-11-20T16:47:58.875063+00:00"
     },
     "4002359661013": {
       "barcode": "4002359661013",
@@ -175,7 +175,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:35.117345+00:00"
+      "updated_at": "2026-11-20T16:47:58.875489+00:00"
     },
     "4001724026419": {
       "barcode": "4001724026419",
@@ -193,7 +193,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.189072+00:00"
+      "updated_at": "2026-11-20T16:47:58.935698+00:00"
     },
     "4002968001620": {
       "barcode": "4002968001620",
@@ -211,7 +211,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.221326+00:00"
+      "updated_at": "2026-11-20T16:47:58.965956+00:00"
     },
     "4003301077272": {
       "barcode": "4003301077272",
@@ -229,7 +229,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:32:35.226580+00:00"
+      "updated_at": "2026-11-20T16:47:58.970465+00:00"
     },
     "4000269101292": {
       "barcode": "4000269101292",
@@ -247,7 +247,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.229624+00:00"
+      "updated_at": "2026-11-20T16:47:58.972196+00:00"
     },
     "4008258065013": {
       "barcode": "4008258065013",
@@ -265,7 +265,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.243757+00:00"
+      "updated_at": "2026-11-20T16:47:58.986479+00:00"
     },
     "4008258130018": {
       "barcode": "4008258130018",
@@ -283,7 +283,61 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.244495+00:00"
+      "updated_at": "2026-11-20T16:47:58.987229+00:00"
+    },
+    "4005800204043": {
+      "barcode": "4005800204043",
+      "product_name": "Gouda",
+      "store": "colruyt.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:47:58.999600+00:00"
+    },
+    "4003490066279": {
+      "barcode": "4003490066279",
+      "product_name": "Houdbare halfvolle melk",
+      "store": "jumbo.com",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Houdbare halfvolle melk (UHT).",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:47:59.011189+00:00"
+    },
+    "4008258109007": {
+      "barcode": "4008258109007",
+      "product_name": "Geröstete Cashews ohne Salz",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Cashewkerne geröstet",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.021419+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "224",
-  "count": 7,
-  "updated_at": "2026-11-20T16:32:35.283954+00:00",
+  "count": 12,
+  "updated_at": "2026-11-20T16:47:59.078367+00:00",
   "products": {
     "2244429002698": {
       "barcode": "2244429002698",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:34.985437+00:00"
+      "updated_at": "2026-11-20T16:47:58.693961+00:00"
     },
     "2246477002491": {
       "barcode": "2246477002491",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:32:35.043056+00:00"
+      "updated_at": "2026-11-20T16:47:58.777412+00:00"
     },
     "2244090003994": {
       "barcode": "2244090003994",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:32:35.043312+00:00"
+      "updated_at": "2026-11-20T16:47:58.777595+00:00"
     },
     "2244683001451": {
       "barcode": "2244683001451",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.043367+00:00"
+      "updated_at": "2026-11-20T16:47:58.777630+00:00"
     },
     "2244426002592": {
       "barcode": "2244426002592",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.044145+00:00"
+      "updated_at": "2026-11-20T16:47:58.778127+00:00"
     },
     "2244682001551": {
       "barcode": "2244682001551",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.044505+00:00"
+      "updated_at": "2026-11-20T16:47:58.778338+00:00"
     },
     "2244380001358": {
       "barcode": "2244380001358",
@@ -128,7 +128,97 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:32:35.044627+00:00"
+      "updated_at": "2026-11-20T16:47:58.778411+00:00"
+    },
+    "2242925000750": {
+      "barcode": "2242925000750",
+      "product_name": "Petit broden",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.016875+00:00"
+    },
+    "2247513001898": {
+      "barcode": "2247513001898",
+      "product_name": "Liefde & Passie stokbrood wit",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017365+00:00"
+    },
+    "2244861002997": {
+      "barcode": "2244861002997",
+      "product_name": "Speltbrood",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017488+00:00"
+    },
+    "2244891002554": {
+      "barcode": "2244891002554",
+      "product_name": "AH Vloer Meegranen",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017832+00:00"
+    },
+    "2244898002793": {
+      "barcode": "2244898002793",
+      "product_name": "AH Vloerbrood meergranen",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017872+00:00"
     }
   }
 }

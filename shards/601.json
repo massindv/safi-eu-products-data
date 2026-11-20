@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "601",
   "count": 1,
-  "updated_at": "2026-11-20T16:32:35.477838+00:00",
+  "updated_at": "2026-11-20T16:47:59.233334+00:00",
   "products": {
     "60141830": {
       "barcode": "60141830",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.207849+00:00"
+      "updated_at": "2026-11-20T16:47:58.951132+00:00"
     }
   }
 }

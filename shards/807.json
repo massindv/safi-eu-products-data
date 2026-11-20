@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "807",
   "count": 11,
-  "updated_at": "2026-11-20T16:32:35.491355+00:00",
+  "updated_at": "2026-11-20T16:47:59.257724+00:00",
   "products": {
     "8076800195057": {
       "barcode": "8076800195057",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:32:34.915616+00:00"
+      "updated_at": "2026-11-20T16:47:58.610649+00:00"
     },
     "8076800195019": {
       "barcode": "8076800195019",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:32:34.915788+00:00"
+      "updated_at": "2026-11-20T16:47:58.610896+00:00"
     },
     "8076809513722": {
       "barcode": "8076809513722",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:34.970457+00:00"
+      "updated_at": "2026-11-20T16:47:58.675400+00:00"
     },
     "8076809512268": {
       "barcode": "8076809512268",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:34.988978+00:00"
+      "updated_at": "2026-11-20T16:47:58.696115+00:00"
     },
     "8076808150072": {
       "barcode": "8076808150072",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:34.989173+00:00"
+      "updated_at": "2026-11-20T16:47:58.696187+00:00"
     },
     "8076808050440": {
       "barcode": "8076808050440",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:34.989295+00:00"
+      "updated_at": "2026-11-20T16:47:58.696219+00:00"
     },
     "8076809573252": {
       "barcode": "8076809573252",
@@ -146,7 +146,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.049863+00:00"
+      "updated_at": "2026-11-20T16:47:58.782462+00:00"
     },
     "80761761": {
       "barcode": "80761761",
@@ -164,7 +164,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.053134+00:00"
+      "updated_at": "2026-11-20T16:47:58.784276+00:00"
     },
     "8076800105735": {
       "barcode": "8076800105735",
@@ -182,7 +182,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.086170+00:00"
+      "updated_at": "2026-11-20T16:47:58.829050+00:00"
     },
     "8076809583367": {
       "barcode": "8076809583367",
@@ -200,7 +200,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.088090+00:00"
+      "updated_at": "2026-11-20T16:47:58.830718+00:00"
     },
     "8076809570596": {
       "barcode": "8076809570596",
@@ -218,7 +218,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.094973+00:00"
+      "updated_at": "2026-11-20T16:47:58.843349+00:00"
     }
   }
 }

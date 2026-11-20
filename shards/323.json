@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "323",
-  "count": 1,
-  "updated_at": "2026-11-20T16:32:35.340465+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T16:47:59.123455+00:00",
   "products": {
     "3230890026379": {
       "barcode": "3230890026379",
@@ -22,7 +22,25 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:34.958700+00:00"
+      "updated_at": "2026-11-20T16:47:58.654800+00:00"
+    },
+    "3236795043909": {
+      "barcode": "3236795043909",
+      "product_name": "Liefde & Passie uniek desem",
+      "store": "ah.nl",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:47:59.017240+00:00"
     }
   }
 }

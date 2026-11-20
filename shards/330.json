@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "330",
-  "count": 5,
-  "updated_at": "2026-11-20T16:32:35.347954+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:47:59.132469+00:00",
   "products": {
     "3302740047367": {
       "barcode": "3302740047367",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:34.953198+00:00"
+      "updated_at": "2026-11-20T16:47:58.649528+00:00"
     },
     "3302740039362": {
       "barcode": "3302740039362",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:34.953483+00:00"
+      "updated_at": "2026-11-20T16:47:58.649669+00:00"
     },
     "3302740047411": {
       "barcode": "3302740047411",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:34.954157+00:00"
+      "updated_at": "2026-11-20T16:47:58.650076+00:00"
     },
     "3302740047336": {
       "barcode": "3302740047336",
@@ -82,7 +82,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:34.954329+00:00"
+      "updated_at": "2026-11-20T16:47:58.650209+00:00"
     },
     "3305510131808": {
       "barcode": "3305510131808",
@@ -102,7 +102,25 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.000564+00:00"
+      "updated_at": "2026-11-20T16:47:58.710590+00:00"
+    },
+    "3305510066643": {
+      "barcode": "3305510066643",
+      "product_name": "Crottin de chèvre",
+      "store": "colruyt.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait de chèvre pasteurisé, préparation de protéines d'origines laitières, sel, ferments. A conser - ver entre +0°C et +7°C.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:47:58.998381+00:00"
     }
   }
 }

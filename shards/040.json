@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "040",
+  "count": 1,
+  "updated_at": "2026-11-20T16:47:59.043175+00:00",
+  "products": {
+    "04075288": {
+      "barcode": "04075288",
+      "product_name": "Pain azyme",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.016429+00:00"
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "325",
-  "count": 7,
-  "updated_at": "2026-11-20T16:32:35.344255+00:00",
+  "count": 9,
+  "updated_at": "2026-11-20T16:47:59.128392+00:00",
   "products": {
     "3256540000704": {
       "barcode": "3256540000704",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.029664+00:00"
+      "updated_at": "2026-11-20T16:47:58.761375+00:00"
     },
     "3250391816453": {
       "barcode": "3250391816453",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.035418+00:00"
+      "updated_at": "2026-11-20T16:47:58.765594+00:00"
     },
     "3251490320001": {
       "barcode": "3251490320001",
@@ -60,7 +60,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.048001+00:00"
+      "updated_at": "2026-11-20T16:47:58.780690+00:00"
     },
     "3251510550005": {
       "barcode": "3251510550005",
@@ -78,7 +78,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.165516+00:00"
+      "updated_at": "2026-11-20T16:47:58.920785+00:00"
     },
     "3251092103736": {
       "barcode": "3251092103736",
@@ -96,7 +96,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:35.230547+00:00"
+      "updated_at": "2026-11-20T16:47:58.973663+00:00"
     },
     "3251092200664": {
       "barcode": "3251092200664",
@@ -114,7 +114,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:35.230820+00:00"
+      "updated_at": "2026-11-20T16:47:58.974041+00:00"
     },
     "3251092106249": {
       "barcode": "3251092106249",
@@ -134,7 +134,47 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:35.230849+00:00"
+      "updated_at": "2026-11-20T16:47:58.974072+00:00"
+    },
+    "3254550030193": {
+      "barcode": "3254550030193",
+      "product_name": "Camembert au lait cru",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_Lait_ de vache microfiltré - sel - ferments lactiques - présure",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:58.994879+00:00"
+    },
+    "3256540003491": {
+      "barcode": "3256540003491",
+      "product_name": "Gâche tranchée aux œufs frais, beurre et crème fraîche",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLE 45% - Sucre - OEUFS frais* - Levain 9% (farine de BLE 6%, eau, sel) - BEURRE pâtissier - CREME fraîche 5% - Levure - Eau de vie de vin - Emulsifiant : mono et diglycérides d'acides gras - Sel - Extrait de carotte - GLUTEN de BLE - Arôme naturel - Protéines de LAIT. * Œufs de poules élevées au sol.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.021367+00:00"
     }
   }
 }

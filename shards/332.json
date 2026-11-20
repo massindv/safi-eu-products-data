@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "332",
-  "count": 3,
-  "updated_at": "2026-11-20T16:32:35.348779+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:47:59.133290+00:00",
   "products": {
     "3329757003926": {
       "barcode": "3329757003926",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:34.994761+00:00"
+      "updated_at": "2026-11-20T16:47:58.701697+00:00"
     },
     "3329770051072": {
       "barcode": "3329770051072",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.020062+00:00"
+      "updated_at": "2026-11-20T16:47:58.748695+00:00"
     },
     "3329480013605": {
       "barcode": "3329480013605",
@@ -56,7 +56,61 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.140985+00:00"
+      "updated_at": "2026-11-20T16:47:58.897317+00:00"
+    },
+    "3329770051201": {
+      "barcode": "3329770051201",
+      "product_name": "Fromage Blanc",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_Lait_ écrémé et crème pasteurisés, concentré des minéraux du lait et protéines de lait, ferments lactiques, vitamine D, contient plus de 82 % d'humidité",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:58.997359+00:00"
+    },
+    "3329770063198": {
+      "barcode": "3329770063198",
+      "product_name": "EU Product",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "LAIT écrémé à base de poudre de LAIT - Sucre 7,9% - CREME – Arôme naturel – Concentré des minéraux du LAIT – Ferments LACTIQUES (LAIT) – Vitamine D. LAIT D'ORIGINE FRANCE.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:47:59.008563+00:00"
+    },
+    "3329770064249": {
+      "barcode": "3329770064249",
+      "product_name": "Panier de Yoplait 0%",
+      "store": "colruyt.be",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Yaourt (Lait écrémé à base de poudre de lait-Lait écrémé - Poudre de lait écrémé - Ferments lactiques (lait)) - Fruits 8% : Poire ou Abricot ou Pêche ou Ananas - Amidon transformé de maïs - Jus de citron - Arômes naturels - Epaississant : Carraghénanes - Edulcorants Aspartame, Acesulfame K-Concentré des minéraux du lait. Lait d'origine France. Contient une source de phénylalanine.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:47:59.009070+00:00"
     }
   }
 }

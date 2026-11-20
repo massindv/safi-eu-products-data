@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "307",
-  "count": 6,
-  "updated_at": "2026-11-20T16:32:35.328080+00:00",
+  "count": 8,
+  "updated_at": "2026-11-20T16:47:59.110108+00:00",
   "products": {
     "3073781161298": {
       "barcode": "3073781161298",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:34.989778+00:00"
+      "updated_at": "2026-11-20T16:47:58.696401+00:00"
     },
     "3073781028065": {
       "barcode": "3073781028065",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:32:35.002885+00:00"
+      "updated_at": "2026-11-20T16:47:58.714491+00:00"
     },
     "3073781099058": {
       "barcode": "3073781099058",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.010123+00:00"
+      "updated_at": "2026-11-20T16:47:58.730852+00:00"
     },
     "3073781059229": {
       "barcode": "3073781059229",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:32:35.010637+00:00"
+      "updated_at": "2026-11-20T16:47:58.731860+00:00"
     },
     "3073781097481": {
       "barcode": "3073781097481",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:35.011062+00:00"
+      "updated_at": "2026-11-20T16:47:58.732495+00:00"
     },
     "3073190101014": {
       "barcode": "3073190101014",
@@ -110,7 +110,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:32:35.091021+00:00"
+      "updated_at": "2026-11-20T16:47:58.834537+00:00"
+    },
+    "3073781162943": {
+      "barcode": "3073781162943",
+      "product_name": "Abdij Maredsous",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Light* Fromage fondu allégé en matières grasses/Magere smeltkaas Ingrédients: eau, fromages, lait écrémé en poudre, protéines de lait, concentré lactique laitier, sels de fonte: polyphosphates, triphosphates, beurre, arôme naturel. Ingrediënten: water, kazen, magere melkpoeder, melkeiwitten, zuur weiconcentraat, smeltzouten: polyfosfaten, trifosfaten, boter, natuurlijk aroma.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:47:59.002196+00:00"
+    },
+    "3073781091557": {
+      "barcode": "3073781091557",
+      "product_name": "Maredsous au fromage blanc",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:47:59.004098+00:00"
     }
   }
 }

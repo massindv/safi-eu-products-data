@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "295",
-  "count": 4,
-  "updated_at": "2026-11-20T16:32:35.318562+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:47:59.100642+00:00",
   "products": {
     "2951726703134": {
       "barcode": "2951726703134",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:35.011736+00:00"
+      "updated_at": "2026-11-20T16:47:58.733738+00:00"
     },
     "2952702601987": {
       "barcode": "2952702601987",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:35.019915+00:00"
+      "updated_at": "2026-11-20T16:47:58.748524+00:00"
     },
     "2953428202649": {
       "barcode": "2953428202649",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:35.019940+00:00"
+      "updated_at": "2026-11-20T16:47:58.748565+00:00"
     },
     "2952853007737": {
       "barcode": "2952853007737",
@@ -76,7 +76,47 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:32:35.242410+00:00"
+      "updated_at": "2026-11-20T16:47:58.984994+00:00"
+    },
+    "2956147803906": {
+      "barcode": "2956147803906",
+      "product_name": "Flandrien",
+      "store": "carrefour.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "LAIT pasteurisé de vache,sel,présure animale, ferments lactiques,colorant: rocou, conservateur: E251, lysosyme (OEUF).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:47:59.005163+00:00"
+    },
+    "2951727803338": {
+      "barcode": "2951727803338",
+      "product_name": "Maredsous 4TR/SN",
+      "store": "carrefour.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "LAIT pasteurisé, protéines de LAIT, sel, ferments lactiques, présure microbienne. colorant: rocou.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:47:59.005266+00:00"
     }
   }
 }
