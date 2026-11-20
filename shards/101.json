@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "101",
+  "count": 1,
+  "updated_at": "2026-11-20T17:13:20.510563+00:00",
+  "products": {
+    "1011700001074": {
+      "barcode": "1011700001074",
+      "product_name": "Krüger Zitrone Teegetränk",
+      "store": "colruyt.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "sucre, dextrose, acide citrique, extrait de thé noir (1.28%), vitamine C, poudre de citron (maltodextrine, jus de citron concentré), arôme",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T17:13:20.476571+00:00"
+    }
+  }
+}

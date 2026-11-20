@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "020",
   "count": 4,
-  "updated_at": "2026-11-20T17:01:18.066636+00:00",
+  "updated_at": "2026-11-20T17:13:20.494265+00:00",
   "products": {
     "0204669011159": {
       "barcode": "0204669011159",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:01:17.770346+00:00"
+      "updated_at": "2026-11-20T17:13:20.166626+00:00"
     },
     "0204590096959": {
       "barcode": "0204590096959",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:01:17.951916+00:00"
+      "updated_at": "2026-11-20T17:13:20.340899+00:00"
     },
     "0202025012468": {
       "barcode": "0202025012468",
@@ -60,7 +60,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.989957+00:00"
+      "updated_at": "2026-11-20T17:13:20.378565+00:00"
     },
     "0202057005582": {
       "barcode": "0202057005582",
@@ -78,7 +78,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.990349+00:00"
+      "updated_at": "2026-11-20T17:13:20.378888+00:00"
     }
   }
 }

@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "185",
+  "count": 1,
+  "updated_at": "2026-11-20T17:13:20.516773+00:00",
+  "products": {
+    "18551594": {
+      "barcode": "18551594",
+      "product_name": "Low Sugar Ice Cream",
+      "store": "delhaize.be",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:13:20.469459+00:00"
+    }
+  }
+}

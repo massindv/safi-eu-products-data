@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "085",
-  "count": 1,
-  "updated_at": "2026-11-20T17:01:18.079012+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:13:20.509711+00:00",
   "products": {
     "0858014386722": {
       "barcode": "0858014386722",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:01:17.935619+00:00"
+      "updated_at": "2026-11-20T17:13:20.323502+00:00"
+    },
+    "08521125": {
+      "barcode": "08521125",
+      "product_name": "jus de citron",
+      "store": "colruyt.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jus de citron à base de concentré,\nconservateur [E224 (sulfites)]",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T17:13:20.477642+00:00"
     }
   }
 }

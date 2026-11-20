@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "015",
   "count": 1,
-  "updated_at": "2026-11-20T17:01:18.066085+00:00",
+  "updated_at": "2026-11-20T17:13:20.493709+00:00",
   "products": {
     "01510157": {
       "barcode": "01510157",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:01:17.964513+00:00"
+      "updated_at": "2026-11-20T17:13:20.350171+00:00"
     }
   }
 }

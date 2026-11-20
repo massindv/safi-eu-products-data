@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "366",
-  "count": 10,
-  "updated_at": "2026-11-20T17:01:18.149444+00:00",
+  "count": 14,
+  "updated_at": "2026-11-20T17:13:20.656565+00:00",
   "products": {
     "3661344221772": {
       "barcode": "3661344221772",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.755188+00:00"
+      "updated_at": "2026-11-20T17:13:20.152493+00:00"
     },
     "3664346306638": {
       "barcode": "3664346306638",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:01:17.808264+00:00"
+      "updated_at": "2026-11-20T17:13:20.205952+00:00"
     },
     "3664346306003": {
       "barcode": "3664346306003",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.932234+00:00"
+      "updated_at": "2026-11-20T17:13:20.320324+00:00"
     },
     "3660989144767": {
       "barcode": "3660989144767",
@@ -76,7 +76,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.943601+00:00"
+      "updated_at": "2026-11-20T17:13:20.330972+00:00"
     },
     "3660989211452": {
       "barcode": "3660989211452",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.944424+00:00"
+      "updated_at": "2026-11-20T17:13:20.332111+00:00"
     },
     "3660989063860": {
       "barcode": "3660989063860",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:01:17.947748+00:00"
+      "updated_at": "2026-11-20T17:13:20.335855+00:00"
     },
     "3660989246584": {
       "barcode": "3660989246584",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:01:17.947894+00:00"
+      "updated_at": "2026-11-20T17:13:20.336594+00:00"
     },
     "3660989103706": {
       "barcode": "3660989103706",
@@ -150,7 +150,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:01:17.947963+00:00"
+      "updated_at": "2026-11-20T17:13:20.336781+00:00"
     },
     "3661945250386": {
       "barcode": "3661945250386",
@@ -168,7 +168,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:18.020065+00:00"
+      "updated_at": "2026-11-20T17:13:20.410778+00:00"
     },
     "3660140929752": {
       "barcode": "3660140929752",
@@ -186,7 +186,81 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:18.033041+00:00"
+      "updated_at": "2026-11-20T17:13:20.427215+00:00"
+    },
+    "3660989230972": {
+      "barcode": "3660989230972",
+      "product_name": "la croix de la pérrière",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.484008+00:00"
+    },
+    "3660989172371": {
+      "barcode": "3660989172371",
+      "product_name": "Gewurtraminer Alsace",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.484297+00:00"
+    },
+    "3660989143531": {
+      "barcode": "3660989143531",
+      "product_name": "BIB rosé 5l Manadier costières de Nîmes",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "SL COSTIERES DE NIMES APELLATION COSTIERES DE NINES CONTROLEE ROSÉ 1,1 unité d'alcool 77821901 1215%40L PRODUIT DE FRANCE =10cl CONDITIONNE PAR AF 309422vOL LES CAVES SAINT-RONAIN AF contient : sulfites",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.484522+00:00"
+    },
+    "3660989094109": {
+      "barcode": "3660989094109",
+      "product_name": "reserve du bailly",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "raisin, sulfites",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.484718+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "933",
   "count": 1,
-  "updated_at": "2026-11-20T17:01:18.281115+00:00",
+  "updated_at": "2026-11-20T17:13:20.805968+00:00",
   "products": {
     "9338973002037": {
       "barcode": "9338973002037",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:01:17.947037+00:00"
+      "updated_at": "2026-11-20T17:13:20.334622+00:00"
     }
   }
 }

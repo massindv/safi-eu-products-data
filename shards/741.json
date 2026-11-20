@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "741",
+  "count": 1,
+  "updated_at": "2026-11-20T17:13:20.729453+00:00",
+  "products": {
+    "7412888716844": {
+      "barcode": "7412888716844",
+      "product_name": "Alpro Soya Fruits rouges",
+      "store": "carrefour.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "eau, sucre, fèves de soja décortiquées (5%), jus de fruits à base de jus concentrés (2,8%) (sureau noir, groseille rouge, fraise, pomme, framboise, mûre en proportion variable), correcteurs d'acidité (acide lac - tique, acide citrique), stabilisants (pec - tine, agar-agar), maltodextrine, orthophosphate tricalcique, jus de carotte à base de jus concentré, arômes, sel marin, vitamines (riboflavine (B2), B12, D2), arôme naturel.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T17:13:20.483316+00:00"
+    }
+  }
+}

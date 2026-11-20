@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "330",
-  "count": 7,
-  "updated_at": "2026-11-20T17:01:18.131327+00:00",
+  "count": 8,
+  "updated_at": "2026-11-20T17:13:20.621291+00:00",
   "products": {
     "3302740047367": {
       "barcode": "3302740047367",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.699439+00:00"
+      "updated_at": "2026-11-20T17:13:20.071399+00:00"
     },
     "3302740039362": {
       "barcode": "3302740039362",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.699557+00:00"
+      "updated_at": "2026-11-20T17:13:20.071522+00:00"
     },
     "3302740047411": {
       "barcode": "3302740047411",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.699898+00:00"
+      "updated_at": "2026-11-20T17:13:20.071876+00:00"
     },
     "3302740047336": {
       "barcode": "3302740047336",
@@ -82,7 +82,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.700007+00:00"
+      "updated_at": "2026-11-20T17:13:20.071987+00:00"
     },
     "3305510131808": {
       "barcode": "3305510131808",
@@ -102,7 +102,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.738440+00:00"
+      "updated_at": "2026-11-20T17:13:20.120198+00:00"
     },
     "3305510066643": {
       "barcode": "3305510066643",
@@ -120,7 +120,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:01:17.976758+00:00"
+      "updated_at": "2026-11-20T17:13:20.360972+00:00"
     },
     "3300081001208": {
       "barcode": "3300081001208",
@@ -138,7 +138,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:18.035530+00:00"
+      "updated_at": "2026-11-20T17:13:20.430141+00:00"
+    },
+    "3306380119514": {
+      "barcode": "3306380119514",
+      "product_name": "bordeaux",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.483696+00:00"
     }
   }
 }

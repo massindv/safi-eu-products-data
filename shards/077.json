@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "077",
-  "count": 2,
-  "updated_at": "2026-11-20T17:01:18.075254+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T17:13:20.508414+00:00",
   "products": {
     "07707315": {
       "barcode": "07707315",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.769244+00:00"
+      "updated_at": "2026-11-20T17:13:20.165669+00:00"
     },
     "0778946614956": {
       "barcode": "0778946614956",
@@ -38,7 +38,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:01:17.884754+00:00"
+      "updated_at": "2026-11-20T17:13:20.278092+00:00"
+    },
+    "0778739649097": {
+      "barcode": "0778739649097",
+      "product_name": "Iced coffee caramel macchiato",
+      "store": "jumbo.com",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T17:13:20.478497+00:00"
     }
   }
 }

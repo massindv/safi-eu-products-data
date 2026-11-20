@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "013",
+  "count": 1,
+  "updated_at": "2026-11-20T17:13:20.493408+00:00",
+  "products": {
+    "01365979": {
+      "barcode": "01365979",
+      "product_name": "Water",
+      "store": "ah.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T17:13:20.479241+00:00"
+    }
+  }
+}

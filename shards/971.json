@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "971",
   "count": 4,
-  "updated_at": "2026-11-20T17:01:18.283802+00:00",
+  "updated_at": "2026-11-20T17:13:20.807868+00:00",
   "products": {
     "9719052327157": {
       "barcode": "9719052327157",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:01:17.841545+00:00"
+      "updated_at": "2026-11-20T17:13:20.233379+00:00"
     },
     "9719052206155": {
       "barcode": "9719052206155",
@@ -40,7 +40,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:01:17.953531+00:00"
+      "updated_at": "2026-11-20T17:13:20.342358+00:00"
     },
     "9719052355297": {
       "barcode": "9719052355297",
@@ -60,7 +60,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:01:17.953570+00:00"
+      "updated_at": "2026-11-20T17:13:20.342392+00:00"
     },
     "9715301329194": {
       "barcode": "9715301329194",
@@ -78,7 +78,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:01:17.979062+00:00"
+      "updated_at": "2026-11-20T17:13:20.363460+00:00"
     }
   }
 }

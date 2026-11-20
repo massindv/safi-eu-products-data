@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "640",
+  "count": 1,
+  "updated_at": "2026-11-20T17:13:20.725323+00:00",
+  "products": {
+    "6400744409451": {
+      "barcode": "6400744409451",
+      "product_name": "Eau minérale naturelle pétillante",
+      "store": "colruyt.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau minérale naturelle, gaz carbonique.\r\n(source Oiselle, 59732 Saint Amand les Eaux, France).\r\nContient du fluor.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T17:13:20.477135+00:00"
+    }
+  }
+}

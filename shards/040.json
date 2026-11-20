@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "040",
-  "count": 1,
-  "updated_at": "2026-11-20T17:01:18.069954+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:13:20.497942+00:00",
   "products": {
     "04075288": {
       "barcode": "04075288",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.990304+00:00"
+      "updated_at": "2026-11-20T17:13:20.378845+00:00"
+    },
+    "0400101071667": {
+      "barcode": "0400101071667",
+      "product_name": "Caffe latte Macchiato",
+      "store": "carrefour.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T17:13:20.483524+00:00"
     }
   }
 }

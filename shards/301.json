@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "301",
-  "count": 5,
-  "updated_at": "2026-11-20T17:01:18.105724+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T17:13:20.572323+00:00",
   "products": {
     "3017760542890": {
       "barcode": "3017760542890",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.714338+00:00"
+      "updated_at": "2026-11-20T17:13:20.087803+00:00"
     },
     "3017760000062": {
       "barcode": "3017760000062",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.779328+00:00"
+      "updated_at": "2026-11-20T17:13:20.173990+00:00"
     },
     "3017760656092": {
       "barcode": "3017760656092",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.784964+00:00"
+      "updated_at": "2026-11-20T17:13:20.179092+00:00"
     },
     "3017760363969": {
       "barcode": "3017760363969",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.989925+00:00"
+      "updated_at": "2026-11-20T17:13:20.378534+00:00"
     },
     "3017760667890": {
       "barcode": "3017760667890",
@@ -92,7 +92,27 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.994735+00:00"
+      "updated_at": "2026-11-20T17:13:20.384028+00:00"
+    },
+    "3011938003411": {
+      "barcode": "3011938003411",
+      "product_name": "&quot;70CL Liqueur Black 20 °&quot;",
+      "store": "delhaize.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:13:20.485191+00:00"
     }
   }
 }

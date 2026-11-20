@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "740",
   "count": 5,
-  "updated_at": "2026-11-20T17:01:18.226052+00:00",
+  "updated_at": "2026-11-20T17:13:20.729095+00:00",
   "products": {
     "7404802573947": {
       "barcode": "7404802573947",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:01:17.770806+00:00"
+      "updated_at": "2026-11-20T17:13:20.166887+00:00"
     },
     "7404741022353": {
       "barcode": "7404741022353",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:01:17.879293+00:00"
+      "updated_at": "2026-11-20T17:13:20.272954+00:00"
     },
     "7404741224696": {
       "barcode": "7404741224696",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:01:17.898878+00:00"
+      "updated_at": "2026-11-20T17:13:20.293063+00:00"
     },
     "7404741124002": {
       "barcode": "7404741124002",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:01:17.934424+00:00"
+      "updated_at": "2026-11-20T17:13:20.322145+00:00"
     },
     "7404741331813": {
       "barcode": "7404741331813",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:01:18.045385+00:00"
+      "updated_at": "2026-11-20T17:13:20.444926+00:00"
     }
   }
 }

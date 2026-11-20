@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "318",
-  "count": 14,
-  "updated_at": "2026-11-20T17:01:18.115881+00:00",
+  "count": 23,
+  "updated_at": "2026-11-20T17:13:20.597439+00:00",
   "products": {
     "3180940079506": {
       "barcode": "3180940079506",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.701666+00:00"
+      "updated_at": "2026-11-20T17:13:20.073657+00:00"
     },
     "3182180001477": {
       "barcode": "3182180001477",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.714617+00:00"
+      "updated_at": "2026-11-20T17:13:20.088075+00:00"
     },
     "3182180001996": {
       "barcode": "3182180001996",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.715062+00:00"
+      "updated_at": "2026-11-20T17:13:20.088525+00:00"
     },
     "3182180002542": {
       "barcode": "3182180002542",
@@ -76,7 +76,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.717009+00:00"
+      "updated_at": "2026-11-20T17:13:20.090902+00:00"
     },
     "3184670001141": {
       "barcode": "3184670001141",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.736916+00:00"
+      "updated_at": "2026-11-20T17:13:20.117072+00:00"
     },
     "3184670010532": {
       "barcode": "3184670010532",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.737401+00:00"
+      "updated_at": "2026-11-20T17:13:20.118119+00:00"
     },
     "3184670010525": {
       "barcode": "3184670010525",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:01:17.747416+00:00"
+      "updated_at": "2026-11-20T17:13:20.134366+00:00"
     },
     "3187570015546": {
       "barcode": "3187570015546",
@@ -148,7 +148,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.913042+00:00"
+      "updated_at": "2026-11-20T17:13:20.308665+00:00"
     },
     "3184830028070": {
       "barcode": "3184830028070",
@@ -166,7 +166,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.913436+00:00"
+      "updated_at": "2026-11-20T17:13:20.308910+00:00"
     },
     "3184830027950": {
       "barcode": "3184830027950",
@@ -184,7 +184,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.913611+00:00"
+      "updated_at": "2026-11-20T17:13:20.308999+00:00"
     },
     "3184830049754": {
       "barcode": "3184830049754",
@@ -202,7 +202,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.913669+00:00"
+      "updated_at": "2026-11-20T17:13:20.309036+00:00"
     },
     "3184830028100": {
       "barcode": "3184830028100",
@@ -220,7 +220,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.914677+00:00"
+      "updated_at": "2026-11-20T17:13:20.309646+00:00"
     },
     "3181231001367": {
       "barcode": "3181231001367",
@@ -240,7 +240,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.949222+00:00"
+      "updated_at": "2026-11-20T17:13:20.338196+00:00"
     },
     "3184830067512": {
       "barcode": "3184830067512",
@@ -258,7 +258,171 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:18.020520+00:00"
+      "updated_at": "2026-11-20T17:13:20.411200+00:00"
+    },
+    "3184830028193": {
+      "barcode": "3184830028193",
+      "product_name": "30% ARABICA 70% ROBUSTA Café tonique et corsé",
+      "store": "carrefour.fr",
+      "category": "coffees",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.472457+00:00"
+    },
+    "3184830028049": {
+      "barcode": "3184830028049",
+      "product_name": "100% ARABICA café doux et aromatique",
+      "store": "carrefour.fr",
+      "category": "coffees",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.472491+00:00"
+    },
+    "3184830028131": {
+      "barcode": "3184830028131",
+      "product_name": "50% ARABICA 50% ROBUSTA Spécial traiteur",
+      "store": "carrefour.fr",
+      "category": "coffees",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.472524+00:00"
+    },
+    "3184830028162": {
+      "barcode": "3184830028162",
+      "product_name": "50% ARABICA 50% ROBUSTA Café équilibré",
+      "store": "carrefour.fr",
+      "category": "coffees",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.472557+00:00"
+    },
+    "3184830028223": {
+      "barcode": "3184830028223",
+      "product_name": "30% ARABICA 70% ROBUSTA Café tonique et corsé",
+      "store": "carrefour.fr",
+      "category": "coffees",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.472600+00:00"
+    },
+    "3184830028438": {
+      "barcode": "3184830028438",
+      "product_name": "Il caffe latino gout italien",
+      "store": "carrefour.fr",
+      "category": "coffees",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.472629+00:00"
+    },
+    "3184830067055": {
+      "barcode": "3184830067055",
+      "product_name": "100% ARABICA Café moulu expresso origine amérique latine issu du commerce équitable",
+      "store": "carrefour.fr",
+      "category": "coffees",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.472686+00:00"
+    },
+    "3184830067116": {
+      "barcode": "3184830067116",
+      "product_name": "100% ARABICA Café grains expresso origine Amérique Latine issu du commerce équitable",
+      "store": "carrefour.fr",
+      "category": "coffees",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.472741+00:00"
+    },
+    "3186127767723": {
+      "barcode": "3186127767723",
+      "product_name": "Vin blanc DE VOIS des Agneaux d'Aumelas",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.484364+00:00"
     }
   }
 }

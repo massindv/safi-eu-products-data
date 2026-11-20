@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "506",
-  "count": 8,
-  "updated_at": "2026-11-20T17:01:18.169320+00:00",
+  "count": 11,
+  "updated_at": "2026-11-20T17:13:20.672808+00:00",
   "products": {
     "5060466511880": {
       "barcode": "5060466511880",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:01:17.674334+00:00"
+      "updated_at": "2026-11-20T17:13:20.041876+00:00"
     },
     "5060139432993": {
       "barcode": "5060139432993",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:01:17.724726+00:00"
+      "updated_at": "2026-11-20T17:13:20.099592+00:00"
     },
     "5061005130128": {
       "barcode": "5061005130128",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:01:17.725305+00:00"
+      "updated_at": "2026-11-20T17:13:20.100506+00:00"
     },
     "5060194790731": {
       "barcode": "5060194790731",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:01:17.729820+00:00"
+      "updated_at": "2026-11-20T17:13:20.107112+00:00"
     },
     "5060088707449": {
       "barcode": "5060088707449",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:01:17.793761+00:00"
+      "updated_at": "2026-11-20T17:13:20.191289+00:00"
     },
     "5060709280344": {
       "barcode": "5060709280344",
@@ -121,7 +121,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:01:17.850106+00:00"
+      "updated_at": "2026-11-20T17:13:20.242368+00:00"
     },
     "5060425284190": {
       "barcode": "5060425284190",
@@ -139,7 +139,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.981953+00:00"
+      "updated_at": "2026-11-20T17:13:20.368028+00:00"
     },
     "5060198644634": {
       "barcode": "5060198644634",
@@ -159,7 +159,61 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:18.059130+00:00"
+      "updated_at": "2026-11-20T17:13:20.465295+00:00"
+    },
+    "5060166690380": {
+      "barcode": "5060166690380",
+      "product_name": "Bebida energética",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Agua carbonatada, Sacarosa, Jarabe de Glucosa, Acidulante (Ácido Cítrico), Aromas, Taurina (0.4%), Corrector de Acidez (Citratos de Sodio), Extracto de Raíz de Panax Ginseng (0.08%), L-Carnitina, L-Tartrata (0.04%), Cafeina (0.03%), Conservadores (Ácido Sórbico, Ácido Benzoico), Colorante (Antocianinas), Vitaminas (B2, B3, B6, B12), Cloruro Sódico, D-Glucoronolactona, Extracto de Semilla de Guaraná (0.002%), Inositol, Edulcorante (Sucralosa), Maltodextrina.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.473901+00:00"
+    },
+    "5060608740215": {
+      "barcode": "5060608740215",
+      "product_name": "Nalu fruit ENERGIZER",
+      "store": "colruyt.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T17:13:20.476033+00:00"
+    },
+    "5060074630683": {
+      "barcode": "5060074630683",
+      "product_name": "Low carb chocolate",
+      "store": "colruyt.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "eau, _lait_ écrémé, protéines de _lait_, crème (_lait_), huile de maïs, cacao maigre en poudre 1%, fibre de racine de chicorée, stabilisants (cellulose, carboxymehylcellulose, carraghénanes, polyphosphate de sodium), arômes, sel, édulcorants (sucralose, acésulfame-k), antioxydant (palmitate d'ascorbyle)",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T17:13:20.476463+00:00"
     }
   }
 }

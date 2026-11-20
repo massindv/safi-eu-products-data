@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "360",
-  "count": 4,
-  "updated_at": "2026-11-20T17:01:18.148725+00:00",
+  "count": 5,
+  "updated_at": "2026-11-20T17:13:20.655616+00:00",
   "products": {
     "3608580157885": {
       "barcode": "3608580157885",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.716453+00:00"
+      "updated_at": "2026-11-20T17:13:20.090279+00:00"
     },
     "3608580758686": {
       "barcode": "3608580758686",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.717070+00:00"
+      "updated_at": "2026-11-20T17:13:20.090975+00:00"
     },
     "3600900011037": {
       "barcode": "3600900011037",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.717753+00:00"
+      "updated_at": "2026-11-20T17:13:20.091773+00:00"
     },
     "3608580006633": {
       "barcode": "3608580006633",
@@ -74,7 +74,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.961747+00:00"
+      "updated_at": "2026-11-20T17:13:20.347923+00:00"
+    },
+    "3608580913856": {
+      "barcode": "3608580913856",
+      "product_name": "100% Pur Jus Clémentines pressées",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "jus de clémentines.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.475327+00:00"
     }
   }
 }

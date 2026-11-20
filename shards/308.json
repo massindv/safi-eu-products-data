@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "308",
-  "count": 8,
-  "updated_at": "2026-11-20T17:01:18.111985+00:00",
+  "count": 10,
+  "updated_at": "2026-11-20T17:13:20.582638+00:00",
   "products": {
     "3083681025484": {
       "barcode": "3083681025484",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:01:17.693230+00:00"
+      "updated_at": "2026-11-20T17:13:20.062277+00:00"
     },
     "3083681006964": {
       "barcode": "3083681006964",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:01:17.693558+00:00"
+      "updated_at": "2026-11-20T17:13:20.062626+00:00"
     },
     "3083680600965": {
       "barcode": "3083680600965",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:01:17.693663+00:00"
+      "updated_at": "2026-11-20T17:13:20.062738+00:00"
     },
     "3083681093926": {
       "barcode": "3083681093926",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.716079+00:00"
+      "updated_at": "2026-11-20T17:13:20.089882+00:00"
     },
     "3080216043210": {
       "barcode": "3080216043210",
@@ -121,7 +121,7 @@
       ],
       "reason": "Alcoholic beverage / beer: Kronenbourg 50 cl Kronenbourg 4.2 DEGRE ALCOOL",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.943289+00:00"
+      "updated_at": "2026-11-20T17:13:20.330514+00:00"
     },
     "3083680025881": {
       "barcode": "3083680025881",
@@ -139,7 +139,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.960111+00:00"
+      "updated_at": "2026-11-20T17:13:20.346789+00:00"
     },
     "3083681149975": {
       "barcode": "3083681149975",
@@ -157,7 +157,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.961432+00:00"
+      "updated_at": "2026-11-20T17:13:20.347692+00:00"
     },
     "3083681070354": {
       "barcode": "3083681070354",
@@ -175,7 +175,47 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:18.058740+00:00"
+      "updated_at": "2026-11-20T17:13:20.464696+00:00"
+    },
+    "3080216052274": {
+      "barcode": "3080216052274",
+      "product_name": "Skøll Ginger & Lime",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "EAU, MALT D'ORGE, SIROP DE GLUCOSE, SUCRE, AROME VODKA-GINGEMBRE-CITRON VERT (DONT 60% DE VODKA), ACIDIFIANT : ACIDE CITRIQUE, BLÉ, EXTRAIT DE HOUBLON. VALEURS NUTRIȚIONNELLES MOYENNES POUR 100 ML:",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.483889+00:00"
+    },
+    "3080216047225": {
+      "barcode": "3080216047225",
+      "product_name": "1664",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Contient du malt d'_orge_, malt de _blé_ et _blé_.",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Alcoholic beverage / beer: 1664",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.484121+00:00"
     }
   }
 }

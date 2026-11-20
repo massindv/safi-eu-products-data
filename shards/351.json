@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "351",
-  "count": 2,
-  "updated_at": "2026-11-20T17:01:18.137844+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T17:13:20.634208+00:00",
   "products": {
     "3512690007568": {
       "barcode": "3512690007568",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:01:17.735762+00:00"
+      "updated_at": "2026-11-20T17:13:20.115101+00:00"
     },
     "3512690007551": {
       "barcode": "3512690007551",
@@ -40,7 +40,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:01:17.735782+00:00"
+      "updated_at": "2026-11-20T17:13:20.115153+00:00"
+    },
+    "3511391075265": {
+      "barcode": "3511391075265",
+      "product_name": "Chateau Rollan de By",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:13:20.484250+00:00"
     }
   }
 }

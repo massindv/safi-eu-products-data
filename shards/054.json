@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "054",
   "count": 1,
-  "updated_at": "2026-11-20T17:01:18.071314+00:00",
+  "updated_at": "2026-11-20T17:13:20.503265+00:00",
   "products": {
     "0541026003710": {
       "barcode": "0541026003710",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:01:18.002789+00:00"
+      "updated_at": "2026-11-20T17:13:20.392700+00:00"
     }
   }
 }

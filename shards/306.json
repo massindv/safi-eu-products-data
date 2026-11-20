@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "306",
-  "count": 14,
-  "updated_at": "2026-11-20T17:01:18.110220+00:00",
+  "count": 15,
+  "updated_at": "2026-11-20T17:13:20.579087+00:00",
   "products": {
     "3068320120256": {
       "barcode": "3068320120256",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.931670+00:00"
+      "updated_at": "2026-11-20T17:13:20.319957+00:00"
     },
     "3060921506972": {
       "barcode": "3060921506972",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:01:17.749058+00:00"
+      "updated_at": "2026-11-20T17:13:20.138448+00:00"
     },
     "3060921463411": {
       "barcode": "3060921463411",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:01:17.749275+00:00"
+      "updated_at": "2026-11-20T17:13:20.138751+00:00"
     },
     "3060921463398": {
       "barcode": "3060921463398",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:01:17.749289+00:00"
+      "updated_at": "2026-11-20T17:13:20.138768+00:00"
     },
     "3060921461318": {
       "barcode": "3060921461318",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:01:17.749374+00:00"
+      "updated_at": "2026-11-20T17:13:20.138864+00:00"
     },
     "3060921503827": {
       "barcode": "3060921503827",
@@ -119,7 +119,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:01:17.749504+00:00"
+      "updated_at": "2026-11-20T17:13:20.139066+00:00"
     },
     "3060921463497": {
       "barcode": "3060921463497",
@@ -137,7 +137,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:01:17.754893+00:00"
+      "updated_at": "2026-11-20T17:13:20.147052+00:00"
     },
     "3061990143365": {
       "barcode": "3061990143365",
@@ -155,7 +155,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:01:17.777867+00:00"
+      "updated_at": "2026-11-20T17:13:20.172999+00:00"
     },
     "3061990142467": {
       "barcode": "3061990142467",
@@ -173,7 +173,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:01:17.866577+00:00"
+      "updated_at": "2026-11-20T17:13:20.258495+00:00"
     },
     "3068320120348": {
       "barcode": "3068320120348",
@@ -191,7 +191,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:01:17.934598+00:00"
+      "updated_at": "2026-11-20T17:13:20.322331+00:00"
     },
     "3068320055022": {
       "barcode": "3068320055022",
@@ -209,7 +209,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:01:17.939915+00:00"
+      "updated_at": "2026-11-20T17:13:20.328174+00:00"
     },
     "3068320111919": {
       "barcode": "3068320111919",
@@ -227,7 +227,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:01:17.942515+00:00"
+      "updated_at": "2026-11-20T17:13:20.329691+00:00"
     },
     "3068320063003": {
       "barcode": "3068320063003",
@@ -245,7 +245,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:01:17.942972+00:00"
+      "updated_at": "2026-11-20T17:13:20.330163+00:00"
     },
     "3060921503834": {
       "barcode": "3060921503834",
@@ -263,7 +263,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:01:17.980793+00:00"
+      "updated_at": "2026-11-20T17:13:20.366507+00:00"
+    },
+    "3068320126548": {
+      "barcode": "3068320126548",
+      "product_name": "Evian+ Himbeere & Gingseng 33cl ALU",
+      "store": "delhaize.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau minérale naturelle pétillante evian. (99,7%), sulfate de magnésium, arômes naturels de framboise et de ginseng avec autres arômes naturels, arômes, sulfate de zinc.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:13:20.480642+00:00"
     }
   }
 }

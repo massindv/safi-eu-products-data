@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "504",
+  "count": 1,
+  "updated_at": "2026-11-20T17:13:20.671660+00:00",
+  "products": {
+    "5044559513463": {
+      "barcode": "5044559513463",
+      "product_name": "SORBET",
+      "store": "delhaize.be",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:13:20.469343+00:00"
+    }
+  }
+}

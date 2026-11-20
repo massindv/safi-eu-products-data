@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "873",
+  "count": 2,
+  "updated_at": "2026-11-20T17:13:20.800527+00:00",
+  "products": {
+    "87320497": {
+      "barcode": "87320497",
+      "product_name": "Powershot gember",
+      "store": "ah.nl",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:13:20.479704+00:00"
+    },
+    "87314854": {
+      "barcode": "87314854",
+      "product_name": "Rozemarijn gebroken",
+      "store": "ah.nl",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:13:20.480291+00:00"
+    }
+  }
+}

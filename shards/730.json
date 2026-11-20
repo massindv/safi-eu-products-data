@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "730",
   "count": 2,
-  "updated_at": "2026-11-20T17:01:18.224943+00:00",
+  "updated_at": "2026-11-20T17:13:20.727904+00:00",
   "products": {
     "7300400481700": {
       "barcode": "7300400481700",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:01:17.681018+00:00"
+      "updated_at": "2026-11-20T17:13:20.048933+00:00"
     },
     "7300400126229": {
       "barcode": "7300400126229",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:01:17.729103+00:00"
+      "updated_at": "2026-11-20T17:13:20.106230+00:00"
     }
   }
 }

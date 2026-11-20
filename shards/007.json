@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "007",
   "count": 6,
-  "updated_at": "2026-11-20T17:01:18.065040+00:00",
+  "updated_at": "2026-11-20T17:13:20.492169+00:00",
   "products": {
     "0071475740012": {
       "barcode": "0071475740012",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:01:17.693460+00:00"
+      "updated_at": "2026-11-20T17:13:20.062513+00:00"
     },
     "0070177116088": {
       "barcode": "0070177116088",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:01:17.929576+00:00"
+      "updated_at": "2026-11-20T17:13:20.318716+00:00"
     },
     "0070177087784": {
       "barcode": "0070177087784",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:01:17.929749+00:00"
+      "updated_at": "2026-11-20T17:13:20.318840+00:00"
     },
     "0070177063597": {
       "barcode": "0070177063597",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:01:17.929909+00:00"
+      "updated_at": "2026-11-20T17:13:20.318985+00:00"
     },
     "0070177051174": {
       "barcode": "0070177051174",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:01:17.930564+00:00"
+      "updated_at": "2026-11-20T17:13:20.319371+00:00"
     },
     "0070734529481": {
       "barcode": "0070734529481",
@@ -119,7 +119,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:01:17.930883+00:00"
+      "updated_at": "2026-11-20T17:13:20.319555+00:00"
     }
   }
 }
