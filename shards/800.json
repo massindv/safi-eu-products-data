@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "800",
   "count": 10,
-  "updated_at": "2026-11-20T14:59:19.833644+00:00",
+  "updated_at": "2026-11-20T15:00:30.561706+00:00",
   "products": {
     "8002230000302": {
       "barcode": "8002230000302",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T14:59:19.654313+00:00"
+      "updated_at": "2026-11-20T15:00:30.491627+00:00"
     },
     "8001240140930": {
       "barcode": "8001240140930",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T14:59:19.667135+00:00"
+      "updated_at": "2026-11-20T15:00:30.498422+00:00"
     },
     "8001240100590": {
       "barcode": "8001240100590",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T14:59:19.667288+00:00"
+      "updated_at": "2026-11-20T15:00:30.498532+00:00"
     },
     "8001240140954": {
       "barcode": "8001240140954",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T14:59:19.667467+00:00"
+      "updated_at": "2026-11-20T15:00:30.498653+00:00"
     },
     "8002270986765": {
       "barcode": "8002270986765",
@@ -137,7 +137,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T14:59:19.686680+00:00"
+      "updated_at": "2026-11-20T15:00:30.511075+00:00"
     },
     "8001935361404": {
       "barcode": "8001935361404",
@@ -164,7 +164,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T14:59:19.730025+00:00"
+      "updated_at": "2026-11-20T15:00:30.523685+00:00"
     },
     "8000050016275": {
       "barcode": "8000050016275",
@@ -191,7 +191,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T14:59:19.738320+00:00"
+      "updated_at": "2026-11-20T15:00:30.527643+00:00"
     },
     "8007660325216": {
       "barcode": "8007660325216",
@@ -211,7 +211,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T14:59:19.762832+00:00"
+      "updated_at": "2026-11-20T15:00:30.538146+00:00"
     },
     "8003334326121": {
       "barcode": "8003334326121",
@@ -231,7 +231,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T14:59:19.762943+00:00"
+      "updated_at": "2026-11-20T15:00:30.538197+00:00"
     },
     "8007660325414": {
       "barcode": "8007660325414",
@@ -251,7 +251,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T14:59:19.762999+00:00"
+      "updated_at": "2026-11-20T15:00:30.538222+00:00"
     }
   }
 }
