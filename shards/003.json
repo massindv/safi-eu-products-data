@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "003",
-  "count": 4,
-  "updated_at": "2026-11-20T18:03:23.082176+00:00",
+  "count": 5,
+  "updated_at": "2026-11-20T18:14:56.652304+00:00",
   "products": {
     "0033200976387": {
       "barcode": "0033200976387",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:03:22.656556+00:00"
+      "updated_at": "2026-11-20T18:14:56.166721+00:00"
     },
     "00394214": {
       "barcode": "00394214",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:03:22.683906+00:00"
+      "updated_at": "2026-11-20T18:14:56.207442+00:00"
     },
     "0039047146518": {
       "barcode": "0039047146518",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:03:22.965503+00:00"
+      "updated_at": "2026-11-20T18:14:56.506732+00:00"
     },
     "0039047105799": {
       "barcode": "0039047105799",
@@ -83,7 +83,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.057951+00:00"
+      "updated_at": "2026-11-20T18:14:56.604202+00:00"
+    },
+    "0033147933566": {
+      "barcode": "0033147933566",
+      "product_name": "EU Product",
+      "store": "colruyt.be",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T18:14:56.644194+00:00"
     }
   }
 }

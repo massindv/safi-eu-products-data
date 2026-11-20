@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "035",
-  "count": 2,
-  "updated_at": "2026-11-20T18:03:23.087513+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T18:14:56.674119+00:00",
   "products": {
     "0358947864019": {
       "barcode": "0358947864019",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.769421+00:00"
+      "updated_at": "2026-11-20T18:14:56.295800+00:00"
     },
     "03515389": {
       "barcode": "03515389",
@@ -38,7 +38,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:03:23.012543+00:00"
+      "updated_at": "2026-11-20T18:14:56.552171+00:00"
+    },
+    "0358947748562": {
+      "barcode": "0358947748562",
+      "product_name": "Ongebrande notenmix",
+      "store": "ah.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "25% cashewnoot, 25% walnoot, 25% amandel, 25% hazelnoot.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T18:14:56.631338+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "329",
-  "count": 8,
-  "updated_at": "2026-11-20T18:03:23.148629+00:00",
+  "count": 9,
+  "updated_at": "2026-11-20T18:14:56.769642+00:00",
   "products": {
     "3292070008476": {
       "barcode": "3292070008476",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.789794+00:00"
+      "updated_at": "2026-11-20T18:14:56.314639+00:00"
     },
     "3292070008841": {
       "barcode": "3292070008841",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.790227+00:00"
+      "updated_at": "2026-11-20T18:14:56.314997+00:00"
     },
     "3292070001781": {
       "barcode": "3292070001781",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.790600+00:00"
+      "updated_at": "2026-11-20T18:14:56.315304+00:00"
     },
     "3291890040062": {
       "barcode": "3291890040062",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.994505+00:00"
+      "updated_at": "2026-11-20T18:14:56.534436+00:00"
     },
     "3295590001996": {
       "barcode": "3295590001996",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.994666+00:00"
+      "updated_at": "2026-11-20T18:14:56.534598+00:00"
     },
     "3292070008575": {
       "barcode": "3292070008575",
@@ -112,7 +112,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:23.037972+00:00"
+      "updated_at": "2026-11-20T18:14:56.579564+00:00"
     },
     "3291334317347": {
       "barcode": "3291334317347",
@@ -132,7 +132,7 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:23.061048+00:00"
+      "updated_at": "2026-11-20T18:14:56.607664+00:00"
     },
     "3291980324041": {
       "barcode": "3291980324041",
@@ -152,7 +152,25 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:23.073724+00:00"
+      "updated_at": "2026-11-20T18:14:56.620679+00:00"
+    },
+    "3297760092179": {
+      "barcode": "3297760092179",
+      "product_name": "Spécialité pommes morceaux châtaignes",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Purée et morceaux de pommes 70,9%, préparation de châtaignes 29% (sucre, châtaignes 10%, eau, extrait de vanille), antioxydant: acide ascorbique, acidifiant : acide citrique, sel.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:14:56.625847+00:00"
     }
   }
 }

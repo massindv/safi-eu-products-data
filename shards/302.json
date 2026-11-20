@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "302",
-  "count": 8,
-  "updated_at": "2026-11-20T18:03:23.129339+00:00",
+  "count": 10,
+  "updated_at": "2026-11-20T18:14:56.745203+00:00",
   "products": {
     "3021210012000": {
       "barcode": "3021210012000",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.679864+00:00"
+      "updated_at": "2026-11-20T18:14:56.202079+00:00"
     },
     "3029330069355": {
       "barcode": "3029330069355",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:03:22.699949+00:00"
+      "updated_at": "2026-11-20T18:14:56.223049+00:00"
     },
     "3023260030928": {
       "barcode": "3023260030928",
@@ -60,7 +60,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.715638+00:00"
+      "updated_at": "2026-11-20T18:14:56.239214+00:00"
     },
     "3029330005773": {
       "barcode": "3029330005773",
@@ -78,7 +78,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.742586+00:00"
+      "updated_at": "2026-11-20T18:14:56.268064+00:00"
     },
     "3024480008797": {
       "barcode": "3024480008797",
@@ -98,7 +98,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.883659+00:00"
+      "updated_at": "2026-11-20T18:14:56.418345+00:00"
     },
     "3023010003585": {
       "barcode": "3023010003585",
@@ -116,7 +116,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.883696+00:00"
+      "updated_at": "2026-11-20T18:14:56.418380+00:00"
     },
     "3023290053829": {
       "barcode": "3023290053829",
@@ -134,7 +134,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.019223+00:00"
+      "updated_at": "2026-11-20T18:14:56.559757+00:00"
     },
     "3020640148709": {
       "barcode": "3020640148709",
@@ -152,7 +152,45 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:23.067656+00:00"
+      "updated_at": "2026-11-20T18:14:56.616058+00:00"
+    },
+    "3021760403181": {
+      "barcode": "3021760403181",
+      "product_name": "Pom'potes",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "pomme 69,9%, banane 15%, fraise 15%, jus de citron concentré, antioxydant : acide ascorbique.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:14:56.625583+00:00"
+    },
+    "3023290021217": {
+      "barcode": "3023290021217",
+      "product_name": "Le Viennois café",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait entier (33,6%), babeurre* (lait), crème (lait) (15,5%), sucre, eau, amidon modifié de maïs, poudre de lait écrémé, extrait de café (0,7%), amidon de maïs, arômes, colorant (caramel), gélatine bovine, épaississants (carraghénanes, farine de graines de caroube), correcteur d'acidité (hydroxyde de sodium). Traces éventuelles de soja. Lait origine France.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "gelatin"
+      ],
+      "reason": "Contains unverified gelatin source",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:14:56.643761+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "316",
-  "count": 5,
-  "updated_at": "2026-11-20T18:03:23.135572+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T18:14:56.754313+00:00",
   "products": {
     "3166291010610": {
       "barcode": "3166291010610",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:03:22.713613+00:00"
+      "updated_at": "2026-11-20T18:14:56.236670+00:00"
     },
     "3168930170549": {
       "barcode": "3168930170549",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.871634+00:00"
+      "updated_at": "2026-11-20T18:14:56.407532+00:00"
     },
     "3165440008621": {
       "barcode": "3165440008621",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.896509+00:00"
+      "updated_at": "2026-11-20T18:14:56.430856+00:00"
     },
     "3166290200081": {
       "barcode": "3166290200081",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:23.003422+00:00"
+      "updated_at": "2026-11-20T18:14:56.544000+00:00"
     },
     "3165440001707": {
       "barcode": "3165440001707",
@@ -92,7 +92,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:23.003451+00:00"
+      "updated_at": "2026-11-20T18:14:56.544031+00:00"
+    },
+    "3166298565908": {
+      "barcode": "3166298565908",
+      "product_name": "Coriandre graines",
+      "store": "carrefour.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "graines de coriandre.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T18:14:56.639487+00:00"
     }
   }
 }

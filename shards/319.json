@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "319",
+  "count": 1,
+  "updated_at": "2026-11-20T18:14:56.759147+00:00",
+  "products": {
+    "3191220006327": {
+      "barcode": "3191220006327",
+      "product_name": "Dattes Deglet Nour",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "dattes.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:14:56.626737+00:00"
+    }
+  }
+}

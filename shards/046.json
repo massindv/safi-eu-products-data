@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "046",
   "count": 2,
-  "updated_at": "2026-11-20T18:03:23.089419+00:00",
+  "updated_at": "2026-11-20T18:14:56.677818+00:00",
   "products": {
     "04613701": {
       "barcode": "04613701",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:03:22.864419+00:00"
+      "updated_at": "2026-11-20T18:14:56.399769+00:00"
     },
     "0464116609609": {
       "barcode": "0464116609609",
@@ -40,7 +40,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078979+00:00"
+      "updated_at": "2026-11-20T18:14:56.625427+00:00"
     }
   }
 }

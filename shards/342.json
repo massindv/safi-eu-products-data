@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "342",
-  "count": 9,
-  "updated_at": "2026-11-20T18:03:23.152938+00:00",
+  "count": 11,
+  "updated_at": "2026-11-20T18:14:56.792960+00:00",
   "products": {
     "3421557501630": {
       "barcode": "3421557501630",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.696078+00:00"
+      "updated_at": "2026-11-20T18:14:56.218603+00:00"
     },
     "3421557501869": {
       "barcode": "3421557501869",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.824512+00:00"
+      "updated_at": "2026-11-20T18:14:56.357463+00:00"
     },
     "3421557910067": {
       "barcode": "3421557910067",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.825505+00:00"
+      "updated_at": "2026-11-20T18:14:56.358175+00:00"
     },
     "3421557501968": {
       "barcode": "3421557501968",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.827399+00:00"
+      "updated_at": "2026-11-20T18:14:56.359929+00:00"
     },
     "3421557501265": {
       "barcode": "3421557501265",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.827517+00:00"
+      "updated_at": "2026-11-20T18:14:56.360037+00:00"
     },
     "3421557501272": {
       "barcode": "3421557501272",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.827740+00:00"
+      "updated_at": "2026-11-20T18:14:56.360224+00:00"
     },
     "3423290070732": {
       "barcode": "3423290070732",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:03:22.885094+00:00"
+      "updated_at": "2026-11-20T18:14:56.419798+00:00"
     },
     "3424150032310": {
       "barcode": "3424150032310",
@@ -146,7 +146,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.994317+00:00"
+      "updated_at": "2026-11-20T18:14:56.534249+00:00"
     },
     "3422150002166": {
       "barcode": "3422150002166",
@@ -164,7 +164,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:23.066619+00:00"
+      "updated_at": "2026-11-20T18:14:56.614851+00:00"
+    },
+    "3426328201504": {
+      "barcode": "3426328201504",
+      "product_name": "Crème dessert Chocolat",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait entier, Sucre, Poudre de cacao maigre (7%), Amidon de maïs, Pectine, Arôme naturel de chocolat",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:14:56.643586+00:00"
+    },
+    "3426327541007": {
+      "barcode": "3426327541007",
+      "product_name": "Yaourt au lait entier vanille",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_Lait_ entier, sucre (10%), poudre de _lait_ écrémé, arôme naturel de vanille, ferments lactiques du yaourt",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:14:56.644181+00:00"
     }
   }
 }

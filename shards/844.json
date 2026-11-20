@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "844",
-  "count": 4,
-  "updated_at": "2026-11-20T18:03:23.261333+00:00",
+  "count": 5,
+  "updated_at": "2026-11-20T18:14:57.013341+00:00",
   "products": {
     "8445290442369": {
       "barcode": "8445290442369",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:03:22.641172+00:00"
+      "updated_at": "2026-11-20T18:14:56.133703+00:00"
     },
     "8445291565036": {
       "barcode": "8445291565036",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:03:22.665424+00:00"
+      "updated_at": "2026-11-20T18:14:56.181761+00:00"
     },
     "8445290408372": {
       "barcode": "8445290408372",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:03:22.674723+00:00"
+      "updated_at": "2026-11-20T18:14:56.195512+00:00"
     },
     "8445290728791": {
       "barcode": "8445290728791",
@@ -101,7 +101,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.824107+00:00"
+      "updated_at": "2026-11-20T18:14:56.357053+00:00"
+    },
+    "8445509154380": {
+      "barcode": "8445509154380",
+      "product_name": "Clémentines",
+      "store": "carrefour.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Clémentine",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T18:14:56.639440+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "077",
-  "count": 3,
-  "updated_at": "2026-11-20T18:03:23.094900+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T18:14:56.685323+00:00",
   "products": {
     "07707315": {
       "barcode": "07707315",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.743650+00:00"
+      "updated_at": "2026-11-20T18:14:56.269081+00:00"
     },
     "0778946614956": {
       "barcode": "0778946614956",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.837797+00:00"
+      "updated_at": "2026-11-20T18:14:56.370391+00:00"
     },
     "0778739649097": {
       "barcode": "0778739649097",
@@ -56,7 +56,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:03:22.990022+00:00"
+      "updated_at": "2026-11-20T18:14:56.530229+00:00"
+    },
+    "0778946443983": {
+      "barcode": "0778946443983",
+      "product_name": "Volle kwark",
+      "store": "ah.nl",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T18:14:56.645027+00:00"
     }
   }
 }

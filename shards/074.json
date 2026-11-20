@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "074",
   "count": 7,
-  "updated_at": "2026-11-20T18:03:23.093884+00:00",
+  "updated_at": "2026-11-20T18:14:56.683611+00:00",
   "products": {
     "0747546698062": {
       "barcode": "0747546698062",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.769929+00:00"
+      "updated_at": "2026-11-20T18:14:56.296267+00:00"
     },
     "0748246320253": {
       "barcode": "0748246320253",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.818410+00:00"
+      "updated_at": "2026-11-20T18:14:56.351416+00:00"
     },
     "0748051600182": {
       "barcode": "0748051600182",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:03:22.835180+00:00"
+      "updated_at": "2026-11-20T18:14:56.367785+00:00"
     },
     "0748946822286": {
       "barcode": "0748946822286",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T18:03:22.836935+00:00"
+      "updated_at": "2026-11-20T18:14:56.369498+00:00"
     },
     "0746007956017": {
       "barcode": "0746007956017",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.899360+00:00"
+      "updated_at": "2026-11-20T18:14:56.433639+00:00"
     },
     "0745307090193": {
       "barcode": "0745307090193",
@@ -112,7 +112,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.910178+00:00"
+      "updated_at": "2026-11-20T18:14:56.444505+00:00"
     },
     "07408977": {
       "barcode": "07408977",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:23.038712+00:00"
+      "updated_at": "2026-11-20T18:14:56.580193+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "021",
-  "count": 3,
-  "updated_at": "2026-11-20T18:03:23.085377+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T18:14:56.660688+00:00",
   "products": {
     "02182278": {
       "barcode": "02182278",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.996024+00:00"
+      "updated_at": "2026-11-20T18:14:56.535970+00:00"
     },
     "0213400024341": {
       "barcode": "0213400024341",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:23.073483+00:00"
+      "updated_at": "2026-11-20T18:14:56.620536+00:00"
     },
     "0217004056548": {
       "barcode": "0217004056548",
@@ -62,7 +62,25 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:23.073549+00:00"
+      "updated_at": "2026-11-20T18:14:56.620576+00:00"
+    },
+    "0219027018374": {
+      "barcode": "0219027018374",
+      "product_name": "Bleu d'Auvergne Carrefour",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:14:56.640390+00:00"
     }
   }
 }

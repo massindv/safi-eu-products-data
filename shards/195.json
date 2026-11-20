@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "195",
   "count": 3,
-  "updated_at": "2026-11-20T18:03:23.104478+00:00",
+  "updated_at": "2026-11-20T18:14:56.702014+00:00",
   "products": {
     "19540014230370610345419": {
       "barcode": "19540014230370610345419",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:03:22.889836+00:00"
+      "updated_at": "2026-11-20T18:14:56.425039+00:00"
     },
     "19540014189598110400846": {
       "barcode": "19540014189598110400846",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:03:23.076941+00:00"
+      "updated_at": "2026-11-20T18:14:56.623058+00:00"
     },
     "19540014230376810228422": {
       "barcode": "19540014230376810228422",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:03:23.076958+00:00"
+      "updated_at": "2026-11-20T18:14:56.623077+00:00"
     }
   }
 }

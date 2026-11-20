@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "332",
-  "count": 7,
-  "updated_at": "2026-11-20T18:03:23.149795+00:00",
+  "count": 8,
+  "updated_at": "2026-11-20T18:14:56.775445+00:00",
   "products": {
     "3329757003926": {
       "barcode": "3329757003926",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:03:22.711558+00:00"
+      "updated_at": "2026-11-20T18:14:56.234426+00:00"
     },
     "3329770051072": {
       "barcode": "3329770051072",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.731401+00:00"
+      "updated_at": "2026-11-20T18:14:56.257507+00:00"
     },
     "3329480013605": {
       "barcode": "3329480013605",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.826317+00:00"
+      "updated_at": "2026-11-20T18:14:56.358840+00:00"
     },
     "3329770051201": {
       "barcode": "3329770051201",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.905442+00:00"
+      "updated_at": "2026-11-20T18:14:56.440479+00:00"
     },
     "3329770063198": {
       "barcode": "3329770063198",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.914434+00:00"
+      "updated_at": "2026-11-20T18:14:56.448879+00:00"
     },
     "3329770064249": {
       "barcode": "3329770064249",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:03:22.914873+00:00"
+      "updated_at": "2026-11-20T18:14:56.449342+00:00"
     },
     "3329496415677": {
       "barcode": "3329496415677",
@@ -130,7 +130,25 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:23.072628+00:00"
+      "updated_at": "2026-11-20T18:14:56.619969+00:00"
+    },
+    "3329770061347": {
+      "barcode": "3329770061347",
+      "product_name": "Perle de lait sur lit de mangue passion",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait créme-Crème-Sucre 9.8%-Eau-Mangue 4.9%-Fruit de la passion 4%. Amidon transformé de maïs et de riz-Poudre de lait écrémé Arômes naturels-Epaississant: Carraghénanes Correcteurs d'acidité: Citrates de sodium, Acide citrique-Ferments lactiques (Lait). Lait d'origine France.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:14:56.644062+00:00"
     }
   }
 }

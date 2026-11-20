@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "200",
-  "count": 7,
-  "updated_at": "2026-11-20T18:03:23.104780+00:00",
+  "count": 8,
+  "updated_at": "2026-11-20T18:14:56.702397+00:00",
   "products": {
     "2000000007888": {
       "barcode": "2000000007888",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:03:22.808332+00:00"
+      "updated_at": "2026-11-20T18:14:56.339822+00:00"
     },
     "2000000007887": {
       "barcode": "2000000007887",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:03:22.884739+00:00"
+      "updated_at": "2026-11-20T18:14:56.419396+00:00"
     },
     "2000000145968": {
       "barcode": "2000000145968",
@@ -58,7 +58,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.920967+00:00"
+      "updated_at": "2026-11-20T18:14:56.459870+00:00"
     },
     "2000000032563": {
       "barcode": "2000000032563",
@@ -76,7 +76,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:03:22.941685+00:00"
+      "updated_at": "2026-11-20T18:14:56.482935+00:00"
     },
     "2000000007885": {
       "barcode": "2000000007885",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:03:22.963540+00:00"
+      "updated_at": "2026-11-20T18:14:56.504675+00:00"
     },
     "2000000044941": {
       "barcode": "2000000044941",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.059456+00:00"
+      "updated_at": "2026-11-20T18:14:56.605798+00:00"
     },
     "2000039007504": {
       "barcode": "2000039007504",
@@ -132,7 +132,25 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078008+00:00"
+      "updated_at": "2026-11-20T18:14:56.624302+00:00"
+    },
+    "2000000008669": {
+      "barcode": "2000000008669",
+      "product_name": "filosofo",
+      "store": "carrefour.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Orange",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T18:14:56.639567+00:00"
     }
   }
 }

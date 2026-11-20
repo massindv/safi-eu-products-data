@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "227",
-  "count": 27,
-  "updated_at": "2026-11-20T18:03:23.112992+00:00",
+  "count": 37,
+  "updated_at": "2026-11-20T18:14:56.714621+00:00",
   "products": {
     "2277891001180": {
       "barcode": "2277891001180",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:03:22.745416+00:00"
+      "updated_at": "2026-11-20T18:14:56.271365+00:00"
     },
     "2273988001248": {
       "barcode": "2273988001248",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:03:22.746095+00:00"
+      "updated_at": "2026-11-20T18:14:56.272053+00:00"
     },
     "2274244001095": {
       "barcode": "2274244001095",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.747393+00:00"
+      "updated_at": "2026-11-20T18:14:56.273713+00:00"
     },
     "2271954002855": {
       "barcode": "2271954002855",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.747768+00:00"
+      "updated_at": "2026-11-20T18:14:56.274099+00:00"
     },
     "2273709002189": {
       "barcode": "2273709002189",
@@ -94,7 +94,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.767259+00:00"
+      "updated_at": "2026-11-20T18:14:56.293801+00:00"
     },
     "2271148001909": {
       "barcode": "2271148001909",
@@ -114,7 +114,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.769872+00:00"
+      "updated_at": "2026-11-20T18:14:56.296216+00:00"
     },
     "2275278003253": {
       "barcode": "2275278003253",
@@ -132,7 +132,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.770023+00:00"
+      "updated_at": "2026-11-20T18:14:56.296353+00:00"
     },
     "2278881002996": {
       "barcode": "2278881002996",
@@ -152,7 +152,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:03:22.814560+00:00"
+      "updated_at": "2026-11-20T18:14:56.347264+00:00"
     },
     "2271715001585": {
       "barcode": "2271715001585",
@@ -170,7 +170,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T18:03:22.816487+00:00"
+      "updated_at": "2026-11-20T18:14:56.349318+00:00"
     },
     "2277591003453": {
       "barcode": "2277591003453",
@@ -190,7 +190,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T18:03:22.817105+00:00"
+      "updated_at": "2026-11-20T18:14:56.349927+00:00"
     },
     "2276222001998": {
       "barcode": "2276222001998",
@@ -208,7 +208,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.920784+00:00"
+      "updated_at": "2026-11-20T18:14:56.459504+00:00"
     },
     "2275423001899": {
       "barcode": "2275423001899",
@@ -226,7 +226,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.920983+00:00"
+      "updated_at": "2026-11-20T18:14:56.459930+00:00"
     },
     "2274252009991": {
       "barcode": "2274252009991",
@@ -244,7 +244,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.921024+00:00"
+      "updated_at": "2026-11-20T18:14:56.460051+00:00"
     },
     "2274259001158": {
       "barcode": "2274259001158",
@@ -262,7 +262,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.921064+00:00"
+      "updated_at": "2026-11-20T18:14:56.460170+00:00"
     },
     "2276621002992": {
       "barcode": "2276621002992",
@@ -280,7 +280,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.921190+00:00"
+      "updated_at": "2026-11-20T18:14:56.460592+00:00"
     },
     "2274251001255": {
       "barcode": "2274251001255",
@@ -298,7 +298,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.921204+00:00"
+      "updated_at": "2026-11-20T18:14:56.460672+00:00"
     },
     "2272678001490": {
       "barcode": "2272678001490",
@@ -316,7 +316,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.921218+00:00"
+      "updated_at": "2026-11-20T18:14:56.460735+00:00"
     },
     "2275689000902": {
       "barcode": "2275689000902",
@@ -334,7 +334,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.921455+00:00"
+      "updated_at": "2026-11-20T18:14:56.461088+00:00"
     },
     "2270948001492": {
       "barcode": "2270948001492",
@@ -352,7 +352,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.921518+00:00"
+      "updated_at": "2026-11-20T18:14:56.461179+00:00"
     },
     "2273705001582": {
       "barcode": "2273705001582",
@@ -370,7 +370,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.967687+00:00"
+      "updated_at": "2026-11-20T18:14:56.508983+00:00"
     },
     "2273576002152": {
       "barcode": "2273576002152",
@@ -388,7 +388,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.969756+00:00"
+      "updated_at": "2026-11-20T18:14:56.511122+00:00"
     },
     "2270321001255": {
       "barcode": "2270321001255",
@@ -408,7 +408,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.969922+00:00"
+      "updated_at": "2026-11-20T18:14:56.511284+00:00"
     },
     "2273706001703": {
       "barcode": "2273706001703",
@@ -428,7 +428,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.970663+00:00"
+      "updated_at": "2026-11-20T18:14:56.512040+00:00"
     },
     "2277593001204": {
       "barcode": "2277593001204",
@@ -448,7 +448,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.970801+00:00"
+      "updated_at": "2026-11-20T18:14:56.512180+00:00"
     },
     "2273180002043": {
       "barcode": "2273180002043",
@@ -466,7 +466,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.013766+00:00"
+      "updated_at": "2026-11-20T18:14:56.554028+00:00"
     },
     "2275689001800": {
       "barcode": "2275689001800",
@@ -484,7 +484,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:23.020484+00:00"
+      "updated_at": "2026-11-20T18:14:56.561090+00:00"
     },
     "2275959002698": {
       "barcode": "2275959002698",
@@ -502,7 +502,187 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:23.020607+00:00"
+      "updated_at": "2026-11-20T18:14:56.561220+00:00"
+    },
+    "2274502014560": {
+      "barcode": "2274502014560",
+      "product_name": "Gouda au cumin",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:14:56.640611+00:00"
+    },
+    "2273180001961": {
+      "barcode": "2273180001961",
+      "product_name": "Raspadura di grana padano",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640762+00:00"
+    },
+    "2273180001893": {
+      "barcode": "2273180001893",
+      "product_name": "Grana padano 40+ Delhaize",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640825+00:00"
+    },
+    "2273180002081": {
+      "barcode": "2273180002081",
+      "product_name": "Raspaduro di grana padano",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640847+00:00"
+    },
+    "2273180002005": {
+      "barcode": "2273180002005",
+      "product_name": "Raspadura di grana padano",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640921+00:00"
+    },
+    "2273210006379": {
+      "barcode": "2273210006379",
+      "product_name": "Parmigiano Reggiano",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640937+00:00"
+    },
+    "2273180002371": {
+      "barcode": "2273180002371",
+      "product_name": "Raspadura di grana padano",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641015+00:00"
+    },
+    "2273210007178": {
+      "barcode": "2273210007178",
+      "product_name": "Parmigiano Reggiano",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641061+00:00"
+    },
+    "2273210007109": {
+      "barcode": "2273210007109",
+      "product_name": "Parmigiano Reggiano",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641094+00:00"
+    },
+    "2273210007505": {
+      "barcode": "2273210007505",
+      "product_name": "Parmigiano Reggiano",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641141+00:00"
     }
   }
 }

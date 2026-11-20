@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "221",
-  "count": 15,
-  "updated_at": "2026-11-20T18:03:23.109643+00:00",
+  "count": 26,
+  "updated_at": "2026-11-20T18:14:56.709644+00:00",
   "products": {
     "2210280005321": {
       "barcode": "2210280005321",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.725517+00:00"
+      "updated_at": "2026-11-20T18:14:56.248609+00:00"
     },
     "2219050002522": {
       "barcode": "2219050002522",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.911378+00:00"
+      "updated_at": "2026-11-20T18:14:56.445878+00:00"
     },
     "2215520001934": {
       "barcode": "2215520001934",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.911394+00:00"
+      "updated_at": "2026-11-20T18:14:56.445894+00:00"
     },
     "2217100004342": {
       "barcode": "2217100004342",
@@ -78,7 +78,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.911500+00:00"
+      "updated_at": "2026-11-20T18:14:56.445999+00:00"
     },
     "2215520002153": {
       "barcode": "2215520002153",
@@ -96,7 +96,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.013585+00:00"
+      "updated_at": "2026-11-20T18:14:56.553683+00:00"
     },
     "2217870003484": {
       "barcode": "2217870003484",
@@ -116,7 +116,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.013651+00:00"
+      "updated_at": "2026-11-20T18:14:56.553790+00:00"
     },
     "2219390003661": {
       "barcode": "2219390003661",
@@ -134,7 +134,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.013667+00:00"
+      "updated_at": "2026-11-20T18:14:56.553823+00:00"
     },
     "2218190004601": {
       "barcode": "2218190004601",
@@ -152,7 +152,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.013696+00:00"
+      "updated_at": "2026-11-20T18:14:56.553883+00:00"
     },
     "2219050002386": {
       "barcode": "2219050002386",
@@ -170,7 +170,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.013787+00:00"
+      "updated_at": "2026-11-20T18:14:56.554073+00:00"
     },
     "2215480004426": {
       "barcode": "2215480004426",
@@ -190,7 +190,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.013939+00:00"
+      "updated_at": "2026-11-20T18:14:56.554380+00:00"
     },
     "2210280004003": {
       "barcode": "2210280004003",
@@ -210,7 +210,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.013982+00:00"
+      "updated_at": "2026-11-20T18:14:56.554436+00:00"
     },
     "2217880002255": {
       "barcode": "2217880002255",
@@ -230,7 +230,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.014061+00:00"
+      "updated_at": "2026-11-20T18:14:56.554523+00:00"
     },
     "2211060003551": {
       "barcode": "2211060003551",
@@ -250,7 +250,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.014111+00:00"
+      "updated_at": "2026-11-20T18:14:56.554578+00:00"
     },
     "2219110003438": {
       "barcode": "2219110003438",
@@ -270,7 +270,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.014212+00:00"
+      "updated_at": "2026-11-20T18:14:56.554685+00:00"
     },
     "2215630001640": {
       "barcode": "2215630001640",
@@ -288,7 +288,205 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.014375+00:00"
+      "updated_at": "2026-11-20T18:14:56.554854+00:00"
+    },
+    "2218980004323": {
+      "barcode": "2218980004323",
+      "product_name": "Manchego BOB AOC",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640779+00:00"
+    },
+    "2218980003135": {
+      "barcode": "2218980003135",
+      "product_name": "Manchego",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640791+00:00"
+    },
+    "2210280004287": {
+      "barcode": "2210280004287",
+      "product_name": "Fromage d'abbaye",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640864+00:00"
+    },
+    "2216280003497": {
+      "barcode": "2216280003497",
+      "product_name": "OSSAU IRATY",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640900+00:00"
+    },
+    "2219050002393": {
+      "barcode": "2219050002393",
+      "product_name": "Tomme des Pyrenées",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641079+00:00"
+    },
+    "2217870003231": {
+      "barcode": "2217870003231",
+      "product_name": "Brie de Meaux",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641159+00:00"
+    },
+    "2215520001958": {
+      "barcode": "2215520001958",
+      "product_name": "Geitenkaas Chèvre",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641294+00:00"
+    },
+    "2216390003547": {
+      "barcode": "2216390003547",
+      "product_name": "Fontina d'Aosta",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641313+00:00"
+    },
+    "2216280003817": {
+      "barcode": "2216280003817",
+      "product_name": "OSSAU IRATY",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641326+00:00"
+    },
+    "2216280003947": {
+      "barcode": "2216280003947",
+      "product_name": "Fromage ossau",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641340+00:00"
+    },
+    "2218190005981": {
+      "barcode": "2218190005981",
+      "product_name": "Reblochon",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641352+00:00"
     }
   }
 }

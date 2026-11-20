@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "220",
-  "count": 41,
-  "updated_at": "2026-11-20T18:03:23.107797+00:00",
+  "count": 56,
+  "updated_at": "2026-11-20T18:14:56.707428+00:00",
   "products": {
     "2205499003077": {
       "barcode": "2205499003077",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.715439+00:00"
+      "updated_at": "2026-11-20T18:14:56.238931+00:00"
     },
     "2208476004746": {
       "barcode": "2208476004746",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.725425+00:00"
+      "updated_at": "2026-11-20T18:14:56.248530+00:00"
     },
     "2205308003342": {
       "barcode": "2205308003342",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.725574+00:00"
+      "updated_at": "2026-11-20T18:14:56.248656+00:00"
     },
     "2205308003649": {
       "barcode": "2205308003649",
@@ -82,7 +82,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.725628+00:00"
+      "updated_at": "2026-11-20T18:14:56.248697+00:00"
     },
     "2200235007715": {
       "barcode": "2200235007715",
@@ -102,7 +102,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.725698+00:00"
+      "updated_at": "2026-11-20T18:14:56.248748+00:00"
     },
     "2208532003744": {
       "barcode": "2208532003744",
@@ -122,7 +122,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.725888+00:00"
+      "updated_at": "2026-11-20T18:14:56.248818+00:00"
     },
     "2200761000792": {
       "barcode": "2200761000792",
@@ -140,7 +140,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T18:03:22.746834+00:00"
+      "updated_at": "2026-11-20T18:14:56.273140+00:00"
     },
     "2203154003950": {
       "barcode": "2203154003950",
@@ -158,7 +158,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.892499+00:00"
+      "updated_at": "2026-11-20T18:14:56.426762+00:00"
     },
     "2205280005709": {
       "barcode": "2205280005709",
@@ -176,7 +176,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.893491+00:00"
+      "updated_at": "2026-11-20T18:14:56.427761+00:00"
     },
     "2205309002948": {
       "barcode": "2205309002948",
@@ -196,7 +196,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:22.911539+00:00"
+      "updated_at": "2026-11-20T18:14:56.446039+00:00"
     },
     "2202038002799": {
       "barcode": "2202038002799",
@@ -214,7 +214,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.921116+00:00"
+      "updated_at": "2026-11-20T18:14:56.460330+00:00"
     },
     "2202830001358": {
       "barcode": "2202830001358",
@@ -232,7 +232,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:03:22.921164+00:00"
+      "updated_at": "2026-11-20T18:14:56.460503+00:00"
     },
     "2205619003741": {
       "barcode": "2205619003741",
@@ -252,7 +252,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.001779+00:00"
+      "updated_at": "2026-11-20T18:14:56.542373+00:00"
     },
     "2205507002337": {
       "barcode": "2205507002337",
@@ -272,7 +272,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.002567+00:00"
+      "updated_at": "2026-11-20T18:14:56.543150+00:00"
     },
     "2205455003820": {
       "barcode": "2205455003820",
@@ -292,7 +292,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.002622+00:00"
+      "updated_at": "2026-11-20T18:14:56.543205+00:00"
     },
     "2205596004595": {
       "barcode": "2205596004595",
@@ -312,7 +312,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.002720+00:00"
+      "updated_at": "2026-11-20T18:14:56.543303+00:00"
     },
     "2205523002915": {
       "barcode": "2205523002915",
@@ -332,7 +332,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.002737+00:00"
+      "updated_at": "2026-11-20T18:14:56.543319+00:00"
     },
     "2205569005895": {
       "barcode": "2205569005895",
@@ -352,7 +352,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.002763+00:00"
+      "updated_at": "2026-11-20T18:14:56.543346+00:00"
     },
     "2205620002917": {
       "barcode": "2205620002917",
@@ -372,7 +372,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.002785+00:00"
+      "updated_at": "2026-11-20T18:14:56.543368+00:00"
     },
     "2200389002833": {
       "barcode": "2200389002833",
@@ -390,7 +390,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.014226+00:00"
+      "updated_at": "2026-11-20T18:14:56.554701+00:00"
     },
     "2208473003414": {
       "barcode": "2208473003414",
@@ -410,7 +410,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.014305+00:00"
+      "updated_at": "2026-11-20T18:14:56.554782+00:00"
     },
     "2200235004844": {
       "barcode": "2200235004844",
@@ -428,7 +428,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.014339+00:00"
+      "updated_at": "2026-11-20T18:14:56.554818+00:00"
     },
     "2200235005025": {
       "barcode": "2200235005025",
@@ -446,7 +446,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.014353+00:00"
+      "updated_at": "2026-11-20T18:14:56.554832+00:00"
     },
     "2205641002996": {
       "barcode": "2205641002996",
@@ -466,7 +466,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.076979+00:00"
+      "updated_at": "2026-11-20T18:14:56.623100+00:00"
     },
     "2205726004280": {
       "barcode": "2205726004280",
@@ -484,7 +484,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.077106+00:00"
+      "updated_at": "2026-11-20T18:14:56.623251+00:00"
     },
     "2205595004596": {
       "barcode": "2205595004596",
@@ -505,7 +505,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter; Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.077404+00:00"
+      "updated_at": "2026-11-20T18:14:56.623594+00:00"
     },
     "2205621002794": {
       "barcode": "2205621002794",
@@ -525,7 +525,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.077862+00:00"
+      "updated_at": "2026-11-20T18:14:56.624124+00:00"
     },
     "2205726004662": {
       "barcode": "2205726004662",
@@ -543,7 +543,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.077885+00:00"
+      "updated_at": "2026-11-20T18:14:56.624152+00:00"
     },
     "2205504002125": {
       "barcode": "2205504002125",
@@ -561,7 +561,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078337+00:00"
+      "updated_at": "2026-11-20T18:14:56.624647+00:00"
     },
     "2205569004775": {
       "barcode": "2205569004775",
@@ -581,7 +581,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078549+00:00"
+      "updated_at": "2026-11-20T18:14:56.624890+00:00"
     },
     "2205641003429": {
       "barcode": "2205641003429",
@@ -601,7 +601,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078600+00:00"
+      "updated_at": "2026-11-20T18:14:56.624963+00:00"
     },
     "2205725004748": {
       "barcode": "2205725004748",
@@ -621,7 +621,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078628+00:00"
+      "updated_at": "2026-11-20T18:14:56.624998+00:00"
     },
     "2205639003189": {
       "barcode": "2205639003189",
@@ -642,7 +642,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078693+00:00"
+      "updated_at": "2026-11-20T18:14:56.625076+00:00"
     },
     "2205618002875": {
       "barcode": "2205618002875",
@@ -662,7 +662,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078738+00:00"
+      "updated_at": "2026-11-20T18:14:56.625129+00:00"
     },
     "2205620003075": {
       "barcode": "2205620003075",
@@ -682,7 +682,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078760+00:00"
+      "updated_at": "2026-11-20T18:14:56.625156+00:00"
     },
     "2205621002893": {
       "barcode": "2205621002893",
@@ -702,7 +702,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078782+00:00"
+      "updated_at": "2026-11-20T18:14:56.625183+00:00"
     },
     "2205621003036": {
       "barcode": "2205621003036",
@@ -722,7 +722,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078801+00:00"
+      "updated_at": "2026-11-20T18:14:56.625210+00:00"
     },
     "2205500003386": {
       "barcode": "2205500003386",
@@ -740,7 +740,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078822+00:00"
+      "updated_at": "2026-11-20T18:14:56.625237+00:00"
     },
     "2205725004366": {
       "barcode": "2205725004366",
@@ -760,7 +760,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078859+00:00"
+      "updated_at": "2026-11-20T18:14:56.625280+00:00"
     },
     "2205729004782": {
       "barcode": "2205729004782",
@@ -780,7 +780,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.078875+00:00"
+      "updated_at": "2026-11-20T18:14:56.625299+00:00"
     },
     "2208623005947": {
       "barcode": "2208623005947",
@@ -798,7 +798,277 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:03:23.079003+00:00"
+      "updated_at": "2026-11-20T18:14:56.625455+00:00"
+    },
+    "2200235004677": {
+      "barcode": "2200235004677",
+      "product_name": "Compté",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640805+00:00"
+    },
+    "2200235004929": {
+      "barcode": "2200235004929",
+      "product_name": "Comté AOP au lait cru",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640887+00:00"
+    },
+    "2200235004769": {
+      "barcode": "2200235004769",
+      "product_name": "Comté bio AOP",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640954+00:00"
+    },
+    "2200235005001": {
+      "barcode": "2200235005001",
+      "product_name": "Comté AOP Bio",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640971+00:00"
+    },
+    "2200235005131": {
+      "barcode": "2200235005131",
+      "product_name": "Comté AOP au lait cru",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.640994+00:00"
+    },
+    "2205473002522": {
+      "barcode": "2205473002522",
+      "product_name": "Queso de cabra",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641031+00:00"
+    },
+    "2205473002478": {
+      "barcode": "2205473002478",
+      "product_name": "QUESO DE CABRA",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641047+00:00"
+    },
+    "2205471003064": {
+      "barcode": "2205471003064",
+      "product_name": "Queso manchego",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641109+00:00"
+    },
+    "2200235005117": {
+      "barcode": "2200235005117",
+      "product_name": "Comté bio Delhaize",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641126+00:00"
+    },
+    "2200235005032": {
+      "barcode": "2200235005032",
+      "product_name": "Comté AOP au lait cru",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641181+00:00"
+    },
+    "2200235005018": {
+      "barcode": "2200235005018",
+      "product_name": "Comté AOP",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641196+00:00"
+    },
+    "2200235005155": {
+      "barcode": "2200235005155",
+      "product_name": "COMTÉ AOP BIO",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641213+00:00"
+    },
+    "2205471003040": {
+      "barcode": "2205471003040",
+      "product_name": "Queso manchego",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641227+00:00"
+    },
+    "2205308002116": {
+      "barcode": "2205308002116",
+      "product_name": "Brie",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641238+00:00"
+    },
+    "2200235005339": {
+      "barcode": "2200235005339",
+      "product_name": "Comté AOP Bio Delhaize",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:14:56.641374+00:00"
     }
   }
 }

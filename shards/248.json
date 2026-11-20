@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "248",
-  "count": 1,
-  "updated_at": "2026-11-20T18:03:23.123015+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T18:14:56.738507+00:00",
   "products": {
     "2480851008017": {
       "barcode": "2480851008017",
@@ -22,7 +22,25 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:03:22.690539+00:00"
+      "updated_at": "2026-11-20T18:14:56.213782+00:00"
+    },
+    "2489482029859": {
+      "barcode": "2489482029859",
+      "product_name": "Reblochon Fermier , la pointe percée, Pochat et fils",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:14:56.640155+00:00"
     }
   }
 }

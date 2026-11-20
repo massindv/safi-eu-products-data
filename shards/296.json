@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "296",
   "count": 2,
-  "updated_at": "2026-11-20T18:03:23.128406+00:00",
+  "updated_at": "2026-11-20T18:14:56.744180+00:00",
   "products": {
     "29615728": {
       "barcode": "29615728",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:03:22.905888+00:00"
+      "updated_at": "2026-11-20T18:14:56.440915+00:00"
     },
     "29610488": {
       "barcode": "29610488",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:03:22.908289+00:00"
+      "updated_at": "2026-11-20T18:14:56.442903+00:00"
     }
   }
 }
