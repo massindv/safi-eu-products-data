@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "590",
   "count": 5,
-  "updated_at": "2026-11-20T18:42:39.399231+00:00",
+  "updated_at": "2026-11-20T19:00:43.179810+00:00",
   "products": {
     "5906259705879": {
       "barcode": "5906259705879",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_43545239363138343230?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_43545239363138343230?revLabel=1&rendition=800x800_JPG&fileType=binary",
       "ingredients_text": "95% ZALM, zout, zuurteregelaar (natriumlactaat E325), rook. Waarvan toegevoegde suikers 0g per 100g en waarvan toegevoegd zout 2,5g per 100g Allergie-informatie Bevat: Vis",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:42:37.828246+00:00"
+      "updated_at": "2026-11-20T19:00:41.210259+00:00"
     },
     "5900563001078": {
       "barcode": "5900563001078",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:42:38.006626+00:00"
+      "updated_at": "2026-11-20T19:00:41.389224+00:00"
     },
     "5900951311321": {
       "barcode": "5900951311321",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.183470+00:00"
+      "updated_at": "2026-11-20T19:00:41.565778+00:00"
     },
     "5900130030982": {
       "barcode": "5900130030982",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.367170+00:00"
+      "updated_at": "2026-11-20T19:00:41.780710+00:00"
     },
     "5900242000187": {
       "barcode": "5900242000187",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.780711+00:00"
+      "updated_at": "2026-11-20T19:00:42.272282+00:00"
     }
   }
 }

@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "006",
+  "count": 1,
+  "updated_at": "2026-11-20T19:00:42.576512+00:00",
+  "products": {
+    "00679444": {
+      "barcode": "00679444",
+      "product_name": "4 steaks hachés pur boeuf",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T19:00:42.496136+00:00"
+    }
+  }
+}

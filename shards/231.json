@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "231",
   "count": 7,
-  "updated_at": "2026-11-20T18:42:39.079394+00:00",
+  "updated_at": "2026-11-20T19:00:42.741354+00:00",
   "products": {
     "2312129804765": {
       "barcode": "2312129804765",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:42:38.072290+00:00"
+      "updated_at": "2026-11-20T19:00:41.453830+00:00"
     },
     "2310161801315": {
       "barcode": "2310161801315",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:42:38.072998+00:00"
+      "updated_at": "2026-11-20T19:00:41.454778+00:00"
     },
     "2310161301747": {
       "barcode": "2310161301747",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:42:38.074328+00:00"
+      "updated_at": "2026-11-20T19:00:41.455796+00:00"
     },
     "2311106103860": {
       "barcode": "2311106103860",
@@ -78,7 +78,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:42:38.450446+00:00"
+      "updated_at": "2026-11-20T19:00:41.893965+00:00"
     },
     "2312467205736": {
       "barcode": "2312467205736",
@@ -96,7 +96,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:42:38.489957+00:00"
+      "updated_at": "2026-11-20T19:00:41.937523+00:00"
     },
     "2313104406905": {
       "barcode": "2313104406905",
@@ -116,7 +116,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:42:38.709553+00:00"
+      "updated_at": "2026-11-20T19:00:42.189102+00:00"
     },
     "2310566504064": {
       "barcode": "2310566504064",
@@ -134,7 +134,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:42:38.734300+00:00"
+      "updated_at": "2026-11-20T19:00:42.215745+00:00"
     }
   }
 }

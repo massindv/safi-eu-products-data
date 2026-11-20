@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "077",
-  "count": 4,
-  "updated_at": "2026-11-20T18:42:38.997085+00:00",
+  "count": 5,
+  "updated_at": "2026-11-20T19:00:42.643380+00:00",
   "products": {
     "07707315": {
       "barcode": "07707315",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.148860+00:00"
+      "updated_at": "2026-11-20T19:00:41.536594+00:00"
     },
     "0778946614956": {
       "barcode": "0778946614956",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:42:38.349369+00:00"
+      "updated_at": "2026-11-20T19:00:41.759411+00:00"
     },
     "0778739649097": {
       "barcode": "0778739649097",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:42:38.682226+00:00"
+      "updated_at": "2026-11-20T19:00:42.160396+00:00"
     },
     "0778946443983": {
       "barcode": "0778946443983",
@@ -74,7 +74,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:42:38.879406+00:00"
+      "updated_at": "2026-11-20T19:00:42.408323+00:00"
+    },
+    "07751851": {
+      "barcode": "07751851",
+      "product_name": "coeur d artichauts",
+      "store": "carrefour.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T19:00:42.527202+00:00"
     }
   }
 }

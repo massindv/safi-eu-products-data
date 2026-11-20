@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "901",
   "count": 1,
-  "updated_at": "2026-11-20T18:42:39.579224+00:00",
+  "updated_at": "2026-11-20T19:00:43.527917+00:00",
   "products": {
     "9015160108450": {
       "barcode": "9015160108450",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_69473877413855345135435373486f434d6673447467?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_69473877413855345135435373486f434d6673447467?revLabel=1&rendition=800x800_JPG&fileType=binary",
       "ingredients_text": "Ingrediënten: Water, suiker, koolzuur, zuurtemiddel citroenzuur, kleurstof ammonium-sulfiet, natuurlijke kruiden-extracten",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:42:37.926107+00:00"
+      "updated_at": "2026-11-20T19:00:41.306853+00:00"
     }
   }
 }

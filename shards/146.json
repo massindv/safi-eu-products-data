@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "146",
+  "count": 1,
+  "updated_at": "2026-11-20T19:00:42.679844+00:00",
+  "products": {
+    "14636776": {
+      "barcode": "14636776",
+      "product_name": "la fine Saint agaune",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T19:00:42.495276+00:00"
+    }
+  }
+}

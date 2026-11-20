@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "348",
-  "count": 3,
-  "updated_at": "2026-11-20T18:42:39.204881+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T19:00:42.856110+00:00",
   "products": {
     "3483981001049": {
       "barcode": "3483981001049",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.412372+00:00"
+      "updated_at": "2026-11-20T19:00:41.828745+00:00"
     },
     "3480341000780": {
       "barcode": "3480341000780",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.476737+00:00"
+      "updated_at": "2026-11-20T19:00:41.925077+00:00"
     },
     "3480341001114": {
       "barcode": "3480341001114",
@@ -56,7 +56,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.481393+00:00"
+      "updated_at": "2026-11-20T19:00:41.929471+00:00"
+    },
+    "3483190092296": {
+      "barcode": "3483190092296",
+      "product_name": "Terrine de campagne aux noisettes",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T19:00:42.496006+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "502",
   "count": 6,
-  "updated_at": "2026-11-20T18:42:39.275028+00:00",
+  "updated_at": "2026-11-20T19:00:42.962433+00:00",
   "products": {
     "5021991938917": {
       "barcode": "5021991938917",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_306e5539504c776f537747674152753079434f755a67?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_306e5539504c776f537747674152753079434f755a67?revLabel=1&rendition=800x800_JPG&fileType=binary",
       "ingredients_text": "Ingrediënten: citroengras*, gemberwortel* (16%), zoethoutwortel*, natuurlijk citroenaroma* (5%), citroenschil* (4%), sinaasappelschil*, witte hibiscus*, natuurlijk gemberaroma (1,5%). *ingredient van biologische teelt.",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:42:37.881387+00:00"
+      "updated_at": "2026-11-20T19:00:41.254332+00:00"
     },
     "5029396738767": {
       "barcode": "5029396738767",
@@ -37,7 +37,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313230303135?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313230303135?revLabel=1&rendition=800x800_JPG&fileType=binary",
       "ingredients_text": "Ingrediënten: Koolzuurhoudend water, fructose, suiker, geklaard citroensap uit concentraat (6%), perensapconcentraat|5%), gefermenteerd gemberwortelextractlwater, alucosestroop, gemberwortel, perensapconcentraat, gist), natuurlijke smaakstoffen, zuur (wijnsteenzuur, citroenzuur) k eurstof (concentraat van zoete aardappel, wortel, appel, hibiscus), zoetstoflsteviolglycosiden uitstevia), Bulgaarse rozenole.",
       "nutrition": {
         "calories_100g": null,
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:42:37.910658+00:00"
+      "updated_at": "2026-11-20T19:00:41.291757+00:00"
     },
     "5021991941177": {
       "barcode": "5021991941177",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:42:38.413962+00:00"
+      "updated_at": "2026-11-20T19:00:41.831212+00:00"
     },
     "5021427905780": {
       "barcode": "5021427905780",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.477377+00:00"
+      "updated_at": "2026-11-20T19:00:41.925550+00:00"
     },
     "5029396000437": {
       "barcode": "5029396000437",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:42:38.835447+00:00"
+      "updated_at": "2026-11-20T19:00:42.338306+00:00"
     },
     "5027659525031": {
       "barcode": "5027659525031",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:42:38.897734+00:00"
+      "updated_at": "2026-11-20T19:00:42.459734+00:00"
     }
   }
 }

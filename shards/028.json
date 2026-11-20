@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "028",
-  "count": 2,
-  "updated_at": "2026-11-20T18:42:38.963728+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T19:00:42.594544+00:00",
   "products": {
     "0287556029260": {
       "barcode": "0287556029260",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.700885+00:00"
+      "updated_at": "2026-11-20T19:00:42.177906+00:00"
     },
     "0287556025910": {
       "barcode": "0287556025910",
@@ -42,7 +42,27 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.841764+00:00"
+      "updated_at": "2026-11-20T19:00:42.342393+00:00"
+    },
+    "0286740025125": {
+      "barcode": "0286740025125",
+      "product_name": "La Canne Lyonnaise affinée à l'air libre",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "viande de porc (origine UE), marc de bourgogne 1%, sel, _lactose_, dextrose de _blé_, épices, boyau naturel de porc, conservateur : nitrate de potassium, ferments lactiques.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T19:00:42.496392+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "021",
-  "count": 4,
-  "updated_at": "2026-11-20T18:42:38.950840+00:00",
+  "count": 5,
+  "updated_at": "2026-11-20T19:00:42.590483+00:00",
   "products": {
     "02182278": {
       "barcode": "02182278",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.698470+00:00"
+      "updated_at": "2026-11-20T19:00:42.173883+00:00"
     },
     "0213400024341": {
       "barcode": "0213400024341",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.838138+00:00"
+      "updated_at": "2026-11-20T19:00:42.340924+00:00"
     },
     "0217004056548": {
       "barcode": "0217004056548",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.838232+00:00"
+      "updated_at": "2026-11-20T19:00:42.341004+00:00"
     },
     "0219027018374": {
       "barcode": "0219027018374",
@@ -80,7 +80,27 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.866622+00:00"
+      "updated_at": "2026-11-20T19:00:42.397359+00:00"
+    },
+    "0219966030116": {
+      "barcode": "0219966030116",
+      "product_name": "filets de poulet carrefour",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T19:00:42.496230+00:00"
     }
   }
 }

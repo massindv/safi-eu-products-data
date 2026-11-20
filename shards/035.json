@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "035",
   "count": 3,
-  "updated_at": "2026-11-20T18:42:38.966247+00:00",
+  "updated_at": "2026-11-20T19:00:42.600612+00:00",
   "products": {
     "0358947864019": {
       "barcode": "0358947864019",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:42:38.216211+00:00"
+      "updated_at": "2026-11-20T19:00:41.602691+00:00"
     },
     "03515389": {
       "barcode": "03515389",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:42:38.733930+00:00"
+      "updated_at": "2026-11-20T19:00:42.214708+00:00"
     },
     "0358947748562": {
       "barcode": "0358947748562",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T18:42:38.858544+00:00"
+      "updated_at": "2026-11-20T19:00:42.366762+00:00"
     }
   }
 }

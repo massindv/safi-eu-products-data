@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "094",
   "count": 2,
-  "updated_at": "2026-11-20T18:42:39.010434+00:00",
+  "updated_at": "2026-11-20T19:00:42.659113+00:00",
   "products": {
     "09459412": {
       "barcode": "09459412",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:42:38.170285+00:00"
+      "updated_at": "2026-11-20T19:00:41.553292+00:00"
     },
     "0944854503327": {
       "barcode": "0944854503327",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:42:38.793715+00:00"
+      "updated_at": "2026-11-20T19:00:42.283770+00:00"
     }
   }
 }

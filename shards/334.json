@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "334",
   "count": 4,
-  "updated_at": "2026-11-20T18:42:39.184462+00:00",
+  "updated_at": "2026-11-20T19:00:42.839126+00:00",
   "products": {
     "3343450400127": {
       "barcode": "3343450400127",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.147125+00:00"
+      "updated_at": "2026-11-20T19:00:41.534245+00:00"
     },
     "3341504005236": {
       "barcode": "3341504005236",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.480874+00:00"
+      "updated_at": "2026-11-20T19:00:41.928904+00:00"
     },
     "3340040000101": {
       "barcode": "3340040000101",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:42:38.492301+00:00"
+      "updated_at": "2026-11-20T19:00:41.939386+00:00"
     },
     "3343660011779": {
       "barcode": "3343660011779",
@@ -76,7 +76,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.700649+00:00"
+      "updated_at": "2026-11-20T19:00:42.177344+00:00"
     }
   }
 }

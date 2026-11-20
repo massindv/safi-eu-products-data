@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "609",
-  "count": 3,
-  "updated_at": "2026-11-20T18:42:39.400818+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T19:00:43.203605+00:00",
   "products": {
     "6091091000301": {
       "barcode": "6091091000301",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.243310+00:00"
+      "updated_at": "2026-11-20T19:00:41.632123+00:00"
     },
     "6091303441113": {
       "barcode": "6091303441113",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:42:38.467027+00:00"
+      "updated_at": "2026-11-20T19:00:41.916007+00:00"
     },
     "6095505771788": {
       "barcode": "6095505771788",
@@ -58,7 +58,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:42:38.541663+00:00"
+      "updated_at": "2026-11-20T19:00:41.990109+00:00"
+    },
+    "6091309250016": {
+      "barcode": "6091309250016",
+      "product_name": "Ananas frais",
+      "store": "carrefour.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T19:00:42.526628+00:00"
     }
   }
 }

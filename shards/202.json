@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "202",
   "count": 1,
-  "updated_at": "2026-11-20T18:42:39.049152+00:00",
+  "updated_at": "2026-11-20T19:00:42.706888+00:00",
   "products": {
     "2023040000005": {
       "barcode": "2023040000005",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.133480+00:00"
+      "updated_at": "2026-11-20T19:00:41.525143+00:00"
     }
   }
 }

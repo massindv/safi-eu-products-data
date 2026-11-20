@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "029",
-  "count": 2,
-  "updated_at": "2026-11-20T18:42:38.964820+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T19:00:42.595545+00:00",
   "products": {
     "0296299079906": {
       "barcode": "0296299079906",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:42:38.446083+00:00"
+      "updated_at": "2026-11-20T19:00:41.889222+00:00"
     },
     "0291562071304": {
       "barcode": "0291562071304",
@@ -40,7 +40,29 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.838295+00:00"
+      "updated_at": "2026-11-20T19:00:42.341064+00:00"
+    },
+    "0291897026765": {
+      "barcode": "0291897026765",
+      "product_name": "Saucisse fumée",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc (97%), assaisonnement (dot sel, dortrone siee de glucose, antioxydants (E316, 1.300), plantas aromatique, hute de taurees colorant (E120), extrait d upice. at de Boyau naturel de porc.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "carmine",
+        "insect_derived"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 / karmijnzuur insect colorant",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T19:00:42.495932+00:00"
     }
   }
 }

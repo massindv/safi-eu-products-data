@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "300",
-  "count": 2,
-  "updated_at": "2026-11-20T18:42:39.116515+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T19:00:42.771975+00:00",
   "products": {
     "30000148": {
       "barcode": "30000148",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.433328+00:00"
+      "updated_at": "2026-11-20T19:00:41.870591+00:00"
     },
     "3000013060005": {
       "barcode": "3000013060005",
@@ -40,7 +40,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.914819+00:00"
+      "updated_at": "2026-11-20T19:00:42.490091+00:00"
+    },
+    "3000017040881": {
+      "barcode": "3000017040881",
+      "product_name": "Ail Blanc - Origine France",
+      "store": "delhaize.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T19:00:42.526316+00:00"
     }
   }
 }

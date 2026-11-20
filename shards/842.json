@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "842",
-  "count": 4,
-  "updated_at": "2026-11-20T18:42:39.449123+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T19:00:43.326194+00:00",
   "products": {
     "8424523030337": {
       "barcode": "8424523030337",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:42:38.298362+00:00"
+      "updated_at": "2026-11-20T19:00:41.684802+00:00"
     },
     "8422584013740": {
       "barcode": "8422584013740",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.330675+00:00"
+      "updated_at": "2026-11-20T19:00:41.732675+00:00"
     },
     "8424523030122": {
       "barcode": "8424523030122",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.580567+00:00"
+      "updated_at": "2026-11-20T19:00:42.037595+00:00"
     },
     "8422584014167": {
       "barcode": "8422584014167",
@@ -74,7 +74,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:42:38.731810+00:00"
+      "updated_at": "2026-11-20T19:00:42.209786+00:00"
+    },
+    "8424766100224": {
+      "barcode": "8424766100224",
+      "product_name": "Céleri Cat. I",
+      "store": "delhaize.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T19:00:42.526270+00:00"
+    },
+    "8428201320147": {
+      "barcode": "8428201320147",
+      "product_name": "Hierbas provenzales",
+      "store": "carrefour.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Tomillo, romero, ajedrea, mejorana, hisopo, orégano.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T19:00:42.527078+00:00"
     }
   }
 }

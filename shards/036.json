@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "036",
   "count": 2,
-  "updated_at": "2026-11-20T18:42:38.966633+00:00",
+  "updated_at": "2026-11-20T19:00:42.604031+00:00",
   "products": {
     "03687598": {
       "barcode": "03687598",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:42:38.488898+00:00"
+      "updated_at": "2026-11-20T19:00:41.936421+00:00"
     },
     "03634015": {
       "barcode": "03634015",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:42:38.632519+00:00"
+      "updated_at": "2026-11-20T19:00:42.095346+00:00"
     }
   }
 }

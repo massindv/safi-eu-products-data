@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "600",
   "count": 2,
-  "updated_at": "2026-11-20T18:42:39.400223+00:00",
+  "updated_at": "2026-11-20T19:00:43.193764+00:00",
   "products": {
     "6009706974442": {
       "barcode": "6009706974442",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_7575445641326543524d75765f645476634e67684677?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_7575445641326543524d75765f645476634e67684677?revLabel=1&rendition=800x800_JPG&fileType=binary",
       "ingredients_text": "Ingrediënten:\n                            Druiven. Gebotteld onder beschermende atmosfeer. Allergie-informatie Bevat: Sulfieten",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:42:37.868620+00:00"
+      "updated_at": "2026-11-20T19:00:41.241051+00:00"
     },
     "6009157423704": {
       "barcode": "6009157423704",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:42:38.731327+00:00"
+      "updated_at": "2026-11-20T19:00:42.209055+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "049",
   "count": 1,
-  "updated_at": "2026-11-20T18:42:38.978634+00:00",
+  "updated_at": "2026-11-20T19:00:42.613114+00:00",
   "products": {
     "0491116701002": {
       "barcode": "0491116701002",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:42:38.829542+00:00"
+      "updated_at": "2026-11-20T19:00:42.325090+00:00"
     }
   }
 }

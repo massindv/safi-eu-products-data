@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "489",
   "count": 2,
-  "updated_at": "2026-11-20T18:42:39.268806+00:00",
+  "updated_at": "2026-11-20T19:00:42.959102+00:00",
   "products": {
     "4895241205293": {
       "barcode": "4895241205293",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:42:38.319375+00:00"
+      "updated_at": "2026-11-20T19:00:41.721148+00:00"
     },
     "48944663": {
       "barcode": "48944663",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:42:38.483979+00:00"
+      "updated_at": "2026-11-20T19:00:41.932631+00:00"
     }
   }
 }

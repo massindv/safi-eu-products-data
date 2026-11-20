@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "020",
-  "count": 5,
-  "updated_at": "2026-11-20T18:42:38.949834+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T19:00:42.588653+00:00",
   "products": {
     "0204669011159": {
       "barcode": "0204669011159",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:42:38.150699+00:00"
+      "updated_at": "2026-11-20T19:00:41.538829+00:00"
     },
     "0204590096959": {
       "barcode": "0204590096959",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:42:38.443866+00:00"
+      "updated_at": "2026-11-20T19:00:41.887262+00:00"
     },
     "0202025012468": {
       "barcode": "0202025012468",
@@ -60,7 +60,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.515023+00:00"
+      "updated_at": "2026-11-20T19:00:41.966641+00:00"
     },
     "0202057005582": {
       "barcode": "0202057005582",
@@ -78,7 +78,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.515650+00:00"
+      "updated_at": "2026-11-20T19:00:41.967270+00:00"
     },
     "0200002016409": {
       "barcode": "0200002016409",
@@ -96,7 +96,27 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.866883+00:00"
+      "updated_at": "2026-11-20T19:00:42.397944+00:00"
+    },
+    "0207719053468": {
+      "barcode": "0207719053468",
+      "product_name": "Porc caissette côte",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T19:00:42.496180+00:00"
     }
   }
 }

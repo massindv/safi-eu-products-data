@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "309",
-  "count": 5,
-  "updated_at": "2026-11-20T18:42:39.135310+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T19:00:42.781934+00:00",
   "products": {
     "3095758049019": {
       "barcode": "3095758049019",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:37.955930+00:00"
+      "updated_at": "2026-11-20T19:00:41.340218+00:00"
     },
     "3095754136010": {
       "barcode": "3095754136010",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:37.956205+00:00"
+      "updated_at": "2026-11-20T19:00:41.340303+00:00"
     },
     "3095756102013": {
       "barcode": "3095756102013",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:37.956754+00:00"
+      "updated_at": "2026-11-20T19:00:41.340526+00:00"
     },
     "3092719701085": {
       "barcode": "3092719701085",
@@ -80,7 +80,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:42:38.427151+00:00"
+      "updated_at": "2026-11-20T19:00:41.855946+00:00"
     },
     "3092718623340": {
       "barcode": "3092718623340",
@@ -98,7 +98,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:42:38.916286+00:00"
+      "updated_at": "2026-11-20T19:00:42.492742+00:00"
+    },
+    "3095757525101": {
+      "barcode": "3095757525101",
+      "product_name": "Jambon cuit Le supérieur découenné dégraissé 2 tranches Fleury Michon",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T19:00:42.497182+00:00"
     }
   }
 }
