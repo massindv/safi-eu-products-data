@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "200",
-  "count": 1,
-  "updated_at": "2026-11-20T16:17:15.110049+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T16:32:35.273766+00:00",
   "products": {
     "2000000007888": {
       "barcode": "2000000007888",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:17:15.022122+00:00"
+      "updated_at": "2026-11-20T16:32:35.118001+00:00"
+    },
+    "2000000007887": {
+      "barcode": "2000000007887",
+      "product_name": "Guiness draught",
+      "store": "carrefour.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "water, malt, barley, (barley, hops, extract , yeast, ?) different composition depending on the language ?",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.230316+00:00"
     }
   }
 }

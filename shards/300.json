@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "300",
+  "count": 1,
+  "updated_at": "2026-11-20T16:32:35.319875+00:00",
+  "products": {
+    "30000148": {
+      "barcode": "30000148",
+      "product_name": "Les Rillettes Hénaff, Pur Porc",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc (90 %), gras de porc, sel de mer, poivre.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.230983+00:00"
+    }
+  }
+}

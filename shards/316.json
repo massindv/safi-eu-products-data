@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "316",
-  "count": 2,
-  "updated_at": "2026-11-20T16:17:15.131640+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:32:35.332409+00:00",
   "products": {
     "3166291010610": {
       "barcode": "3166291010610",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:17:14.899870+00:00"
+      "updated_at": "2026-11-20T16:32:34.996777+00:00"
     },
     "3168930170549": {
       "barcode": "3168930170549",
@@ -38,7 +38,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.088365+00:00"
+      "updated_at": "2026-11-20T16:32:35.210488+00:00"
+    },
+    "3165440008621": {
+      "barcode": "3165440008621",
+      "product_name": "Céréales gourmandes",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Semoule de _blé_ dur précuite (56,5%). flocons de _soja_ précuits (25% ). semoule de maïs précuite (13%), farine de _blé_, flocons d'_orge_ précuits.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.244370+00:00"
     }
   }
 }

@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "229",
+  "count": 1,
+  "updated_at": "2026-11-20T16:32:35.293273+00:00",
+  "products": {
+    "2291921006099": {
+      "barcode": "2291921006099",
+      "product_name": "Filet de cuisse de poulet Bio",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.240315+00:00"
+    }
+  }
+}

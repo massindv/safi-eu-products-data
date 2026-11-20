@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "020",
-  "count": 1,
-  "updated_at": "2026-11-20T16:17:15.096855+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T16:32:35.252198+00:00",
   "products": {
     "0204669011159": {
       "barcode": "0204669011159",
@@ -22,7 +22,27 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:17:14.939979+00:00"
+      "updated_at": "2026-11-20T16:32:35.039122+00:00"
+    },
+    "0204590096959": {
+      "barcode": "0204590096959",
+      "product_name": "pierrade porc boeuf canard dinde",
+      "store": "colruyt.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "250g de viande bovine, 250g de porc, 250g de dinde, 250g de filet de canard",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:32:35.235697+00:00"
     }
   }
 }

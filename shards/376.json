@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "376",
-  "count": 6,
-  "updated_at": "2026-11-20T16:17:15.157623+00:00",
+  "count": 11,
+  "updated_at": "2026-11-20T16:32:35.381494+00:00",
   "products": {
     "3760049790214": {
       "barcode": "3760049790214",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.867258+00:00"
+      "updated_at": "2026-11-20T16:32:34.968790+00:00"
     },
     "3760056265118": {
       "barcode": "3760056265118",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:17:14.915084+00:00"
+      "updated_at": "2026-11-20T16:32:35.009290+00:00"
     },
     "3760092218055": {
       "barcode": "3760092218055",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:17:14.947609+00:00"
+      "updated_at": "2026-11-20T16:32:35.045446+00:00"
     },
     "3760091726667": {
       "barcode": "3760091726667",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.951542+00:00"
+      "updated_at": "2026-11-20T16:32:35.050847+00:00"
     },
     "3760226261292": {
       "barcode": "3760226261292",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.064126+00:00"
+      "updated_at": "2026-11-20T16:32:35.169049+00:00"
     },
     "3760091725776": {
       "barcode": "3760091725776",
@@ -110,7 +110,99 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.078504+00:00"
+      "updated_at": "2026-11-20T16:32:35.196457+00:00"
+    },
+    "3760014287466": {
+      "barcode": "3760014287466",
+      "product_name": "moulin à vent",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.224914+00:00"
+    },
+    "3760150610159": {
+      "barcode": "3760150610159",
+      "product_name": "Vin rouge Château du Glana Saint-Julien",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.224948+00:00"
+    },
+    "3760018890068": {
+      "barcode": "3760018890068",
+      "product_name": "saint-chinian-les combes noires",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.225597+00:00"
+    },
+    "3760020505929": {
+      "barcode": "3760020505929",
+      "product_name": "Bouillon cube légumes dégraissé",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "DU BOUILLON DÉSHYDRATÉ : sel marin, maltodextrine*, amidon* de maïs, sirop de glucose*, légumes* 11% (oignons*, carottes*, poireaux*, tomates*, poivrons rouges*, CELERI*), extrait de levure, épices*, fines herbes* (CELERI), sucre caramélisé*, huile d'olive*. *Produits issus de l'agriculture biologique. Peut contenir des traces de gluten, d'OEUFS, SOJA, LAIT et MOUTARDE.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.243273+00:00"
+    },
+    "3760341070540": {
+      "barcode": "3760341070540",
+      "product_name": "Le Thaï du Plateau de l'i-san pure origine",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Riz thaï long grain.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.243527+00:00"
     }
   }
 }

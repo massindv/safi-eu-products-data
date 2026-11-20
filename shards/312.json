@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "312",
-  "count": 4,
-  "updated_at": "2026-11-20T16:17:15.130278+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:32:35.330569+00:00",
   "products": {
     "3123930617609": {
       "barcode": "3123930617609",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:17:14.914522+00:00"
+      "updated_at": "2026-11-20T16:32:35.008854+00:00"
     },
     "3124480185266": {
       "barcode": "3124480185266",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.088638+00:00"
+      "updated_at": "2026-11-20T16:32:35.210720+00:00"
     },
     "3124480191182": {
       "barcode": "3124480191182",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.088824+00:00"
+      "updated_at": "2026-11-20T16:32:35.210947+00:00"
     },
     "3124480167026": {
       "barcode": "3124480167026",
@@ -74,7 +74,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.089169+00:00"
+      "updated_at": "2026-11-20T16:32:35.211355+00:00"
+    },
+    "3124480184801": {
+      "barcode": "3124480184801",
+      "product_name": "Schweppes Ginger Ale",
+      "store": "delhaize.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau gazéifiée, sucre, acidifiant, extrait de gingembre, arôme naturel de gingembre avec autres arômes naturels, correcteur d'acidité, conservateur, édulcorant.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.220576+00:00"
+    },
+    "3123023731403": {
+      "barcode": "3123023731403",
+      "product_name": "&quot;50CL Eau De Vie De Mirabelle Cigogne 40 &deg;&quot;",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.225737+00:00"
     }
   }
 }

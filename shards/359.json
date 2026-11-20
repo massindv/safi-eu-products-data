@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "359",
-  "count": 3,
-  "updated_at": "2026-11-20T16:17:15.155750+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:32:35.378700+00:00",
   "products": {
     "3596690122094": {
       "barcode": "3596690122094",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.856576+00:00"
+      "updated_at": "2026-11-20T16:32:34.956679+00:00"
     },
     "3597620006613": {
       "barcode": "3597620006613",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.045052+00:00"
+      "updated_at": "2026-11-20T16:32:35.142824+00:00"
     },
     "3599741003380": {
       "barcode": "3599741003380",
@@ -58,7 +58,27 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.061923+00:00"
+      "updated_at": "2026-11-20T16:32:35.164354+00:00"
+    },
+    "3591592217039": {
+      "barcode": "3591592217039",
+      "product_name": "Cidre bouché doux NATUR'POM",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "pommes\nsucre",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.225811+00:00"
     }
   }
 }

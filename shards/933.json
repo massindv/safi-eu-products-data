@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "933",
+  "count": 1,
+  "updated_at": "2026-11-20T16:32:35.550917+00:00",
+  "products": {
+    "9338973002037": {
+      "barcode": "9338973002037",
+      "product_name": "Vin mouseux sans alcool",
+      "store": "delhaize.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.229701+00:00"
+    }
+  }
+}

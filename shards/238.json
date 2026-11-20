@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "238",
-  "count": 7,
-  "updated_at": "2026-11-20T16:17:15.123118+00:00",
+  "count": 9,
+  "updated_at": "2026-11-20T16:32:35.306560+00:00",
   "products": {
     "2385407906796": {
       "barcode": "2385407906796",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:17:14.861872+00:00"
+      "updated_at": "2026-11-20T16:32:34.962873+00:00"
     },
     "2389232803169": {
       "barcode": "2389232803169",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.862904+00:00"
+      "updated_at": "2026-11-20T16:32:34.963934+00:00"
     },
     "2389221403561": {
       "barcode": "2389221403561",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.863543+00:00"
+      "updated_at": "2026-11-20T16:32:34.964574+00:00"
     },
     "2385306403358": {
       "barcode": "2385306403358",
@@ -76,7 +76,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:17:14.912216+00:00"
+      "updated_at": "2026-11-20T16:32:35.007017+00:00"
     },
     "2389282207375": {
       "barcode": "2389282207375",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.914294+00:00"
+      "updated_at": "2026-11-20T16:32:35.008683+00:00"
     },
     "2385323003319": {
       "barcode": "2385323003319",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.914411+00:00"
+      "updated_at": "2026-11-20T16:32:35.008766+00:00"
     },
     "2385375307557": {
       "barcode": "2385375307557",
@@ -130,7 +130,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:15.071953+00:00"
+      "updated_at": "2026-11-20T16:32:35.184907+00:00"
+    },
+    "2389232403079": {
+      "barcode": "2389232403079",
+      "product_name": "Scharrel flinterdunne kipfilet",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.238312+00:00"
+    },
+    "2385305508672": {
+      "barcode": "2385305508672",
+      "product_name": "Biefstuk spiesjes tuinkruiden",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.240060+00:00"
     }
   }
 }

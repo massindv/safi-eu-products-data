@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "370",
-  "count": 3,
-  "updated_at": "2026-11-20T16:17:15.157012+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:32:35.380555+00:00",
   "products": {
     "3701283800437": {
       "barcode": "3701283800437",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:17:14.983182+00:00"
+      "updated_at": "2026-11-20T16:32:35.077373+00:00"
     },
     "3700211234221": {
       "barcode": "3700211234221",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.024186+00:00"
+      "updated_at": "2026-11-20T16:32:35.121422+00:00"
     },
     "3700111093119": {
       "barcode": "3700111093119",
@@ -56,7 +56,63 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.089582+00:00"
+      "updated_at": "2026-11-20T16:32:35.212128+00:00"
+    },
+    "3700271001092": {
+      "barcode": "3700271001092",
+      "product_name": "Tropico",
+      "store": "carrefour.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "eau de souce 80%, jus de fruits à base de concentrés 13,4% (orange et ananas), sucre, acidifiant : acide citrique, arômes, antioxydant : acide ascorbique, colorant : bêta-carotène",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.224449+00:00"
+    },
+    "3700435300252": {
+      "barcode": "3700435300252",
+      "product_name": "EU Product",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.224961+00:00"
+    },
+    "3700325910882": {
+      "barcode": "3700325910882",
+      "product_name": "Vin de Bordeaux 2016",
+      "store": "colruyt.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:32:35.226331+00:00"
     }
   }
 }

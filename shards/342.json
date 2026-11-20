@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "342",
-  "count": 6,
-  "updated_at": "2026-11-20T16:17:15.145535+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T16:32:35.353739+00:00",
   "products": {
     "3421557501630": {
       "barcode": "3421557501630",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.873835+00:00"
+      "updated_at": "2026-11-20T16:32:34.976563+00:00"
     },
     "3421557501869": {
       "barcode": "3421557501869",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.041746+00:00"
+      "updated_at": "2026-11-20T16:32:35.139336+00:00"
     },
     "3421557910067": {
       "barcode": "3421557910067",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.042550+00:00"
+      "updated_at": "2026-11-20T16:32:35.140291+00:00"
     },
     "3421557501968": {
       "barcode": "3421557501968",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.044425+00:00"
+      "updated_at": "2026-11-20T16:32:35.142150+00:00"
     },
     "3421557501265": {
       "barcode": "3421557501265",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.044535+00:00"
+      "updated_at": "2026-11-20T16:32:35.142262+00:00"
     },
     "3421557501272": {
       "barcode": "3421557501272",
@@ -110,7 +110,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.044725+00:00"
+      "updated_at": "2026-11-20T16:32:35.142474+00:00"
+    },
+    "3423290070732": {
+      "barcode": "3423290070732",
+      "product_name": "Bordeau Rosé",
+      "store": "carrefour.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.230714+00:00"
     }
   }
 }

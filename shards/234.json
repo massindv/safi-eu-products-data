@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "234",
-  "count": 4,
-  "updated_at": "2026-11-20T16:17:15.118852+00:00",
+  "count": 12,
+  "updated_at": "2026-11-20T16:32:35.297354+00:00",
   "products": {
     "2348740404671": {
       "barcode": "2348740404671",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.859304+00:00"
+      "updated_at": "2026-11-20T16:32:34.960267+00:00"
     },
     "2346726502656": {
       "barcode": "2346726502656",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.860789+00:00"
+      "updated_at": "2026-11-20T16:32:34.961778+00:00"
     },
     "2340110906846": {
       "barcode": "2340110906846",
@@ -60,7 +60,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.914161+00:00"
+      "updated_at": "2026-11-20T16:32:35.008595+00:00"
     },
     "2340621103093": {
       "barcode": "2340621103093",
@@ -80,7 +80,153 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.914352+00:00"
+      "updated_at": "2026-11-20T16:32:35.008717+00:00"
+    },
+    "2348950206980": {
+      "barcode": "2348950206980",
+      "product_name": "Shoarma dijfilet",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237522+00:00"
+    },
+    "2349004503024": {
+      "barcode": "2349004503024",
+      "product_name": "Scharrel kipfilet flinterdun",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237544+00:00"
+    },
+    "2348574702509": {
+      "barcode": "2348574702509",
+      "product_name": "Gebraden Kiprollade",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237670+00:00"
+    },
+    "2348976204922": {
+      "barcode": "2348976204922",
+      "product_name": "Dijfilet gemarineerd",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Kippenvlees 90,3%,water 6,8%,zout,raapzaadolie,specerijen (paprikapoeder, witte peper, zwarte peper, knoflookpoeder),kruiden (oregano, basilicum, tijm, peterselie),gemodificeerd maïszetmeel,maïszetmeel,tomatenpoeder,natuurlijk aroma,natuurlijk aroma's (knoflook, ui, paprika),gistextract,gerookt zout.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237837+00:00"
+    },
+    "2349057904229": {
+      "barcode": "2349057904229",
+      "product_name": "Zigeunerschitzel",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Varkensvlees 74,8%,paneermeel 11,4% (tarwebloem, water, gist, zout, extract van paprika),water,gedroogde groenten (paprika, ui),bloem (tarwe, maïs),specerijen (paprikapoeder, kurkuma, venkelzaad, witte peper),zout,raapzaadolie,kruiden (koriander, fenegriek),natuurlijk aroma,zetmeel (maïs, tarwe).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237953+00:00"
+    },
+    "2340271203327": {
+      "barcode": "2340271203327",
+      "product_name": "Kalkoenfilet",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.238128+00:00"
+    },
+    "2340271903296": {
+      "barcode": "2340271903296",
+      "product_name": "Kalkoenfilet",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.238473+00:00"
+    },
+    "2340271803398": {
+      "barcode": "2340271803398",
+      "product_name": "Kalkoenfilet",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.238513+00:00"
     }
   }
 }

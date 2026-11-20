@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "543",
-  "count": 1,
-  "updated_at": "2026-11-20T16:17:15.199143+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:32:35.465473+00:00",
   "products": {
     "5430000408776": {
       "barcode": "5430000408776",
@@ -20,7 +20,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:17:14.894838+00:00"
+      "updated_at": "2026-11-20T16:32:34.993055+00:00"
+    },
+    "5430000560184": {
+      "barcode": "5430000560184",
+      "product_name": "Merlot",
+      "store": "delhaize.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.230096+00:00"
+    },
+    "5430001342246": {
+      "barcode": "5430001342246",
+      "product_name": "Latem Smake",
+      "store": "delhaize.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.230114+00:00"
     }
   }
 }

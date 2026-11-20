@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "233",
-  "count": 4,
-  "updated_at": "2026-11-20T16:17:15.118096+00:00",
+  "count": 8,
+  "updated_at": "2026-11-20T16:32:35.296167+00:00",
   "products": {
     "2335592205389": {
       "barcode": "2335592205389",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.860938+00:00"
+      "updated_at": "2026-11-20T16:32:34.961928+00:00"
     },
     "2336136402806": {
       "barcode": "2336136402806",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.861478+00:00"
+      "updated_at": "2026-11-20T16:32:34.962471+00:00"
     },
     "2333422203277": {
       "barcode": "2333422203277",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.911282+00:00"
+      "updated_at": "2026-11-20T16:32:35.006367+00:00"
     },
     "2336146203837": {
       "barcode": "2336146203837",
@@ -76,7 +76,79 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.911392+00:00"
+      "updated_at": "2026-11-20T16:32:35.006463+00:00"
+    },
+    "2335881804323": {
+      "barcode": "2335881804323",
+      "product_name": "Kipdij filet",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "kippenvlees",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237253+00:00"
+    },
+    "2335865503181": {
+      "barcode": "2335865503181",
+      "product_name": "Gerookte kipfilet",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237304+00:00"
+    },
+    "2333762404884": {
+      "barcode": "2333762404884",
+      "product_name": "Biefstukreepjes",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237435+00:00"
+    },
+    "2333440402805": {
+      "barcode": "2333440402805",
+      "product_name": "Boerenpaté",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237485+00:00"
     }
   }
 }

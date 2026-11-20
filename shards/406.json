@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "406",
-  "count": 3,
-  "updated_at": "2026-11-20T16:17:15.160718+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:32:35.386378+00:00",
   "products": {
     "4065019063947": {
       "barcode": "4065019063947",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.909995+00:00"
+      "updated_at": "2026-11-20T16:32:35.005302+00:00"
     },
     "4065019064579": {
       "barcode": "4065019064579",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.911326+00:00"
+      "updated_at": "2026-11-20T16:32:35.006405+00:00"
     },
     "4062300217256": {
       "barcode": "4062300217256",
@@ -58,7 +58,61 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.025462+00:00"
+      "updated_at": "2026-11-20T16:32:35.123478+00:00"
+    },
+    "4062400115483": {
+      "barcode": "4062400115483",
+      "product_name": "Sierra Tequila Silver",
+      "store": "delhaize.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "鱼费鱼 STERRA TEQUILA BLAUE AGAVEN aus dem HOCHLAND, vulkanische Erde, 2-fache DESTILLATION in KUPFERKESSELN, mexikanische SONNE und das WISSEN dreier FAMILIENGENERA - TIONEN sind die Zutaten für diesen groß - artigen klaren TEQUILA, Sein fruchtig-aroma - tischer GESCHMACK ist pur, mit SALZ und Imported by BORCO-MARKEN-IMPORT, D-22525 Hamburg VO |E70 CL | NOM 1451 | CRT 6 L21347201113",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.221298+00:00"
+    },
+    "4066600611981": {
+      "barcode": "4066600611981",
+      "product_name": "Paulaner Weissbier",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "water, _malted wheat_, _malted barley_, yeast, hops",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.224585+00:00"
+    },
+    "4067700013019": {
+      "barcode": "4067700013019",
+      "product_name": "Jägermeister",
+      "store": "delhaize.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.229196+00:00"
     }
   }
 }

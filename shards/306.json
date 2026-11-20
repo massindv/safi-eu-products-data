@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "306",
-  "count": 10,
-  "updated_at": "2026-11-20T16:17:15.128439+00:00",
+  "count": 13,
+  "updated_at": "2026-11-20T16:32:35.327263+00:00",
   "products": {
     "3068320120256": {
       "barcode": "3068320120256",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.088067+00:00"
+      "updated_at": "2026-11-20T16:32:35.210197+00:00"
     },
     "3060921506972": {
       "barcode": "3060921506972",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:17:14.917132+00:00"
+      "updated_at": "2026-11-20T16:32:35.010978+00:00"
     },
     "3060921463411": {
       "barcode": "3060921463411",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:17:14.917417+00:00"
+      "updated_at": "2026-11-20T16:32:35.011198+00:00"
     },
     "3060921463398": {
       "barcode": "3060921463398",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:17:14.917435+00:00"
+      "updated_at": "2026-11-20T16:32:35.011210+00:00"
     },
     "3060921461318": {
       "barcode": "3060921461318",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:17:14.917539+00:00"
+      "updated_at": "2026-11-20T16:32:35.011300+00:00"
     },
     "3060921503827": {
       "barcode": "3060921503827",
@@ -119,7 +119,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:17:14.917712+00:00"
+      "updated_at": "2026-11-20T16:32:35.011430+00:00"
     },
     "3060921463497": {
       "barcode": "3060921463497",
@@ -137,7 +137,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:17:14.925152+00:00"
+      "updated_at": "2026-11-20T16:32:35.019816+00:00"
     },
     "3061990143365": {
       "barcode": "3061990143365",
@@ -155,7 +155,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.949317+00:00"
+      "updated_at": "2026-11-20T16:32:35.048305+00:00"
     },
     "3061990142467": {
       "barcode": "3061990142467",
@@ -173,7 +173,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:17:15.035303+00:00"
+      "updated_at": "2026-11-20T16:32:35.134158+00:00"
     },
     "3068320120348": {
       "barcode": "3068320120348",
@@ -191,7 +191,61 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:17:15.090366+00:00"
+      "updated_at": "2026-11-20T16:32:35.213309+00:00"
+    },
+    "3068320055022": {
+      "barcode": "3068320055022",
+      "product_name": "Evian 6x50cl PET",
+      "store": "delhaize.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.221357+00:00"
+    },
+    "3068320111919": {
+      "barcode": "3068320111919",
+      "product_name": "Eau minérale naturelle",
+      "store": "carrefour.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "eau",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.223938+00:00"
+    },
+    "3068320063003": {
+      "barcode": "3068320063003",
+      "product_name": "Evian 33cl PET",
+      "store": "carrefour.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau minérale naturelle",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.224297+00:00"
     }
   }
 }

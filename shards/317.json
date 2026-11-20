@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "317",
-  "count": 14,
-  "updated_at": "2026-11-20T16:17:15.131977+00:00",
+  "count": 18,
+  "updated_at": "2026-11-20T16:32:35.332832+00:00",
   "products": {
     "3175460000017": {
       "barcode": "3175460000017",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.800987+00:00"
+      "updated_at": "2026-11-20T16:32:34.901461+00:00"
     },
     "3175681257566": {
       "barcode": "3175681257566",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.868268+00:00"
+      "updated_at": "2026-11-20T16:32:34.970739+00:00"
     },
     "3175681028111": {
       "barcode": "3175681028111",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.868432+00:00"
+      "updated_at": "2026-11-20T16:32:34.971003+00:00"
     },
     "3179142054725": {
       "barcode": "3179142054725",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:17:14.891091+00:00"
+      "updated_at": "2026-11-20T16:32:34.989408+00:00"
     },
     "3176582069302": {
       "barcode": "3176582069302",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.910024+00:00"
+      "updated_at": "2026-11-20T16:32:35.005328+00:00"
     },
     "3175360000179": {
       "barcode": "3175360000179",
@@ -119,7 +119,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:17:14.916303+00:00"
+      "updated_at": "2026-11-20T16:32:35.010267+00:00"
     },
     "3175681105423": {
       "barcode": "3175681105423",
@@ -137,7 +137,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.948755+00:00"
+      "updated_at": "2026-11-20T16:32:35.047418+00:00"
     },
     "3175681077324": {
       "barcode": "3175681077324",
@@ -155,7 +155,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.950966+00:00"
+      "updated_at": "2026-11-20T16:32:35.050229+00:00"
     },
     "3175681116832": {
       "barcode": "3175681116832",
@@ -173,7 +173,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.951086+00:00"
+      "updated_at": "2026-11-20T16:32:35.050367+00:00"
     },
     "3175681039599": {
       "barcode": "3175681039599",
@@ -191,7 +191,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.953461+00:00"
+      "updated_at": "2026-11-20T16:32:35.054011+00:00"
     },
     "3175681060586": {
       "barcode": "3175681060586",
@@ -209,7 +209,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.954336+00:00"
+      "updated_at": "2026-11-20T16:32:35.055100+00:00"
     },
     "3178530421064": {
       "barcode": "3178530421064",
@@ -227,7 +227,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:17:14.982656+00:00"
+      "updated_at": "2026-11-20T16:32:35.076673+00:00"
     },
     "3178530408546": {
       "barcode": "3178530408546",
@@ -245,7 +245,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.024568+00:00"
+      "updated_at": "2026-11-20T16:32:35.122151+00:00"
     },
     "3175681224797": {
       "barcode": "3175681224797",
@@ -263,7 +263,79 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.025628+00:00"
+      "updated_at": "2026-11-20T16:32:35.123643+00:00"
+    },
+    "3179732333926": {
+      "barcode": "3179732333926",
+      "product_name": "Eau minérale naturelle",
+      "store": "delhaize.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Minéralisation caractéristique (mg/L) : Calcium (Ca 2+) : 240 / Magnésium (Mg 2+) : 42 / Sodium (Na+) : 5,2 / Sulfate (SO4 2-) : 400 / Nitrate (NO3-) : 4,4 / Hydrogénocarbonate (HCO3-) : 384 / Résidu sec à 180°C : 1084 mg/L.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.220435+00:00"
+    },
+    "3172256000367": {
+      "barcode": "3172256000367",
+      "product_name": "Chardonnay",
+      "store": "colruyt.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:32:35.226752+00:00"
+    },
+    "3175681259096": {
+      "barcode": "3175681259096",
+      "product_name": "Dahl",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau, lentilles corail* 10%, pois chiches réhydratés 9,6%, tomate concassée au jus* 8,8% (tomates*, jus de tomate*), oignons* 8,6%, potimarron* 8,6%, huile de tournesol*, concentré de tomate* 3,5%, lait de coco* 2,9%, curry* (moutarde*, céleri*), protéines de soja texturées* 1,8%, sel de mer, plante aromatique*, sucre de canne*. *Ingrédients issus de l'agriculture biologique",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.243734+00:00"
+    },
+    "3179148905700": {
+      "barcode": "3179148905700",
+      "product_name": "speculaas kruiden",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Kaneel, korianderzaad, karwij, nootmuskaat, gember, kruidnagel.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:32:35.245181+00:00"
     }
   }
 }

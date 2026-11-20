@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "352",
-  "count": 3,
-  "updated_at": "2026-11-20T16:17:15.147593+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:32:35.364508+00:00",
   "products": {
     "3523230028431": {
       "barcode": "3523230028431",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.903363+00:00"
+      "updated_at": "2026-11-20T16:32:34.998619+00:00"
     },
     "3523230052856": {
       "barcode": "3523230052856",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.904073+00:00"
+      "updated_at": "2026-11-20T16:32:34.999213+00:00"
     },
     "3523230039680": {
       "barcode": "3523230039680",
@@ -56,7 +56,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.926040+00:00"
+      "updated_at": "2026-11-20T16:32:35.021731+00:00"
+    },
+    "3523680438224": {
+      "barcode": "3523680438224",
+      "product_name": "Bio et équitable",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Banane",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.243954+00:00"
     }
   }
 }

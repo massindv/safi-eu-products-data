@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "231",
-  "count": 3,
-  "updated_at": "2026-11-20T16:17:15.117219+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:32:35.294639+00:00",
   "products": {
     "2312129804765": {
       "barcode": "2312129804765",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.910725+00:00"
+      "updated_at": "2026-11-20T16:32:35.005996+00:00"
     },
     "2310161801315": {
       "barcode": "2310161801315",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.911095+00:00"
+      "updated_at": "2026-11-20T16:32:35.006228+00:00"
     },
     "2310161301747": {
       "barcode": "2310161301747",
@@ -58,7 +58,27 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.911456+00:00"
+      "updated_at": "2026-11-20T16:32:35.006518+00:00"
+    },
+    "2311106103860": {
+      "barcode": "2311106103860",
+      "product_name": "Runderhart",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Rundvlees.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.240006+00:00"
     }
   }
 }

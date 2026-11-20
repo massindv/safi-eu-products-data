@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "843",
+  "count": 2,
+  "updated_at": "2026-11-20T16:32:35.492821+00:00",
+  "products": {
+    "8435185980069": {
+      "barcode": "8435185980069",
+      "product_name": "Pink Grapefruit",
+      "store": "delhaize.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "eau gazéifiée, sucre, jus de pamplemousse à base de concentrés 3%, acidifiant: acide citrique, conservateur: sorbate de potassium, amidon modifié, colorant: acide carminique et anthocyanes, arôme naturel d'orange, arôme naturel de pamplemousse, arôme, stabilisants: E445 et E444, édulcorant sucralose, concentrés de carotte et de carthame,",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.220760+00:00"
+    },
+    "8437008952147": {
+      "barcode": "8437008952147",
+      "product_name": "passionblue",
+      "store": "delhaize.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.222433+00:00"
+    }
+  }
+}

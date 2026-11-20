@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "366",
-  "count": 3,
-  "updated_at": "2026-11-20T16:17:15.156668+00:00",
+  "count": 8,
+  "updated_at": "2026-11-20T16:32:35.379845+00:00",
   "products": {
     "3661344221772": {
       "barcode": "3661344221772",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.925416+00:00"
+      "updated_at": "2026-11-20T16:32:35.020255+00:00"
     },
     "3664346306638": {
       "barcode": "3664346306638",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:17:14.987915+00:00"
+      "updated_at": "2026-11-20T16:32:35.082489+00:00"
     },
     "3664346306003": {
       "barcode": "3664346306003",
@@ -56,7 +56,101 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.088482+00:00"
+      "updated_at": "2026-11-20T16:32:35.210594+00:00"
+    },
+    "3660989144767": {
+      "barcode": "3660989144767",
+      "product_name": "cognac",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.224976+00:00"
+    },
+    "3660989211452": {
+      "barcode": "3660989211452",
+      "product_name": "EU Product",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.225752+00:00"
+    },
+    "3660989063860": {
+      "barcode": "3660989063860",
+      "product_name": "Les Talandières",
+      "store": "carrefour.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.230528+00:00"
+    },
+    "3660989246584": {
+      "barcode": "3660989246584",
+      "product_name": "Bordeaux",
+      "store": "carrefour.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.230692+00:00"
+    },
+    "3660989103706": {
+      "barcode": "3660989103706",
+      "product_name": "Sangria",
+      "store": "carrefour.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "vin rouge 53%, eau, sucre, acidifiant : acide citrique, extrait d'agrumes 0,14%, sulfite, acide de potassium (contient sulfites).",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.230773+00:00"
     }
   }
 }

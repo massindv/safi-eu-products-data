@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "314",
+  "count": 1,
+  "updated_at": "2026-11-20T16:32:35.331129+00:00",
+  "products": {
+    "3147699101032": {
+      "barcode": "3147699101032",
+      "product_name": "rhum agricole de martinique",
+      "store": "delhaize.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.230150+00:00"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "448",
+  "count": 1,
+  "updated_at": "2026-11-20T16:32:35.390989+00:00",
+  "products": {
+    "44859616": {
+      "barcode": "44859616",
+      "product_name": "Jambon magistral",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.243076+00:00"
+    }
+  }
+}

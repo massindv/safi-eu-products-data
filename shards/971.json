@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "971",
-  "count": 1,
-  "updated_at": "2026-11-20T16:17:15.261555+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:32:35.553653+00:00",
   "products": {
     "9719052327157": {
       "barcode": "9719052327157",
@@ -20,7 +20,47 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:15.011668+00:00"
+      "updated_at": "2026-11-20T16:32:35.108227+00:00"
+    },
+    "9719052206155": {
+      "barcode": "9719052206155",
+      "product_name": "Gerookte blokjes spek",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237560+00:00"
+    },
+    "9719052355297": {
+      "barcode": "9719052355297",
+      "product_name": "Gerookte reepjes kip",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237599+00:00"
     }
   }
 }

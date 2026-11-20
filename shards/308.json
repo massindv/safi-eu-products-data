@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "308",
-  "count": 4,
-  "updated_at": "2026-11-20T16:17:15.129319+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T16:32:35.328761+00:00",
   "products": {
     "3083681025484": {
       "barcode": "3083681025484",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.834598+00:00"
+      "updated_at": "2026-11-20T16:32:34.933105+00:00"
     },
     "3083681006964": {
       "barcode": "3083681006964",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.834950+00:00"
+      "updated_at": "2026-11-20T16:32:34.933436+00:00"
     },
     "3083680600965": {
       "barcode": "3083680600965",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.835083+00:00"
+      "updated_at": "2026-11-20T16:32:34.933540+00:00"
     },
     "3083681093926": {
       "barcode": "3083681093926",
@@ -101,7 +101,63 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.870145+00:00"
+      "updated_at": "2026-11-20T16:32:34.973675+00:00"
+    },
+    "3080216043210": {
+      "barcode": "3080216043210",
+      "product_name": "Kronenbourg 50 cl Kronenbourg 4.2 DEGRE ALCOOL",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau, MALT D'ORGE, BLE, sirop de glucose, MALT DE BLE, extrait de houblon, SULFITES",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Alcoholic beverage / beer: Kronenbourg 50 cl Kronenbourg 4.2 DEGRE ALCOOL",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.224631+00:00"
+    },
+    "3083680025881": {
+      "barcode": "3083680025881",
+      "product_name": "Maïs SSA 1/2",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Maïs doux en grains sans OGM (Organisme Génétiquement Modifié), eau, sel. Contient des sucres naturellement présents.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.243472+00:00"
+    },
+    "3083681149975": {
+      "barcode": "3083681149975",
+      "product_name": "Concombre fromage blc 320g",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Concombres 79%, huile de colza, eau, FROMAGE blanc 40% de matières grasses 2,5% (LAIT pasteurisé, CREME pasteurisée, ferments LACTIQUES), CREME fraîche (crème de LAIT pasteurisé, ferments LACTIQUES), sel, vinaigre d'alcool, ciboulette 0,8%, purée d'ail, MOUTARDE de Dijon, persil, OEUF en poudre, épaississant : gomme de xanthane. Fabriqué dans un atelier utilisant également: gluten, crustacé, poisson, céleri, soja, fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.244272+00:00"
     }
   }
 }

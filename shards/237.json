@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "237",
-  "count": 4,
-  "updated_at": "2026-11-20T16:17:15.122365+00:00",
+  "count": 10,
+  "updated_at": "2026-11-20T16:32:35.302257+00:00",
   "products": {
     "2378333503535": {
       "barcode": "2378333503535",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.859345+00:00"
+      "updated_at": "2026-11-20T16:32:34.960308+00:00"
     },
     "2378822503534": {
       "barcode": "2378822503534",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.861461+00:00"
+      "updated_at": "2026-11-20T16:32:34.962454+00:00"
     },
     "2374545403847": {
       "barcode": "2374545403847",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:17:14.861927+00:00"
+      "updated_at": "2026-11-20T16:32:34.962928+00:00"
     },
     "2379243903859": {
       "barcode": "2379243903859",
@@ -76,7 +76,121 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.911262+00:00"
+      "updated_at": "2026-11-20T16:32:35.006351+00:00"
+    },
+    "2378607403356": {
+      "barcode": "2378607403356",
+      "product_name": "Scharrelkipfilet",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237451+00:00"
+    },
+    "2379216802639": {
+      "barcode": "2379216802639",
+      "product_name": "Gerookte Kip",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237502+00:00"
+    },
+    "2378588506961": {
+      "barcode": "2378588506961",
+      "product_name": "Kip drumsticks",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237972+00:00"
+    },
+    "2378337502428": {
+      "barcode": "2378337502428",
+      "product_name": "Scharrel grillworst kip",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237994+00:00"
+    },
+    "2374611202237": {
+      "barcode": "2374611202237",
+      "product_name": "Grillworst",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.239034+00:00"
+    },
+    "2374649102615": {
+      "barcode": "2374649102615",
+      "product_name": "Runderlever",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.239811+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "502",
   "count": 3,
-  "updated_at": "2026-11-20T16:17:15.164940+00:00",
+  "updated_at": "2026-11-20T16:32:35.398699+00:00",
   "products": {
     "5021991938917": {
       "barcode": "5021991938917",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.803855+00:00"
+      "updated_at": "2026-11-20T16:32:34.904316+00:00"
     },
     "5029396738767": {
       "barcode": "5029396738767",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.818809+00:00"
+      "updated_at": "2026-11-20T16:32:34.918019+00:00"
     },
     "5021991941177": {
       "barcode": "5021991941177",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:15.086730+00:00"
+      "updated_at": "2026-11-20T16:32:35.208697+00:00"
     }
   }
 }

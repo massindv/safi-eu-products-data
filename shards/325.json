@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "325",
-  "count": 4,
-  "updated_at": "2026-11-20T16:17:15.138596+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T16:32:35.344255+00:00",
   "products": {
     "3256540000704": {
       "barcode": "3256540000704",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.933365+00:00"
+      "updated_at": "2026-11-20T16:32:35.029664+00:00"
     },
     "3250391816453": {
       "barcode": "3250391816453",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.936533+00:00"
+      "updated_at": "2026-11-20T16:32:35.035418+00:00"
     },
     "3251490320001": {
       "barcode": "3251490320001",
@@ -60,7 +60,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.949092+00:00"
+      "updated_at": "2026-11-20T16:32:35.048001+00:00"
     },
     "3251510550005": {
       "barcode": "3251510550005",
@@ -78,7 +78,63 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.062544+00:00"
+      "updated_at": "2026-11-20T16:32:35.165516+00:00"
+    },
+    "3251092103736": {
+      "barcode": "3251092103736",
+      "product_name": "Bordeaux supérieur",
+      "store": "carrefour.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.230547+00:00"
+    },
+    "3251092200664": {
+      "barcode": "3251092200664",
+      "product_name": "Château Portal, Haut-Médoc",
+      "store": "carrefour.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.230820+00:00"
+    },
+    "3251092106249": {
+      "barcode": "3251092106249",
+      "product_name": "Grand Vin de Bordeau (Médoc)",
+      "store": "carrefour.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.230849+00:00"
     }
   }
 }

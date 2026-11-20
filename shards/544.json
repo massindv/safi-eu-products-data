@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "544",
-  "count": 4,
-  "updated_at": "2026-11-20T16:17:15.199474+00:00",
+  "count": 8,
+  "updated_at": "2026-11-20T16:32:35.465937+00:00",
   "products": {
     "5449000133335": {
       "barcode": "5449000133335",
@@ -29,16 +29,16 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.795261+00:00"
+      "updated_at": "2026-11-20T16:32:34.894561+00:00"
     },
     "5449000131843": {
       "barcode": "5449000131843",
-      "product_name": "Coca-Cola Zero BEL",
-      "store": "ah.be",
-      "category": "supermarket",
-      "country": "Belgium",
+      "product_name": "Coca-Cola Zero",
+      "store": "carrefour.be",
+      "category": "beverages",
+      "country": "EU",
       "image_url": "https://static.ah.nl/dam/product/AHI_2d776c754578777a5462794e78584f62527159346467?revLabel=1&rendition=200x200_WEBP&fileType=binary",
-      "ingredients_text": "Ingrediënten: Sprankelend water, kleurstof: E150d, voedingszuren: E338, E331, zoetstoffen: aspartaam, acesulfaam-K, natuurlijke aroma's (plantenextracten), waaronder cafeïne",
+      "ingredients_text": "Wasser, Kohlensäure, Farbstoff E 150d, Süssungsmittel Cyclamat, Acesulfam-K und Aspartam, Säuerungsmittel E 338 und Natriumcitrate, natürliche Aromen inkl. Koffein.",
       "nutrition": {
         "calories_100g": null,
         "fat_100g": 0.0,
@@ -49,14 +49,14 @@
         "proteins_100g": 0.0,
         "salt_100g": 0.02
       },
-      "nutriscore_grade": null,
+      "nutriscore_grade": "c",
       "nutriscore_score": null,
       "halal_status": "HALAL",
       "is_halal": true,
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.824865+00:00"
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.222945+00:00"
     },
     "5449000267436": {
       "barcode": "5449000267436",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.089046+00:00"
+      "updated_at": "2026-11-20T16:32:35.211207+00:00"
     },
     "5449000243416": {
       "barcode": "5449000243416",
@@ -92,7 +92,79 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:17:15.090248+00:00"
+      "updated_at": "2026-11-20T16:32:35.213163+00:00"
+    },
+    "5449000000484": {
+      "barcode": "5449000000484",
+      "product_name": "Coca Cola Light 1.5L",
+      "store": "delhaize.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.220479+00:00"
+    },
+    "5449000000996": {
+      "barcode": "5449000000996",
+      "product_name": "Coca-Cola Original",
+      "store": "carrefour.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Agua carbonatada, azúcar, colorante (E-150d), acidulante (ácido fosfórico), aromas naturales (contiene cafeína).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.222727+00:00"
+    },
+    "5449000006271": {
+      "barcode": "5449000006271",
+      "product_name": "Fanta orange",
+      "store": "carrefour.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau pétillante , sucre , jus d'orange à base de concentré (6%) , acidifiants , acide citrique, citrate de sodium , conservateur : sorbate de potassium , arômes naturels d'orange avec autres arômes naturels , antioxydant : acide ascorbique , concentré de carottes , stabilisant : gomme de guar,",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.223239+00:00"
+    },
+    "5449000033819": {
+      "barcode": "5449000033819",
+      "product_name": "Aquarius Naranja",
+      "store": "carrefour.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "water, sugar, acidulants (citric acid, malic acid), flavor enhancers: sodium chloride, potassium phosphate and calcium phosphate, corrector of acidity (sodium citrate), antioxidant (ascorbic acid), stabilizers (e-414, e-445), sweeteners (sucralose, acesulfame k), natural citrus flavouring, carotene",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.223635+00:00"
     }
   }
 }

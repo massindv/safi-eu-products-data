@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "195",
+  "count": 1,
+  "updated_at": "2026-11-20T16:32:35.271533+00:00",
+  "products": {
+    "19540014230370610345419": {
+      "barcode": "19540014230370610345419",
+      "product_name": "Escalope de poulet 400gr",
+      "store": "colruyt.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:32:35.236666+00:00"
+    }
+  }
+}

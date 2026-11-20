@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "501",
-  "count": 11,
-  "updated_at": "2026-11-20T16:17:15.164040+00:00",
+  "count": 20,
+  "updated_at": "2026-11-20T16:32:35.396546+00:00",
   "products": {
     "5016599010639": {
       "barcode": "5016599010639",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.782142+00:00"
+      "updated_at": "2026-11-20T16:32:34.881401+00:00"
     },
     "5016599011247": {
       "barcode": "5016599011247",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.786314+00:00"
+      "updated_at": "2026-11-20T16:32:34.885314+00:00"
     },
     "5010477348630": {
       "barcode": "5010477348630",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.867904+00:00"
+      "updated_at": "2026-11-20T16:32:34.969912+00:00"
     },
     "5010477348517": {
       "barcode": "5010477348517",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.869040+00:00"
+      "updated_at": "2026-11-20T16:32:34.972129+00:00"
     },
     "5011546475165": {
       "barcode": "5011546475165",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:17:14.876090+00:00"
+      "updated_at": "2026-11-20T16:32:34.978521+00:00"
     },
     "5018357006779": {
       "barcode": "5018357006779",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.882592+00:00"
+      "updated_at": "2026-11-20T16:32:34.982571+00:00"
     },
     "5018297010577": {
       "barcode": "5018297010577",
@@ -146,7 +146,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:17:14.940284+00:00"
+      "updated_at": "2026-11-20T16:32:35.039283+00:00"
     },
     "5013803000035": {
       "barcode": "5013803000035",
@@ -164,7 +164,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.043746+00:00"
+      "updated_at": "2026-11-20T16:32:35.141463+00:00"
     },
     "5010029220773": {
       "barcode": "5010029220773",
@@ -182,7 +182,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.044075+00:00"
+      "updated_at": "2026-11-20T16:32:35.141790+00:00"
     },
     "5010477348296": {
       "barcode": "5010477348296",
@@ -200,7 +200,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:17:15.056698+00:00"
+      "updated_at": "2026-11-20T16:32:35.157294+00:00"
     },
     "5010477358233": {
       "barcode": "5010477358233",
@@ -218,7 +218,173 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:17:15.060717+00:00"
+      "updated_at": "2026-11-20T16:32:35.162340+00:00"
+    },
+    "5010677926003": {
+      "barcode": "5010677926003",
+      "product_name": "Martini Bianco",
+      "store": "delhaize.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.221658+00:00"
+    },
+    "5010677055154": {
+      "barcode": "5010677055154",
+      "product_name": "Rum Razz",
+      "store": "delhaize.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.221733+00:00"
+    },
+    "5010677633550": {
+      "barcode": "5010677633550",
+      "product_name": "Riserva Speciale Ambrato Vermouth Di Torino",
+      "store": "delhaize.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.222380+00:00"
+    },
+    "5010103926492": {
+      "barcode": "5010103926492",
+      "product_name": "J&B COLA BLIK",
+      "store": "delhaize.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.228999+00:00"
+    },
+    "5010262070012": {
+      "barcode": "5010262070012",
+      "product_name": "PIMM'S THE ORIGINAL No.1 CUP",
+      "store": "delhaize.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.229069+00:00"
+    },
+    "5010677360074": {
+      "barcode": "5010677360074",
+      "product_name": "Of Bombay Slow Distilled London Dry Gin",
+      "store": "delhaize.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.229143+00:00"
+    },
+    "5014366080946": {
+      "barcode": "5014366080946",
+      "product_name": "EU Product",
+      "store": "delhaize.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.229669+00:00"
+    },
+    "5010103931908": {
+      "barcode": "5010103931908",
+      "product_name": "Picon à l'orange",
+      "store": "carrefour.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.230341+00:00"
+    },
+    "5010677012379": {
+      "barcode": "5010677012379",
+      "product_name": "Rhum blanc",
+      "store": "carrefour.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.230791+00:00"
     }
   }
 }

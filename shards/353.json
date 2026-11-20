@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "353",
-  "count": 2,
-  "updated_at": "2026-11-20T16:17:15.147901+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:32:35.365022+00:00",
   "products": {
     "3533636760002": {
       "barcode": "3533636760002",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.925986+00:00"
+      "updated_at": "2026-11-20T16:32:35.021592+00:00"
     },
     "3533631722289": {
       "barcode": "3533631722289",
@@ -38,7 +38,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.926863+00:00"
+      "updated_at": "2026-11-20T16:32:35.023158+00:00"
+    },
+    "3537580700503": {
+      "barcode": "3537580700503",
+      "product_name": "Terrine de lapin au Serpolet",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc*, viande de lapin** (20%), gras de porc, foie de poulet, foie de porc, oeuf, couenne*, vin blanc, Armagnac, sel de mer, épices, serpolet (0,1%), ail",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "alcohol"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.232119+00:00"
     }
   }
 }

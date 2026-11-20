@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "872",
-  "count": 15,
-  "updated_at": "2026-11-20T16:17:15.258845+00:00",
+  "count": 16,
+  "updated_at": "2026-11-20T16:32:35.546627+00:00",
   "products": {
     "8727500033094": {
       "barcode": "8727500033094",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.792829+00:00"
+      "updated_at": "2026-11-20T16:32:34.891960+00:00"
     },
     "8721800408880": {
       "barcode": "8721800408880",
@@ -58,7 +58,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.811242+00:00"
+      "updated_at": "2026-11-20T16:32:34.911589+00:00"
     },
     "8721800408866": {
       "barcode": "8721800408866",
@@ -87,7 +87,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.811340+00:00"
+      "updated_at": "2026-11-20T16:32:34.911678+00:00"
     },
     "8722700255642": {
       "barcode": "8722700255642",
@@ -116,7 +116,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.825306+00:00"
+      "updated_at": "2026-11-20T16:32:34.923384+00:00"
     },
     "8720182103406": {
       "barcode": "8720182103406",
@@ -143,7 +143,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:17:14.834505+00:00"
+      "updated_at": "2026-11-20T16:32:34.933039+00:00"
     },
     "8720182368782": {
       "barcode": "8720182368782",
@@ -163,7 +163,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.860658+00:00"
+      "updated_at": "2026-11-20T16:32:34.961645+00:00"
     },
     "8725800000464": {
       "barcode": "8725800000464",
@@ -183,7 +183,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.861026+00:00"
+      "updated_at": "2026-11-20T16:32:34.962015+00:00"
     },
     "8720865628554": {
       "barcode": "8720865628554",
@@ -203,7 +203,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:17:14.901307+00:00"
+      "updated_at": "2026-11-20T16:32:34.997600+00:00"
     },
     "8720865628684": {
       "barcode": "8720865628684",
@@ -224,7 +224,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter; Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:17:14.901745+00:00"
+      "updated_at": "2026-11-20T16:32:34.997790+00:00"
     },
     "8720828249338": {
       "barcode": "8720828249338",
@@ -242,7 +242,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:17:14.973916+00:00"
+      "updated_at": "2026-11-20T16:32:35.067411+00:00"
     },
     "8720182460721": {
       "barcode": "8720182460721",
@@ -260,7 +260,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.996774+00:00"
+      "updated_at": "2026-11-20T16:32:35.094550+00:00"
     },
     "8720608002849": {
       "barcode": "8720608002849",
@@ -278,7 +278,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.084707+00:00"
+      "updated_at": "2026-11-20T16:32:35.206403+00:00"
     },
     "8722700129523": {
       "barcode": "8722700129523",
@@ -296,7 +296,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.085286+00:00"
+      "updated_at": "2026-11-20T16:32:35.207044+00:00"
     },
     "8720157400172": {
       "barcode": "8720157400172",
@@ -314,7 +314,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:15.091751+00:00"
+      "updated_at": "2026-11-20T16:32:35.215138+00:00"
     },
     "8720157467595": {
       "barcode": "8720157467595",
@@ -332,7 +332,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:15.092108+00:00"
+      "updated_at": "2026-11-20T16:32:35.215600+00:00"
+    },
+    "8728500999922": {
+      "barcode": "8728500999922",
+      "product_name": "Bullit Sugar Free",
+      "store": "ah.nl",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.219320+00:00"
     }
   }
 }

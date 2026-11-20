@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "350",
-  "count": 1,
-  "updated_at": "2026-11-20T16:17:15.147033+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:32:35.363592+00:00",
   "products": {
     "3502110010643": {
       "barcode": "3502110010643",
@@ -20,7 +20,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.089419+00:00"
+      "updated_at": "2026-11-20T16:32:35.211768+00:00"
+    },
+    "3500870064777": {
+      "barcode": "3500870064777",
+      "product_name": "EU Product",
+      "store": "delhaize.be",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.229712+00:00"
+    },
+    "3504182960123": {
+      "barcode": "3504182960123",
+      "product_name": "Tomates Cerises Allongées",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Tomates cerises allongées.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.243310+00:00"
     }
   }
 }

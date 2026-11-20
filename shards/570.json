@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "570",
+  "count": 1,
+  "updated_at": "2026-11-20T16:32:35.469087+00:00",
+  "products": {
+    "5707196241846": {
+      "barcode": "5707196241846",
+      "product_name": "Corned beef",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de bœuf (52%), viande de tête de bœuf, cœur de bœuf, sel, conservateur (E250),",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.232960+00:00"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "224",
   "count": 7,
-  "updated_at": "2026-11-20T16:17:15.112975+00:00",
+  "updated_at": "2026-11-20T16:32:35.283954+00:00",
   "products": {
     "2244429002698": {
       "barcode": "2244429002698",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.886193+00:00"
+      "updated_at": "2026-11-20T16:32:34.985437+00:00"
     },
     "2246477002491": {
       "barcode": "2246477002491",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:17:14.944915+00:00"
+      "updated_at": "2026-11-20T16:32:35.043056+00:00"
     },
     "2244090003994": {
       "barcode": "2244090003994",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:17:14.945252+00:00"
+      "updated_at": "2026-11-20T16:32:35.043312+00:00"
     },
     "2244683001451": {
       "barcode": "2244683001451",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.945296+00:00"
+      "updated_at": "2026-11-20T16:32:35.043367+00:00"
     },
     "2244426002592": {
       "barcode": "2244426002592",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.946130+00:00"
+      "updated_at": "2026-11-20T16:32:35.044145+00:00"
     },
     "2244682001551": {
       "barcode": "2244682001551",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.946552+00:00"
+      "updated_at": "2026-11-20T16:32:35.044505+00:00"
     },
     "2244380001358": {
       "barcode": "2244380001358",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.946715+00:00"
+      "updated_at": "2026-11-20T16:32:35.044627+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "072",
-  "count": 2,
-  "updated_at": "2026-11-20T16:17:15.100379+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:32:35.259857+00:00",
   "products": {
     "0723093644738": {
       "barcode": "0723093644738",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:15.014654+00:00"
+      "updated_at": "2026-11-20T16:32:35.111322+00:00"
     },
     "0723256568345": {
       "barcode": "0723256568345",
@@ -40,7 +40,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:15.086930+00:00"
+      "updated_at": "2026-11-20T16:32:35.208840+00:00"
+    },
+    "0728032971081": {
+      "barcode": "0728032971081",
+      "product_name": "Scharrel kipgrillworst",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:32:35.237469+00:00"
     }
   }
 }

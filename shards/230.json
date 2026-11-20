@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "230",
-  "count": 8,
-  "updated_at": "2026-11-20T16:17:15.115978+00:00",
+  "count": 14,
+  "updated_at": "2026-11-20T16:32:35.293880+00:00",
   "products": {
     "2308023102540": {
       "barcode": "2308023102540",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:17:14.859789+00:00"
+      "updated_at": "2026-11-20T16:32:34.960767+00:00"
     },
     "2302432902531": {
       "barcode": "2302432902531",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:17:14.861941+00:00"
+      "updated_at": "2026-11-20T16:32:34.962943+00:00"
     },
     "2302432402529": {
       "barcode": "2302432402529",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:17:14.862165+00:00"
+      "updated_at": "2026-11-20T16:32:34.963183+00:00"
     },
     "2303260703826": {
       "barcode": "2303260703826",
@@ -76,7 +76,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.862665+00:00"
+      "updated_at": "2026-11-20T16:32:34.963694+00:00"
     },
     "2302298103370": {
       "barcode": "2302298103370",
@@ -96,7 +96,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.862750+00:00"
+      "updated_at": "2026-11-20T16:32:34.963779+00:00"
     },
     "2302743202009": {
       "barcode": "2302743202009",
@@ -114,7 +114,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.862874+00:00"
+      "updated_at": "2026-11-20T16:32:34.963904+00:00"
     },
     "2303489403569": {
       "barcode": "2303489403569",
@@ -132,7 +132,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.863467+00:00"
+      "updated_at": "2026-11-20T16:32:34.964497+00:00"
     },
     "2302982504414": {
       "barcode": "2302982504414",
@@ -152,7 +152,117 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:17:14.913238+00:00"
+      "updated_at": "2026-11-20T16:32:35.007834+00:00"
+    },
+    "2303837306955": {
+      "barcode": "2303837306955",
+      "product_name": "Biefstuk",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "rundvlees",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.238212+00:00"
+    },
+    "2302636403353": {
+      "barcode": "2302636403353",
+      "product_name": "Schouderkarbonade",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.238248+00:00"
+    },
+    "2303260003681": {
+      "barcode": "2303260003681",
+      "product_name": "Rosbief",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.238277+00:00"
+    },
+    "2303941703053": {
+      "barcode": "2303941703053",
+      "product_name": "Biefstuk, Ossenworst, Ronde Schijfjes",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.238402+00:00"
+    },
+    "2303941503530": {
+      "barcode": "2303941503530",
+      "product_name": "Biefstuk Ossenworst",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.240023+00:00"
+    },
+    "2303093912624": {
+      "barcode": "2303093912624",
+      "product_name": "Runderentrecote",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:32:35.240073+00:00"
     }
   }
 }

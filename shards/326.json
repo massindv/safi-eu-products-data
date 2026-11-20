@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "326",
-  "count": 3,
-  "updated_at": "2026-11-20T16:17:15.139267+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:32:35.344969+00:00",
   "products": {
     "3267031040581": {
       "barcode": "3267031040581",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.904915+00:00"
+      "updated_at": "2026-11-20T16:32:34.999670+00:00"
     },
     "3265470000852": {
       "barcode": "3265470000852",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.003839+00:00"
+      "updated_at": "2026-11-20T16:32:35.099040+00:00"
     },
     "3261055952165": {
       "barcode": "3261055952165",
@@ -62,7 +62,25 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:15.064918+00:00"
+      "updated_at": "2026-11-20T16:32:35.171315+00:00"
+    },
+    "3269617106995": {
+      "barcode": "3269617106995",
+      "product_name": "Terrine de Campagne au piment d'Espelette",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:32:35.241539+00:00"
     }
   }
 }

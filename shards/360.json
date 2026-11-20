@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "360",
-  "count": 3,
-  "updated_at": "2026-11-20T16:17:15.156340+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:32:35.379262+00:00",
   "products": {
     "3608580157885": {
       "barcode": "3608580157885",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.870690+00:00"
+      "updated_at": "2026-11-20T16:32:34.974528+00:00"
     },
     "3608580758686": {
       "barcode": "3608580758686",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.871708+00:00"
+      "updated_at": "2026-11-20T16:32:34.975517+00:00"
     },
     "3600900011037": {
       "barcode": "3600900011037",
@@ -56,7 +56,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.873449+00:00"
+      "updated_at": "2026-11-20T16:32:34.976336+00:00"
+    },
+    "3608580006633": {
+      "barcode": "3608580006633",
+      "product_name": "Dessert fruitier Pomme Châtaigne",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Pommes 58%, crème de marrons 42% (sucre, châtaignes 38%, eau, extrait de vanille), acidifiant : acide citrique, antioxydant : acide ascorbique.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.244468+00:00"
     }
   }
 }

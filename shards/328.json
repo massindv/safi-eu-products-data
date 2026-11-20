@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "328",
-  "count": 2,
-  "updated_at": "2026-11-20T16:17:15.140947+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:32:35.347087+00:00",
   "products": {
     "3285810043202": {
       "barcode": "3285810043202",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.906196+00:00"
+      "updated_at": "2026-11-20T16:32:35.000864+00:00"
     },
     "3285810043103": {
       "barcode": "3285810043103",
@@ -38,7 +38,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:17:14.926651+00:00"
+      "updated_at": "2026-11-20T16:32:35.022919+00:00"
+    },
+    "3287360766006": {
+      "barcode": "3287360766006",
+      "product_name": "Petit pâté en croûte Jambon Pistaches",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Pâté 54% (Viande de jambon 22,6%, gelée (bouillon (eau, vin blanc, Madère, sel, arômes naturels (dont celleri,.conservateurs E250, E202), gélifiant E407), gélatine porcine), viande de porc*, gras de porc, foie de porc, amidon de riz, vin blanc, eau, ceuf entier, oignons rissolés oignons, huile de tournesoll, pistache 0,8%, plantes aromatiques, sel, dextrose, conjonctif de porç, protéine de blé, protéine de lait, épices, antioxydants (E300, E301), sirop de glucose conservateur E250, arômes naturels), Croute 46% (farine de blé, eau, margarine (matière grasse végétale: palme, eau, huile végétale: colza, émulsifiant (E471), acidifiant (E330), beurre,sel, colorant E160a). Peut contenir des traces de moutarde, d'autres fruits à coque, mollusques, crustacés et poissons.* Origine France Préparation:Sortir le petit påté en croûte de son emballage 10 minutes avant de le servir. Le couper en tranches d'environ 8 mm d'épaisseur et servir à Tapéritif sur un plateau OU uine grande assiette. A conserver entre 0°C et +4°C.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "alcohol"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.234631+00:00"
     }
   }
 }

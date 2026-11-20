@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "336",
+  "count": 1,
+  "updated_at": "2026-11-20T16:32:35.350261+00:00",
+  "products": {
+    "3360920202227": {
+      "barcode": "3360920202227",
+      "product_name": "Cidre artisanale - Le Clos Fleuri Brut",
+      "store": "carrefour.fr",
+      "category": "alcoholic-beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:32:35.225214+00:00"
+    }
+  }
+}

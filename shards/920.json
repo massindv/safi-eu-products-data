@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "920",
+  "count": 1,
+  "updated_at": "2026-11-20T16:32:35.549849+00:00",
+  "products": {
+    "9209272865700470400522": {
+      "barcode": "9209272865700470400522",
+      "product_name": "Hache porc-boeuf",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:32:35.242818+00:00"
+    }
+  }
+}
