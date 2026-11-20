@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "328",
-  "count": 6,
-  "updated_at": "2026-11-20T17:41:09.358693+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T17:51:11.362100+00:00",
   "products": {
     "3285810043202": {
       "barcode": "3285810043202",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:08.942157+00:00"
+      "updated_at": "2026-11-20T17:51:10.762833+00:00"
     },
     "3285810043103": {
       "barcode": "3285810043103",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:08.957421+00:00"
+      "updated_at": "2026-11-20T17:51:10.777106+00:00"
     },
     "3287360766006": {
       "barcode": "3287360766006",
@@ -59,7 +59,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.113023+00:00"
+      "updated_at": "2026-11-20T17:51:10.930327+00:00"
     },
     "3285810045107": {
       "barcode": "3285810045107",
@@ -77,7 +77,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.128085+00:00"
+      "updated_at": "2026-11-20T17:51:10.947197+00:00"
     },
     "3282750002016": {
       "barcode": "3282750002016",
@@ -97,7 +97,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.241100+00:00"
+      "updated_at": "2026-11-20T17:51:11.078130+00:00"
     },
     "3280240004489": {
       "barcode": "3280240004489",
@@ -117,7 +117,27 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.243738+00:00"
+      "updated_at": "2026-11-20T17:51:11.081624+00:00"
+    },
+    "3289476000036": {
+      "barcode": "3289476000036",
+      "product_name": "Hachis parmentier bio",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Aubergine préfrite* 25,8% (aubergine*, huile de tournesol*), eau, tomate concassée* 13,9%, oignon* 11,2%, viande bovine* (origine : France) 10,8%, purée de tomate double concentrée* 6,7%, huile d'olive vierge extra* 2,8%, mozzarella*1,7%, sucre de canne*, ail*, flocon de pomme de terre* (pomme de terre*, extrait de romarin*), emmental*, sel, farine de blé*, basilic*, amidon de pomme de terre*, lait écrémé en poudre*, crème fraîche*, huile de tournesol*, thym*, paprika*, menthe*, poivre blanc moulu*. *Matière première issue de l'agriculture biologique UE ou non UE.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:51:11.145012+00:00"
     }
   }
 }

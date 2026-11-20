@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "453",
+  "count": 1,
+  "updated_at": "2026-11-20T17:51:11.442783+00:00",
+  "products": {
+    "4539967772003": {
+      "barcode": "4539967772003",
+      "product_name": "EU Product",
+      "store": "delhaize.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Kikkererwten 45%, water, ongeharde raapzaadolie, sesamzaad, gemodificeerd maïszetmeel, zout, knoflook, komijn, chili, voedingszuren (citroenzuur, melkzuur, azijnzuur), conserveermiddel (kaliumsorbaat), verdikkingsmiddel (xanthaangom).",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:51:11.122965+00:00"
+    }
+  }
+}

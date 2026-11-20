@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "326",
-  "count": 9,
-  "updated_at": "2026-11-20T17:41:09.355704+00:00",
+  "count": 10,
+  "updated_at": "2026-11-20T17:51:11.347169+00:00",
   "products": {
     "3267031040581": {
       "barcode": "3267031040581",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:08.941157+00:00"
+      "updated_at": "2026-11-20T17:51:10.761815+00:00"
     },
     "3265470000852": {
       "barcode": "3265470000852",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.015180+00:00"
+      "updated_at": "2026-11-20T17:51:10.833787+00:00"
     },
     "3261055952165": {
       "barcode": "3261055952165",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.070826+00:00"
+      "updated_at": "2026-11-20T17:51:10.888981+00:00"
     },
     "3269617106995": {
       "barcode": "3269617106995",
@@ -80,7 +80,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.117965+00:00"
+      "updated_at": "2026-11-20T17:51:10.935710+00:00"
     },
     "3265479127000": {
       "barcode": "3265479127000",
@@ -100,7 +100,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.173259+00:00"
+      "updated_at": "2026-11-20T17:51:10.995368+00:00"
     },
     "3265475013000": {
       "barcode": "3265475013000",
@@ -120,7 +120,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.173551+00:00"
+      "updated_at": "2026-11-20T17:51:10.995745+00:00"
     },
     "3261055952189": {
       "barcode": "3261055952189",
@@ -141,7 +141,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.207064+00:00"
+      "updated_at": "2026-11-20T17:51:11.033336+00:00"
     },
     "3261570007524": {
       "barcode": "3261570007524",
@@ -161,7 +161,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.223478+00:00"
+      "updated_at": "2026-11-20T17:51:11.057456+00:00"
     },
     "3267031090876": {
       "barcode": "3267031090876",
@@ -179,7 +179,27 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.243538+00:00"
+      "updated_at": "2026-11-20T17:51:11.081360+00:00"
+    },
+    "3265980164280": {
+      "barcode": "3265980164280",
+      "product_name": "Les recettes du monde - Tajine de bœuf aux olives noires et citron",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande bovine origine France 64,3%, eau, olives noires en rondelles 3,5% (olives noires, sel), amidon, maltodextrine, épices 1,1%, arômes naturels, sel, farine de riz, jus d'orange déshydraté, fécule de pomme de terre, zeste de citron 0,2%, dextrose, fibres de bambou + Sachet épices Ras El Hanout 0,7% (fenugrec, cardamome, coriandre, carvi, sel). Traces de lait, d'oeufs, de soja, de céleri et de gluten.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:51:11.145402+00:00"
     }
   }
 }

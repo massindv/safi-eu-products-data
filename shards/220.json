@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "220",
   "count": 23,
-  "updated_at": "2026-11-20T17:41:09.311313+00:00",
+  "updated_at": "2026-11-20T17:51:11.226376+00:00",
   "products": {
     "2205499003077": {
       "barcode": "2205499003077",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:08.940032+00:00"
+      "updated_at": "2026-11-20T17:51:10.760603+00:00"
     },
     "2208476004746": {
       "barcode": "2208476004746",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:08.949953+00:00"
+      "updated_at": "2026-11-20T17:51:10.770356+00:00"
     },
     "2205308003342": {
       "barcode": "2205308003342",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:08.950097+00:00"
+      "updated_at": "2026-11-20T17:51:10.770481+00:00"
     },
     "2205308003649": {
       "barcode": "2205308003649",
@@ -82,7 +82,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:08.950143+00:00"
+      "updated_at": "2026-11-20T17:51:10.770522+00:00"
     },
     "2200235007715": {
       "barcode": "2200235007715",
@@ -102,7 +102,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:08.950202+00:00"
+      "updated_at": "2026-11-20T17:51:10.770573+00:00"
     },
     "2208532003744": {
       "barcode": "2208532003744",
@@ -122,7 +122,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:08.950343+00:00"
+      "updated_at": "2026-11-20T17:51:10.770643+00:00"
     },
     "2200761000792": {
       "barcode": "2200761000792",
@@ -140,7 +140,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:41:08.971192+00:00"
+      "updated_at": "2026-11-20T17:51:10.791251+00:00"
     },
     "2203154003950": {
       "barcode": "2203154003950",
@@ -158,7 +158,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.116304+00:00"
+      "updated_at": "2026-11-20T17:51:10.934067+00:00"
     },
     "2205280005709": {
       "barcode": "2205280005709",
@@ -176,7 +176,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.117358+00:00"
+      "updated_at": "2026-11-20T17:51:10.935130+00:00"
     },
     "2205309002948": {
       "barcode": "2205309002948",
@@ -196,7 +196,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.134610+00:00"
+      "updated_at": "2026-11-20T17:51:10.954373+00:00"
     },
     "2202038002799": {
       "barcode": "2202038002799",
@@ -214,7 +214,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.145292+00:00"
+      "updated_at": "2026-11-20T17:51:10.966191+00:00"
     },
     "2202830001358": {
       "barcode": "2202830001358",
@@ -232,7 +232,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.145342+00:00"
+      "updated_at": "2026-11-20T17:51:10.966250+00:00"
     },
     "2205619003741": {
       "barcode": "2205619003741",
@@ -252,7 +252,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.231380+00:00"
+      "updated_at": "2026-11-20T17:51:11.067532+00:00"
     },
     "2205507002337": {
       "barcode": "2205507002337",
@@ -272,7 +272,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.232285+00:00"
+      "updated_at": "2026-11-20T17:51:11.068365+00:00"
     },
     "2205455003820": {
       "barcode": "2205455003820",
@@ -292,7 +292,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.232350+00:00"
+      "updated_at": "2026-11-20T17:51:11.068420+00:00"
     },
     "2205596004595": {
       "barcode": "2205596004595",
@@ -312,7 +312,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.232449+00:00"
+      "updated_at": "2026-11-20T17:51:11.068529+00:00"
     },
     "2205523002915": {
       "barcode": "2205523002915",
@@ -332,7 +332,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.232466+00:00"
+      "updated_at": "2026-11-20T17:51:11.068546+00:00"
     },
     "2205569005895": {
       "barcode": "2205569005895",
@@ -352,7 +352,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.232493+00:00"
+      "updated_at": "2026-11-20T17:51:11.068576+00:00"
     },
     "2205620002917": {
       "barcode": "2205620002917",
@@ -372,7 +372,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.232515+00:00"
+      "updated_at": "2026-11-20T17:51:11.068600+00:00"
     },
     "2200389002833": {
       "barcode": "2200389002833",
@@ -390,7 +390,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.242941+00:00"
+      "updated_at": "2026-11-20T17:51:11.080524+00:00"
     },
     "2208473003414": {
       "barcode": "2208473003414",
@@ -410,7 +410,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.243020+00:00"
+      "updated_at": "2026-11-20T17:51:11.080620+00:00"
     },
     "2200235004844": {
       "barcode": "2200235004844",
@@ -428,7 +428,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.243054+00:00"
+      "updated_at": "2026-11-20T17:51:11.080674+00:00"
     },
     "2200235005025": {
       "barcode": "2200235005025",
@@ -446,7 +446,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.243068+00:00"
+      "updated_at": "2026-11-20T17:51:11.080696+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "402",
-  "count": 2,
-  "updated_at": "2026-11-20T17:41:09.389559+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T17:51:11.435619+00:00",
   "products": {
     "4023300738202": {
       "barcode": "4023300738202",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:41:08.902142+00:00"
+      "updated_at": "2026-11-20T17:51:10.723331+00:00"
     },
     "4023800062173": {
       "barcode": "4023800062173",
@@ -47,7 +47,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:41:09.151820+00:00"
+      "updated_at": "2026-11-20T17:51:10.973196+00:00"
+    },
+    "4027400052701": {
+      "barcode": "4027400052701",
+      "product_name": "Classic Burger Bbq Sauce",
+      "store": "ah.nl",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "tomatenpuree, suiker, water, augurkjes (augurk, azijn, zout), specerijen (uien, MOSTERDmeel, specerijen), gemodificeerd zetmeel, wijnazijn, mango 1%, spijsaroma (bevat SOJA), zout, gekarameliseerde suiker, voedingszuur (citroenzuur) rietsuiker, gistextract, kleurstof (ammoniak-karamel), appelsapconcentraat, rookaroma, specerijextract, natuurlijk aroma.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:51:11.118998+00:00"
     }
   }
 }

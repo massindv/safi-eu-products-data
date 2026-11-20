@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "843",
-  "count": 7,
-  "updated_at": "2026-11-20T17:41:09.480806+00:00",
+  "count": 8,
+  "updated_at": "2026-11-20T17:51:11.541796+00:00",
   "products": {
     "8435185980069": {
       "barcode": "8435185980069",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.104124+00:00"
+      "updated_at": "2026-11-20T17:51:10.920122+00:00"
     },
     "8437008952147": {
       "barcode": "8437008952147",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.104968+00:00"
+      "updated_at": "2026-11-20T17:51:10.921030+00:00"
     },
     "8431876276121": {
       "barcode": "8431876276121",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.168307+00:00"
+      "updated_at": "2026-11-20T17:51:10.990316+00:00"
     },
     "8436586782184": {
       "barcode": "8436586782184",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:41:09.217221+00:00"
+      "updated_at": "2026-11-20T17:51:11.049615+00:00"
     },
     "8431876265675": {
       "barcode": "8431876265675",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:41:09.239235+00:00"
+      "updated_at": "2026-11-20T17:51:11.075839+00:00"
     },
     "8431876268614": {
       "barcode": "8431876268614",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.241258+00:00"
+      "updated_at": "2026-11-20T17:51:11.078324+00:00"
     },
     "8436039436305": {
       "barcode": "8436039436305",
@@ -128,7 +128,27 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.246870+00:00"
+      "updated_at": "2026-11-20T17:51:11.085293+00:00"
+    },
+    "8431876270013": {
+      "barcode": "8431876270013",
+      "product_name": "Mini Panettone avec pépites de chocolat",
+      "store": "carrefour.fr",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de blé, pépites de chocolat: 16,9% (Cacao: 50,5% minimum - Sucre, pâte de cacao, cacao maigre en poudre, beurre de cacao, émulsifiant : lécithine de soja), œufs frais de poules élevées au sol 12,9%, beurre anhydre, sucre, lait entier frais pasteurisé, levure naturelle (contient blé), jaune d'œufs frais de poules élevées au sol 3%, sirop de sucre inverti, émulsifiant : mono - et diglycérides d'acides gras, beurre de cacao, sel, levure de bière, arômes. Peut contenir des traces de fruits à coque et de moutarde.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:51:11.126446+00:00"
     }
   }
 }

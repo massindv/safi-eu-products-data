@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "227",
   "count": 27,
-  "updated_at": "2026-11-20T17:41:09.315832+00:00",
+  "updated_at": "2026-11-20T17:51:11.241064+00:00",
   "products": {
     "2277891001180": {
       "barcode": "2277891001180",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:41:08.969815+00:00"
+      "updated_at": "2026-11-20T17:51:10.789275+00:00"
     },
     "2273988001248": {
       "barcode": "2273988001248",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:41:08.970478+00:00"
+      "updated_at": "2026-11-20T17:51:10.790162+00:00"
     },
     "2274244001095": {
       "barcode": "2274244001095",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:08.971746+00:00"
+      "updated_at": "2026-11-20T17:51:10.792260+00:00"
     },
     "2271954002855": {
       "barcode": "2271954002855",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:08.972112+00:00"
+      "updated_at": "2026-11-20T17:51:10.792672+00:00"
     },
     "2273709002189": {
       "barcode": "2273709002189",
@@ -94,7 +94,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:08.990973+00:00"
+      "updated_at": "2026-11-20T17:51:10.811569+00:00"
     },
     "2271148001909": {
       "barcode": "2271148001909",
@@ -114,7 +114,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:08.993382+00:00"
+      "updated_at": "2026-11-20T17:51:10.814144+00:00"
     },
     "2275278003253": {
       "barcode": "2275278003253",
@@ -132,7 +132,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:08.993518+00:00"
+      "updated_at": "2026-11-20T17:51:10.814281+00:00"
     },
     "2278881002996": {
       "barcode": "2278881002996",
@@ -152,7 +152,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:41:09.038675+00:00"
+      "updated_at": "2026-11-20T17:51:10.855658+00:00"
     },
     "2271715001585": {
       "barcode": "2271715001585",
@@ -170,7 +170,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:41:09.040685+00:00"
+      "updated_at": "2026-11-20T17:51:10.857593+00:00"
     },
     "2277591003453": {
       "barcode": "2277591003453",
@@ -190,7 +190,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:41:09.041312+00:00"
+      "updated_at": "2026-11-20T17:51:10.858207+00:00"
     },
     "2276222001998": {
       "barcode": "2276222001998",
@@ -208,7 +208,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.144951+00:00"
+      "updated_at": "2026-11-20T17:51:10.965768+00:00"
     },
     "2275423001899": {
       "barcode": "2275423001899",
@@ -226,7 +226,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.145154+00:00"
+      "updated_at": "2026-11-20T17:51:10.966010+00:00"
     },
     "2274252009991": {
       "barcode": "2274252009991",
@@ -244,7 +244,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.145196+00:00"
+      "updated_at": "2026-11-20T17:51:10.966061+00:00"
     },
     "2274259001158": {
       "barcode": "2274259001158",
@@ -262,7 +262,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.145238+00:00"
+      "updated_at": "2026-11-20T17:51:10.966106+00:00"
     },
     "2276621002992": {
       "barcode": "2276621002992",
@@ -280,7 +280,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.145369+00:00"
+      "updated_at": "2026-11-20T17:51:10.966280+00:00"
     },
     "2274251001255": {
       "barcode": "2274251001255",
@@ -298,7 +298,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.145384+00:00"
+      "updated_at": "2026-11-20T17:51:10.966297+00:00"
     },
     "2272678001490": {
       "barcode": "2272678001490",
@@ -316,7 +316,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.145399+00:00"
+      "updated_at": "2026-11-20T17:51:10.966313+00:00"
     },
     "2275689000902": {
       "barcode": "2275689000902",
@@ -334,7 +334,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.145673+00:00"
+      "updated_at": "2026-11-20T17:51:10.966617+00:00"
     },
     "2270948001492": {
       "barcode": "2270948001492",
@@ -352,7 +352,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.145750+00:00"
+      "updated_at": "2026-11-20T17:51:10.966691+00:00"
     },
     "2273705001582": {
       "barcode": "2273705001582",
@@ -370,7 +370,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.194916+00:00"
+      "updated_at": "2026-11-20T17:51:11.019373+00:00"
     },
     "2273576002152": {
       "barcode": "2273576002152",
@@ -388,7 +388,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.197089+00:00"
+      "updated_at": "2026-11-20T17:51:11.021464+00:00"
     },
     "2270321001255": {
       "barcode": "2270321001255",
@@ -408,7 +408,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.197247+00:00"
+      "updated_at": "2026-11-20T17:51:11.021679+00:00"
     },
     "2273706001703": {
       "barcode": "2273706001703",
@@ -428,7 +428,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.198074+00:00"
+      "updated_at": "2026-11-20T17:51:11.022565+00:00"
     },
     "2277593001204": {
       "barcode": "2277593001204",
@@ -448,7 +448,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.198224+00:00"
+      "updated_at": "2026-11-20T17:51:11.022717+00:00"
     },
     "2273180002043": {
       "barcode": "2273180002043",
@@ -466,7 +466,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.242484+00:00"
+      "updated_at": "2026-11-20T17:51:11.079932+00:00"
     },
     "2275689001800": {
       "barcode": "2275689001800",
@@ -484,7 +484,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.249463+00:00"
+      "updated_at": "2026-11-20T17:51:11.088153+00:00"
     },
     "2275959002698": {
       "barcode": "2275959002698",
@@ -502,7 +502,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.249587+00:00"
+      "updated_at": "2026-11-20T17:51:11.088297+00:00"
     }
   }
 }

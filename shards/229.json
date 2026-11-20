@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "229",
   "count": 7,
-  "updated_at": "2026-11-20T17:41:09.317865+00:00",
+  "updated_at": "2026-11-20T17:51:11.244062+00:00",
   "products": {
     "2291921006099": {
       "barcode": "2291921006099",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.116740+00:00"
+      "updated_at": "2026-11-20T17:51:10.934517+00:00"
     },
     "2299733001455": {
       "barcode": "2299733001455",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.145331+00:00"
+      "updated_at": "2026-11-20T17:51:10.966238+00:00"
     },
     "2298363003198": {
       "barcode": "2298363003198",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.145787+00:00"
+      "updated_at": "2026-11-20T17:51:10.966732+00:00"
     },
     "2290061002558": {
       "barcode": "2290061002558",
@@ -76,7 +76,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.197579+00:00"
+      "updated_at": "2026-11-20T17:51:11.021994+00:00"
     },
     "2291921004583": {
       "barcode": "2291921004583",
@@ -96,7 +96,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.230552+00:00"
+      "updated_at": "2026-11-20T17:51:11.066603+00:00"
     },
     "2291921007263": {
       "barcode": "2291921007263",
@@ -116,7 +116,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.231460+00:00"
+      "updated_at": "2026-11-20T17:51:11.067620+00:00"
     },
     "2291921005511": {
       "barcode": "2291921005511",
@@ -136,7 +136,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:41:09.232410+00:00"
+      "updated_at": "2026-11-20T17:51:11.068484+00:00"
     }
   }
 }

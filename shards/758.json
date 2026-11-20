@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "758",
   "count": 2,
-  "updated_at": "2026-11-20T17:41:09.471939+00:00",
+  "updated_at": "2026-11-20T17:51:11.532710+00:00",
   "products": {
     "75894733": {
       "barcode": "75894733",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.095825+00:00"
+      "updated_at": "2026-11-20T17:51:10.911352+00:00"
     },
     "75890780": {
       "barcode": "75890780",
@@ -40,7 +40,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:41:09.241708+00:00"
+      "updated_at": "2026-11-20T17:51:11.078991+00:00"
     }
   }
 }

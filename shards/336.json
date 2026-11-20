@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "336",
   "count": 2,
-  "updated_at": "2026-11-20T17:41:09.362200+00:00",
+  "updated_at": "2026-11-20T17:51:11.377384+00:00",
   "products": {
     "3360920202227": {
       "barcode": "3360920202227",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.106889+00:00"
+      "updated_at": "2026-11-20T17:51:10.923168+00:00"
     },
     "3366760015119": {
       "barcode": "3366760015119",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.251417+00:00"
+      "updated_at": "2026-11-20T17:51:11.090100+00:00"
     }
   }
 }

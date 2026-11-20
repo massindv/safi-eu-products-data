@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "038",
   "count": 1,
-  "updated_at": "2026-11-20T17:41:09.291128+00:00",
+  "updated_at": "2026-11-20T17:51:11.172265+00:00",
   "products": {
     "03842560": {
       "barcode": "03842560",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.144237+00:00"
+      "updated_at": "2026-11-20T17:51:10.964768+00:00"
     }
   }
 }

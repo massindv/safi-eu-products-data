@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "349",
-  "count": 1,
-  "updated_at": "2026-11-20T17:41:09.368161+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:51:11.396357+00:00",
   "products": {
     "3498425562055": {
       "barcode": "3498425562055",
@@ -24,7 +24,25 @@
       ],
       "reason": "Contains carmine / E120 / karmijnzuur insect colorant; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.187028+00:00"
+      "updated_at": "2026-11-20T17:51:11.009594+00:00"
+    },
+    "3493373037013": {
+      "barcode": "3493373037013",
+      "product_name": "Petits pois extra-fins et carottes en rondelles",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Petits pois bio (36%), carottes rondelles bio (30%), eau, sel de Guérande.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:51:11.144351+00:00"
     }
   }
 }

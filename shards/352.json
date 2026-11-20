@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "352",
-  "count": 7,
-  "updated_at": "2026-11-20T17:41:09.369551+00:00",
+  "count": 9,
+  "updated_at": "2026-11-20T17:51:11.400700+00:00",
   "products": {
     "3523230028431": {
       "barcode": "3523230028431",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:08.940103+00:00"
+      "updated_at": "2026-11-20T17:51:10.760673+00:00"
     },
     "3523230052856": {
       "barcode": "3523230052856",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:08.940700+00:00"
+      "updated_at": "2026-11-20T17:51:10.761305+00:00"
     },
     "3523230039680": {
       "barcode": "3523230039680",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:08.956801+00:00"
+      "updated_at": "2026-11-20T17:51:10.776485+00:00"
     },
     "3523680438224": {
       "barcode": "3523680438224",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.120506+00:00"
+      "updated_at": "2026-11-20T17:51:10.938127+00:00"
     },
     "3529380014591": {
       "barcode": "3529380014591",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:41:09.134921+00:00"
+      "updated_at": "2026-11-20T17:51:10.954623+00:00"
     },
     "3529380014607": {
       "barcode": "3529380014607",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:41:09.143555+00:00"
+      "updated_at": "2026-11-20T17:51:10.964038+00:00"
     },
     "3528071121037": {
       "barcode": "3528071121037",
@@ -128,7 +128,43 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.268094+00:00"
+      "updated_at": "2026-11-20T17:51:11.113516+00:00"
+    },
+    "3523680449022": {
+      "barcode": "3523680449022",
+      "product_name": "Rochers coco",
+      "store": "carrefour.fr",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sucre, noix de coco 28%. eau, farine de riz, blancs d'oeufs 8%, sirop de sucre inverti, flocons de pomme de terre, sirop de glucose, sucre vanillé (Sucre, arôme naturel de vanille), arôme naturel de noix de coco.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:51:11.124057+00:00"
+    },
+    "3523680466357": {
+      "barcode": "3523680466357",
+      "product_name": "Betteraves rouges cuites et épluchées",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Betterave rouge (Loir-et-Cher)",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:51:11.140038+00:00"
     }
   }
 }

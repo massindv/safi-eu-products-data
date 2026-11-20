@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "805",
-  "count": 1,
-  "updated_at": "2026-11-20T17:41:09.478589+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:51:11.539893+00:00",
   "products": {
     "8059070742176": {
       "barcode": "8059070742176",
@@ -22,7 +22,25 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:41:09.241236+00:00"
+      "updated_at": "2026-11-20T17:51:11.078297+00:00"
+    },
+    "8056382960038": {
+      "barcode": "8056382960038",
+      "product_name": "Hummus Ras el Hanout",
+      "store": "ah.nl",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:51:11.119068+00:00"
     }
   }
 }

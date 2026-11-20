@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "503",
-  "count": 1,
-  "updated_at": "2026-11-20T17:41:09.396247+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:51:11.450843+00:00",
   "products": {
     "5032439100070": {
       "barcode": "5032439100070",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:41:08.925363+00:00"
+      "updated_at": "2026-11-20T17:51:10.746814+00:00"
+    },
+    "5034444112109": {
+      "barcode": "5034444112109",
+      "product_name": "Morrocan Style Tagine Sauce",
+      "store": "delhaize.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Tomates, eau, huile d'olive, sucre, abricots 6% (avec farine de riz, conservateur: E 220), condiment (farine de riz, coriandre 1.5%, sel de cuisine, menthe, ail en poudre, paprika en poudre, poivre de Cayenne, cannelle, cumin oriental, fruit de citron en poudre, persil, cumin, poivre, colorant: E 160c), purée d'ail, feuilles de coriandre, correcteur d’acidité: acide citrique",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:51:11.120743+00:00"
     }
   }
 }
