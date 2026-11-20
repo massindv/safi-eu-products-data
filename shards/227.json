@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "227",
-  "count": 19,
-  "updated_at": "2026-11-20T16:47:59.080760+00:00",
+  "count": 24,
+  "updated_at": "2026-11-20T17:01:18.089876+00:00",
   "products": {
     "2277891001180": {
       "barcode": "2277891001180",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:47:58.774067+00:00"
+      "updated_at": "2026-11-20T17:01:17.771429+00:00"
     },
     "2273988001248": {
       "barcode": "2273988001248",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:47:58.775162+00:00"
+      "updated_at": "2026-11-20T17:01:17.772122+00:00"
     },
     "2274244001095": {
       "barcode": "2274244001095",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:58.777957+00:00"
+      "updated_at": "2026-11-20T17:01:17.774268+00:00"
     },
     "2271954002855": {
       "barcode": "2271954002855",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:58.778426+00:00"
+      "updated_at": "2026-11-20T17:01:17.775080+00:00"
     },
     "2273709002189": {
       "barcode": "2273709002189",
@@ -94,7 +94,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:58.807792+00:00"
+      "updated_at": "2026-11-20T17:01:17.797167+00:00"
     },
     "2271148001909": {
       "barcode": "2271148001909",
@@ -114,7 +114,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:58.813454+00:00"
+      "updated_at": "2026-11-20T17:01:17.800273+00:00"
     },
     "2275278003253": {
       "barcode": "2275278003253",
@@ -132,7 +132,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:58.813742+00:00"
+      "updated_at": "2026-11-20T17:01:17.800433+00:00"
     },
     "2278881002996": {
       "barcode": "2278881002996",
@@ -152,7 +152,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:47:58.882879+00:00"
+      "updated_at": "2026-11-20T17:01:17.858779+00:00"
     },
     "2271715001585": {
       "barcode": "2271715001585",
@@ -170,7 +170,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:47:58.885187+00:00"
+      "updated_at": "2026-11-20T17:01:17.861598+00:00"
     },
     "2277591003453": {
       "barcode": "2277591003453",
@@ -190,7 +190,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:47:58.886317+00:00"
+      "updated_at": "2026-11-20T17:01:17.862687+00:00"
     },
     "2276222001998": {
       "barcode": "2276222001998",
@@ -208,7 +208,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:59.016929+00:00"
+      "updated_at": "2026-11-20T17:01:17.990771+00:00"
     },
     "2275423001899": {
       "barcode": "2275423001899",
@@ -226,7 +226,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:59.017159+00:00"
+      "updated_at": "2026-11-20T17:01:17.991001+00:00"
     },
     "2274252009991": {
       "barcode": "2274252009991",
@@ -244,7 +244,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:59.017213+00:00"
+      "updated_at": "2026-11-20T17:01:17.991048+00:00"
     },
     "2274259001158": {
       "barcode": "2274259001158",
@@ -262,7 +262,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:59.017264+00:00"
+      "updated_at": "2026-11-20T17:01:17.991101+00:00"
     },
     "2276621002992": {
       "barcode": "2276621002992",
@@ -280,7 +280,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:59.017433+00:00"
+      "updated_at": "2026-11-20T17:01:17.991261+00:00"
     },
     "2274251001255": {
       "barcode": "2274251001255",
@@ -298,7 +298,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:59.017453+00:00"
+      "updated_at": "2026-11-20T17:01:17.991277+00:00"
     },
     "2272678001490": {
       "barcode": "2272678001490",
@@ -316,7 +316,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:59.017472+00:00"
+      "updated_at": "2026-11-20T17:01:17.991293+00:00"
     },
     "2275689000902": {
       "barcode": "2275689000902",
@@ -334,7 +334,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:59.017804+00:00"
+      "updated_at": "2026-11-20T17:01:17.991571+00:00"
     },
     "2270948001492": {
       "barcode": "2270948001492",
@@ -352,7 +352,103 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:59.017892+00:00"
+      "updated_at": "2026-11-20T17:01:17.991650+00:00"
+    },
+    "2273705001582": {
+      "barcode": "2273705001582",
+      "product_name": "Muffin vanille choco",
+      "store": "ah.nl",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Suiker, SCHARRELEI, raapolie, TARWEbloem, cacaomassa, TARWEzetmeel, LACTOSE, water, vegetarisch WEIpoeder, rijsmiddel (natriumcabonaat (E500), difosfaat (E450)), emulgator (mono - en diglyceriden van vetzuren (E47), SOJAlecithine (E322)), zout, MELKeiwit, verdikkingsmiddel (xanthaangom (E415)), natuurlijk vanille-aroma, vanillearoma, enzym (TARWE)",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:01:18.045970+00:00"
+    },
+    "2273576002152": {
+      "barcode": "2273576002152",
+      "product_name": "Les Madelaine",
+      "store": "ah.nl",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:01:18.048319+00:00"
+    },
+    "2270321001255": {
+      "barcode": "2270321001255",
+      "product_name": "Mini donut",
+      "store": "ah.nl",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "TARWEmeel, water, plantaardig vet (palm, kokas, palmpit), suiker, zonnebloemolie, dextrose, gist, 1,5% magere cacaopoeder, SOJAmeel, WEIpoeder, rijsmiddel (E450.E500), zout, emulgator (E322, E471, E481), MELKpoeder, kleurstof (caroteen), stabilisator (E492), natuurlijke aroma s.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:01:18.048507+00:00"
+    },
+    "2273706001703": {
+      "barcode": "2273706001703",
+      "product_name": "Muffin vanille choco",
+      "store": "ah.nl",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Suiker, SCHARRELEI, raapolie, TARWEbloem, cacaomassa&quot;, TARWEzetmeel, LACTOSE, water, vegetarisch WElpoeder, rijsmiddel (natrium. carbonaat (E500), difosfaat (E450)), emulgator (mono - en diglyceriden van vetzuren (E471), SOJA. lecithine (E322)), zout, MELKeiwit, verdikkingsmiddel (xanthaangom (E415)), natuurlijk vanille - aroma, vanillearoma, enzym (TARWE).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:01:18.049347+00:00"
+    },
+    "2277593001204": {
+      "barcode": "2277593001204",
+      "product_name": "Mini Donuts",
+      "store": "ah.nl",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "TARWEbloem, water, palmvet, 7,7% suiker, zonnebloemolie, dextrose, gist, SOJAbloem, zout, vegetarisch WElpoeder, rijsmiddel (E450, E500), emulgator (E471, E481), magere MELKpoeder, natuurlijk vanillearoma, antioxidant (E300), kleurstof (E160a)",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:01:18.049513+00:00"
     }
   }
 }

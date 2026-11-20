@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "054",
+  "count": 1,
+  "updated_at": "2026-11-20T17:01:18.071314+00:00",
+  "products": {
+    "0541026003710": {
+      "barcode": "0541026003710",
+      "product_name": "chocolat spéculos",
+      "store": "ah.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T17:01:18.002789+00:00"
+    }
+  }
+}

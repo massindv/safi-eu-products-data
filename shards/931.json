@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "931",
+  "count": 1,
+  "updated_at": "2026-11-20T17:01:18.280838+00:00",
+  "products": {
+    "9310072000480": {
+      "barcode": "9310072000480",
+      "product_name": "Sao",
+      "store": "carrefour.fr",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de _blé_, huile végétale, sel, levure de boulanger, extrait de malt (d'_orge_), sucre, levure chimique, émulsifiant (lécithine de _soja_), antioxydant (E307B de _soja_)",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.039808+00:00"
+    }
+  }
+}

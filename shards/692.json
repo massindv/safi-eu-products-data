@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "prefix": "692",
+  "count": 2,
+  "updated_at": "2026-11-20T17:01:18.222896+00:00",
+  "products": {
+    "6923744329234": {
+      "barcode": "6923744329234",
+      "product_name": "Noodle Master BBQ",
+      "store": "carrefour.fr",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Noodles: soft wheat flour 75%, palm oil (antioxidant(mixed tocopherols: E306)), wa, salt, flavour \r\nenhancers(monosodium glutamate: E621, disodium 5'-inosinate, disodium \r\n5'-guanylate: E627,E631 ), colours(paprika extract: E160c, caramel powder:\r\nE150a), acidity regulator (sodium lactate: E325), medium chain triglycerides,\r\nthickener (pectin: E440), sugar. seasoning: soft Wheat flour, salt, Sugar, \r\nflavour enhancers(monosodium glutamate: E621, disodium 5'-inosinate, \r\ndisodium 5'-guanylate: E627, E631), onion powder, garlic powder, \r\ncolour (caramel powder: E150a), BBQ flavour, pepper powder, ginger powder,\r\nyeast, Chilli powder, palm oil, anti-caking agent (silicon dioxide: E551) Oil:\r\nsoy sauce (defatted soy, _Wheat_, salt, water), sunflower oil (contains \r\nantioxidant(mixed tocopherols: E306)), garlic, Onion, colour(paprika extract,\r\nE160c). Vegetables: dried carrot flakes, dried cabbage, dried Chives. Chilli \r\npowder: Chilli powder.\r\nMay contain celery, crustaceans, milk.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.015639+00:00"
+    },
+    "6923744329340": {
+      "barcode": "6923744329340",
+      "product_name": "Noodle master green curry chicken",
+      "store": "carrefour.fr",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Nouilles 71.10. ine de blé tendre 7596, huile de palme (contient ar.:ioxygène: [304), eau, sel, de goût: E621, f627 et 631, colorants: El 60c et. i50a, correcteur diò(idité: E325, triglycérides à daine moyenne (origine : coco et huile de palme), épaississant.' (440, sucre. ksglsonnement en poudre 6g: sel, farine de blé tendre, sucre E621, E627 et E631, oignon en poudre, piment en poudre, arome de 3t 396, levure, huile de palme, antiaaglomérant: 651, curcuma. thement huile 6g: huile de tournesol (contient antioxygène: arôme de poulet colorant E160c Assaisonnement légum?s chou, ciboulette. Piment en poudre 0.2g. Patcontenir soja, céleri, crustacés et lait.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.015934+00:00"
+    }
+  }
+}

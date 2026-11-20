@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "425",
-  "count": 1,
-  "updated_at": "2026-11-20T16:47:59.164417+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:01:18.163981+00:00",
   "products": {
     "4251097400884": {
       "barcode": "4251097400884",
@@ -22,7 +22,25 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.671350+00:00"
+      "updated_at": "2026-11-20T17:01:17.711104+00:00"
+    },
+    "4251097417493": {
+      "barcode": "4251097417493",
+      "product_name": "Bifi Chorizo sticks",
+      "store": "ah.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T17:01:18.002328+00:00"
     }
   }
 }

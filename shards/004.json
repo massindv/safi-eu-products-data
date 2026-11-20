@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "004",
+  "count": 1,
+  "updated_at": "2026-11-20T17:01:18.064167+00:00",
+  "products": {
+    "0041321006487": {
+      "barcode": "0041321006487",
+      "product_name": "House Italian Dressing",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "WATER, SOYBEAN OIL, DISTILLED VINEGAR, SUGAR, GARLIC, SALT, EGG YOLKS 2%, PARMESAN CHEESE (PASTEURIZED MILK, CHEESE CULTURE, SALT, ENZYMES), SPICES, NATURAL FLAVOR (MILK), DRIED RED BELL PEPPERS, XANTHAN GUM, DRIED ONION, DRIED GARLIC, CARAMEL COLOR, DISODIUM PHOSPHATE, ANNATTO EXTRACT (COLOR), SORBIC ACID, SODIUM BENZOATE, CALCIUM DISODIUM EDTA.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.019508+00:00"
+    }
+  }
+}

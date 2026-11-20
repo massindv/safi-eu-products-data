@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "326",
-  "count": 4,
-  "updated_at": "2026-11-20T16:47:59.129132+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T17:01:18.125336+00:00",
   "products": {
     "3267031040581": {
       "barcode": "3267031040581",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.709636+00:00"
+      "updated_at": "2026-11-20T17:01:17.737747+00:00"
     },
     "3265470000852": {
       "barcode": "3265470000852",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.853548+00:00"
+      "updated_at": "2026-11-20T17:01:17.832677+00:00"
     },
     "3261055952165": {
       "barcode": "3261055952165",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.924656+00:00"
+      "updated_at": "2026-11-20T17:01:17.895198+00:00"
     },
     "3269617106995": {
       "barcode": "3269617106995",
@@ -80,7 +80,68 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.984037+00:00"
+      "updated_at": "2026-11-20T17:01:17.956637+00:00"
+    },
+    "3265479127000": {
+      "barcode": "3265479127000",
+      "product_name": "Isio 4 Vinaigre de Cidre & Pomme Miel",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Huile ISIO 4 (31,4%) (huile de colza, huile de tournesol à haute teneur en acide oléique, huile de tournesol, huile de pépins de raisin, huile essentielle de coriandre, vitamine D), vinaigres dont vinaigre de cidre (contient _lait_) (4,8%), eau, jus de pomme concentré (8,9%), miel (2,7%), sel, sucre, arôme.",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.021452+00:00"
+    },
+    "3265475013000": {
+      "barcode": "3265475013000",
+      "product_name": "ISIO 4 - Vinaigrette Légère",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau, huile ISIO 4 (32,2%), (huile de colza, de tournesol à haute teneur en acide oléique, de tournesol, de pépins de raisin, huile essentielle de  coriandre, vitamine D), vinaigres dont vinaigre  de Xérès (conﬁent sulfite), moutarde de Dijon (7,5%) (eau,  graine de moutarde, vinaigre, sel, antioxydant : disulfite de potassium, acidifiant : acide citrique) moutarde à l'ancienne (4,7%)  (vinaigre de vin blanc, eau graines de moutarde, téguments, épices), échalotes, jus d'échalotes concentré, sel, arôme, épice, épaississant : gomme xanthane, colorant : bêta-carotène.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.021726+00:00"
+    },
+    "3261055952189": {
+      "barcode": "3261055952189",
+      "product_name": "Porc au caramel",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Riz basmati précuit 27%, viande de porc préparée en salaison précuite 25% (viande de porc (origine : UE), acidifiant : citrate de sodium, sel), eau, carottes, poireaux, oignons frits (oignons, huile de tournesol), sucre, sauce Soja 2,5% (eau, soja, blé, sel), huile de colza, amidon de maïs, citronnlle, champignons noirs réhydratés, oignons déshydratés, mélange d' épices et de plantes aromatiques, caramel 0,3% (eau, sucre), vinaigre d' alcool, extrait de levure, épaississant : gomme guar.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "alcohol"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.058185+00:00"
     }
   }
 }

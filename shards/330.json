@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "330",
-  "count": 6,
-  "updated_at": "2026-11-20T16:47:59.132469+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T17:01:18.131327+00:00",
   "products": {
     "3302740047367": {
       "barcode": "3302740047367",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.649528+00:00"
+      "updated_at": "2026-11-20T17:01:17.699439+00:00"
     },
     "3302740039362": {
       "barcode": "3302740039362",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.649669+00:00"
+      "updated_at": "2026-11-20T17:01:17.699557+00:00"
     },
     "3302740047411": {
       "barcode": "3302740047411",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.650076+00:00"
+      "updated_at": "2026-11-20T17:01:17.699898+00:00"
     },
     "3302740047336": {
       "barcode": "3302740047336",
@@ -82,7 +82,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.650209+00:00"
+      "updated_at": "2026-11-20T17:01:17.700007+00:00"
     },
     "3305510131808": {
       "barcode": "3305510131808",
@@ -102,7 +102,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.710590+00:00"
+      "updated_at": "2026-11-20T17:01:17.738440+00:00"
     },
     "3305510066643": {
       "barcode": "3305510066643",
@@ -120,7 +120,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:47:58.998381+00:00"
+      "updated_at": "2026-11-20T17:01:17.976758+00:00"
+    },
+    "3300081001208": {
+      "barcode": "3300081001208",
+      "product_name": "Le Traditionnel",
+      "store": "carrefour.fr",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de blé (farine origine France), oeufs, malt d'orge, lait écrémé en poudre, poudres levantes : bicarbonates de soude et d'ammonium.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.035530+00:00"
     }
   }
 }

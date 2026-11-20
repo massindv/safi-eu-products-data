@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "000",
-  "count": 7,
-  "updated_at": "2026-11-20T16:47:59.030940+00:00",
+  "count": 8,
+  "updated_at": "2026-11-20T17:01:18.062373+00:00",
   "products": {
     "0000096067345": {
       "barcode": "0000096067345",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:47:58.545645+00:00"
+      "updated_at": "2026-11-20T17:01:17.642087+00:00"
     },
     "0000076222276": {
       "barcode": "0000076222276",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:47:58.599581+00:00"
+      "updated_at": "2026-11-20T17:01:17.673311+00:00"
     },
     "0000080042556": {
       "barcode": "0000080042556",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:47:58.606467+00:00"
+      "updated_at": "2026-11-20T17:01:17.675826+00:00"
     },
     "0000054025271": {
       "barcode": "0000054025271",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:47:58.620324+00:00"
+      "updated_at": "2026-11-20T17:01:17.681552+00:00"
     },
     "0000080035343": {
       "barcode": "0000080035343",
@@ -137,7 +137,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:47:58.647451+00:00"
+      "updated_at": "2026-11-20T17:01:17.697809+00:00"
     },
     "0000080023418": {
       "barcode": "0000080023418",
@@ -164,7 +164,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:47:58.647671+00:00"
+      "updated_at": "2026-11-20T17:01:17.697982+00:00"
     },
     "0000080023401": {
       "barcode": "0000080023401",
@@ -191,7 +191,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:47:58.647880+00:00"
+      "updated_at": "2026-11-20T17:01:17.698147+00:00"
+    },
+    "0002544704512": {
+      "barcode": "0002544704512",
+      "product_name": "EU Product",
+      "store": "delhaize.be",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Flocons d'avoine complets 53%, fibres alimentaires (polydextrose, dextrine résistante, inuline), croustillant de son (son de blé, farine de blé, farine de riz, son d'avoine), chocolat avec édulcorant 6% [édulcorant (maltitol), pâte de cacao*, inuline, beurre de cacao* émulsifiant (lécithines)], bâtonnet de son 5% (son de blé, dattes, raisins secs), huile de tournesol non hydrogénée, noisettes 4%, son d'avoine, édulcorants (isomalt, glycosides de stéviol issus de Stevia), farine d'avoine complète, noix de coco râpée, arôme, sel, arôme naturel, antioxydant (extrait riche en tocopherols). *Certifié Rainforest Alliance. Pour en savoir plus ra.org. 0 Peut contenir: autres céréales contenant du gluten, lait, soja, autres fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:01:18.054013+00:00"
     }
   }
 }

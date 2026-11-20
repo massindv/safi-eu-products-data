@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "302",
   "count": 6,
-  "updated_at": "2026-11-20T16:47:59.102447+00:00",
+  "updated_at": "2026-11-20T17:01:18.106172+00:00",
   "products": {
     "3021210012000": {
       "barcode": "3021210012000",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.653350+00:00"
+      "updated_at": "2026-11-20T17:01:17.702082+00:00"
     },
     "3029330069355": {
       "barcode": "3029330069355",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:47:58.686480+00:00"
+      "updated_at": "2026-11-20T17:01:17.721343+00:00"
     },
     "3023260030928": {
       "barcode": "3023260030928",
@@ -60,7 +60,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.708509+00:00"
+      "updated_at": "2026-11-20T17:01:17.736852+00:00"
     },
     "3029330005773": {
       "barcode": "3029330005773",
@@ -78,7 +78,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.765846+00:00"
+      "updated_at": "2026-11-20T17:01:17.768035+00:00"
     },
     "3024480008797": {
       "barcode": "3024480008797",
@@ -98,7 +98,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.971637+00:00"
+      "updated_at": "2026-11-20T17:01:17.946492+00:00"
     },
     "3023010003585": {
       "barcode": "3023010003585",
@@ -116,7 +116,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.971677+00:00"
+      "updated_at": "2026-11-20T17:01:17.946528+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "740",
-  "count": 4,
-  "updated_at": "2026-11-20T16:47:59.244157+00:00",
+  "count": 5,
+  "updated_at": "2026-11-20T17:01:18.226052+00:00",
   "products": {
     "7404802573947": {
       "barcode": "7404802573947",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:47:58.772170+00:00"
+      "updated_at": "2026-11-20T17:01:17.770806+00:00"
     },
     "7404741022353": {
       "barcode": "7404741022353",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:47:58.906274+00:00"
+      "updated_at": "2026-11-20T17:01:17.879293+00:00"
     },
     "7404741224696": {
       "barcode": "7404741224696",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:47:58.928580+00:00"
+      "updated_at": "2026-11-20T17:01:17.898878+00:00"
     },
     "7404741124002": {
       "barcode": "7404741124002",
@@ -74,7 +74,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:47:58.957247+00:00"
+      "updated_at": "2026-11-20T17:01:17.934424+00:00"
+    },
+    "7404741331813": {
+      "barcode": "7404741331813",
+      "product_name": "Honingkoek met parelsuiker",
+      "store": "colruyt.be",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T17:01:18.045385+00:00"
     }
   }
 }

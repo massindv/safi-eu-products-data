@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "885",
+  "count": 2,
+  "updated_at": "2026-11-20T17:01:18.278534+00:00",
+  "products": {
+    "8850344000745": {
+      "barcode": "8850344000745",
+      "product_name": "Sauce piment sriracha",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "eau, piment rouge 28%, sucre, ail, sel, stabilisant: E415, amidon modifié de maïs, correcteur d'acidité: E260, conservateur: E211, colorant: E160c",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.020783+00:00"
+    },
+    "8854404004759": {
+      "barcode": "8854404004759",
+      "product_name": "Royal Thai Cuisine Thai Premium Cooking Set Red Curry",
+      "store": "delhaize.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:01:18.032571+00:00"
+    }
+  }
+}

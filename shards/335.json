@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "335",
+  "count": 1,
+  "updated_at": "2026-11-20T17:01:18.133761+00:00",
+  "products": {
+    "3355570004253": {
+      "barcode": "3355570004253",
+      "product_name": "Farfalles sauce tomates",
+      "store": "carrefour.fr",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.014365+00:00"
+    }
+  }
+}

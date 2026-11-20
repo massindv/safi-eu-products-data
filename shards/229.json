@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "229",
-  "count": 3,
-  "updated_at": "2026-11-20T16:47:59.081975+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T17:01:18.092154+00:00",
   "products": {
     "2291921006099": {
       "barcode": "2291921006099",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.982605+00:00"
+      "updated_at": "2026-11-20T17:01:17.955146+00:00"
     },
     "2299733001455": {
       "barcode": "2299733001455",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:59.017384+00:00"
+      "updated_at": "2026-11-20T17:01:17.991217+00:00"
     },
     "2298363003198": {
       "barcode": "2298363003198",
@@ -58,7 +58,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:59.017942+00:00"
+      "updated_at": "2026-11-20T17:01:17.991692+00:00"
+    },
+    "2290061002558": {
+      "barcode": "2290061002558",
+      "product_name": "Kersencake BB Room",
+      "store": "ah.nl",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "suiker, kers,_ TARWEbloem_, _SCHARRELEI_, raapolie, water, gemodificeerd zetmeel (aardappel, maïs), _AMANDEL_, vegetarische zoete WEipoeder, rijsmiddel (E450, E500), ROOMpoeder, glucosestroop, dextrose, magere MELKpoeder, natuurlijk aroma, halfvolle MELKpoeder, _ROOM_, zout, zuurteregelaar (E330, E331), geleermiddel (E440, E415), wortelextract, magere _MELK_, stabilisator(E407)",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:01:18.048852+00:00"
     }
   }
 }

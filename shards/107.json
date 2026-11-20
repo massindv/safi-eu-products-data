@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "107",
-  "count": 1,
-  "updated_at": "2026-11-20T16:47:59.061520+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:01:18.080266+00:00",
   "products": {
     "10760475": {
       "barcode": "10760475",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:58.666401+00:00"
+      "updated_at": "2026-11-20T17:01:17.708115+00:00"
+    },
+    "10773666": {
+      "barcode": "10773666",
+      "product_name": "DARK 70% CACAO",
+      "store": "carrefour.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Chocolade, met zoetstof.\nIngrediënten:Cacaomassa, zoetstof: maltitolen, cacaoboter, inuline, ontvet cacaopoeder, emulgator: sojalecithinen, natuurlijk vanillearoma. Cacao: 70 % minimum. Kan sporen van noten, ei, melk, sesam en gluten bevatten. \nChocolat, avec édulcorant. \nIngrédients: Pâte de cacao, édulcorant: maltitols, beurre de cacao, inuline, poudre de cacao dégraissé, émulsifiant: lécithines de soja, arôme naturel de vanille. Cacao:70 % minimum. Peut contenir des traces de fruits ă coque, d'oeuf, de lait, de sésame et de gluten.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T17:01:18.012731+00:00"
     }
   }
 }

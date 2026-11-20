@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "368",
+  "count": 1,
+  "updated_at": "2026-11-20T17:01:18.149971+00:00",
+  "products": {
+    "3683080569482": {
+      "barcode": "3683080569482",
+      "product_name": "Bibi choco",
+      "store": "carrefour.fr",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.049662+00:00"
+    }
+  }
+}

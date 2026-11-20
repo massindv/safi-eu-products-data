@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "955",
+  "count": 1,
+  "updated_at": "2026-11-20T17:01:18.281881+00:00",
+  "products": {
+    "9555022301228": {
+      "barcode": "9555022301228",
+      "product_name": "Express Cup Saveur Curry",
+      "store": "carrefour.fr",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "NOUILLES 92%: Farine de blé, Huile de palme, Amidon de pommes de terre sel, Stabilisant (E41 2, E452i, E501 i)\r\nASSAISONNEMENT 1,6%: Épices, Exhausteurs de goût (E621, E627, E631), Sucre de canne, Arôme de curry 0,1%, correcteur d'acidité (E296), Anti-agglomérant (E551)",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.014853+00:00"
+    }
+  }
+}

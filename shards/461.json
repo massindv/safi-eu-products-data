@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "461",
+  "count": 1,
+  "updated_at": "2026-11-20T17:01:18.165021+00:00",
+  "products": {
+    "46122698": {
+      "barcode": "46122698",
+      "product_name": "Houmous",
+      "store": "colruyt.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "48% pois chiches, huile de navette, eau, 12% pâte de SÉSAME, ail, sel, acidifiant (E330), conservateur (E200), poivre blanc.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T17:01:18.023738+00:00"
+    }
+  }
+}

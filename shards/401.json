@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "401",
-  "count": 7,
-  "updated_at": "2026-11-20T16:47:59.162594+00:00",
+  "count": 9,
+  "updated_at": "2026-11-20T17:01:18.162301+00:00",
   "products": {
     "4018077632006": {
       "barcode": "4018077632006",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:47:58.681950+00:00"
+      "updated_at": "2026-11-20T17:01:17.719135+00:00"
     },
     "4012200401057": {
       "barcode": "4012200401057",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.697300+00:00"
+      "updated_at": "2026-11-20T17:01:17.729713+00:00"
     },
     "4016241050564": {
       "barcode": "4016241050564",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:47:58.757146+00:00"
+      "updated_at": "2026-11-20T17:01:17.761005+00:00"
     },
     "4016241043023": {
       "barcode": "4016241043023",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:47:58.759594+00:00"
+      "updated_at": "2026-11-20T17:01:17.762733+00:00"
     },
     "4014500041445": {
       "barcode": "4014500041445",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.760354+00:00"
+      "updated_at": "2026-11-20T17:01:17.763450+00:00"
     },
     "4014400400007": {
       "barcode": "4014400400007",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.815448+00:00"
+      "updated_at": "2026-11-20T17:01:17.801629+00:00"
     },
     "4017100127007": {
       "barcode": "4017100127007",
@@ -128,7 +128,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.892205+00:00"
+      "updated_at": "2026-11-20T17:01:17.867115+00:00"
+    },
+    "40198125": {
+      "barcode": "40198125",
+      "product_name": "Made for meat",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Purée de tomates, poivron (22%), eau, sucre, vinaigre d'alcool, amidon modifié, sel, poivron grillé (1.8%), sauce soja (contient du gluten et du soja), morceaux de tomates, plantes aromatiques, ail, jus de citron concentré, épices, cumin noir, poivre.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.021119+00:00"
+    },
+    "4017100374104": {
+      "barcode": "4017100374104",
+      "product_name": "Chokini 150g - bahlsen",
+      "store": "carrefour.fr",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLE, sucre, huile de palme, pate de cacao, sirop de glucose-fructose, LAIT entier en poudre, poudres a lever : carbonates de sodium, diphosphates, ecorce d'orange (0,4%), BEURRE de cacao, aromes, amidon (ble), emulsifiant : lecithines, acidifiant : acide citrique. peut contenir des traces de : OEUFS, AMANDES, NOISETTES.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.039998+00:00"
     }
   }
 }

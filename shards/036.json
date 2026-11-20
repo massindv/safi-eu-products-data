@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "036",
-  "count": 1,
-  "updated_at": "2026-11-20T16:47:59.041140+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:01:18.069037+00:00",
   "products": {
     "03687598": {
       "barcode": "03687598",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:47:58.999584+00:00"
+      "updated_at": "2026-11-20T17:01:17.978051+00:00"
+    },
+    "03634015": {
+      "barcode": "03634015",
+      "product_name": "Tiramisu",
+      "store": "ah.nl",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:01:18.045822+00:00"
     }
   }
 }

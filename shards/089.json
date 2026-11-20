@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "089",
   "count": 2,
-  "updated_at": "2026-11-20T16:47:59.060405+00:00",
+  "updated_at": "2026-11-20T17:01:18.079303+00:00",
   "products": {
     "0898999000503": {
       "barcode": "0898999000503",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:47:58.961086+00:00"
+      "updated_at": "2026-11-20T17:01:17.936696+00:00"
     },
     "0898999000022": {
       "barcode": "0898999000022",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.963860+00:00"
+      "updated_at": "2026-11-20T17:01:17.938897+00:00"
     }
   }
 }

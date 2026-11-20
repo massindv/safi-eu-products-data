@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "542",
-  "count": 11,
-  "updated_at": "2026-11-20T16:47:59.227432+00:00",
+  "count": 15,
+  "updated_at": "2026-11-20T17:01:18.215661+00:00",
   "products": {
     "5425021250022": {
       "barcode": "5425021250022",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:47:58.704787+00:00"
+      "updated_at": "2026-11-20T17:01:17.734499+00:00"
     },
     "5425016330029": {
       "barcode": "5425016330029",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.729902+00:00"
+      "updated_at": "2026-11-20T17:01:17.747558+00:00"
     },
     "5420019834253": {
       "barcode": "5420019834253",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.779481+00:00"
+      "updated_at": "2026-11-20T17:01:17.776293+00:00"
     },
     "5425028540096": {
       "barcode": "5425028540096",
@@ -76,7 +76,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:47:58.807038+00:00"
+      "updated_at": "2026-11-20T17:01:17.796661+00:00"
     },
     "5420051400454": {
       "barcode": "5420051400454",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:47:58.827895+00:00"
+      "updated_at": "2026-11-20T17:01:17.811321+00:00"
     },
     "5425020161503": {
       "barcode": "5425020161503",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.873351+00:00"
+      "updated_at": "2026-11-20T17:01:17.849717+00:00"
     },
     "5425031410034": {
       "barcode": "5425031410034",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.936710+00:00"
+      "updated_at": "2026-11-20T17:01:17.905410+00:00"
     },
     "5425027280115": {
       "barcode": "5425027280115",
@@ -148,7 +148,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:47:58.941070+00:00"
+      "updated_at": "2026-11-20T17:01:17.911908+00:00"
     },
     "5425024150367": {
       "barcode": "5425024150367",
@@ -168,7 +168,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.972313+00:00"
+      "updated_at": "2026-11-20T17:01:17.947071+00:00"
     },
     "5425035760012": {
       "barcode": "5425035760012",
@@ -186,7 +186,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.972341+00:00"
+      "updated_at": "2026-11-20T17:01:17.947097+00:00"
     },
     "5425021496437": {
       "barcode": "5425021496437",
@@ -206,7 +206,79 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:47:58.997915+00:00"
+      "updated_at": "2026-11-20T17:01:17.976270+00:00"
+    },
+    "5420005700319": {
+      "barcode": "5420005700319",
+      "product_name": "Snacking balls natural",
+      "store": "carrefour.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau, huile de canola, poudre de blanc d’œuf*, arômes naturels, mélange d'épices* (dextrose*, paprika*, macis*, ail*, poivre*, gingembre*, antioxydant (acide ascorbique)], amidon de blé* (2%), sel de mer, maltodextrine*, sucre*, poudre d'oignon*, poudre de poireau*, huile de tournesol*, épices*, stabilisants (farine de graines de caroube, gomme xanthane, carraghénanes), concentré de betterave rouge*. \r\n*Culture biologique.\r\nAgriculture UE/non UE. \r\nPeut contenir des traces de fruits à coque, céleri et moutarde.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T17:01:18.010790+00:00"
+    },
+    "5425007883183": {
+      "barcode": "5425007883183",
+      "product_name": "Chocolat noir amandes",
+      "store": "carrefour.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Masse de cacao, sucre de canne, amandes (8,7%),beurre de cacao, émulsifiant :lécithine de soja, sel de guerande (0,3%),arôme naturel de vanille.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T17:01:18.012259+00:00"
+    },
+    "5425020168205": {
+      "barcode": "5425020168205",
+      "product_name": "Humus topinambour châtaigne",
+      "store": "colruyt.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Kastanje 27.71%, aardpeer 27.71%, koolzaadolie, water, tahini (SESAMZAAD, kruidenmix (gemodificeerd maïszetmeel, zout, antioxidant: citroenzuur; bewaarmiddel kaliumsorbaat; komijn, chilipeper, stabilisator: xanthaangom), zwart SESAMzaad, geroosterd SESAMzaad, Raz El Hanout (gegrilde rode paprika, peterselie, water, look, zout, zonnebloemolie, gember, azijn, zwarte peper, komijn, kaneel, koriander, kruidnagel, citroenvezel, nootmuskaat, kardemom, kurkuma, Chinese kruidenmix (anijs, chilipeper, venkelzaad, kruidnagel, kaneel), look, voedingszuren: azijnzuur, melkzuur.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T17:01:18.023639+00:00"
+    },
+    "5425010320217": {
+      "barcode": "5425010320217",
+      "product_name": "Natura",
+      "store": "delhaize.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Huile de tournesol 40%, vinaigre 21%,_moutarde_aux grains (vinaigre, eau, graines de_moutarde_25%, sel, épices), miel, eau, jaunes d'_œufs_, épices, sucre sel",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:01:18.032454+00:00"
     }
   }
 }

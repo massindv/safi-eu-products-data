@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "252",
+  "count": 1,
+  "updated_at": "2026-11-20T17:01:18.101109+00:00",
+  "products": {
+    "2526921771358": {
+      "barcode": "2526921771358",
+      "product_name": "trésors",
+      "store": "carrefour.fr",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farines de céréales(blé{26%), avoine complète{17%), riz{11%}), fourrage chocolat noisettes (sucre, huiles végétales (colza, palme), chocolat (4%) (sucre, pâte de cacao), maltodextrine, cacao maigre en poudre, petit-lait en poudre, lait écrémé en poudre, noisettes (1%), emulsifiant(lécithine de tournesol), arôme naturel), sucre, sel, colorant(caroténoïdes, rocou), antioxydant(palmitate d'ascorbyle, alpha-tocopherol). VITAMINES ET MINÉRAUX: Vitamines (niacine, B6, B2, B1, acide folique, B12) et fer.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.050104+00:00"
+    }
+  }
+}

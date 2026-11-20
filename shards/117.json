@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "117",
-  "count": 1,
-  "updated_at": "2026-11-20T16:47:59.062272+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:01:18.080998+00:00",
   "products": {
     "11760399": {
       "barcode": "11760399",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:47:58.905429+00:00"
+      "updated_at": "2026-11-20T17:01:17.878666+00:00"
+    },
+    "11746478": {
+      "barcode": "11746478",
+      "product_name": "Hummus Pikant",
+      "store": "ah.nl",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "53% kikkererwt, water, zonnebloemolie, 8% sesampasta, geroosterde rode paprika, rode paprika, specerijen (ui, komijn, knoflook, cayenne, gember, venkel, paprika, kurkuma, foelie, witte peper, karwij, kardamom), suiker, voedingsvezel (aardappel, bamboe, citrus), zoete peper, zeezout, zout, gebufferde azijnpoeder, azijn, voedingszuur (E260, E330), dextrose, conserveermiddel (E202, E211), antioxidant (E300), rode chilipeper, natuurlijk capsicumaroma, verstevigingsmiddel (E509).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:01:18.027767+00:00"
     }
   }
 }

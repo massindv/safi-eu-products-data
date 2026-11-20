@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "370",
-  "count": 7,
-  "updated_at": "2026-11-20T16:47:59.159697+00:00",
+  "count": 9,
+  "updated_at": "2026-11-20T17:01:18.157840+00:00",
   "products": {
     "3701283800437": {
       "barcode": "3701283800437",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.817049+00:00"
+      "updated_at": "2026-11-20T17:01:17.803248+00:00"
     },
     "3700211234221": {
       "barcode": "3700211234221",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.877461+00:00"
+      "updated_at": "2026-11-20T17:01:17.852764+00:00"
     },
     "3700111093119": {
       "barcode": "3700111093119",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.955975+00:00"
+      "updated_at": "2026-11-20T17:01:17.933739+00:00"
     },
     "3700271001092": {
       "barcode": "3700271001092",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:47:58.968210+00:00"
+      "updated_at": "2026-11-20T17:01:17.943116+00:00"
     },
     "3700435300252": {
       "barcode": "3700435300252",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.968730+00:00"
+      "updated_at": "2026-11-20T17:01:17.943586+00:00"
     },
     "3700325910882": {
       "barcode": "3700325910882",
@@ -112,7 +112,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:47:58.970294+00:00"
+      "updated_at": "2026-11-20T17:01:17.944838+00:00"
     },
     "3700279301491": {
       "barcode": "3700279301491",
@@ -130,7 +130,45 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:59.007460+00:00"
+      "updated_at": "2026-11-20T17:01:17.982716+00:00"
+    },
+    "3700157500718": {
+      "barcode": "3700157500718",
+      "product_name": "La Madeleine Classique - Coque chocolat au lait",
+      "store": "carrefour.fr",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Chocolat au LAIT 30,5% (sucre, poudre de LAIT entier, beurre de cacao, pâte de cacao, émulsifiant : lécithines, arôme), farine de BLÉ 20,5%, ŒUFS de poules élevées en plein air 14,5%, sucre 12,5% (France) , huile de colza 12% (France) , stabilisants: sorbitols - glycérol, sirop de glucose, beurre pâtissier (LAIT) 3% (France) , arômes naturels de vanille (contient alcool), sirop de sucre inverti, poudres à lever: tartrate de potassium - bicarbonate de sodium, sel fin de l'Île de Ré. Contient : FRUITS À COQUE (AMANDE - NOISETTE - NOIX DE PECAN - PISTACHE). Peut contenir : SOJA.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.034175+00:00"
+    },
+    "3701184800314": {
+      "barcode": "3701184800314",
+      "product_name": "Yaourt double Sensation Abricot clémentine",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait entier partiellement concentré pasteurisé 82% (origine : Auvergne Rhône-Alpes) - sucre 7,1% - abricot 4,8% (origine : France), jus de clémentine 1,6% (origine: France) - amidon - jus de citron concentré - arômes naturels - jus concentré de carotte - ferments lactiques (dont lait). Sans conservateurs.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.060507+00:00"
     }
   }
 }

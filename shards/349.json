@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "349",
+  "count": 1,
+  "updated_at": "2026-11-20T17:01:18.137238+00:00",
+  "products": {
+    "3498425562055": {
+      "barcode": "3498425562055",
+      "product_name": "Les petits cakes aux fruits confits et secs",
+      "store": "carrefour.fr",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de blé 23%, sucre, œufs frais, huile de colza, raisins secs 11,3% (raisins, huiles végétales : colza - coton), bigarreaux confits 7,5% (bigarreaux, sucre, acidifiant : acide citrique, conservateur : sorbate de potassium, colorant : cochenille), pastèques confites 7,5% (pastèques, sirop de glucose-fructose, concentré de carotte et d'aronia, correcteur d'acidité : acide citrique), stabilisants : sorbitols - glycérol, écorces d'orange confites 3,7% (écorces d'orange, sirop de glucose-fructose, sucre, correcteur d'acidité : acide citrique), sirop de glucose-fructose, arôme (contient alcool), poudres à lever : diphosphates - carbonates de sodium, lait écrémé en poudre, arôme naturel d'orange, extrait aromatique : rhum - infusion d'écorces d'oranges douces-arômes, sel, correcteur d'acidité : acide citrique, gélifiant : gomme xanthane.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "insect_derived",
+        "alcohol"
+      ],
+      "reason": "Contains carmine / E120 insect colorant; Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.036773+00:00"
+    }
+  }
+}

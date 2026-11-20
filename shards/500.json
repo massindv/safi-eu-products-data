@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "500",
-  "count": 11,
-  "updated_at": "2026-11-20T16:47:59.166834+00:00",
+  "count": 13,
+  "updated_at": "2026-11-20T17:01:18.166531+00:00",
   "products": {
     "5000232957283": {
       "barcode": "5000232957283",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:47:58.552336+00:00"
+      "updated_at": "2026-11-20T17:01:17.647585+00:00"
     },
     "5000232957306": {
       "barcode": "5000232957306",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:47:58.552447+00:00"
+      "updated_at": "2026-11-20T17:01:17.647670+00:00"
     },
     "5000159560979": {
       "barcode": "5000159560979",
@@ -85,7 +85,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:47:58.573525+00:00"
+      "updated_at": "2026-11-20T17:01:17.659727+00:00"
     },
     "5000111041010": {
       "barcode": "5000111041010",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:47:58.639310+00:00"
+      "updated_at": "2026-11-20T17:01:17.691651+00:00"
     },
     "5000426171518": {
       "barcode": "5000426171518",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.815964+00:00"
+      "updated_at": "2026-11-20T17:01:17.802151+00:00"
     },
     "5000328244389": {
       "barcode": "5000328244389",
@@ -148,7 +148,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.820734+00:00"
+      "updated_at": "2026-11-20T17:01:17.806214+00:00"
     },
     "5000175407623": {
       "barcode": "5000175407623",
@@ -166,7 +166,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:47:58.870391+00:00"
+      "updated_at": "2026-11-20T17:01:17.847912+00:00"
     },
     "5000354927881": {
       "barcode": "5000354927881",
@@ -184,7 +184,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:47:58.909949+00:00"
+      "updated_at": "2026-11-20T17:01:17.882631+00:00"
     },
     "5000159541459": {
       "barcode": "5000159541459",
@@ -204,7 +204,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:47:58.930008+00:00"
+      "updated_at": "2026-11-20T17:01:17.900047+00:00"
     },
     "5000112611861": {
       "barcode": "5000112611861",
@@ -222,7 +222,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:47:58.954302+00:00"
+      "updated_at": "2026-11-20T17:01:17.931773+00:00"
     },
     "5000112638745": {
       "barcode": "5000112638745",
@@ -240,7 +240,45 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:47:58.967130+00:00"
+      "updated_at": "2026-11-20T17:01:17.941699+00:00"
+    },
+    "5000168199184": {
+      "barcode": "5000168199184",
+      "product_name": "Masterpieces caramel lion with belgian chocolate",
+      "store": "ah.nl",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Melkchocolade [suiker, volle melkpoeder, cacaoboter, cacaomassa, lactose (melk), boterolie, emulgator (sojalecithine), natuurlijk vanillearoma], karamelvulling (26%) [glucosestroop, room, suiker, glucose-fructosestroop, boter, volle melkpoeder, bevochtigingsmiddel (glycerol), zuurteregelaar (natriumwaterstofcarbonaat), emulgators (mono-en diglyceriden van vetzuren, sojalecithine), vanille-extract]. Kan pinda, noten, ei en tarwe (gluten) bevatten.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:01:18.003682+00:00"
+    },
+    "5000157142955": {
+      "barcode": "5000157142955",
+      "product_name": "Bacon Burger Sauce",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Huile de soja 50 %, eau, vinaigre d'alcool, purée de tomates mi-réduite 8,6%, jaune d'œuf, sucre, ail 2,5%, arômes, amidon modifié, sel, graines de moutarde moulues, épices, plantes aromatiques, oignon, épaississant (gomme xanthane), conservateur (sorbate de potassium), arômes de fumée, antioxydant (calcium disodium EDTA).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:01:18.018554+00:00"
     }
   }
 }
