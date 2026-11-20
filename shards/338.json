@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "338",
-  "count": 1,
-  "updated_at": "2026-11-20T18:28:54.381540+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T18:42:39.192815+00:00",
   "products": {
     "3387390330533": {
       "barcode": "3387390330533",
@@ -20,7 +20,27 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:28:53.965918+00:00"
+      "updated_at": "2026-11-20T18:42:38.649055+00:00"
+    },
+    "3381590002047": {
+      "barcode": "3381590002047",
+      "product_name": "Hachés de boeuf à l'oignon",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande bovine 69% (viande boeuf 65,3% - gras de bovin 3,7%) (origine UE), eau, protéines de soja, oignon en poudre 1,9%, chapelure (contient gluten), plantes aromatiques, arômes (contient soja), fibre de blé (contient gluten), sel, betterave rouge déshydratée.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:42:38.905046+00:00"
     }
   }
 }

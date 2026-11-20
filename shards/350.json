@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "350",
   "count": 4,
-  "updated_at": "2026-11-20T18:28:54.385283+00:00",
+  "updated_at": "2026-11-20T18:42:39.211506+00:00",
   "products": {
     "3502110010643": {
       "barcode": "3502110010643",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.816370+00:00"
+      "updated_at": "2026-11-20T18:42:38.416994+00:00"
     },
     "3500870064777": {
       "barcode": "3500870064777",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:28:53.835203+00:00"
+      "updated_at": "2026-11-20T18:42:38.432138+00:00"
     },
     "3504182960123": {
       "barcode": "3504182960123",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.852012+00:00"
+      "updated_at": "2026-11-20T18:42:38.460310+00:00"
     },
     "3502110004239": {
       "barcode": "3502110004239",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.984112+00:00"
+      "updated_at": "2026-11-20T18:42:38.677525+00:00"
     }
   }
 }

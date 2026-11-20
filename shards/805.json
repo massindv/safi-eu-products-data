@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "805",
   "count": 2,
-  "updated_at": "2026-11-20T18:28:54.685751+00:00",
+  "updated_at": "2026-11-20T18:42:39.444859+00:00",
   "products": {
     "8059070742176": {
       "barcode": "8059070742176",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:54.036196+00:00"
+      "updated_at": "2026-11-20T18:42:38.733893+00:00"
     },
     "8056382960038": {
       "barcode": "8056382960038",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:54.099420+00:00"
+      "updated_at": "2026-11-20T18:42:38.794172+00:00"
     }
   }
 }

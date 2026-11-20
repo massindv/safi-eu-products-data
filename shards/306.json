@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "306",
-  "count": 17,
-  "updated_at": "2026-11-20T18:28:54.349817+00:00",
+  "count": 18,
+  "updated_at": "2026-11-20T18:42:39.131542+00:00",
   "products": {
     "3068320120256": {
       "barcode": "3068320120256",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.814842+00:00"
+      "updated_at": "2026-11-20T18:42:38.415456+00:00"
     },
     "3060921506972": {
       "barcode": "3060921506972",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:28:53.589533+00:00"
+      "updated_at": "2026-11-20T18:42:38.084016+00:00"
     },
     "3060921463411": {
       "barcode": "3060921463411",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:28:53.589975+00:00"
+      "updated_at": "2026-11-20T18:42:38.084410+00:00"
     },
     "3060921463398": {
       "barcode": "3060921463398",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:28:53.590010+00:00"
+      "updated_at": "2026-11-20T18:42:38.084863+00:00"
     },
     "3060921461318": {
       "barcode": "3060921461318",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:28:53.590183+00:00"
+      "updated_at": "2026-11-20T18:42:38.085076+00:00"
     },
     "3060921503827": {
       "barcode": "3060921503827",
@@ -119,7 +119,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:28:53.590637+00:00"
+      "updated_at": "2026-11-20T18:42:38.085437+00:00"
     },
     "3060921463497": {
       "barcode": "3060921463497",
@@ -137,7 +137,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:28:53.600509+00:00"
+      "updated_at": "2026-11-20T18:42:38.117344+00:00"
     },
     "3061990143365": {
       "barcode": "3061990143365",
@@ -155,7 +155,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.629441+00:00"
+      "updated_at": "2026-11-20T18:42:38.172252+00:00"
     },
     "3061990142467": {
       "barcode": "3061990142467",
@@ -173,7 +173,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:28:53.736122+00:00"
+      "updated_at": "2026-11-20T18:42:38.320094+00:00"
     },
     "3068320120348": {
       "barcode": "3068320120348",
@@ -191,7 +191,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:28:53.817615+00:00"
+      "updated_at": "2026-11-20T18:42:38.418810+00:00"
     },
     "3068320055022": {
       "barcode": "3068320055022",
@@ -209,7 +209,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:28:53.826766+00:00"
+      "updated_at": "2026-11-20T18:42:38.427027+00:00"
     },
     "3068320111919": {
       "barcode": "3068320111919",
@@ -227,7 +227,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:28:53.829878+00:00"
+      "updated_at": "2026-11-20T18:42:38.428601+00:00"
     },
     "3068320063003": {
       "barcode": "3068320063003",
@@ -245,7 +245,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:28:53.830453+00:00"
+      "updated_at": "2026-11-20T18:42:38.428964+00:00"
     },
     "3060921503834": {
       "barcode": "3060921503834",
@@ -263,7 +263,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:28:53.877115+00:00"
+      "updated_at": "2026-11-20T18:42:38.495245+00:00"
     },
     "3068320126548": {
       "barcode": "3068320126548",
@@ -281,7 +281,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:28:53.992216+00:00"
+      "updated_at": "2026-11-20T18:42:38.686438+00:00"
     },
     "3068320019321": {
       "barcode": "3068320019321",
@@ -299,7 +299,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:28:54.147853+00:00"
+      "updated_at": "2026-11-20T18:42:38.835336+00:00"
     },
     "3068233500404": {
       "barcode": "3068233500404",
@@ -317,7 +317,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:54.159791+00:00"
+      "updated_at": "2026-11-20T18:42:38.849810+00:00"
+    },
+    "3067140243114": {
+      "barcode": "3067140243114",
+      "product_name": "Chicoree soluble caramel 100g",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Chicorée soluble (90,8%), Arôme naturel, Cacao maigre",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:42:38.915918+00:00"
     }
   }
 }

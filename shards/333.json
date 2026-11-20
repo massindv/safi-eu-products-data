@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "333",
-  "count": 10,
-  "updated_at": "2026-11-20T18:28:54.379770+00:00",
+  "count": 11,
+  "updated_at": "2026-11-20T18:42:39.183835+00:00",
   "products": {
     "3330720244017": {
       "barcode": "3330720244017",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.542425+00:00"
+      "updated_at": "2026-11-20T18:42:37.991964+00:00"
     },
     "3330720251039": {
       "barcode": "3330720251039",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:28:53.568091+00:00"
+      "updated_at": "2026-11-20T18:42:38.048501+00:00"
     },
     "3336971805021": {
       "barcode": "3336971805021",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.628538+00:00"
+      "updated_at": "2026-11-20T18:42:38.171173+00:00"
     },
     "3336971805038": {
       "barcode": "3336971805038",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.630776+00:00"
+      "updated_at": "2026-11-20T18:42:38.175605+00:00"
     },
     "3336971209133": {
       "barcode": "3336971209133",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.635517+00:00"
+      "updated_at": "2026-11-20T18:42:38.183649+00:00"
     },
     "3331560500165": {
       "barcode": "3331560500165",
@@ -112,7 +112,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:28:53.833261+00:00"
+      "updated_at": "2026-11-20T18:42:38.430713+00:00"
     },
     "3339720413010": {
       "barcode": "3339720413010",
@@ -132,7 +132,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.998256+00:00"
+      "updated_at": "2026-11-20T18:42:38.697289+00:00"
     },
     "3330149100666": {
       "barcode": "3330149100666",
@@ -152,7 +152,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:54.086507+00:00"
+      "updated_at": "2026-11-20T18:42:38.780943+00:00"
     },
     "3330149100642": {
       "barcode": "3330149100642",
@@ -172,7 +172,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:54.090996+00:00"
+      "updated_at": "2026-11-20T18:42:38.783374+00:00"
     },
     "3333680004059": {
       "barcode": "3333680004059",
@@ -192,7 +192,25 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:54.151454+00:00"
+      "updated_at": "2026-11-20T18:42:38.841652+00:00"
+    },
+    "3331480012922": {
+      "barcode": "3331480012922",
+      "product_name": "Croustillant chocolat noisette",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:42:38.912756+00:00"
     }
   }
 }

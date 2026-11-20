@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "008",
-  "count": 1,
-  "updated_at": "2026-11-20T18:28:54.222117+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T18:42:38.945080+00:00",
   "products": {
     "0089686140743": {
       "barcode": "0089686140743",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.915653+00:00"
+      "updated_at": "2026-11-20T18:42:38.570223+00:00"
+    },
+    "0088009320633": {
+      "barcode": "0088009320633",
+      "product_name": "Orangina original",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "EAU GAZÉIFIÉE, JUS D'ORANGE ET AUTRES JUS D'AGRUMES A BASE DE CONCENTRES 12% (ORANGE 10% CITRON, MANDARINE, PAMPLEMOUSSE), SUCRE, PULPE 2% (ORANGE, MANDARINE) EXTRAIT DE ZESTE D'ORANGE, CONSERVATEUR: SORBATE DE POTASSIUM, AROMES NATURELS D'ORANGE",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:42:38.914762+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "075",
-  "count": 5,
-  "updated_at": "2026-11-20T18:28:54.249275+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T18:42:38.991956+00:00",
   "products": {
     "0758012454761": {
       "barcode": "0758012454761",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:28:53.683647+00:00"
+      "updated_at": "2026-11-20T18:42:38.248803+00:00"
     },
     "07543760": {
       "barcode": "07543760",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.888538+00:00"
+      "updated_at": "2026-11-20T18:42:38.514989+00:00"
     },
     "0750547455893": {
       "barcode": "0750547455893",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:53.962609+00:00"
+      "updated_at": "2026-11-20T18:42:38.642664+00:00"
     },
     "0758012369256": {
       "barcode": "0758012369256",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:28:54.022803+00:00"
+      "updated_at": "2026-11-20T18:42:38.722074+00:00"
     },
     "0758012501670": {
       "barcode": "0758012501670",
@@ -92,7 +92,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:28:54.201991+00:00"
+      "updated_at": "2026-11-20T18:42:38.892016+00:00"
+    },
+    "0758943392330": {
+      "barcode": "0758943392330",
+      "product_name": "Elstar Appelsap",
+      "store": "ah.nl",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T18:42:38.917988+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "108",
   "count": 8,
-  "updated_at": "2026-11-20T18:28:54.260276+00:00",
+  "updated_at": "2026-11-20T18:42:39.017409+00:00",
   "products": {
     "10871890734582817210221": {
       "barcode": "10871890734582817210221",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T18:28:53.531187+00:00"
+      "updated_at": "2026-11-20T18:42:37.973103+00:00"
     },
     "10871826539927317210405": {
       "barcode": "10871826539927317210405",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:53.532020+00:00"
+      "updated_at": "2026-11-20T18:42:37.975793+00:00"
     },
     "10871826574119517220423": {
       "barcode": "10871826574119517220423",
@@ -60,7 +60,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:53.532114+00:00"
+      "updated_at": "2026-11-20T18:42:37.975994+00:00"
     },
     "10871890690430917210907": {
       "barcode": "10871890690430917210907",
@@ -80,7 +80,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:53.532172+00:00"
+      "updated_at": "2026-11-20T18:42:37.976167+00:00"
     },
     "10871890733430317210210": {
       "barcode": "10871890733430317210210",
@@ -100,7 +100,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:53.532228+00:00"
+      "updated_at": "2026-11-20T18:42:37.976312+00:00"
     },
     "10871826539911217230527": {
       "barcode": "10871826539911217230527",
@@ -118,7 +118,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:54.009770+00:00"
+      "updated_at": "2026-11-20T18:42:38.709067+00:00"
     },
     "10871890690436117230503": {
       "barcode": "10871890690436117230503",
@@ -138,7 +138,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:54.009903+00:00"
+      "updated_at": "2026-11-20T18:42:38.709249+00:00"
     },
     "10871890762943017230110": {
       "barcode": "10871890762943017230110",
@@ -156,7 +156,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:54.009962+00:00"
+      "updated_at": "2026-11-20T18:42:38.709305+00:00"
     }
   }
 }

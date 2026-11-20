@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "500",
-  "count": 15,
-  "updated_at": "2026-11-20T18:28:54.434185+00:00",
+  "count": 16,
+  "updated_at": "2026-11-20T18:42:39.269908+00:00",
   "products": {
     "5000232957283": {
       "barcode": "5000232957283",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:28:53.413161+00:00"
+      "updated_at": "2026-11-20T18:42:37.824341+00:00"
     },
     "5000232957306": {
       "barcode": "5000232957306",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:28:53.413260+00:00"
+      "updated_at": "2026-11-20T18:42:37.824718+00:00"
     },
     "5000159560979": {
       "barcode": "5000159560979",
@@ -85,7 +85,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:28:53.433643+00:00"
+      "updated_at": "2026-11-20T18:42:37.862725+00:00"
     },
     "5000111041010": {
       "barcode": "5000111041010",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T18:28:53.486773+00:00"
+      "updated_at": "2026-11-20T18:42:37.936311+00:00"
     },
     "5000426171518": {
       "barcode": "5000426171518",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:28:53.660415+00:00"
+      "updated_at": "2026-11-20T18:42:38.223756+00:00"
     },
     "5000328244389": {
       "barcode": "5000328244389",
@@ -148,7 +148,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:28:53.666310+00:00"
+      "updated_at": "2026-11-20T18:42:38.231303+00:00"
     },
     "5000175407623": {
       "barcode": "5000175407623",
@@ -166,7 +166,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:28:53.708394+00:00"
+      "updated_at": "2026-11-20T18:42:38.293422+00:00"
     },
     "5000354927881": {
       "barcode": "5000354927881",
@@ -184,7 +184,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T18:28:53.758972+00:00"
+      "updated_at": "2026-11-20T18:42:38.347079+00:00"
     },
     "5000159541459": {
       "barcode": "5000159541459",
@@ -204,7 +204,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T18:28:53.784205+00:00"
+      "updated_at": "2026-11-20T18:42:38.376864+00:00"
     },
     "5000112611861": {
       "barcode": "5000112611861",
@@ -222,7 +222,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.814913+00:00"
+      "updated_at": "2026-11-20T18:42:38.415531+00:00"
     },
     "5000112638745": {
       "barcode": "5000112638745",
@@ -240,7 +240,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:28:53.829083+00:00"
+      "updated_at": "2026-11-20T18:42:38.428111+00:00"
     },
     "5000168199184": {
       "barcode": "5000168199184",
@@ -258,7 +258,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:53.903292+00:00"
+      "updated_at": "2026-11-20T18:42:38.551027+00:00"
     },
     "5000157142955": {
       "barcode": "5000157142955",
@@ -278,7 +278,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.919328+00:00"
+      "updated_at": "2026-11-20T18:42:38.578301+00:00"
     },
     "5000159453813": {
       "barcode": "5000159453813",
@@ -296,7 +296,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:28:53.977576+00:00"
+      "updated_at": "2026-11-20T18:42:38.665388+00:00"
     },
     "5000289930031": {
       "barcode": "5000289930031",
@@ -314,7 +314,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:28:54.147902+00:00"
+      "updated_at": "2026-11-20T18:42:38.835396+00:00"
+    },
+    "5000112611786": {
+      "barcode": "5000112611786",
+      "product_name": "Coca-Cola light taste",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau gazéifiée ; colorant: E150d; acidifiants : acide phosphorique; acide citrique ; édulcorants: aspartam,. acésulfame-K; arômes naturels, dont caféine.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:42:38.915198+00:00"
     }
   }
 }

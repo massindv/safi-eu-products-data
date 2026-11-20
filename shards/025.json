@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "025",
   "count": 2,
-  "updated_at": "2026-11-20T18:28:54.231364+00:00",
+  "updated_at": "2026-11-20T18:42:38.961484+00:00",
   "products": {
     "02515687": {
       "barcode": "02515687",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:28:53.752725+00:00"
+      "updated_at": "2026-11-20T18:42:38.340692+00:00"
     },
     "02542263": {
       "barcode": "02542263",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:28:54.214523+00:00"
+      "updated_at": "2026-11-20T18:42:38.902685+00:00"
     }
   }
 }

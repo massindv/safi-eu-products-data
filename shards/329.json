@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "329",
-  "count": 9,
-  "updated_at": "2026-11-20T18:28:54.374567+00:00",
+  "count": 11,
+  "updated_at": "2026-11-20T18:42:39.181186+00:00",
   "products": {
     "3292070008476": {
       "barcode": "3292070008476",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.688916+00:00"
+      "updated_at": "2026-11-20T18:42:38.261562+00:00"
     },
     "3292070008841": {
       "barcode": "3292070008841",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.689559+00:00"
+      "updated_at": "2026-11-20T18:42:38.262287+00:00"
     },
     "3292070001781": {
       "barcode": "3292070001781",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.689945+00:00"
+      "updated_at": "2026-11-20T18:42:38.263074+00:00"
     },
     "3291890040062": {
       "barcode": "3291890040062",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.997413+00:00"
+      "updated_at": "2026-11-20T18:42:38.695839+00:00"
     },
     "3295590001996": {
       "barcode": "3295590001996",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T18:28:53.997607+00:00"
+      "updated_at": "2026-11-20T18:42:38.696292+00:00"
     },
     "3292070008575": {
       "barcode": "3292070008575",
@@ -112,7 +112,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:54.086119+00:00"
+      "updated_at": "2026-11-20T18:42:38.780536+00:00"
     },
     "3291334317347": {
       "barcode": "3291334317347",
@@ -132,7 +132,7 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:54.127390+00:00"
+      "updated_at": "2026-11-20T18:42:38.819534+00:00"
     },
     "3291980324041": {
       "barcode": "3291980324041",
@@ -152,7 +152,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:54.150104+00:00"
+      "updated_at": "2026-11-20T18:42:38.838473+00:00"
     },
     "3297760092179": {
       "barcode": "3297760092179",
@@ -170,7 +170,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:54.160194+00:00"
+      "updated_at": "2026-11-20T18:42:38.849970+00:00"
+    },
+    "3297520010375": {
+      "barcode": "3297520010375",
+      "product_name": "Enrobée chocolat vanille",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:42:38.907480+00:00"
+    },
+    "3299641120117": {
+      "barcode": "3299641120117",
+      "product_name": "PRINCE de COSTE rosé",
+      "store": "colruyt.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T18:42:38.916393+00:00"
     }
   }
 }

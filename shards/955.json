@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "955",
-  "count": 1,
-  "updated_at": "2026-11-20T18:28:54.852302+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T18:42:39.582755+00:00",
   "products": {
     "9555022301228": {
       "barcode": "9555022301228",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.915868+00:00"
+      "updated_at": "2026-11-20T18:42:38.570539+00:00"
+    },
+    "9556001004673": {
+      "barcode": "9556001004673",
+      "product_name": "Nestle Milo Activ-go 1KG",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Extrait de malt d'orge, Lait écrémé en poudre, Sucre, Poudre de cacao, Huile végétale, Phosphate de calcium, Phosphate de sodium, Vitamine C, Nicotinamide, Phosphate ferrique, Vanilline, Vitamine D, Vitamine B6, Vitamine B2, Vitamine B12.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:42:38.914604+00:00"
     }
   }
 }

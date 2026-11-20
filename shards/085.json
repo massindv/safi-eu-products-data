@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "085",
   "count": 3,
-  "updated_at": "2026-11-20T18:28:54.252811+00:00",
+  "updated_at": "2026-11-20T18:42:39.004426+00:00",
   "products": {
     "0858014386722": {
       "barcode": "0858014386722",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:28:53.818802+00:00"
+      "updated_at": "2026-11-20T18:42:38.420738+00:00"
     },
     "08521125": {
       "barcode": "08521125",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:28:53.986748+00:00"
+      "updated_at": "2026-11-20T18:42:38.681348+00:00"
     },
     "0853770032272": {
       "barcode": "0853770032272",
@@ -58,7 +58,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:54.180418+00:00"
+      "updated_at": "2026-11-20T18:42:38.866412+00:00"
     }
   }
 }

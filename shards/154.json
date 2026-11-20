@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "154",
+  "count": 1,
+  "updated_at": "2026-11-20T18:42:39.034343+00:00",
+  "products": {
+    "15400141966562": {
+      "barcode": "15400141966562",
+      "product_name": "Lait choco",
+      "store": "colruyt.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T18:42:38.917313+00:00"
+    }
+  }
+}

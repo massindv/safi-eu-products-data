@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "040",
   "count": 3,
-  "updated_at": "2026-11-20T18:28:54.236066+00:00",
+  "updated_at": "2026-11-20T18:42:38.968137+00:00",
   "products": {
     "04075288": {
       "barcode": "04075288",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.888939+00:00"
+      "updated_at": "2026-11-20T18:42:38.515570+00:00"
     },
     "0400101071667": {
       "barcode": "0400101071667",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T18:28:53.996261+00:00"
+      "updated_at": "2026-11-20T18:42:38.693743+00:00"
     },
     "0400524954115": {
       "barcode": "0400524954115",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T18:28:54.142109+00:00"
+      "updated_at": "2026-11-20T18:42:38.833932+00:00"
     }
   }
 }

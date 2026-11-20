@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "300",
-  "count": 1,
-  "updated_at": "2026-11-20T18:28:54.343156+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T18:42:39.116515+00:00",
   "products": {
     "30000148": {
       "barcode": "30000148",
@@ -22,7 +22,25 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.836530+00:00"
+      "updated_at": "2026-11-20T18:42:38.433328+00:00"
+    },
+    "3000013060005": {
+      "barcode": "3000013060005",
+      "product_name": "Fleurs de gwozey",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Gwozey",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:42:38.914819+00:00"
     }
   }
 }

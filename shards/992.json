@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "992",
   "count": 1,
-  "updated_at": "2026-11-20T18:28:54.853963+00:00",
+  "updated_at": "2026-11-20T18:42:39.584709+00:00",
   "products": {
     "99272104": {
       "barcode": "99272104",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T18:28:54.028495+00:00"
+      "updated_at": "2026-11-20T18:42:38.726782+00:00"
     }
   }
 }

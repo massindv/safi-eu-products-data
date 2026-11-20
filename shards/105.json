@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "105",
   "count": 2,
-  "updated_at": "2026-11-20T18:28:54.257994+00:00",
+  "updated_at": "2026-11-20T18:42:39.015634+00:00",
   "products": {
     "10517970": {
       "barcode": "10517970",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:54.050901+00:00"
+      "updated_at": "2026-11-20T18:42:38.748512+00:00"
     },
     "105400141243208100212": {
       "barcode": "105400141243208100212",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:28:54.098274+00:00"
+      "updated_at": "2026-11-20T18:42:38.790075+00:00"
     }
   }
 }

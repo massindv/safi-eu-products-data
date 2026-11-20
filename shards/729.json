@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "729",
   "count": 4,
-  "updated_at": "2026-11-20T18:28:54.620653+00:00",
+  "updated_at": "2026-11-20T18:42:39.417787+00:00",
   "products": {
     "7290005307027": {
       "barcode": "7290005307027",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T18:28:53.703174+00:00"
+      "updated_at": "2026-11-20T18:42:38.283633+00:00"
     },
     "7290012521317": {
       "barcode": "7290012521317",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T18:28:54.164721+00:00"
+      "updated_at": "2026-11-20T18:42:38.852208+00:00"
     },
     "7290013997432": {
       "barcode": "7290013997432",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:54.171132+00:00"
+      "updated_at": "2026-11-20T18:42:38.859538+00:00"
     },
     "7290013997401": {
       "barcode": "7290013997401",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:54.172233+00:00"
+      "updated_at": "2026-11-20T18:42:38.860082+00:00"
     }
   }
 }

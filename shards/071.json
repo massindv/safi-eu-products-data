@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "071",
   "count": 1,
-  "updated_at": "2026-11-20T18:28:54.247966+00:00",
+  "updated_at": "2026-11-20T18:42:38.984250+00:00",
   "products": {
     "0715059454116": {
       "barcode": "0715059454116",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:54.099980+00:00"
+      "updated_at": "2026-11-20T18:42:38.794608+00:00"
     }
   }
 }

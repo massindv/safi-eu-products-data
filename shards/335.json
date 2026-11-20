@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "335",
-  "count": 2,
-  "updated_at": "2026-11-20T18:28:54.380588+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T18:42:39.185039+00:00",
   "products": {
     "3355570004253": {
       "barcode": "3355570004253",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.915408+00:00"
+      "updated_at": "2026-11-20T18:42:38.569849+00:00"
     },
     "3355570003454": {
       "barcode": "3355570003454",
@@ -40,7 +40,25 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T18:28:53.998772+00:00"
+      "updated_at": "2026-11-20T18:42:38.697764+00:00"
+    },
+    "3352271120046": {
+      "barcode": "3352271120046",
+      "product_name": "Nectar Papaye Passion",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau, purée de papaye, jus concentré de fruits de la passion, sucre, acidifiant : acide citrique, antioxydant : vitamine C",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:42:38.914930+00:00"
     }
   }
 }

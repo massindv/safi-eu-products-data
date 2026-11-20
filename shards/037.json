@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "037",
   "count": 1,
-  "updated_at": "2026-11-20T18:28:54.234918+00:00",
+  "updated_at": "2026-11-20T18:42:38.967028+00:00",
   "products": {
     "0370588062760": {
       "barcode": "0370588062760",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T18:28:53.786669+00:00"
+      "updated_at": "2026-11-20T18:42:38.381130+00:00"
     }
   }
 }
