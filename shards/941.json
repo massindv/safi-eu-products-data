@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "941",
+  "count": 1,
+  "updated_at": "2026-11-20T17:41:09.534278+00:00",
+  "products": {
+    "9415522285001": {
+      "barcode": "9415522285001",
+      "product_name": "Meadow Fresh Pure Milk Full Cream 1L 14pcs",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "lait entier",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.245875+00:00"
+    }
+  }
+}

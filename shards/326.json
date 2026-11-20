@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "326",
-  "count": 8,
-  "updated_at": "2026-11-20T17:25:32.487111+00:00",
+  "count": 9,
+  "updated_at": "2026-11-20T17:41:09.355704+00:00",
   "products": {
     "3267031040581": {
       "barcode": "3267031040581",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.129034+00:00"
+      "updated_at": "2026-11-20T17:41:08.941157+00:00"
     },
     "3265470000852": {
       "barcode": "3265470000852",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.202630+00:00"
+      "updated_at": "2026-11-20T17:41:09.015180+00:00"
     },
     "3261055952165": {
       "barcode": "3261055952165",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.257682+00:00"
+      "updated_at": "2026-11-20T17:41:09.070826+00:00"
     },
     "3269617106995": {
       "barcode": "3269617106995",
@@ -80,7 +80,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.302610+00:00"
+      "updated_at": "2026-11-20T17:41:09.117965+00:00"
     },
     "3265479127000": {
       "barcode": "3265479127000",
@@ -100,7 +100,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.354348+00:00"
+      "updated_at": "2026-11-20T17:41:09.173259+00:00"
     },
     "3265475013000": {
       "barcode": "3265475013000",
@@ -120,7 +120,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.354588+00:00"
+      "updated_at": "2026-11-20T17:41:09.173551+00:00"
     },
     "3261055952189": {
       "barcode": "3261055952189",
@@ -141,7 +141,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.387535+00:00"
+      "updated_at": "2026-11-20T17:41:09.207064+00:00"
     },
     "3261570007524": {
       "barcode": "3261570007524",
@@ -161,7 +161,25 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.403590+00:00"
+      "updated_at": "2026-11-20T17:41:09.223478+00:00"
+    },
+    "3267031090876": {
+      "barcode": "3267031090876",
+      "product_name": "Petit livarot",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.243538+00:00"
     }
   }
 }

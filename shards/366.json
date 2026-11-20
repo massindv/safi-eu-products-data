@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "366",
-  "count": 14,
-  "updated_at": "2026-11-20T17:25:32.518509+00:00",
+  "count": 18,
+  "updated_at": "2026-11-20T17:41:09.382182+00:00",
   "products": {
     "3661344221772": {
       "barcode": "3661344221772",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.144268+00:00"
+      "updated_at": "2026-11-20T17:41:08.956157+00:00"
     },
     "3664346306638": {
       "barcode": "3664346306638",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:25:32.189688+00:00"
+      "updated_at": "2026-11-20T17:41:09.002222+00:00"
     },
     "3664346306003": {
       "barcode": "3664346306003",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.281880+00:00"
+      "updated_at": "2026-11-20T17:41:09.097167+00:00"
     },
     "3660989144767": {
       "barcode": "3660989144767",
@@ -76,7 +76,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.290727+00:00"
+      "updated_at": "2026-11-20T17:41:09.106714+00:00"
     },
     "3660989211452": {
       "barcode": "3660989211452",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.291367+00:00"
+      "updated_at": "2026-11-20T17:41:09.107324+00:00"
     },
     "3660989063860": {
       "barcode": "3660989063860",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:25:32.294347+00:00"
+      "updated_at": "2026-11-20T17:41:09.109749+00:00"
     },
     "3660989246584": {
       "barcode": "3660989246584",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:25:32.294503+00:00"
+      "updated_at": "2026-11-20T17:41:09.109880+00:00"
     },
     "3660989103706": {
       "barcode": "3660989103706",
@@ -150,7 +150,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:25:32.294575+00:00"
+      "updated_at": "2026-11-20T17:41:09.109950+00:00"
     },
     "3661945250386": {
       "barcode": "3661945250386",
@@ -168,7 +168,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.353112+00:00"
+      "updated_at": "2026-11-20T17:41:09.171923+00:00"
     },
     "3660140929752": {
       "barcode": "3660140929752",
@@ -186,7 +186,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.364575+00:00"
+      "updated_at": "2026-11-20T17:41:09.183249+00:00"
     },
     "3660989230972": {
       "barcode": "3660989230972",
@@ -204,7 +204,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.403615+00:00"
+      "updated_at": "2026-11-20T17:41:09.223503+00:00"
     },
     "3660989172371": {
       "barcode": "3660989172371",
@@ -222,7 +222,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.403787+00:00"
+      "updated_at": "2026-11-20T17:41:09.223675+00:00"
     },
     "3660989143531": {
       "barcode": "3660989143531",
@@ -242,7 +242,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.403941+00:00"
+      "updated_at": "2026-11-20T17:41:09.223830+00:00"
     },
     "3660989094109": {
       "barcode": "3660989094109",
@@ -260,7 +260,84 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.404006+00:00"
+      "updated_at": "2026-11-20T17:41:09.223894+00:00"
+    },
+    "3664346303149": {
+      "barcode": "3664346303149",
+      "product_name": "Gom's",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sirop de glucose, sucre, gélifiant (gomme d'acacia 6%), gélatine, amidon, arômes, colorants (E161b, E120, E153, E133), mélasse, extrait de réglisse.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "carmine",
+        "insect_derived"
+      ],
+      "reason": "Contains carmine / E120 / karmijnzuur insect colorant",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.250225+00:00"
+    },
+    "3664346307062": {
+      "barcode": "3664346307062",
+      "product_name": "Regal'ad - Le bonbon tendre",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sucre, sirop de glucose, huile de palme, amidon de maïs, acidifiant (acide citrique), stabilisant (gomme d'acacia), colorants (anthocyanes, extrait de paprika, lutéine), arômes naturels, émulsifiant (lecithines). Peut contenir lait.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.251815+00:00"
+    },
+    "3660603003418": {
+      "barcode": "3660603003418",
+      "product_name": "La mayonnaise comme à la maison - Bénédicta- 460g",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Huile de colza 77%, moutarde de Dijon 8.2% (eau, graines de moutarde, vinaigre d'alcool, sel), jaunes d’œufs frais 6.9%, vinaigres d'alcool et de vin blanc 6.1%, sel 0.9%, jus de citron à base de concentré 0.4%, épices 0.3% (poivre blanc, curcuma, paprika)",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.266942+00:00"
+    },
+    "3660861901457": {
+      "barcode": "3660861901457",
+      "product_name": "Compotée poivrons aubergine",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Purée et pulpe de tomates 60%, oignons rouges 9%, courgettes, aubergines pré-frites 8% (aubergines 6,4%, huile de tournesol), poivrons 7%, huile d'olive vierge extra, épice et plantes aromatiques 1,5% (basilic, al poivre, laurier, thym), crème déshydratée, sel, amidon transformé de mais, sucre, acidifiant: acide citrique.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.267377+00:00"
     }
   }
 }

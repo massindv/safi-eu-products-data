@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "271",
   "count": 6,
-  "updated_at": "2026-11-20T17:25:32.467067+00:00",
+  "updated_at": "2026-11-20T17:41:09.330117+00:00",
   "products": {
     "2711004012125": {
       "barcode": "2711004012125",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:25:32.102967+00:00"
+      "updated_at": "2026-11-20T17:41:08.915581+00:00"
     },
     "2710349006622": {
       "barcode": "2710349006622",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:25:32.303142+00:00"
+      "updated_at": "2026-11-20T17:41:09.118643+00:00"
     },
     "2710802003175": {
       "barcode": "2710802003175",
@@ -60,7 +60,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:25:32.303571+00:00"
+      "updated_at": "2026-11-20T17:41:09.119287+00:00"
     },
     "2710979006788": {
       "barcode": "2710979006788",
@@ -80,7 +80,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:25:32.303824+00:00"
+      "updated_at": "2026-11-20T17:41:09.119569+00:00"
     },
     "2710979006344": {
       "barcode": "2710979006344",
@@ -100,7 +100,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:25:32.303855+00:00"
+      "updated_at": "2026-11-20T17:41:09.119601+00:00"
     },
     "2710979007020": {
       "barcode": "2710979007020",
@@ -120,7 +120,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:25:32.303892+00:00"
+      "updated_at": "2026-11-20T17:41:09.119639+00:00"
     }
   }
 }

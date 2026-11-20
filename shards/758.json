@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "758",
-  "count": 1,
-  "updated_at": "2026-11-20T17:25:32.599858+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:41:09.471939+00:00",
   "products": {
     "75894733": {
       "barcode": "75894733",
@@ -20,7 +20,27 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.280477+00:00"
+      "updated_at": "2026-11-20T17:41:09.095825+00:00"
+    },
+    "75890780": {
+      "barcode": "75890780",
+      "product_name": "Cottage cheese light",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "gepasteuriseerde magere melk, microbieel stremsel, zuursel, zout.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.241708+00:00"
     }
   }
 }

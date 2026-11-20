@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "328",
-  "count": 5,
-  "updated_at": "2026-11-20T17:25:32.489608+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T17:41:09.358693+00:00",
   "products": {
     "3285810043202": {
       "barcode": "3285810043202",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.130400+00:00"
+      "updated_at": "2026-11-20T17:41:08.942157+00:00"
     },
     "3285810043103": {
       "barcode": "3285810043103",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.145625+00:00"
+      "updated_at": "2026-11-20T17:41:08.957421+00:00"
     },
     "3287360766006": {
       "barcode": "3287360766006",
@@ -59,7 +59,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.298039+00:00"
+      "updated_at": "2026-11-20T17:41:09.113023+00:00"
     },
     "3285810045107": {
       "barcode": "3285810045107",
@@ -77,7 +77,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.312748+00:00"
+      "updated_at": "2026-11-20T17:41:09.128085+00:00"
     },
     "3282750002016": {
       "barcode": "3282750002016",
@@ -97,7 +97,27 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.421373+00:00"
+      "updated_at": "2026-11-20T17:41:09.241100+00:00"
+    },
+    "3280240004489": {
+      "barcode": "3280240004489",
+      "product_name": "Caillé de brebis chocolat",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait de brebis (Origine : France), suce 82%, chocolat noir 2% (pate de cacao, sucre, émulsifiant: lécithine de soja), poudre de cacao 2 %présure.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.243738+00:00"
     }
   }
 }

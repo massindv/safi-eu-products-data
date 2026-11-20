@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "425",
-  "count": 2,
-  "updated_at": "2026-11-20T17:25:32.524334+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T17:41:09.391284+00:00",
   "products": {
     "4251097400884": {
       "barcode": "4251097400884",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.101083+00:00"
+      "updated_at": "2026-11-20T17:41:08.913706+00:00"
     },
     "4251097417493": {
       "barcode": "4251097417493",
@@ -40,7 +40,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.338705+00:00"
+      "updated_at": "2026-11-20T17:41:09.156794+00:00"
+    },
+    "4255582813401": {
+      "barcode": "4255582813401",
+      "product_name": "Nut butter cups (Salted pistachio)",
+      "store": "ah.nl",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "31% geroosterde PISTACHENOTEN&quot;, kokosbloesemsuiker*, cacaomassa*, cacaoboter*, sheaboter*, kokosmeel*, emulgator. zonnebloemlecithine*; 0,4% zeezout. Cacao: minstens 66% van de chocolade, Kan PINDA'S, andere NOTEN en SESAM bevatten.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.261411+00:00"
     }
   }
 }

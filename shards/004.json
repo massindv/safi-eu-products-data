@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "004",
-  "count": 1,
-  "updated_at": "2026-11-20T17:25:32.425032+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:41:09.280097+00:00",
   "products": {
     "0041321006487": {
       "barcode": "0041321006487",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.352654+00:00"
+      "updated_at": "2026-11-20T17:41:09.171404+00:00"
+    },
+    "00467912": {
+      "barcode": "00467912",
+      "product_name": "Pesto vert",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.268124+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "406",
   "count": 6,
-  "updated_at": "2026-11-20T17:25:32.523680+00:00",
+  "updated_at": "2026-11-20T17:41:09.390636+00:00",
   "products": {
     "4065019063947": {
       "barcode": "4065019063947",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.133724+00:00"
+      "updated_at": "2026-11-20T17:41:08.945375+00:00"
     },
     "4065019064579": {
       "barcode": "4065019064579",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.134770+00:00"
+      "updated_at": "2026-11-20T17:41:08.946416+00:00"
     },
     "4062300217256": {
       "barcode": "4062300217256",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.221904+00:00"
+      "updated_at": "2026-11-20T17:41:09.034996+00:00"
     },
     "4062400115483": {
       "barcode": "4062400115483",
@@ -76,7 +76,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.288502+00:00"
+      "updated_at": "2026-11-20T17:41:09.104471+00:00"
     },
     "4066600611981": {
       "barcode": "4066600611981",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.290408+00:00"
+      "updated_at": "2026-11-20T17:41:09.106389+00:00"
     },
     "4067700013019": {
       "barcode": "4067700013019",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.293044+00:00"
+      "updated_at": "2026-11-20T17:41:09.108647+00:00"
     }
   }
 }

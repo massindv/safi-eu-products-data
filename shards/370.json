@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "370",
-  "count": 11,
-  "updated_at": "2026-11-20T17:25:32.519348+00:00",
+  "count": 13,
+  "updated_at": "2026-11-20T17:41:09.384203+00:00",
   "products": {
     "3701283800437": {
       "barcode": "3701283800437",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.185989+00:00"
+      "updated_at": "2026-11-20T17:41:08.997542+00:00"
     },
     "3700211234221": {
       "barcode": "3700211234221",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.220679+00:00"
+      "updated_at": "2026-11-20T17:41:09.033713+00:00"
     },
     "3700111093119": {
       "barcode": "3700111093119",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.282971+00:00"
+      "updated_at": "2026-11-20T17:41:09.098226+00:00"
     },
     "3700271001092": {
       "barcode": "3700271001092",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:25:32.290290+00:00"
+      "updated_at": "2026-11-20T17:41:09.106271+00:00"
     },
     "3700435300252": {
       "barcode": "3700435300252",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.290714+00:00"
+      "updated_at": "2026-11-20T17:41:09.106697+00:00"
     },
     "3700325910882": {
       "barcode": "3700325910882",
@@ -112,7 +112,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:25:32.291596+00:00"
+      "updated_at": "2026-11-20T17:41:09.107556+00:00"
     },
     "3700279301491": {
       "barcode": "3700279301491",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.320788+00:00"
+      "updated_at": "2026-11-20T17:41:09.137136+00:00"
     },
     "3700157500718": {
       "barcode": "3700157500718",
@@ -150,7 +150,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.365568+00:00"
+      "updated_at": "2026-11-20T17:41:09.184462+00:00"
     },
     "3701184800314": {
       "barcode": "3701184800314",
@@ -168,7 +168,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.389661+00:00"
+      "updated_at": "2026-11-20T17:41:09.209306+00:00"
     },
     "3700325909527": {
       "barcode": "3700325909527",
@@ -186,7 +186,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.404428+00:00"
+      "updated_at": "2026-11-20T17:41:09.224320+00:00"
     },
     "3700133914614": {
       "barcode": "3700133914614",
@@ -206,7 +206,43 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.407599+00:00"
+      "updated_at": "2026-11-20T17:41:09.227496+00:00"
+    },
+    "3700279306175": {
+      "barcode": "3700279306175",
+      "product_name": "Goûter laitier Choco,  Vanille, Caramel 12x85g",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "CHOCOLAT : LAIT origine France 86% (LAIT entier concentré, poudre de LAIT écrémé), sucre, amidon transformé de maïs, chocolat en poudre 2,2% (sucre, cacao en poudre), amidon de maïs, chocolat extra fin 0,5% (pâte de cacao, sucre, beurre de cacao), épaississant : gomme xanthane, concentré de minéraux du LAIT, vitamine D. SAVEUR VANILLE : LAIT origine France 86% (LAIT entier concentré, poudre de LAIT écrémé), sucre, amidon transformé de maïs, amidon de maïs, arôme naturel, épaississant : gomme xanthane, concentré de minéraux du LAIT, vitamine D. CARAMEL : LAIT origine France 85% (LAIT entier concentré, poudre de LAIT écrémé), sucre, caramel 3,0% (sucre, eau), amidon transformé de maïs, amidon de maïs, arôme naturel, épaississant : gomme xanthane, concentré de minéraux du LAIT, sel, vitamine D.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.244460+00:00"
+    },
+    "3701184800116": {
+      "barcode": "3701184800116",
+      "product_name": "Yaourt granola noisette",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Yaourt (86.4%): lait entier partiellement concentré pasteurisé 99,9% (origine: Auvergne-Rhône-Alpes)- ferments lactiques (dont lait). \nGranola (13,6%): flocons d'avoine, noisettes 14% (purée, éclats), sucre, sirop d'agave, huile de coco, billettes de riz, farine de riz Peut contenir des traces d'autres fruits à coque, sésame, soja, moutarde et lait.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.246047+00:00"
     }
   }
 }

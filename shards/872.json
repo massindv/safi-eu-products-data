@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "872",
-  "count": 20,
-  "updated_at": "2026-11-20T17:25:32.651733+00:00",
+  "count": 22,
+  "updated_at": "2026-11-20T17:41:09.528165+00:00",
   "products": {
     "8727500033094": {
       "barcode": "8727500033094",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:25:32.028042+00:00"
+      "updated_at": "2026-11-20T17:41:08.857264+00:00"
     },
     "8721800408880": {
       "barcode": "8721800408880",
@@ -58,7 +58,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:25:32.047510+00:00"
+      "updated_at": "2026-11-20T17:41:08.875133+00:00"
     },
     "8721800408866": {
       "barcode": "8721800408866",
@@ -87,7 +87,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:25:32.047617+00:00"
+      "updated_at": "2026-11-20T17:41:08.875224+00:00"
     },
     "8722700255642": {
       "barcode": "8722700255642",
@@ -116,7 +116,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:25:32.057697+00:00"
+      "updated_at": "2026-11-20T17:41:08.886020+00:00"
     },
     "8720182103406": {
       "barcode": "8720182103406",
@@ -143,7 +143,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:25:32.068415+00:00"
+      "updated_at": "2026-11-20T17:41:08.895788+00:00"
     },
     "8720182368782": {
       "barcode": "8720182368782",
@@ -163,7 +163,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.096139+00:00"
+      "updated_at": "2026-11-20T17:41:08.909160+00:00"
     },
     "8725800000464": {
       "barcode": "8725800000464",
@@ -185,7 +185,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 / karmijnzuur insect colorant",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.096607+00:00"
+      "updated_at": "2026-11-20T17:41:08.909535+00:00"
     },
     "8720865628554": {
       "barcode": "8720865628554",
@@ -205,7 +205,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.125997+00:00"
+      "updated_at": "2026-11-20T17:41:08.939079+00:00"
     },
     "8720865628684": {
       "barcode": "8720865628684",
@@ -226,7 +226,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter; Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.126215+00:00"
+      "updated_at": "2026-11-20T17:41:08.939269+00:00"
     },
     "8720828249338": {
       "barcode": "8720828249338",
@@ -244,7 +244,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.178171+00:00"
+      "updated_at": "2026-11-20T17:41:08.988588+00:00"
     },
     "8720182460721": {
       "barcode": "8720182460721",
@@ -262,7 +262,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.198721+00:00"
+      "updated_at": "2026-11-20T17:41:09.011014+00:00"
     },
     "8720608002849": {
       "barcode": "8720608002849",
@@ -280,7 +280,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.278431+00:00"
+      "updated_at": "2026-11-20T17:41:09.094140+00:00"
     },
     "8722700129523": {
       "barcode": "8722700129523",
@@ -298,7 +298,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.278767+00:00"
+      "updated_at": "2026-11-20T17:41:09.094445+00:00"
     },
     "8720157400172": {
       "barcode": "8720157400172",
@@ -316,7 +316,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.285158+00:00"
+      "updated_at": "2026-11-20T17:41:09.100824+00:00"
     },
     "8720157467595": {
       "barcode": "8720157467595",
@@ -334,7 +334,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.285523+00:00"
+      "updated_at": "2026-11-20T17:41:09.101222+00:00"
     },
     "8728500999922": {
       "barcode": "8728500999922",
@@ -352,7 +352,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.287335+00:00"
+      "updated_at": "2026-11-20T17:41:09.103300+00:00"
     },
     "8720604473018": {
       "barcode": "8720604473018",
@@ -370,7 +370,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.329419+00:00"
+      "updated_at": "2026-11-20T17:41:09.145862+00:00"
     },
     "8722700692140": {
       "barcode": "8722700692140",
@@ -388,7 +388,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.360860+00:00"
+      "updated_at": "2026-11-20T17:41:09.179630+00:00"
     },
     "8728907522389": {
       "barcode": "8728907522389",
@@ -406,7 +406,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.380089+00:00"
+      "updated_at": "2026-11-20T17:41:09.197922+00:00"
     },
     "8720182202062": {
       "barcode": "8720182202062",
@@ -424,7 +424,45 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.417758+00:00"
+      "updated_at": "2026-11-20T17:41:09.237461+00:00"
+    },
+    "8721161523888": {
+      "barcode": "8721161523888",
+      "product_name": "Chewy Bar Cookie Dough",
+      "store": "ah.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Fibres de racine de chicorée 25.0%\r\nProtéine de blé 17.4%\r\nFlocons d'avoine complet 14.4%\r\nFlocons d'épeautre complet 12.8%\r\nNoisettes 6.0%\r\nHuile de tournesol 5.5%\r\nStabilisant (glycérol) 5.5%\r\nFarine d'amande 3.9%\r\nFarine de blé 3.2%\r\nPâte de cacao 3.0%\r\nFarine de blé complet 2.3%\r\nArôme naturel 0.4%\r\nSel 0.2%\r\nÉmulsifiant (lécithines) 0.2%\r\nMalt d'orge 0.1%",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T17:41:09.260932+00:00"
+    },
+    "8723400787020": {
+      "barcode": "8723400787020",
+      "product_name": "Zakgeld zoet & zout",
+      "store": "ah.nl",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Suiker, gemodificeerd zetmeel, glucosestroop, Vooru gelatine, water, zoethoutwortelextract, rietsuikermelasse, salmiakzout, TARWEBLOEM, zetmeel, kokosolie, geleermiddel (arabische gom), kleurstof (plantaardige koolstof), natuurlijke aroma's, glansmiddel (bijenwas).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "gelatin"
+      ],
+      "reason": "Contains unverified gelatin source",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.262604+00:00"
     }
   }
 }

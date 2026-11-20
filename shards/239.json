@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "239",
-  "count": 30,
-  "updated_at": "2026-11-20T17:25:32.464093+00:00",
+  "count": 41,
+  "updated_at": "2026-11-20T17:41:09.324587+00:00",
   "products": {
     "2395398804834": {
       "barcode": "2395398804834",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.097487+00:00"
+      "updated_at": "2026-11-20T17:41:08.910266+00:00"
     },
     "2391353203322": {
       "barcode": "2391353203322",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.097668+00:00"
+      "updated_at": "2026-11-20T17:41:08.910442+00:00"
     },
     "2392014908600": {
       "barcode": "2392014908600",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.098108+00:00"
+      "updated_at": "2026-11-20T17:41:08.910819+00:00"
     },
     "2392011304825": {
       "barcode": "2392011304825",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.098125+00:00"
+      "updated_at": "2026-11-20T17:41:08.910834+00:00"
     },
     "2392011404518": {
       "barcode": "2392011404518",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.098139+00:00"
+      "updated_at": "2026-11-20T17:41:08.910848+00:00"
     },
     "2392011604680": {
       "barcode": "2392011604680",
@@ -112,7 +112,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.098184+00:00"
+      "updated_at": "2026-11-20T17:41:08.910892+00:00"
     },
     "2398970802846": {
       "barcode": "2398970802846",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.098261+00:00"
+      "updated_at": "2026-11-20T17:41:08.910960+00:00"
     },
     "2391893401202": {
       "barcode": "2391893401202",
@@ -148,7 +148,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.135438+00:00"
+      "updated_at": "2026-11-20T17:41:08.947085+00:00"
     },
     "2395419202441": {
       "barcode": "2395419202441",
@@ -166,7 +166,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.135450+00:00"
+      "updated_at": "2026-11-20T17:41:08.947097+00:00"
     },
     "2399029407012": {
       "barcode": "2399029407012",
@@ -186,7 +186,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.136093+00:00"
+      "updated_at": "2026-11-20T17:41:08.947736+00:00"
     },
     "2395398004913": {
       "barcode": "2395398004913",
@@ -204,7 +204,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.300714+00:00"
+      "updated_at": "2026-11-20T17:41:09.115778+00:00"
     },
     "2391353303503": {
       "barcode": "2391353303503",
@@ -222,7 +222,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.300785+00:00"
+      "updated_at": "2026-11-20T17:41:09.115852+00:00"
     },
     "2391353603207": {
       "barcode": "2391353603207",
@@ -240,7 +240,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.301322+00:00"
+      "updated_at": "2026-11-20T17:41:09.116525+00:00"
     },
     "2391916204155": {
       "barcode": "2391916204155",
@@ -258,7 +258,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.317127+00:00"
+      "updated_at": "2026-11-20T17:41:09.132616+00:00"
     },
     "2391952007291": {
       "barcode": "2391952007291",
@@ -276,7 +276,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.317214+00:00"
+      "updated_at": "2026-11-20T17:41:09.132708+00:00"
     },
     "2391887901213": {
       "barcode": "2391887901213",
@@ -294,7 +294,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.317231+00:00"
+      "updated_at": "2026-11-20T17:41:09.132726+00:00"
     },
     "2391953108843": {
       "barcode": "2391953108843",
@@ -312,7 +312,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.317277+00:00"
+      "updated_at": "2026-11-20T17:41:09.132777+00:00"
     },
     "2398956705673": {
       "barcode": "2398956705673",
@@ -332,7 +332,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.317401+00:00"
+      "updated_at": "2026-11-20T17:41:09.132912+00:00"
     },
     "2399000105838": {
       "barcode": "2399000105838",
@@ -350,7 +350,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.317562+00:00"
+      "updated_at": "2026-11-20T17:41:09.133087+00:00"
     },
     "2391949906798": {
       "barcode": "2391949906798",
@@ -368,7 +368,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.317591+00:00"
+      "updated_at": "2026-11-20T17:41:09.133117+00:00"
     },
     "2391950506963": {
       "barcode": "2391950506963",
@@ -386,7 +386,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.317604+00:00"
+      "updated_at": "2026-11-20T17:41:09.133132+00:00"
     },
     "2391949308431": {
       "barcode": "2391949308431",
@@ -404,7 +404,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.317672+00:00"
+      "updated_at": "2026-11-20T17:41:09.133205+00:00"
     },
     "2391949907009": {
       "barcode": "2391949907009",
@@ -422,7 +422,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.317707+00:00"
+      "updated_at": "2026-11-20T17:41:09.133243+00:00"
     },
     "2391950806940": {
       "barcode": "2391950806940",
@@ -440,7 +440,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.317721+00:00"
+      "updated_at": "2026-11-20T17:41:09.133260+00:00"
     },
     "2391953707923": {
       "barcode": "2391953707923",
@@ -458,7 +458,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.317758+00:00"
+      "updated_at": "2026-11-20T17:41:09.133298+00:00"
     },
     "2399112704936": {
       "barcode": "2399112704936",
@@ -476,7 +476,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.409647+00:00"
+      "updated_at": "2026-11-20T17:41:09.229396+00:00"
     },
     "2399075406298": {
       "barcode": "2399075406298",
@@ -494,7 +494,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.410208+00:00"
+      "updated_at": "2026-11-20T17:41:09.229902+00:00"
     },
     "2399112404515": {
       "barcode": "2399112404515",
@@ -512,7 +512,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.410241+00:00"
+      "updated_at": "2026-11-20T17:41:09.229930+00:00"
     },
     "2391936903137": {
       "barcode": "2391936903137",
@@ -532,7 +532,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.410430+00:00"
+      "updated_at": "2026-11-20T17:41:09.230082+00:00"
     },
     "2395311302577": {
       "barcode": "2395311302577",
@@ -552,7 +552,209 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.410760+00:00"
+      "updated_at": "2026-11-20T17:41:09.230345+00:00"
+    },
+    "2391956507070": {
+      "barcode": "2391956507070",
+      "product_name": "Goudse kaas 30+ belegen",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.241555+00:00"
+    },
+    "2399003304108": {
+      "barcode": "2399003304108",
+      "product_name": "Kaas goudse 30+",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.241668+00:00"
+    },
+    "2398258305403": {
+      "barcode": "2398258305403",
+      "product_name": "Bio geitenkaas fenegriek",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.241726+00:00"
+    },
+    "2399003903295": {
+      "barcode": "2399003903295",
+      "product_name": "Goudse Jong 30+",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.241821+00:00"
+    },
+    "2399002706040": {
+      "barcode": "2399002706040",
+      "product_name": "Goudse 30+ Jong",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.241842+00:00"
+    },
+    "2398999404007": {
+      "barcode": "2398999404007",
+      "product_name": "Belegen Goudse 30",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.241858+00:00"
+    },
+    "2391898104023": {
+      "barcode": "2391898104023",
+      "product_name": "Kaas Van De Boerderij 50+",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Melk, zout, zuursel, stremsel, conserveermiddel (natriumnitraat (E251)).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.241960+00:00"
+    },
+    "2398994602323": {
+      "barcode": "2398994602323",
+      "product_name": "Goudse 50+ kaas fenergiek jong belegen",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.242002+00:00"
+    },
+    "2391914207141": {
+      "barcode": "2391914207141",
+      "product_name": "Oud 50+",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.242017+00:00"
+    },
+    "2399041408547": {
+      "barcode": "2399041408547",
+      "product_name": "Goudse jong belegen",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Melk, zout, zuursel, microbieel stremsel.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.242049+00:00"
+    },
+    "2395436605058": {
+      "barcode": "2395436605058",
+      "product_name": "Extra Belegen",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "meik*, zout, zuursel, stremsei, conserveermiddel (natriumnitraat [E251])",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:41:09.242193+00:00"
     }
   }
 }

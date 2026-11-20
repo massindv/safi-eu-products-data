@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "066",
   "count": 1,
-  "updated_at": "2026-11-20T17:25:32.436690+00:00",
+  "updated_at": "2026-11-20T17:41:09.294694+00:00",
   "products": {
     "0662940070040": {
       "barcode": "0662940070040",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.301063+00:00"
+      "updated_at": "2026-11-20T17:41:09.116254+00:00"
     }
   }
 }

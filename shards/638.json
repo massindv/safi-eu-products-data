@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "638",
   "count": 1,
-  "updated_at": "2026-11-20T17:25:32.592095+00:00",
+  "updated_at": "2026-11-20T17:41:09.463599+00:00",
   "products": {
     "63895292": {
       "barcode": "63895292",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.410860+00:00"
+      "updated_at": "2026-11-20T17:41:09.230442+00:00"
     }
   }
 }

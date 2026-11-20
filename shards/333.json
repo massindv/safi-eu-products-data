@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "333",
-  "count": 7,
-  "updated_at": "2026-11-20T17:25:32.491420+00:00",
+  "count": 9,
+  "updated_at": "2026-11-20T17:41:09.361102+00:00",
   "products": {
     "3330720244017": {
       "barcode": "3330720244017",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.106850+00:00"
+      "updated_at": "2026-11-20T17:41:08.919740+00:00"
     },
     "3330720251039": {
       "barcode": "3330720251039",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:25:32.125388+00:00"
+      "updated_at": "2026-11-20T17:41:08.938492+00:00"
     },
     "3336971805021": {
       "barcode": "3336971805021",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.162418+00:00"
+      "updated_at": "2026-11-20T17:41:08.973752+00:00"
     },
     "3336971805038": {
       "barcode": "3336971805038",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.163512+00:00"
+      "updated_at": "2026-11-20T17:41:08.974756+00:00"
     },
     "3336971209133": {
       "barcode": "3336971209133",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.167136+00:00"
+      "updated_at": "2026-11-20T17:41:08.978359+00:00"
     },
     "3331560500165": {
       "barcode": "3331560500165",
@@ -112,7 +112,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:25:32.291706+00:00"
+      "updated_at": "2026-11-20T17:41:09.107665+00:00"
     },
     "3339720413010": {
       "barcode": "3339720413010",
@@ -132,7 +132,47 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.404898+00:00"
+      "updated_at": "2026-11-20T17:41:09.224789+00:00"
+    },
+    "3330149100666": {
+      "barcode": "3330149100666",
+      "product_name": "Le shaker de vinaigrette huile d'olive, vinaigre chardonnay et truffe",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Huile d’olive vierge extra 52.5%, Vinaigre de Chardonnay 30 %, vinaigre de vin blanc 10 %, arôme naturel 5%,  truffe noire ( tuber Melanosporum)  2 %, sel.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.266758+00:00"
+    },
+    "3330149100642": {
+      "barcode": "3330149100642",
+      "product_name": "Le Shaker de Vinaigrette huile noix, vinaigre cidre, framboise",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Huile de noix vierge 44.5 %, vinaigre à la pulpe de framboise 50 % (vinaigre d’alcool 8° 43%, purée de framboise 40 %, sucre cristal, épaississant : pectine de pommes), vinaigre de cidre  5 %, sel.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.267931+00:00"
     }
   }
 }

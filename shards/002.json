@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "002",
   "count": 2,
-  "updated_at": "2026-11-20T17:25:32.424396+00:00",
+  "updated_at": "2026-11-20T17:41:09.278325+00:00",
   "products": {
     "0024000010920": {
       "barcode": "0024000010920",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:25:32.068218+00:00"
+      "updated_at": "2026-11-20T17:41:08.895593+00:00"
     },
     "0023066444809": {
       "barcode": "0023066444809",
@@ -49,7 +49,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.100015+00:00"
+      "updated_at": "2026-11-20T17:41:08.912667+00:00"
     }
   }
 }

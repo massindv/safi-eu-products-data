@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "221",
-  "count": 4,
-  "updated_at": "2026-11-20T17:25:32.451891+00:00",
+  "count": 15,
+  "updated_at": "2026-11-20T17:41:09.312151+00:00",
   "products": {
     "2210280005321": {
       "barcode": "2210280005321",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.137927+00:00"
+      "updated_at": "2026-11-20T17:41:08.950045+00:00"
     },
     "2219050002522": {
       "barcode": "2219050002522",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.318693+00:00"
+      "updated_at": "2026-11-20T17:41:09.134423+00:00"
     },
     "2215520001934": {
       "barcode": "2215520001934",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.318708+00:00"
+      "updated_at": "2026-11-20T17:41:09.134441+00:00"
     },
     "2217100004342": {
       "barcode": "2217100004342",
@@ -78,7 +78,217 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.318811+00:00"
+      "updated_at": "2026-11-20T17:41:09.134558+00:00"
+    },
+    "2215520002153": {
+      "barcode": "2215520002153",
+      "product_name": "fromage de chevre affine",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.242309+00:00"
+    },
+    "2217870003484": {
+      "barcode": "2217870003484",
+      "product_name": "Brie de meaux",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "lait cru de vache, sel, ferments lactiques, pénicilline, présure animale, correcteur d'acidité (chlorure de calcium).",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.242373+00:00"
+    },
+    "2219390003661": {
+      "barcode": "2219390003661",
+      "product_name": "Pecorino Toscano",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.242388+00:00"
+    },
+    "2218190004601": {
+      "barcode": "2218190004601",
+      "product_name": "Reblochon",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.242416+00:00"
+    },
+    "2219050002386": {
+      "barcode": "2219050002386",
+      "product_name": "Tomme des Pyrénées",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.242504+00:00"
+    },
+    "2215480004426": {
+      "barcode": "2215480004426",
+      "product_name": "mimolette",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait de vache pasteurisé, sel, présure microbiologique présure amimale, conservateurs (E202, E235, E251, ES09), colorarnt (E160b) Bevat melk Contient lat",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.242655+00:00"
+    },
+    "2210280004003": {
+      "barcode": "2210280004003",
+      "product_name": "Orval",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Gepasteuriseerde koemelk, zout, dierlijk stremsel, fermenten, korstbehandeling (annatto norbixine, natamycine)",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.242697+00:00"
+    },
+    "2217880002255": {
+      "barcode": "2217880002255",
+      "product_name": "Tomme de montagne",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait cru de vache, sel, ferments lactiques, présure microbienne. Préparé avec du lait cru. Bevat: melk. • Contient: lait.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.242775+00:00"
+    },
+    "2211060003551": {
+      "barcode": "2211060003551",
+      "product_name": "Chimay à la bière",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "62 Chimay met bier-à la bière no 16.08.2021 Te gebruiken tot",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.242825+00:00"
+    },
+    "2219110003438": {
+      "barcode": "2219110003438",
+      "product_name": "Cambozola",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait de vache pasteurisé, crème, sel, présure microbiologique, levains lactiques, ferments d'affinage. Bevat: melk. • Contient: lait.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.242927+00:00"
+    },
+    "2215630001640": {
+      "barcode": "2215630001640",
+      "product_name": "Fourme d'Ambert 1/2",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.243090+00:00"
     }
   }
 }

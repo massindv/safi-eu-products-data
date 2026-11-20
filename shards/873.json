@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "873",
   "count": 2,
-  "updated_at": "2026-11-20T17:25:32.652626+00:00",
+  "updated_at": "2026-11-20T17:41:09.529177+00:00",
   "products": {
     "87320497": {
       "barcode": "87320497",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.401118+00:00"
+      "updated_at": "2026-11-20T17:41:09.220995+00:00"
     },
     "87314854": {
       "barcode": "87314854",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.401592+00:00"
+      "updated_at": "2026-11-20T17:41:09.221476+00:00"
     }
   }
 }

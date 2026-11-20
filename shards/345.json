@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "345",
-  "count": 4,
-  "updated_at": "2026-11-20T17:25:32.497838+00:00",
+  "count": 5,
+  "updated_at": "2026-11-20T17:41:09.366143+00:00",
   "products": {
     "3450160004795": {
       "barcode": "3450160004795",
@@ -23,7 +23,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.091969+00:00"
+      "updated_at": "2026-11-20T17:41:08.906282+00:00"
     },
     "3450160001831": {
       "barcode": "3450160001831",
@@ -44,7 +44,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.092037+00:00"
+      "updated_at": "2026-11-20T17:41:08.906368+00:00"
     },
     "3451790961274": {
       "barcode": "3451790961274",
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.150817+00:00"
+      "updated_at": "2026-11-20T17:41:08.962401+00:00"
     },
     "3456300007824": {
       "barcode": "3456300007824",
@@ -82,7 +82,25 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.353272+00:00"
+      "updated_at": "2026-11-20T17:41:09.172100+00:00"
+    },
+    "3456774845137": {
+      "barcode": "3456774845137",
+      "product_name": "Gourmand® Yaourt Litchi & Rose",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait entier, litchi 16%, sucre 8,5%, protéines de lait, amidon de mais, arôme naturel de rose, arôme naturel, épaississant : carraghénanes (extrait d'algues), concentré de carotte ferments lactiques (lait). Origine du lait : France. pourpre, Malgré tous nos soins, ce produit peut contenir des fragments de noyaux.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.243895+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "336",
-  "count": 1,
-  "updated_at": "2026-11-20T17:25:32.492607+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:41:09.362200+00:00",
   "products": {
     "3360920202227": {
       "barcode": "3360920202227",
@@ -22,7 +22,27 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.290931+00:00"
+      "updated_at": "2026-11-20T17:41:09.106889+00:00"
+    },
+    "3366760015119": {
+      "barcode": "3366760015119",
+      "product_name": "4 Nems au poulet avec sauce nuoc-mâm",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Nems poulet  4 x 60 g : Galette de riz 38% (eau, farine de riz, sel), viande de poulet 11,4%, carottes, peau de poulet rôtie et gras 6,8% (peau de poulet, miel), oignons préfrits (dont huile de tournesol), huile de tournesol, oignons, farine de soja, champignons noirs réhydratés, sauce poisson (poisson, sel, eau), sel",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.251417+00:00"
     }
   }
 }

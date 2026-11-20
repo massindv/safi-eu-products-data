@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "303",
-  "count": 22,
-  "updated_at": "2026-11-20T17:25:32.471397+00:00",
+  "count": 26,
+  "updated_at": "2026-11-20T17:41:09.337984+00:00",
   "products": {
     "3038352910101": {
       "barcode": "3038352910101",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.091463+00:00"
+      "updated_at": "2026-11-20T17:41:08.905776+00:00"
     },
     "3033610061816": {
       "barcode": "3033610061816",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:25:32.102873+00:00"
+      "updated_at": "2026-11-20T17:41:08.915482+00:00"
     },
     "3033491270864": {
       "barcode": "3033491270864",
@@ -60,7 +60,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.144458+00:00"
+      "updated_at": "2026-11-20T17:41:08.956334+00:00"
     },
     "3033491916533": {
       "barcode": "3033491916533",
@@ -78,7 +78,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.144675+00:00"
+      "updated_at": "2026-11-20T17:41:08.956548+00:00"
     },
     "3033491432736": {
       "barcode": "3033491432736",
@@ -96,7 +96,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.144829+00:00"
+      "updated_at": "2026-11-20T17:41:08.956699+00:00"
     },
     "3033491214509": {
       "barcode": "3033491214509",
@@ -114,7 +114,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.145540+00:00"
+      "updated_at": "2026-11-20T17:41:08.957339+00:00"
     },
     "3033491729218": {
       "barcode": "3033491729218",
@@ -132,7 +132,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:25:32.146040+00:00"
+      "updated_at": "2026-11-20T17:41:08.957764+00:00"
     },
     "3033491915017": {
       "barcode": "3033491915017",
@@ -152,7 +152,7 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.150728+00:00"
+      "updated_at": "2026-11-20T17:41:08.962312+00:00"
     },
     "3038350015006": {
       "barcode": "3038350015006",
@@ -170,7 +170,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.193267+00:00"
+      "updated_at": "2026-11-20T17:41:09.005950+00:00"
     },
     "3038350013002": {
       "barcode": "3038350013002",
@@ -188,7 +188,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.193481+00:00"
+      "updated_at": "2026-11-20T17:41:09.006144+00:00"
     },
     "3038350014603": {
       "barcode": "3038350014603",
@@ -206,7 +206,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.194923+00:00"
+      "updated_at": "2026-11-20T17:41:09.007431+00:00"
     },
     "3038354199603": {
       "barcode": "3038354199603",
@@ -224,7 +224,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.198888+00:00"
+      "updated_at": "2026-11-20T17:41:09.011180+00:00"
     },
     "3033710074518": {
       "barcode": "3033710074518",
@@ -242,7 +242,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.271376+00:00"
+      "updated_at": "2026-11-20T17:41:09.087256+00:00"
     },
     "3033710076017": {
       "barcode": "3033710076017",
@@ -260,7 +260,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.271432+00:00"
+      "updated_at": "2026-11-20T17:41:09.087329+00:00"
     },
     "3033491279782": {
       "barcode": "3033491279782",
@@ -278,7 +278,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.319463+00:00"
+      "updated_at": "2026-11-20T17:41:09.135434+00:00"
     },
     "3033490005221": {
       "barcode": "3033490005221",
@@ -298,7 +298,7 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.320544+00:00"
+      "updated_at": "2026-11-20T17:41:09.136767+00:00"
     },
     "3033491010071": {
       "barcode": "3033491010071",
@@ -319,7 +319,7 @@
       ],
       "reason": "Contains carmine / E120 / karmijnzuur insect colorant",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.320990+00:00"
+      "updated_at": "2026-11-20T17:41:09.137564+00:00"
     },
     "3038359004216": {
       "barcode": "3038359004216",
@@ -337,7 +337,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.347432+00:00"
+      "updated_at": "2026-11-20T17:41:09.165320+00:00"
     },
     "3038359005817": {
       "barcode": "3038359005817",
@@ -357,7 +357,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.348114+00:00"
+      "updated_at": "2026-11-20T17:41:09.166065+00:00"
     },
     "3038359007361": {
       "barcode": "3038359007361",
@@ -375,7 +375,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.348201+00:00"
+      "updated_at": "2026-11-20T17:41:09.166157+00:00"
     },
     "3038359005237": {
       "barcode": "3038359005237",
@@ -393,7 +393,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.353667+00:00"
+      "updated_at": "2026-11-20T17:41:09.172529+00:00"
     },
     "3038359009204": {
       "barcode": "3038359009204",
@@ -411,7 +411,84 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.354734+00:00"
+      "updated_at": "2026-11-20T17:41:09.173710+00:00"
+    },
+    "3033491382154": {
+      "barcode": "3033491382154",
+      "product_name": "Activia aux fruits",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait entier (75%) (Origine : France), fruits (mangue (8,3%), cerise (8%), rhubarbe (8%), fraise (8,3%), figue (8%), abricot (8%)), lait écrémé concentré ou en poudre (Origine : UE), sucre (6,2% en moyenne), crème (lait) (Origine: France), amidon de tapioca, épaississant (pectine de fruits), sucre caramélisé , arômes naturels (lait), concentrés de carotte et de myrtille , concentrés de carotte et de citrouille, jus de citron concentré , jus de carotte concentré , concentré de carotte noire , concentré de carotte , concentré de minéraux du lait, ferments (dont ferments du yaourt et Bifidobacterium (lait)).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.244737+00:00"
+    },
+    "3033491358357": {
+      "barcode": "3033491358357",
+      "product_name": "Danette liegeois vanille",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Ingrédients: lait entier (67,4%), crème (lait), sucre, lait écrémé concentré ou en poudre, épaississants (amidon transformé, carraghénanes), perméat de petit lait (lactosérum) en poudre, amidon, gélatine bovine, arômes (lait), émulsifiant (esters lactiques des mono-et diglycérides d'acides gras), colorant (bêta-carotène), sel. Lait: Origine France. Mousse 22%-crème dessert 78%",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "gelatin",
+        "other_haram"
+      ],
+      "reason": "Contains unverified gelatin source; Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.246330+00:00"
+    },
+    "3033491117084": {
+      "barcode": "3033491117084",
+      "product_name": "Activia 0% Fat Peach Yogurt",
+      "store": "delhaize.be",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Fat free yogurt (milk), Peach (8 %), Carrot and pumpkin concentrate, Modified maize starch, Thickener (pectin), Flavouring, Acidity regulators (sodium citrate, lactic acid), Sweeteners (acesulfame K, sucralose).",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.248724+00:00"
+    },
+    "3033610036487": {
+      "barcode": "3033610036487",
+      "product_name": "La mousse de foie doie",
+      "store": "carrefour.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Foie gras d'oie (50%), foie de poulet, eau, gras de porc, oeufs, lait reconstitué, sel, épices, sucre, antioxydant: E301, conservateur: E250. Fabriqué en France.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T17:41:09.264957+00:00"
     }
   }
 }

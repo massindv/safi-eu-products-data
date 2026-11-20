@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "344",
+  "count": 1,
+  "updated_at": "2026-11-20T17:41:09.365743+00:00",
+  "products": {
+    "3440620277043": {
+      "barcode": "3440620277043",
+      "product_name": "Pépites de chocolat",
+      "store": "colruyt.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Suiker, cacaomassa¹, cacaoboter¹, emulgator [E322 (SOJA).",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T17:41:09.255595+00:00"
+    }
+  }
+}

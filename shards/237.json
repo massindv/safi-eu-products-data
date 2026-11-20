@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "237",
   "count": 10,
-  "updated_at": "2026-11-20T17:25:32.462424+00:00",
+  "updated_at": "2026-11-20T17:41:09.323535+00:00",
   "products": {
     "2378333503535": {
       "barcode": "2378333503535",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.094352+00:00"
+      "updated_at": "2026-11-20T17:41:08.907796+00:00"
     },
     "2378822503534": {
       "barcode": "2378822503534",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.097409+00:00"
+      "updated_at": "2026-11-20T17:41:08.910190+00:00"
     },
     "2374545403847": {
       "barcode": "2374545403847",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.097682+00:00"
+      "updated_at": "2026-11-20T17:41:08.910456+00:00"
     },
     "2379243903859": {
       "barcode": "2379243903859",
@@ -76,7 +76,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.134717+00:00"
+      "updated_at": "2026-11-20T17:41:08.946363+00:00"
     },
     "2378607403356": {
       "barcode": "2378607403356",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.300098+00:00"
+      "updated_at": "2026-11-20T17:41:09.115111+00:00"
     },
     "2379216802639": {
       "barcode": "2379216802639",
@@ -114,7 +114,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.300142+00:00"
+      "updated_at": "2026-11-20T17:41:09.115157+00:00"
     },
     "2378588506961": {
       "barcode": "2378588506961",
@@ -134,7 +134,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.300513+00:00"
+      "updated_at": "2026-11-20T17:41:09.115547+00:00"
     },
     "2378337502428": {
       "barcode": "2378337502428",
@@ -154,7 +154,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.300532+00:00"
+      "updated_at": "2026-11-20T17:41:09.115567+00:00"
     },
     "2374611202237": {
       "barcode": "2374611202237",
@@ -172,7 +172,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.301027+00:00"
+      "updated_at": "2026-11-20T17:41:09.116216+00:00"
     },
     "2374649102615": {
       "barcode": "2374649102615",
@@ -190,7 +190,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.301074+00:00"
+      "updated_at": "2026-11-20T17:41:09.116267+00:00"
     }
   }
 }

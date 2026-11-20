@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "302",
-  "count": 6,
-  "updated_at": "2026-11-20T17:25:32.471011+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T17:41:09.337170+00:00",
   "products": {
     "3021210012000": {
       "barcode": "3021210012000",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.091259+00:00"
+      "updated_at": "2026-11-20T17:41:08.905574+00:00"
     },
     "3029330069355": {
       "barcode": "3029330069355",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:25:32.111608+00:00"
+      "updated_at": "2026-11-20T17:41:08.924028+00:00"
     },
     "3023260030928": {
       "barcode": "3023260030928",
@@ -60,7 +60,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.127632+00:00"
+      "updated_at": "2026-11-20T17:41:08.940231+00:00"
     },
     "3029330005773": {
       "barcode": "3029330005773",
@@ -78,7 +78,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.154966+00:00"
+      "updated_at": "2026-11-20T17:41:08.966854+00:00"
     },
     "3024480008797": {
       "barcode": "3024480008797",
@@ -98,7 +98,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.292813+00:00"
+      "updated_at": "2026-11-20T17:41:09.108526+00:00"
     },
     "3023010003585": {
       "barcode": "3023010003585",
@@ -116,7 +116,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.292898+00:00"
+      "updated_at": "2026-11-20T17:41:09.108559+00:00"
+    },
+    "3023290053829": {
+      "barcode": "3023290053829",
+      "product_name": "Yaos",
+      "store": "delhaize.be",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:41:09.248087+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "590",
-  "count": 4,
-  "updated_at": "2026-11-20T17:25:32.589890+00:00",
+  "count": 5,
+  "updated_at": "2026-11-20T17:41:09.461293+00:00",
   "products": {
     "5906259705879": {
       "barcode": "5906259705879",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:25:32.018521+00:00"
+      "updated_at": "2026-11-20T17:41:08.848393+00:00"
     },
     "5900563001078": {
       "barcode": "5900563001078",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.111799+00:00"
+      "updated_at": "2026-11-20T17:41:08.924207+00:00"
     },
     "5900951311321": {
       "barcode": "5900951311321",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.167059+00:00"
+      "updated_at": "2026-11-20T17:41:08.978286+00:00"
     },
     "5900130030982": {
       "barcode": "5900130030982",
@@ -83,7 +83,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.257386+00:00"
+      "updated_at": "2026-11-20T17:41:09.070406+00:00"
+    },
+    "5900242000187": {
+      "barcode": "5900242000187",
+      "product_name": "Spo?e Musztarda Delikatesowa 190Ml",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "eau, vinaigre d'alcool, graines de moutarde, sucre, sel, épices, colorant : curcumine.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.266593+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "222",
   "count": 6,
-  "updated_at": "2026-11-20T17:25:32.452219+00:00",
+  "updated_at": "2026-11-20T17:41:09.312756+00:00",
   "products": {
     "2229240009248": {
       "barcode": "2229240009248",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:25:32.096178+00:00"
+      "updated_at": "2026-11-20T17:41:08.909181+00:00"
     },
     "2225660001350": {
       "barcode": "2225660001350",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:25:32.160587+00:00"
+      "updated_at": "2026-11-20T17:41:08.972126+00:00"
     },
     "2228880003906": {
       "barcode": "2228880003906",
@@ -60,7 +60,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.412616+00:00"
+      "updated_at": "2026-11-20T17:41:09.231950+00:00"
     },
     "2227171008767": {
       "barcode": "2227171008767",
@@ -80,7 +80,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.412635+00:00"
+      "updated_at": "2026-11-20T17:41:09.231971+00:00"
     },
     "2227421021522": {
       "barcode": "2227421021522",
@@ -98,7 +98,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.421212+00:00"
+      "updated_at": "2026-11-20T17:41:09.240939+00:00"
     },
     "2227421022895": {
       "barcode": "2227421022895",
@@ -116,7 +116,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.421251+00:00"
+      "updated_at": "2026-11-20T17:41:09.240978+00:00"
     }
   }
 }

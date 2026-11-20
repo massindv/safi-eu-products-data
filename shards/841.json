@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "841",
-  "count": 17,
-  "updated_at": "2026-11-20T17:25:32.606238+00:00",
+  "count": 19,
+  "updated_at": "2026-11-20T17:41:09.479422+00:00",
   "products": {
     "8410065630586": {
       "barcode": "8410065630586",
@@ -31,7 +31,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:25:32.031991+00:00"
+      "updated_at": "2026-11-20T17:41:08.860623+00:00"
     },
     "8410066139231": {
       "barcode": "8410066139231",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:25:32.053786+00:00"
+      "updated_at": "2026-11-20T17:41:08.881418+00:00"
     },
     "8410702054065": {
       "barcode": "8410702054065",
@@ -85,7 +85,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:25:32.061527+00:00"
+      "updated_at": "2026-11-20T17:41:08.889629+00:00"
     },
     "8410010877592": {
       "barcode": "8410010877592",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:25:32.073052+00:00"
+      "updated_at": "2026-11-20T17:41:08.900587+00:00"
     },
     "8412289001906": {
       "barcode": "8412289001906",
@@ -132,7 +132,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:25:32.131637+00:00"
+      "updated_at": "2026-11-20T17:41:08.943318+00:00"
     },
     "8412289000497": {
       "barcode": "8412289000497",
@@ -152,7 +152,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:25:32.132974+00:00"
+      "updated_at": "2026-11-20T17:41:08.944629+00:00"
     },
     "8410131031576": {
       "barcode": "8410131031576",
@@ -170,7 +170,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.153755+00:00"
+      "updated_at": "2026-11-20T17:41:08.965548+00:00"
     },
     "8412600552452": {
       "barcode": "8412600552452",
@@ -188,7 +188,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.155045+00:00"
+      "updated_at": "2026-11-20T17:41:08.966938+00:00"
     },
     "8410076473899": {
       "barcode": "8410076473899",
@@ -208,7 +208,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.155575+00:00"
+      "updated_at": "2026-11-20T17:41:08.967549+00:00"
     },
     "8410376037883": {
       "barcode": "8410376037883",
@@ -226,7 +226,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.167684+00:00"
+      "updated_at": "2026-11-20T17:41:08.978902+00:00"
     },
     "8410000810004": {
       "barcode": "8410000810004",
@@ -244,7 +244,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:25:32.185692+00:00"
+      "updated_at": "2026-11-20T17:41:08.997246+00:00"
     },
     "8413216001136": {
       "barcode": "8413216001136",
@@ -262,7 +262,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:25:32.283501+00:00"
+      "updated_at": "2026-11-20T17:41:09.098915+00:00"
     },
     "8411814210806": {
       "barcode": "8411814210806",
@@ -282,7 +282,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.297436+00:00"
+      "updated_at": "2026-11-20T17:41:09.112430+00:00"
     },
     "8411814111066": {
       "barcode": "8411814111066",
@@ -302,7 +302,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.297741+00:00"
+      "updated_at": "2026-11-20T17:41:09.112730+00:00"
     },
     "8410376017809": {
       "barcode": "8410376017809",
@@ -320,7 +320,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.368269+00:00"
+      "updated_at": "2026-11-20T17:41:09.187638+00:00"
     },
     "8410036809454": {
       "barcode": "8410036809454",
@@ -338,7 +338,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:25:32.400917+00:00"
+      "updated_at": "2026-11-20T17:41:09.220793+00:00"
     },
     "8410505320145": {
       "barcode": "8410505320145",
@@ -356,7 +356,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:25:32.413393+00:00"
+      "updated_at": "2026-11-20T17:41:09.232830+00:00"
+    },
+    "8411585465016": {
+      "barcode": "8411585465016",
+      "product_name": "Leche Semidesnatada",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_Leche_ semidesnatada de vaca.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.245767+00:00"
+    },
+    "8410199002303": {
+      "barcode": "8410199002303",
+      "product_name": "Cheetos Sticks",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sémola de maíz (33%), aceite de maíz, copos de patata, harina de _trigo_ (17%), aroma a queso y ketchup (_lactosa_, sustancias aromatizantes, azúcar, potenciadores del sabor (glutamato monosódico, inosinato y guanilato disódicos), suero de _leche_ en polvo, queso en polvo (de _leche_), edulcorante (aspartamo), especias), harina de arroz (1,7%), maltodextrina, sal, colorante (extracto de pimentón),",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:41:09.252157+00:00"
     }
   }
 }
