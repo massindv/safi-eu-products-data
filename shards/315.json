@@ -1,13 +1,16 @@
 {
   "version": "1.0",
   "prefix": "315",
-  "count": 13,
-  "updated_at": "2026-11-20T19:11:08.447555+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T21:24:54.159753+00:00",
   "products": {
     "3154230814085": {
       "barcode": "3154230814085",
       "product_name": "Herta Spekreepjes gerookt bel",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303135393831?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -31,12 +34,15 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.733802+00:00"
+      "updated_at": "2026-11-20T21:24:54.000933+00:00"
     },
     "3154230813965": {
       "barcode": "3154230813965",
       "product_name": "Herta Gerookte spekblokjes BEL",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313937313435?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -58,223 +64,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.736523+00:00"
-    },
-    "3154230809890": {
-      "barcode": "3154230809890",
-      "product_name": "jambon",
-      "store": "carrefour.fr",
-      "category": "meats",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Jambon frais de porc, Sel, Arômes naturels (présence naturelle de polyphénols), Bouillon (eau, gras et couenne de porc, os de porc, sel, extraits de carotte et d'oignon, épices et plantes aromatiques), Sucre, Chlorure de potassium, Antioxydant: Acide ascorbique, Vinaigre en poudre.",
-      "nutrition": {},
-      "nutriscore_grade": "c",
-      "nutriscore_score": null,
-      "halal_status": "HARAM",
-      "is_halal": false,
-      "triggers": [
-        "pork"
-      ],
-      "reason": "Contains pork derivatives / pork fat",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:07.813769+00:00"
-    },
-    "3154230802259": {
-      "barcode": "3154230802259",
-      "product_name": "HERTA Lardons nature conservation sans nitrite - 2x75g",
-      "store": "carrefour.fr",
-      "category": "meats",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Poitrine de porc, sel, conservateurs : lactate de potassium, acétate de potassium ; arôme naturel (présence naturelle de polyphénols), antioxydant : acide ascorbique.",
-      "nutrition": {},
-      "nutriscore_grade": "e",
-      "nutriscore_score": null,
-      "halal_status": "HARAM",
-      "is_halal": false,
-      "triggers": [
-        "pork"
-      ],
-      "reason": "Contains pork derivatives / pork fat",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:07.813874+00:00"
-    },
-    "3154230801825": {
-      "barcode": "3154230801825",
-      "product_name": "HERTA KNACKI Original saucisse Porc sans nitrite x4 - 140g",
-      "store": "carrefour.fr",
-      "category": "meats",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Viande de porc 77,9%, Eau, Gras de porc, Sel, Sucre, Isolat de protéines de pois, Fibre de BLE, Arôme naturel (présence naturelle de polyphénols), Arômes, Antioxydant : acide ascorbique, Ferments. Peut contenir : OEUF, LAIT.",
-      "nutrition": {},
-      "nutriscore_grade": "e",
-      "nutriscore_score": null,
-      "halal_status": "HARAM",
-      "is_halal": false,
-      "triggers": [
-        "pork"
-      ],
-      "reason": "Contains pork derivatives / pork fat",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:07.815145+00:00"
-    },
-    "3154230802013": {
-      "barcode": "3154230802013",
-      "product_name": "Jambon Superieur fumé au miel",
-      "store": "carrefour.be",
-      "category": "meats",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "d",
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:11:07.828924+00:00"
-    },
-    "3154230600183": {
-      "barcode": "3154230600183",
-      "product_name": "HERTA TARTE EN OR Pâte Feuilletée 230g",
-      "store": "carrefour.fr",
-      "category": "plant-based-foods",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Farine de BLÉ, Eau, Huiles végétales (palme, colza), GLUTEN de BLÉ, Alcool, Sel, Jus de citron concentré, Levure désactivée. Peut contenir : LAIT, SOJA, MOUTARDE.",
-      "nutrition": {},
-      "nutriscore_grade": "d",
-      "nutriscore_score": null,
-      "halal_status": "HARAM",
-      "is_halal": false,
-      "triggers": [
-        "alcohol"
-      ],
-      "reason": "Contains alcoholic ingredients or spirits",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:07.833442+00:00"
-    },
-    "3154230812401": {
-      "barcode": "3154230812401",
-      "product_name": "Herta Bacon ontbijt",
-      "store": "ah.be",
-      "category": "charcuterie",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "unknown",
-      "nutriscore_score": null,
-      "halal_status": "HARAM",
-      "is_halal": false,
-      "triggers": [
-        "pork"
-      ],
-      "reason": "Contains pork derivatives / pork fat",
-      "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T19:11:07.856133+00:00"
-    },
-    "3155250363645": {
-      "barcode": "3155250363645",
-      "product_name": "Crema al Mascarponee",
-      "store": "carrefour.fr",
-      "category": "dairies",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "crème entière (87%) (lait), sucre (8%), mascarpone, (crème (lait), lait entier) (3,8%), gaz propulseurs : E942, E941 ; émulsifiant : E471 ; stabilisant : E407, arôme naturel de vanille bourbon.",
-      "nutrition": {},
-      "nutriscore_grade": "e",
-      "nutriscore_score": null,
-      "halal_status": "SUSPICIOUS",
-      "is_halal": false,
-      "triggers": [
-        "other_haram"
-      ],
-      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:07.879389+00:00"
-    },
-    "3159470204948": {
-      "barcode": "3159470204948",
-      "product_name": "Special K Chocolat noir",
-      "store": "delhaize.be",
-      "category": "breakfast-cereals",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Riz(39%), BLÉ complet(31%), Chocolat (14%)(Sucre, Pâte de cacao, Matière grasse du LAIT, Beurre de cacao, Emulsifiant {Lécithine de SOJA}), Sucre, ORGE(4%), Farine d'ORGE maltée(3%), Arôme de malt d'ORGE, Sel. Vitamines et Minéraux: Vitamines (Niacine, B2, B1, B6, Acide folique, D, B12), Fer et Zinc.",
-      "nutrition": {},
-      "nutriscore_grade": "d",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:11:07.997733+00:00"
-    },
-    "3154230600305": {
-      "barcode": "3154230600305",
-      "product_name": "HERTA TARTE EN OR Pâte Feuilletée -30% M.G 230g",
-      "store": "carrefour.fr",
-      "category": "frozen-foods",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Farine de BLÉ, Eau, Huiles végétales (palme, colza), Alcool, GLUTEN de BLÉ, Sel, Jus de citron concentré, Levure désactivée. Peut contenir : LAIT, SOJA, MOUTARDE.",
-      "nutrition": {},
-      "nutriscore_grade": "c",
-      "nutriscore_score": null,
-      "halal_status": "HARAM",
-      "is_halal": false,
-      "triggers": [
-        "alcohol"
-      ],
-      "reason": "Contains alcoholic ingredients or spirits",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.007638+00:00"
-    },
-    "3154230806615": {
-      "barcode": "3154230806615",
-      "product_name": "HERTA Chorizo Fort - 280g",
-      "store": "carrefour.fr",
-      "category": "meats",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Viande de porc, paprika fumé 2,7%, sel, ail, piment de Cayenne 0,05%. Boyau naturel de porc. 153 g de viande de porc mis en œuvre pour préparer 100 g de chorizo.",
-      "nutrition": {},
-      "nutriscore_grade": "e",
-      "nutriscore_score": null,
-      "halal_status": "HARAM",
-      "is_halal": false,
-      "triggers": [
-        "pork"
-      ],
-      "reason": "Contains pork derivatives / pork fat",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.079139+00:00"
-    },
-    "3154230034186": {
-      "barcode": "3154230034186",
-      "product_name": "Dés de lardons fumés au bois de hêtre découenné sans cartilage Herta",
-      "store": "carrefour.fr",
-      "category": "meats",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "unknown",
-      "nutriscore_score": null,
-      "halal_status": "HARAM",
-      "is_halal": false,
-      "triggers": [
-        "pork"
-      ],
-      "reason": "Contains pork derivatives / pork fat",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.358264+00:00"
+      "updated_at": "2026-11-20T21:24:54.004225+00:00"
     }
   }
 }

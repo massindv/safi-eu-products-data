@@ -1,13 +1,16 @@
 {
   "version": "1.0",
   "prefix": "502",
-  "count": 6,
-  "updated_at": "2026-11-20T19:11:08.499702+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T21:24:54.162067+00:00",
   "products": {
     "5021991938917": {
       "barcode": "5021991938917",
       "product_name": "Clipper Lemon & Ginger organic infusion",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_306e5539504c776f537747674152753079434f755a67?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -29,12 +32,15 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.773139+00:00"
+      "updated_at": "2026-11-20T21:24:54.038938+00:00"
     },
     "5029396738767": {
       "barcode": "5029396738767",
       "product_name": "Fentimans Rose lemonade",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313230303135?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -56,79 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.787014+00:00"
-    },
-    "5021991941177": {
-      "barcode": "5021991941177",
-      "product_name": "Organic black tea with ginger&coconut",
-      "store": "ah.nl",
-      "category": "teas",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Black tea, Ginger root 15%, Dried coconut 3%, natural coconut aroma and other natural aromas 3%",
-      "nutrition": {},
-      "nutriscore_grade": "unknown",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T19:11:08.051626+00:00"
-    },
-    "5021427905780": {
-      "barcode": "5021427905780",
-      "product_name": "Cheddar Mature",
-      "store": "carrefour.fr",
-      "category": "cheeses",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "_Lait_ de vache pasteurisé, sel, ferments lactiques (_lait_), coagulant végétal",
-      "nutrition": {},
-      "nutriscore_grade": "d",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.110138+00:00"
-    },
-    "5029396000437": {
-      "barcode": "5029396000437",
-      "product_name": "Pink Grapefruit Tonic Water",
-      "store": "delhaize.be",
-      "category": "beverages",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "d",
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:11:08.306074+00:00"
-    },
-    "5027659525031": {
-      "barcode": "5027659525031",
-      "product_name": "Sauce aigre douce pour sautés",
-      "store": "delhaize.be",
-      "category": "sauces",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "unknown",
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:11:08.345599+00:00"
+      "updated_at": "2026-11-20T21:24:54.052146+00:00"
     }
   }
 }

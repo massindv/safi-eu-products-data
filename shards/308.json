@@ -1,13 +1,16 @@
 {
   "version": "1.0",
   "prefix": "308",
-  "count": 11,
-  "updated_at": "2026-11-20T19:11:08.445285+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T21:24:54.159351+00:00",
   "products": {
     "3083681025484": {
       "barcode": "3083681025484",
       "product_name": "Bonduelle Crispy maïs",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_645f484c304a6c6a544553565036492d504666565367?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -29,12 +32,15 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.801233+00:00"
+      "updated_at": "2026-11-20T21:24:54.066654+00:00"
     },
     "3083681006964": {
       "barcode": "3083681006964",
       "product_name": "Bonduelle Kikkererwten",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_2d7236765f39314652535369666a4d42503877365667?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -56,12 +62,15 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.801936+00:00"
+      "updated_at": "2026-11-20T21:24:54.067026+00:00"
     },
     "3083680600965": {
       "barcode": "3083680600965",
       "product_name": "Bonduelle Linzen",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_4b542d575532415153585355587a6d417a77676a4277?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -83,157 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.802151+00:00"
-    },
-    "3083681093926": {
-      "barcode": "3083681093926",
-      "product_name": "Aubergines cuisinées à la Provençal",
-      "store": "carrefour.fr",
-      "category": "plant-based-foods",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Dès d'aubergines préfrites 36% (aubergines 31%, huile de tournesol), tomates pelées concassées au jus 23% (tomates, jus de tomate), dès d'aubergines 15%, oignons coupés 12%, purée de tomates mi-réduite 5,4%, double concentré de tomates 2,2%, sucre 1,4%, huile d'olive vierge extra 1%, basilic 0,9%, sel, ail, jus concentré de citron.",
-      "nutrition": {},
-      "nutriscore_grade": "a",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:07.832928+00:00"
-    },
-    "3080216043210": {
-      "barcode": "3080216043210",
-      "product_name": "Kronenbourg 50 cl Kronenbourg 4.2 DEGRE ALCOOL",
-      "store": "carrefour.fr",
-      "category": "alcoholic-beverages",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Eau, MALT D'ORGE, BLE, sirop de glucose, MALT DE BLE, extrait de houblon, SULFITES",
-      "nutrition": {},
-      "nutriscore_grade": "not-applicable",
-      "nutriscore_score": null,
-      "halal_status": "HARAM",
-      "is_halal": false,
-      "triggers": [
-        "alcohol"
-      ],
-      "reason": "Alcoholic beverage / beer: Kronenbourg 50 cl Kronenbourg 4.2 DEGRE ALCOOL",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.071010+00:00"
-    },
-    "3083680025881": {
-      "barcode": "3083680025881",
-      "product_name": "Maïs SSA 1/2",
-      "store": "carrefour.fr",
-      "category": "plant-based-foods",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Maïs doux en grains sans OGM (Organisme Génétiquement Modifié), eau, sel. Contient des sucres naturellement présents.",
-      "nutrition": {},
-      "nutriscore_grade": "b",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.095865+00:00"
-    },
-    "3083681149975": {
-      "barcode": "3083681149975",
-      "product_name": "Concombre fromage blc 320g",
-      "store": "carrefour.fr",
-      "category": "plant-based-foods",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Concombres 79%, huile de colza, eau, FROMAGE blanc 40% de matières grasses 2,5% (LAIT pasteurisé, CREME pasteurisée, ferments LACTIQUES), CREME fraîche (crème de LAIT pasteurisé, ferments LACTIQUES), sel, vinaigre d'alcool, ciboulette 0,8%, purée d'ail, MOUTARDE de Dijon, persil, OEUF en poudre, épaississant : gomme de xanthane. Fabriqué dans un atelier utilisant également: gluten, crustacé, poisson, céleri, soja, fruits à coque.",
-      "nutrition": {},
-      "nutriscore_grade": "b",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.097166+00:00"
-    },
-    "3083681070354": {
-      "barcode": "3083681070354",
-      "product_name": "Haricots verts-haricots beurre 750g",
-      "store": "carrefour.fr",
-      "category": "frozen-foods",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Haricots verts 60%, haricots beurre 40%",
-      "nutrition": {},
-      "nutriscore_grade": "a",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.209836+00:00"
-    },
-    "3080216052274": {
-      "barcode": "3080216052274",
-      "product_name": "Skøll Ginger & Lime",
-      "store": "carrefour.fr",
-      "category": "alcoholic-beverages",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "EAU, MALT D'ORGE, SIROP DE GLUCOSE, SUCRE, AROME VODKA-GINGEMBRE-CITRON VERT (DONT 60% DE VODKA), ACIDIFIANT : ACIDE CITRIQUE, BLÉ, EXTRAIT DE HOUBLON. VALEURS NUTRIȚIONNELLES MOYENNES POUR 100 ML:",
-      "nutrition": {},
-      "nutriscore_grade": "not-applicable",
-      "nutriscore_score": null,
-      "halal_status": "HARAM",
-      "is_halal": false,
-      "triggers": [
-        "alcohol"
-      ],
-      "reason": "Contains alcoholic ingredients or spirits",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.224860+00:00"
-    },
-    "3080216047225": {
-      "barcode": "3080216047225",
-      "product_name": "1664",
-      "store": "carrefour.fr",
-      "category": "alcoholic-beverages",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Contient du malt d'_orge_, malt de _blé_ et _blé_.",
-      "nutrition": {},
-      "nutriscore_grade": "not-applicable",
-      "nutriscore_score": null,
-      "halal_status": "HARAM",
-      "is_halal": false,
-      "triggers": [
-        "alcohol"
-      ],
-      "reason": "Alcoholic beverage / beer: 1664",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.224982+00:00"
-    },
-    "3080216059846": {
-      "barcode": "3080216059846",
-      "product_name": "Tourtel Twist citrons 🍋 & menthe",
-      "store": "carrefour.fr",
-      "category": "beverages",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "EAU, JUS DE CITRON À BASE DE JUS CONCENTRE (3,1%), SUCRE, MALT D'ORGE, MALT DE BLÉ, CO2, AROME NATUREL DE CITRON AVEC AUTRES AROMES NATURELS, EXTRAIT DE MENTHE, STABILISANT: GOMME D'ACACIA, EXTRAIT CONCENTRE DE CITRON, EXTRAIT DE HOUBLON.",
-      "nutrition": {},
-      "nutriscore_grade": "c",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.302190+00:00"
+      "updated_at": "2026-11-20T21:24:54.067142+00:00"
     }
   }
 }

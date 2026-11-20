@@ -1,13 +1,16 @@
 {
   "version": "1.0",
   "prefix": "305",
-  "count": 6,
-  "updated_at": "2026-11-20T19:11:08.443720+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T21:24:54.157849+00:00",
   "products": {
     "3052910013677": {
       "barcode": "3052910013677",
       "product_name": "Monin Caramel siroop",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313634313238?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -29,12 +32,15 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.790231+00:00"
+      "updated_at": "2026-11-20T21:24:54.054973+00:00"
     },
     "3052910013776": {
       "barcode": "3052910013776",
       "product_name": "Monin Vanille siroop",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_4d4c4b734136496c52387953386d6a75783336564441?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -56,79 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.790313+00:00"
-    },
-    "3056440032696": {
-      "barcode": "3056440032696",
-      "product_name": "Petits coeurs chocolat",
-      "store": "carrefour.fr",
-      "category": "snacks",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Farine de BLÉ 47%, huiles végétales (palme, coprah), sucre, chocolat en poudre 7,5 % (sucre, cacao en poudre), lactose (de LAIT), poudres à lever (carbonates d'ammonium, carbonates de sodium), LAIT entier en poudre, pâte de cacao, sel, pâte de NOISETTES, émulsifiant (lécithines de SOJA). PEUT CONTENIR OEUF ET AUTRES FRUITS À COQUE.",
-      "nutrition": {},
-      "nutriscore_grade": "e",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:07.912769+00:00"
-    },
-    "3056440070896": {
-      "barcode": "3056440070896",
-      "product_name": "Bastogne",
-      "store": "delhaize.be",
-      "category": "snacks",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Farine de BLÉ 45 %, sucre, huile de palme, sucre candi en poudre 9,9 %, sirop de fructose-glucose, ŒUFS, sirop de sucre candi, poudre à lever (carbonates de sodium), colorant (caramel ordinaire), sirop de glucose, cannelle en poudre 0,2 %, sel, arôme. PEUT CONTENIR SÉSAME.",
-      "nutrition": {},
-      "nutriscore_grade": "e",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:11:07.927605+00:00"
-    },
-    "3057640100833": {
-      "barcode": "3057640100833",
-      "product_name": "Volvic Nature 6x150cl PET",
-      "store": "delhaize.be",
-      "category": "beverages",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "a",
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:11:08.068233+00:00"
-    },
-    "3057640372513": {
-      "barcode": "3057640372513",
-      "product_name": "Touch Of Fruit Straw",
-      "store": "carrefour.fr",
-      "category": "beverages",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Eau minérale naturelle Volvic (95%), Sucre (4,5%), Acidifiant : acide citrique, arôme naturel de fraise, avec autres arômes naturels, conservateur : benzoate de potassium.",
-      "nutrition": {},
-      "nutriscore_grade": "c",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.217581+00:00"
+      "updated_at": "2026-11-20T21:24:54.055079+00:00"
     }
   }
 }

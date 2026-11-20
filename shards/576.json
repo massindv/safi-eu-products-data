@@ -1,13 +1,16 @@
 {
   "version": "1.0",
   "prefix": "576",
-  "count": 2,
-  "updated_at": "2026-11-20T19:11:08.565982+00:00",
+  "count": 1,
+  "updated_at": "2026-11-20T21:24:54.166504+00:00",
   "products": {
     "5760466739924": {
       "barcode": "5760466739924",
       "product_name": "Garlan Verse roomkaas met knoflook & kruiden",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_3952735851586e315374615a474a7a7474417a4b3741?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -29,27 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.782570+00:00"
-    },
-    "5760466732918": {
-      "barcode": "5760466732918",
-      "product_name": "Original White Cheese",
-      "store": "ah.be",
-      "category": "cheeses",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "_melk_ 96%, zout, zuursel, microbieel stremsel",
-      "nutrition": {},
-      "nutriscore_grade": "e",
-      "nutriscore_score": null,
-      "halal_status": "SUSPICIOUS",
-      "is_halal": false,
-      "triggers": [
-        "other_haram"
-      ],
-      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
-      "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T19:11:07.865035+00:00"
+      "updated_at": "2026-11-20T21:24:54.048958+00:00"
     }
   }
 }

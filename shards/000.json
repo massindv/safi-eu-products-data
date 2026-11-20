@@ -1,13 +1,16 @@
 {
   "version": "1.0",
   "prefix": "000",
-  "count": 8,
-  "updated_at": "2026-11-20T19:11:08.376690+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T21:24:54.153835+00:00",
   "products": {
     "0000096067345": {
       "barcode": "0000096067345",
       "product_name": "Princes Ansjovisfilets in olijfolie",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_34576b50417037555349656733446c66584e61376e77?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -29,12 +32,15 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.731813+00:00"
+      "updated_at": "2026-11-20T21:24:53.998552+00:00"
     },
     "0000076222276": {
       "barcode": "0000076222276",
       "product_name": "Milka Leo family pack BEL",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_44546768695748735331436d326d595a50725a2d6f67?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -56,12 +62,15 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.779646+00:00"
+      "updated_at": "2026-11-20T21:24:54.046079+00:00"
     },
     "0000080042556": {
       "barcode": "0000080042556",
       "product_name": "Mutti Polpa fijne tomatenpulp",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_6d757a4875795246543336715068446468425f544e41?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -83,12 +92,15 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.781960+00:00"
+      "updated_at": "2026-11-20T21:24:54.048373+00:00"
     },
     "0000054025271": {
       "barcode": "0000054025271",
       "product_name": "Inex Yoghurt framboos bel",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313833393230?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -113,12 +125,15 @@
       ],
       "reason": "Contains carmine / E120 / karmijnzuur insect colorant",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.789654+00:00"
+      "updated_at": "2026-11-20T21:24:54.054267+00:00"
     },
     "0000080035343": {
       "barcode": "0000080035343",
       "product_name": "Grand' Italia Pomodori secchi zongedroogde tomaten",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_4e396d6b46547441536b2d6974754a34704c584e7641?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -140,12 +155,15 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.810238+00:00"
+      "updated_at": "2026-11-20T21:24:54.073542+00:00"
     },
     "0000080023418": {
       "barcode": "0000080023418",
       "product_name": "Grand' Italia Piccante met rode peper",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_5632515638683748544b36495859304f476b486e5551?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -167,12 +185,15 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.810576+00:00"
+      "updated_at": "2026-11-20T21:24:54.073880+00:00"
     },
     "0000080023401": {
       "barcode": "0000080023401",
       "product_name": "Grand' Italia Basilico met basilicum",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_4e5856475a4a3644525865544778434f484c337a4941?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -194,25 +215,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.810893+00:00"
-    },
-    "0002544704512": {
-      "barcode": "0002544704512",
-      "product_name": "EU Product",
-      "store": "delhaize.be",
-      "category": "breakfast-cereals",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Flocons d'avoine complets 53%, fibres alimentaires (polydextrose, dextrine résistante, inuline), croustillant de son (son de blé, farine de blé, farine de riz, son d'avoine), chocolat avec édulcorant 6% [édulcorant (maltitol), pâte de cacao*, inuline, beurre de cacao* émulsifiant (lécithines)], bâtonnet de son 5% (son de blé, dattes, raisins secs), huile de tournesol non hydrogénée, noisettes 4%, son d'avoine, édulcorants (isomalt, glycosides de stéviol issus de Stevia), farine d'avoine complète, noix de coco râpée, arôme, sel, arôme naturel, antioxydant (extrait riche en tocopherols). *Certifié Rainforest Alliance. Pour en savoir plus ra.org. 0 Peut contenir: autres céréales contenant du gluten, lait, soja, autres fruits à coque.",
-      "nutrition": {},
-      "nutriscore_grade": "unknown",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:11:08.206131+00:00"
+      "updated_at": "2026-11-20T21:24:54.074152+00:00"
     }
   }
 }

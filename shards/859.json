@@ -1,13 +1,16 @@
 {
   "version": "1.0",
   "prefix": "859",
-  "count": 4,
-  "updated_at": "2026-11-20T19:11:08.592453+00:00",
+  "count": 1,
+  "updated_at": "2026-11-20T21:24:54.171532+00:00",
   "products": {
     "8590421620854": {
       "barcode": "8590421620854",
       "product_name": "AH Koffieroom cups",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_2d4775584735326b5235323763584259445354486e67?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -29,61 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.782230+00:00"
-    },
-    "8593894911856": {
-      "barcode": "8593894911856",
-      "product_name": "Belvita Petit Déjeuner Duo Fourré Yaourt",
-      "store": "delhaize.be",
-      "category": "biscuits-and-cakes",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "d",
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:11:07.975634+00:00"
-    },
-    "8590421621165": {
-      "barcode": "8590421621165",
-      "product_name": "black tea",
-      "store": "ah.nl",
-      "category": "teas",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "unknown",
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T19:11:08.050939+00:00"
-    },
-    "8590471412058": {
-      "barcode": "8590471412058",
-      "product_name": "Pain het brood céréales",
-      "store": "carrefour.fr",
-      "category": "breads",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "unknown",
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.138761+00:00"
+      "updated_at": "2026-11-20T21:24:54.048643+00:00"
     }
   }
 }

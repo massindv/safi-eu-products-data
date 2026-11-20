@@ -1,13 +1,16 @@
 {
   "version": "1.0",
   "prefix": "321",
-  "count": 4,
-  "updated_at": "2026-11-20T19:11:08.451203+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T21:24:54.160387+00:00",
   "products": {
     "3215061062776": {
       "barcode": "3215061062776",
       "product_name": "Lotus Gevulde wafel cassonade bel",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_746c50464f51377454694f594a4a534d696159596851?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -29,12 +32,15 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.794429+00:00"
+      "updated_at": "2026-11-20T21:24:54.059622+00:00"
     },
     "3215061072737": {
       "barcode": "3215061072737",
       "product_name": "Lotus Gevulde wafel vanille bel",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303230313035?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -56,43 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.794648+00:00"
-    },
-    "3218260000181": {
-      "barcode": "3218260000181",
-      "product_name": "Boni fuseau lorrain fume au bois",
-      "store": "colruyt.be",
-      "category": "meats",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "e",
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T19:11:07.819992+00:00"
-    },
-    "3217690057628": {
-      "barcode": "3217690057628",
-      "product_name": "Sirop Fruiss pêche abricot bio",
-      "store": "carrefour.fr",
-      "category": "beverages",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Sucre*,eau, jus de pêche à base de concentré* 6,3%, jus d'abricot* à base de concentré* 3,7%, acidifiant: acide citrique, arôme naturel d'abricot, arôme naturel de pêche, caramel aromatique* (sucre*, eau)\r\n\r\n* bio",
-      "nutrition": {},
-      "nutriscore_grade": "unknown",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.301176+00:00"
+      "updated_at": "2026-11-20T21:24:54.059835+00:00"
     }
   }
 }

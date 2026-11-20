@@ -2,12 +2,15 @@
   "version": "1.0",
   "prefix": "780",
   "count": 1,
-  "updated_at": "2026-11-20T19:11:08.584475+00:00",
+  "updated_at": "2026-11-20T21:24:54.168915+00:00",
   "products": {
     "7804315304807": {
       "barcode": "7804315304807",
       "product_name": "Undurraga Carménère",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_434d50303331393633?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -29,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.810994+00:00"
+      "updated_at": "2026-11-20T21:24:54.074224+00:00"
     }
   }
 }

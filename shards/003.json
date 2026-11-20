@@ -1,13 +1,16 @@
 {
   "version": "1.0",
   "prefix": "003",
-  "count": 5,
-  "updated_at": "2026-11-20T19:11:08.378133+00:00",
+  "count": 1,
+  "updated_at": "2026-11-20T21:24:54.155785+00:00",
   "products": {
     "0033200976387": {
       "barcode": "0033200976387",
       "product_name": "Arm & Hammer Pure baking soda",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_49443458715168635331436b457550497a4a58596351?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -29,79 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.788541+00:00"
-    },
-    "00394214": {
-      "barcode": "00394214",
-      "product_name": "Coppa di Parma",
-      "store": "jumbo.com",
-      "category": "meats",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "unknown",
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T19:11:07.823703+00:00"
-    },
-    "0039047146518": {
-      "barcode": "0039047146518",
-      "product_name": "Weight Watchers Biscuits Au Chocolat",
-      "store": "colruyt.be",
-      "category": "biscuits-and-cakes",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "e",
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T19:11:08.196483+00:00"
-    },
-    "0039047105799": {
-      "barcode": "0039047105799",
-      "product_name": "Weightwatchers Biscuit (cranberry & Orange, Cookies, 132 G)",
-      "store": "delhaize.be",
-      "category": "biscuits-and-cakes",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "d",
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:11:08.292684+00:00"
-    },
-    "0033147933566": {
-      "barcode": "0033147933566",
-      "product_name": "EU Product",
-      "store": "colruyt.be",
-      "category": "dairies",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "unknown",
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T19:11:08.333400+00:00"
+      "updated_at": "2026-11-20T21:24:54.053037+00:00"
     }
   }
 }

@@ -1,67 +1,16 @@
 {
   "version": "1.0",
   "prefix": "844",
-  "count": 5,
-  "updated_at": "2026-11-20T19:11:08.591528+00:00",
+  "count": 1,
+  "updated_at": "2026-11-20T21:24:54.171107+00:00",
   "products": {
-    "8445290442369": {
-      "barcode": "8445290442369",
-      "product_name": "Nescafé Dolce Gusto Grande capsules",
-      "store": "ah.be",
-      "category": "supermarket",
-      "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4542416d6e366a32516543796b5853486e5a74783367?revLabel=1&rendition=800x800_JPG&fileType=binary",
-      "ingredients_text": "",
-      "nutrition": {
-        "calories_100g": null,
-        "fat_100g": null,
-        "saturated_fat_100g": null,
-        "carbohydrates_100g": null,
-        "sugars_100g": null,
-        "fiber_100g": null,
-        "proteins_100g": null,
-        "salt_100g": null
-      },
-      "nutriscore_grade": null,
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.770679+00:00"
-    },
-    "8445291565036": {
-      "barcode": "8445291565036",
-      "product_name": "Starbucks Nespresso decaf espresso roast capsules",
-      "store": "ah.be",
-      "category": "supermarket",
-      "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_477a435453414f56524e4f4f57336643445335663377?revLabel=1&rendition=800x800_JPG&fileType=binary",
-      "ingredients_text": "",
-      "nutrition": {
-        "calories_100g": null,
-        "fat_100g": null,
-        "saturated_fat_100g": null,
-        "carbohydrates_100g": null,
-        "sugars_100g": null,
-        "fiber_100g": null,
-        "proteins_100g": null,
-        "salt_100g": null
-      },
-      "nutriscore_grade": null,
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.797168+00:00"
-    },
     "8445290408372": {
       "barcode": "8445290408372",
       "product_name": "Maggi Jus naturel",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_454a6f355a5533555454796c735475425670444d4651?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -83,43 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.809655+00:00"
-    },
-    "8445290728791": {
-      "barcode": "8445290728791",
-      "product_name": "KitKat Cereal",
-      "store": "carrefour.fr",
-      "category": "breakfast-cereals",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "31,4% VOLLKORNWEIZENMEHL, Maisgrieß, Zucker, Dextrose, Palmöl, WEIZENMEHL, 5,4% Kakaopulver*, Glukosesirup, WEIZENSTÄRKE, MAGERMILCHPULVER, Sonnenblumenöl, Calciumcarbonat, GERSTENMALZEXTRAKT, fettarmes Kakaopulver*, natürliche Aromen, Kakaobutter*, Salz, Kakaomasse*, Emulgator (Lecithine), MOLKENERZEUGNIS, BUTTERREINFETT, Antioxidationsmittel (stark tocopherolhaltige Extrakte), Eisen, Niacin, Pantothensäure, Vitamin B6, Riboflavin (Vit. B2), Folsäure.Kann NÜSSE enthalten. *Rainforest Alliance-zertifiziert.",
-      "nutrition": {},
-      "nutriscore_grade": "c",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:07.978636+00:00"
-    },
-    "8445509154380": {
-      "barcode": "8445509154380",
-      "product_name": "Clémentines",
-      "store": "carrefour.be",
-      "category": "plant-based-foods",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Clémentine",
-      "nutrition": {},
-      "nutriscore_grade": "a",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:11:08.328520+00:00"
+      "updated_at": "2026-11-20T21:24:54.072993+00:00"
     }
   }
 }

@@ -1,13 +1,16 @@
 {
   "version": "1.0",
   "prefix": "509",
-  "count": 2,
-  "updated_at": "2026-11-20T19:11:08.502607+00:00",
+  "count": 1,
+  "updated_at": "2026-11-20T21:24:54.162784+00:00",
   "products": {
     "5098732004835": {
       "barcode": "5098732004835",
       "product_name": "Chivers Olde English marmalade",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_767a4c49696f4d625133536e37684c64613978577251?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -29,27 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.812835+00:00"
-    },
-    "5099873001370": {
-      "barcode": "5099873001370",
-      "product_name": "Original Recipe Tennessee Honey",
-      "store": "carrefour.fr",
-      "category": "alcoholic-beverages",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Whiskey, liqueur au miel",
-      "nutrition": {},
-      "nutriscore_grade": "not-applicable",
-      "nutriscore_score": null,
-      "halal_status": "HARAM",
-      "is_halal": false,
-      "triggers": [
-        "alcohol"
-      ],
-      "reason": "Contains alcoholic ingredients or spirits",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:08.071067+00:00"
+      "updated_at": "2026-11-20T21:24:54.075601+00:00"
     }
   }
 }

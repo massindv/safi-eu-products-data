@@ -1,40 +1,16 @@
 {
   "version": "1.0",
   "prefix": "900",
-  "count": 4,
-  "updated_at": "2026-11-20T19:11:08.641851+00:00",
+  "count": 1,
+  "updated_at": "2026-11-20T21:24:54.185907+00:00",
   "products": {
-    "9001810011645": {
-      "barcode": "9001810011645",
-      "product_name": "Segafredo Selezione crema bonen",
-      "store": "ah.be",
-      "category": "supermarket",
-      "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_43545239383532363038?revLabel=1&rendition=800x800_JPG&fileType=binary",
-      "ingredients_text": "",
-      "nutrition": {
-        "calories_100g": null,
-        "fat_100g": null,
-        "saturated_fat_100g": null,
-        "carbohydrates_100g": null,
-        "sugars_100g": null,
-        "fiber_100g": null,
-        "proteins_100g": null,
-        "salt_100g": null
-      },
-      "nutriscore_grade": null,
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.782262+00:00"
-    },
     "9001810011546": {
       "barcode": "9001810011546",
       "product_name": "Segafredo Selezione espresso bonen",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313832343736?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -56,43 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.782304+00:00"
-    },
-    "9004617068348": {
-      "barcode": "9004617068348",
-      "product_name": "Bio porridge fraises graines de chia",
-      "store": "carrefour.fr",
-      "category": "breakfast-cereals",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "Flocons d'avoine complète concassés sans gluten* 74%, dattes hachées* (dattes* 97 %, farine de riz*), dés de pommes*, amandes* hachées, fraises* 3 %, graines de chia* « salvia hispanica » 3 %, graines de lin brun*. *) Issu de l'agriculture biologique.\nPeut contenir des traces de graines de sésame, de soja et d'autres fruits à coque",
-      "nutrition": {},
-      "nutriscore_grade": "a",
-      "nutriscore_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:11:07.980747+00:00"
-    },
-    "9001745051464": {
-      "barcode": "9001745051464",
-      "product_name": "Tiroler Speck",
-      "store": "delhaize.be",
-      "category": "meats",
-      "country": "EU",
-      "image_url": "",
-      "ingredients_text": "",
-      "nutrition": {},
-      "nutriscore_grade": "e",
-      "nutriscore_score": null,
-      "halal_status": "UNKNOWN",
-      "is_halal": false,
-      "triggers": [],
-      "reason": "No ingredient list reported",
-      "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:11:08.092385+00:00"
+      "updated_at": "2026-11-20T21:24:54.048697+00:00"
     }
   }
 }

@@ -2,12 +2,15 @@
   "version": "1.0",
   "prefix": "901",
   "count": 1,
-  "updated_at": "2026-11-20T19:11:08.642203+00:00",
+  "updated_at": "2026-11-20T21:24:54.186190+00:00",
   "products": {
     "9015160108450": {
       "barcode": "9015160108450",
       "product_name": "Almdudler 6-pack bel",
       "store": "ah.be",
+      "stores": [
+        "ah.be"
+      ],
       "category": "supermarket",
       "country": "Belgium",
       "image_url": "https://static.ah.nl/dam/product/AHI_69473877413855345135435373486f434d6673447467?revLabel=1&rendition=800x800_JPG&fileType=binary",
@@ -29,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:11:07.793540+00:00"
+      "updated_at": "2026-11-20T21:24:54.058714+00:00"
     }
   }
 }
