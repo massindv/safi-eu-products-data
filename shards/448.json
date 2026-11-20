@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "448",
   "count": 1,
-  "updated_at": "2026-11-20T17:13:20.662668+00:00",
+  "updated_at": "2026-11-20T17:25:32.525167+00:00",
   "products": {
     "44859616": {
       "barcode": "44859616",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.346405+00:00"
+      "updated_at": "2026-11-20T17:25:32.303944+00:00"
     }
   }
 }

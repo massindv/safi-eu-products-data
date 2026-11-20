@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "007",
   "count": 6,
-  "updated_at": "2026-11-20T17:13:20.492169+00:00",
+  "updated_at": "2026-11-20T17:25:32.425568+00:00",
   "products": {
     "0071475740012": {
       "barcode": "0071475740012",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_727347304e7a5077547079394e4774443245556c4d67?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_727347304e7a5077547079394e4774443245556c4d67?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Koolzaadolie (62%), water, gepasteuriseerd EIGEEL, wittewijnazijn, citroensapconcentraat, zout, Parmigiano Reggiano-kaas (MELK) (1%), MOSTERDMEEL, zwarte peper, worcestersaus (water, brandewijnazijn, GERSTEMOUTAZIJN, suiker, melasse, zout, gedroogde ui, gedroogde knoflook, tamarindepasta, gedroogde gember, chilipoeder), gedroogde knoflook, gedroogde ui, extra vierge olijfolie, ansjovispasta (ansjovis (VIS), zout, olijfolie), stabilisator: xanthaangom. Allergie-informatie Bevat: Eieren, Melk, Mosterd, Gerst, Glutenbevattende Granen, Vis",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.062513+00:00"
+      "updated_at": "2026-11-20T17:25:32.068722+00:00"
     },
     "0070177116088": {
       "barcode": "0070177116088",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.318716+00:00"
+      "updated_at": "2026-11-20T17:25:32.280561+00:00"
     },
     "0070177087784": {
       "barcode": "0070177087784",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.318840+00:00"
+      "updated_at": "2026-11-20T17:25:32.280655+00:00"
     },
     "0070177063597": {
       "barcode": "0070177063597",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.318985+00:00"
+      "updated_at": "2026-11-20T17:25:32.280741+00:00"
     },
     "0070177051174": {
       "barcode": "0070177051174",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.319371+00:00"
+      "updated_at": "2026-11-20T17:25:32.281008+00:00"
     },
     "0070734529481": {
       "barcode": "0070734529481",
@@ -119,7 +119,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.319555+00:00"
+      "updated_at": "2026-11-20T17:25:32.281176+00:00"
     }
   }
 }

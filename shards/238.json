@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "238",
-  "count": 9,
-  "updated_at": "2026-11-20T17:13:20.553261+00:00",
+  "count": 15,
+  "updated_at": "2026-11-20T17:25:32.463414+00:00",
   "products": {
     "2385407906796": {
       "barcode": "2385407906796",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.078880+00:00"
+      "updated_at": "2026-11-20T17:25:32.097625+00:00"
     },
     "2389232803169": {
       "barcode": "2389232803169",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.079939+00:00"
+      "updated_at": "2026-11-20T17:25:32.098784+00:00"
     },
     "2389221403561": {
       "barcode": "2389221403561",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.080632+00:00"
+      "updated_at": "2026-11-20T17:25:32.099457+00:00"
     },
     "2385306403358": {
       "barcode": "2385306403358",
@@ -76,7 +76,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.129516+00:00"
+      "updated_at": "2026-11-20T17:25:32.135375+00:00"
     },
     "2389282207375": {
       "barcode": "2389282207375",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.133125+00:00"
+      "updated_at": "2026-11-20T17:25:32.136935+00:00"
     },
     "2385323003319": {
       "barcode": "2385323003319",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.133311+00:00"
+      "updated_at": "2026-11-20T17:25:32.137019+00:00"
     },
     "2385375307557": {
       "barcode": "2385375307557",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.296300+00:00"
+      "updated_at": "2026-11-20T17:25:32.264816+00:00"
     },
     "2389232403079": {
       "barcode": "2389232403079",
@@ -148,7 +148,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.342907+00:00"
+      "updated_at": "2026-11-20T17:25:32.300693+00:00"
     },
     "2385305508672": {
       "barcode": "2385305508672",
@@ -166,7 +166,117 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.343575+00:00"
+      "updated_at": "2026-11-20T17:25:32.301277+00:00"
+    },
+    "2389220803447": {
+      "barcode": "2389220803447",
+      "product_name": "Gegrilde Beenham",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "96% varkensvlees, zout, dextrose, voedingszuren (E326, E262), stabilisator (E451), gistextract, antioxidant (E301), conserveermiddel (E250).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.409603+00:00"
+    },
+    "2389218803442": {
+      "barcode": "2389218803442",
+      "product_name": "Roasted ham",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.409619+00:00"
+    },
+    "2389220403357": {
+      "barcode": "2389220403357",
+      "product_name": "Gegrilde Beenham",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.409678+00:00"
+    },
+    "2385452103867": {
+      "barcode": "2385452103867",
+      "product_name": "Varkens ribeye",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "varkensribeye",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.409719+00:00"
+    },
+    "2389221503537": {
+      "barcode": "2389221503537",
+      "product_name": "Grookte Slagers Achterham",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.410599+00:00"
+    },
+    "2389232003804": {
+      "barcode": "2389232003804",
+      "product_name": "Scharrel Flinterdunne Kipfilet",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.410881+00:00"
     }
   }
 }

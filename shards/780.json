@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "780",
   "count": 1,
-  "updated_at": "2026-11-20T17:13:20.737211+00:00",
+  "updated_at": "2026-11-20T17:25:32.602758+00:00",
   "products": {
     "7804315304807": {
       "barcode": "7804315304807",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_434d50303331393633?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_434d50303331393633?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Contains sulfites Allergie-informatie Bevat: Sulfieten Kan bevatten: Eieren",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.069451+00:00"
+      "updated_at": "2026-11-20T17:25:32.073680+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "859",
   "count": 4,
-  "updated_at": "2026-11-20T17:13:20.744387+00:00",
+  "updated_at": "2026-11-20T17:25:32.608512+00:00",
   "products": {
     "8590421620854": {
       "barcode": "8590421620854",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_2d4775584735326b5235323763584259445354486e67?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_2d4775584735326b5235323763584259445354486e67?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: \nWaarvan toegevoegde suikers 0g per 100 milliliter en waarvan toegevoegd zout 0g per 100 milliliter Allergie-informatie Bevat: Melk, Lactose",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.043425+00:00"
+      "updated_at": "2026-11-20T17:25:32.050383+00:00"
     },
     "8593894911856": {
       "barcode": "8593894911856",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.258530+00:00"
+      "updated_at": "2026-11-20T17:25:32.232135+00:00"
     },
     "8590421621165": {
       "barcode": "8590421621165",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.317715+00:00"
+      "updated_at": "2026-11-20T17:25:32.279907+00:00"
     },
     "8590471412058": {
       "barcode": "8590471412058",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.378870+00:00"
+      "updated_at": "2026-11-20T17:25:32.327920+00:00"
     }
   }
 }

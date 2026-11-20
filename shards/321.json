@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "321",
   "count": 3,
-  "updated_at": "2026-11-20T17:13:20.601466+00:00",
+  "updated_at": "2026-11-20T17:25:32.482577+00:00",
   "products": {
     "3215061062776": {
       "barcode": "3215061062776",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_746c50464f51377454694f594a4a534d696159596851?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_746c50464f51377454694f594a4a534d696159596851?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: TARWEbloem, plantaardige oliën (palmolie van duurzame en gecertificeerde plantages, raapolie), cassonade 13%  , suiker, glucose-fructosestroop, TARWEzetmeel, scharrelEIEREN, TARWEvezels, zout  , gist, emulgator (mono- en diglyceriden van vetzuren, natriumstearoyl-2-lactylaat, SOJAlecithine), aroma, conserveermiddel (kaliumsorbaat), zuurteregelaar (citroenzuur), stabilisator (invertase) Allergie-informatie Bevat: Eieren, Soja, Tarwe, Glutenbevattende Granen",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.055475+00:00"
+      "updated_at": "2026-11-20T17:25:32.060941+00:00"
     },
     "3215061072737": {
       "barcode": "3215061072737",
@@ -37,7 +37,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303230313035?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303230313035?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: TARWEbloem, plantaardige oliën (palm*, raap), dextrose, suiker, glucose-fructosestroop, TARWEzetmeel, EIEREN**, glucosestroop, TARWEvezels, zout, gist, aroma, emulgatoren (mono- en diglyceriden van vetzuren, natriumstearoyl-2-lactylaat, lecithinen (SOJA)), conserveermiddel (kaliumsorbaat), stabilisator (invertase), *Palmolie van duurzame en gecertificeerde plantages., **Scharreleieren Allergie-informatie Bevat: Eieren, Soja, Tarwe, Glutenbevattende Granen",
       "nutrition": {
         "calories_100g": null,
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.055690+00:00"
+      "updated_at": "2026-11-20T17:25:32.061174+00:00"
     },
     "3218260000181": {
       "barcode": "3218260000181",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:13:20.074954+00:00"
+      "updated_at": "2026-11-20T17:25:32.092181+00:00"
     }
   }
 }

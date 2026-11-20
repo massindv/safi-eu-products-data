@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "108",
-  "count": 5,
-  "updated_at": "2026-11-20T17:13:20.511403+00:00",
+  "count": 8,
+  "updated_at": "2026-11-20T17:25:32.441481+00:00",
   "products": {
     "10871890734582817210221": {
       "barcode": "10871890734582817210221",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.079227+00:00"
+      "updated_at": "2026-11-20T17:25:32.097992+00:00"
     },
     "10871826539927317210405": {
       "barcode": "10871826539927317210405",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.080045+00:00"
+      "updated_at": "2026-11-20T17:25:32.098894+00:00"
     },
     "10871826574119517220423": {
       "barcode": "10871826574119517220423",
@@ -60,7 +60,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.080136+00:00"
+      "updated_at": "2026-11-20T17:25:32.098988+00:00"
     },
     "10871890690430917210907": {
       "barcode": "10871890690430917210907",
@@ -80,7 +80,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.080192+00:00"
+      "updated_at": "2026-11-20T17:25:32.099047+00:00"
     },
     "10871890733430317210210": {
       "barcode": "10871890733430317210210",
@@ -100,7 +100,63 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.080247+00:00"
+      "updated_at": "2026-11-20T17:25:32.099103+00:00"
+    },
+    "10871826539911217230527": {
+      "barcode": "10871826539911217230527",
+      "product_name": "Speklap",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.409973+00:00"
+    },
+    "10871890690436117230503": {
+      "barcode": "10871890690436117230503",
+      "product_name": "Bio rundergehakt",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "99% rundvlees*, gebufferd azijn* (conserverend ingrediënt), antioxidant (E300, E331).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.410020+00:00"
+    },
+    "10871890762943017230110": {
+      "barcode": "10871890762943017230110",
+      "product_name": "Scharrel Kipdijfiletreepjes Shoarma",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.410046+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "075",
-  "count": 3,
-  "updated_at": "2026-11-20T17:13:20.507767+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T17:25:32.437894+00:00",
   "products": {
     "0758012454761": {
       "barcode": "0758012454761",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.213727+00:00"
+      "updated_at": "2026-11-20T17:25:32.197409+00:00"
     },
     "07543760": {
       "barcode": "07543760",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.378547+00:00"
+      "updated_at": "2026-11-20T17:25:32.327610+00:00"
     },
     "0750547455893": {
       "barcode": "0750547455893",
@@ -56,7 +56,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.455055+00:00"
+      "updated_at": "2026-11-20T17:25:32.381553+00:00"
+    },
+    "0758012369256": {
+      "barcode": "0758012369256",
+      "product_name": "Hollandse bruine bonen",
+      "store": "jumbo.com",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Hollandse bruine bonen, water, zout, verstevigingsmiddel: E509, antioxidant: E385.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T17:25:32.416055+00:00"
     }
   }
 }

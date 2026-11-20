@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "349",
   "count": 1,
-  "updated_at": "2026-11-20T17:13:20.631103+00:00",
+  "updated_at": "2026-11-20T17:25:32.499636+00:00",
   "products": {
     "3498425562055": {
       "barcode": "3498425562055",
@@ -18,12 +18,13 @@
       "halal_status": "HARAM",
       "is_halal": false,
       "triggers": [
+        "carmine",
         "insect_derived",
         "alcohol"
       ],
-      "reason": "Contains carmine / E120 insect colorant; Contains alcoholic ingredients or spirits",
+      "reason": "Contains carmine / E120 / karmijnzuur insect colorant; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.432048+00:00"
+      "updated_at": "2026-11-20T17:25:32.367733+00:00"
     }
   }
 }

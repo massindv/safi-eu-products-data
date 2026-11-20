@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "245",
+  "count": 2,
+  "updated_at": "2026-11-20T17:25:32.465339+00:00",
+  "products": {
+    "2451325023881": {
+      "barcode": "2451325023881",
+      "product_name": "Laguiole",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.420634+00:00"
+    },
+    "2456358016664": {
+      "barcode": "2456358016664",
+      "product_name": "Tomme de Savoie",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.421269+00:00"
+    }
+  }
+}

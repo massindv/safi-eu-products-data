@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "316",
-  "count": 3,
-  "updated_at": "2026-11-20T17:13:20.593294+00:00",
+  "count": 5,
+  "updated_at": "2026-11-20T17:25:32.477483+00:00",
   "products": {
     "3166291010610": {
       "barcode": "3166291010610",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.113690+00:00"
+      "updated_at": "2026-11-20T17:25:32.125143+00:00"
     },
     "3168930170549": {
       "barcode": "3168930170549",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.320226+00:00"
+      "updated_at": "2026-11-20T17:25:32.281785+00:00"
     },
     "3165440008621": {
       "barcode": "3165440008621",
@@ -56,7 +56,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.347810+00:00"
+      "updated_at": "2026-11-20T17:25:32.305063+00:00"
+    },
+    "3166290200081": {
+      "barcode": "3166290200081",
+      "product_name": "Ail semoule",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Ail déshydraté",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.413724+00:00"
+    },
+    "3165440001707": {
+      "barcode": "3165440001707",
+      "product_name": "Fécule",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "100% Fécule de pomme de terre.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.413752+00:00"
     }
   }
 }

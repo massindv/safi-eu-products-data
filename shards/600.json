@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "600",
-  "count": 1,
-  "updated_at": "2026-11-20T17:13:20.723549+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:25:32.590497+00:00",
   "products": {
     "6009706974442": {
       "barcode": "6009706974442",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_7575445641326543524d75765f645476634e67684677?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_7575445641326543524d75765f645476634e67684677?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten:\n                            Druiven. Gebotteld onder beschermende atmosfeer. Allergie-informatie Bevat: Sulfieten",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.026122+00:00"
+      "updated_at": "2026-11-20T17:25:32.033601+00:00"
+    },
+    "6009157423704": {
+      "barcode": "6009157423704",
+      "product_name": "Pitloze mix druiven",
+      "store": "carrefour.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T17:25:32.419556+00:00"
     }
   }
 }

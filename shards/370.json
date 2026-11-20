@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "370",
-  "count": 10,
-  "updated_at": "2026-11-20T17:13:20.657416+00:00",
+  "count": 11,
+  "updated_at": "2026-11-20T17:25:32.519348+00:00",
   "products": {
     "3701283800437": {
       "barcode": "3701283800437",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.201037+00:00"
+      "updated_at": "2026-11-20T17:25:32.185989+00:00"
     },
     "3700211234221": {
       "barcode": "3700211234221",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.245208+00:00"
+      "updated_at": "2026-11-20T17:25:32.220679+00:00"
     },
     "3700111093119": {
       "barcode": "3700111093119",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.321479+00:00"
+      "updated_at": "2026-11-20T17:25:32.282971+00:00"
     },
     "3700271001092": {
       "barcode": "3700271001092",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.330326+00:00"
+      "updated_at": "2026-11-20T17:25:32.290290+00:00"
     },
     "3700435300252": {
       "barcode": "3700435300252",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.330956+00:00"
+      "updated_at": "2026-11-20T17:25:32.290714+00:00"
     },
     "3700325910882": {
       "barcode": "3700325910882",
@@ -112,7 +112,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:13:20.332556+00:00"
+      "updated_at": "2026-11-20T17:25:32.291596+00:00"
     },
     "3700279301491": {
       "barcode": "3700279301491",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.369688+00:00"
+      "updated_at": "2026-11-20T17:25:32.320788+00:00"
     },
     "3700157500718": {
       "barcode": "3700157500718",
@@ -150,7 +150,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.428737+00:00"
+      "updated_at": "2026-11-20T17:25:32.365568+00:00"
     },
     "3701184800314": {
       "barcode": "3701184800314",
@@ -168,7 +168,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.467185+00:00"
+      "updated_at": "2026-11-20T17:25:32.389661+00:00"
     },
     "3700325909527": {
       "barcode": "3700325909527",
@@ -186,7 +186,27 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.485291+00:00"
+      "updated_at": "2026-11-20T17:25:32.404428+00:00"
+    },
+    "3700133914614": {
+      "barcode": "3700133914614",
+      "product_name": "JAMBON CUIT SUPERIEUR DECOUENNE DEGRAISSE",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jambon de porc*, sel, dextrose*, arôme naturel, antioxydant: ascorbate de sodium, conservateur: nitrite de sodium, *Issu de l'agriculture biologique,\r\n*issu de l'agriculture biologique",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.407599+00:00"
     }
   }
 }

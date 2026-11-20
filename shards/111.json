@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "111",
+  "count": 1,
+  "updated_at": "2026-11-20T17:25:32.441932+00:00",
+  "products": {
+    "11183032": {
+      "barcode": "11183032",
+      "product_name": "L'ortolan Poivre Vert",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "lait de vache pasteurisé (France),sel, poivre vert ( Inde,0,6%),ferments. Sans lactose.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.421124+00:00"
+    }
+  }
+}

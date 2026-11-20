@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "295",
   "count": 6,
-  "updated_at": "2026-11-20T17:13:20.565454+00:00",
+  "updated_at": "2026-11-20T17:25:32.469565+00:00",
   "products": {
     "2951726703134": {
       "barcode": "2951726703134",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.139408+00:00"
+      "updated_at": "2026-11-20T17:25:32.139967+00:00"
     },
     "2952702601987": {
       "barcode": "2952702601987",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.147170+00:00"
+      "updated_at": "2026-11-20T17:25:32.144019+00:00"
     },
     "2953428202649": {
       "barcode": "2953428202649",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.147204+00:00"
+      "updated_at": "2026-11-20T17:25:32.144036+00:00"
     },
     "2952853007737": {
       "barcode": "2952853007737",
@@ -76,7 +76,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.345796+00:00"
+      "updated_at": "2026-11-20T17:25:32.303378+00:00"
     },
     "2956147803906": {
       "barcode": "2956147803906",
@@ -96,7 +96,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.366677+00:00"
+      "updated_at": "2026-11-20T17:25:32.319150+00:00"
     },
     "2951727803338": {
       "barcode": "2951727803338",
@@ -116,7 +116,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.366746+00:00"
+      "updated_at": "2026-11-20T17:25:32.319204+00:00"
     }
   }
 }

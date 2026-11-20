@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "404",
+  "count": 1,
+  "updated_at": "2026-11-20T17:25:32.523034+00:00",
+  "products": {
+    "4040328034215": {
+      "barcode": "4040328034215",
+      "product_name": "Turkey Sausage",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.407044+00:00"
+    }
+  }
+}

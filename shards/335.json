@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "335",
-  "count": 1,
-  "updated_at": "2026-11-20T17:13:20.624015+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:25:32.492157+00:00",
   "products": {
     "3355570004253": {
       "barcode": "3355570004253",
@@ -20,7 +20,27 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.403749+00:00"
+      "updated_at": "2026-11-20T17:25:32.348503+00:00"
+    },
+    "3355570003454": {
+      "barcode": "3355570003454",
+      "product_name": "Poulet sauce aigre douce & son riz basmati",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "viande en sauce 64% : eau, viande de poulet cuite 25% (origine france), ananas, oignons, carottes rondelles, poivrons rouges 4.6%, sucre, poivrons verts 3.4%, jus d'ananas (ananas, eau, sucre, acidifiant : acide citrique), huile de tournesol, fonds blanc de volaille (sirop de glucose, sel, farine de _blé_, poule 11.7% : graisse de poule, viande de poule 4.6%, arôme, oignon, extraits de poireau et de _céleri_, extraits de plantes aromatiques et d'épice, antioxygènes : BHA, gallate de propyle), sauce _soja_ (eau, graines de _soja_, sel, farine de _blé_), gingembre, vinaigre, amidon transformé de maïs, champignons noirs 0.6%, concentré de tomates, coriandre, poivre.\r\n\r\nRiz 36% : riz basmati cuit 92.8%, ciboule, huile de tournesol, sel, anis étoilé.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.405228+00:00"
     }
   }
 }

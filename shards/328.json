@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "328",
-  "count": 4,
-  "updated_at": "2026-11-20T17:13:20.617387+00:00",
+  "count": 5,
+  "updated_at": "2026-11-20T17:25:32.489608+00:00",
   "products": {
     "3285810043202": {
       "barcode": "3285810043202",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.120491+00:00"
+      "updated_at": "2026-11-20T17:25:32.130400+00:00"
     },
     "3285810043103": {
       "barcode": "3285810043103",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.154267+00:00"
+      "updated_at": "2026-11-20T17:25:32.145625+00:00"
     },
     "3287360766006": {
       "barcode": "3287360766006",
@@ -59,7 +59,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.340127+00:00"
+      "updated_at": "2026-11-20T17:25:32.298039+00:00"
     },
     "3285810045107": {
       "barcode": "3285810045107",
@@ -77,7 +77,27 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.357426+00:00"
+      "updated_at": "2026-11-20T17:25:32.312748+00:00"
+    },
+    "3282750002016": {
+      "barcode": "3282750002016",
+      "product_name": "Le Coucouron 29%MG",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "lait de vache pasteurisé \r\nsel 3%\r\nprésure \r\nferment lactiques",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.421373+00:00"
     }
   }
 }

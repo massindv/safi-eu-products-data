@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "844",
   "count": 4,
-  "updated_at": "2026-11-20T17:13:20.743297+00:00",
+  "updated_at": "2026-11-20T17:25:32.607648+00:00",
   "products": {
     "8445290442369": {
       "barcode": "8445290442369",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4542416d6e366a32516543796b5853486e5a74783367?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4542416d6e366a32516543796b5853486e5a74783367?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.030507+00:00"
+      "updated_at": "2026-11-20T17:25:32.037566+00:00"
     },
     "8445291565036": {
       "barcode": "8445291565036",
@@ -37,7 +37,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_477a435453414f56524e4f4f57336643445335663377?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_477a435453414f56524e4f4f57336643445335663377?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "",
       "nutrition": {
         "calories_100g": null,
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.058193+00:00"
+      "updated_at": "2026-11-20T17:25:32.064413+00:00"
     },
     "8445290408372": {
       "barcode": "8445290408372",
@@ -64,7 +64,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_454a6f355a5533555454796c735475425670444d4651?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_454a6f355a5533555454796c735475425670444d4651?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Aardappelzetmeel, TARWEmeel, palmolie, zout, gistextract, gekarameliseerde suiker, aroma's (bevat TARWE, MELK), smaakversterker (E621), uien, rode paprika, natuurlijk kruidnagelaroma\n\nBevat mogelijk: selderij, ei, mosterd, soja. Allergie-informatie Bevat: Melk, Tarwe, Glutenbevattende Granen Kan bevatten: Selderij, Eieren, Mosterd, Soja",
       "nutrition": {
         "calories_100g": null,
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.068738+00:00"
+      "updated_at": "2026-11-20T17:25:32.072975+00:00"
     },
     "8445290728791": {
       "barcode": "8445290728791",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.261816+00:00"
+      "updated_at": "2026-11-20T17:25:32.235098+00:00"
     }
   }
 }

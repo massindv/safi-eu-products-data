@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "842",
-  "count": 3,
-  "updated_at": "2026-11-20T17:13:20.742530+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T17:25:32.606949+00:00",
   "products": {
     "8424523030337": {
       "barcode": "8424523030337",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.243339+00:00"
+      "updated_at": "2026-11-20T17:25:32.219015+00:00"
     },
     "8422584013740": {
       "barcode": "8422584013740",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.264288+00:00"
+      "updated_at": "2026-11-20T17:25:32.237150+00:00"
     },
     "8424523030122": {
       "barcode": "8424523030122",
@@ -56,7 +56,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.410287+00:00"
+      "updated_at": "2026-11-20T17:25:32.352709+00:00"
+    },
+    "8422584014167": {
+      "barcode": "8422584014167",
+      "product_name": "Soja texturizada Gruesa",
+      "store": "carrefour.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Harina de soja desgrasada* (100%)(* Ingredientes procedentes de la agricultura ecológica)",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T17:25:32.419869+00:00"
     }
   }
 }

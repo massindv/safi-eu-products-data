@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "307",
-  "count": 8,
-  "updated_at": "2026-11-20T17:13:20.580613+00:00",
+  "count": 9,
+  "updated_at": "2026-11-20T17:25:32.473693+00:00",
   "products": {
     "3073781161298": {
       "barcode": "3073781161298",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.106122+00:00"
+      "updated_at": "2026-11-20T17:25:32.119000+00:00"
     },
     "3073781028065": {
       "barcode": "3073781028065",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:13:20.122068+00:00"
+      "updated_at": "2026-11-20T17:25:32.131956+00:00"
     },
     "3073781099058": {
       "barcode": "3073781099058",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.136794+00:00"
+      "updated_at": "2026-11-20T17:25:32.138350+00:00"
     },
     "3073781059229": {
       "barcode": "3073781059229",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.137819+00:00"
+      "updated_at": "2026-11-20T17:25:32.138841+00:00"
     },
     "3073781097481": {
       "barcode": "3073781097481",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.138604+00:00"
+      "updated_at": "2026-11-20T17:25:32.139227+00:00"
     },
     "3073190101014": {
       "barcode": "3073190101014",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.211843+00:00"
+      "updated_at": "2026-11-20T17:25:32.195471+00:00"
     },
     "3073781162943": {
       "barcode": "3073781162943",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.364678+00:00"
+      "updated_at": "2026-11-20T17:25:32.318303+00:00"
     },
     "3073781091557": {
       "barcode": "3073781091557",
@@ -146,7 +146,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.366186+00:00"
+      "updated_at": "2026-11-20T17:25:32.318890+00:00"
+    },
+    "3073781093377": {
+      "barcode": "3073781093377",
+      "product_name": "Trio de saveurs",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_lait_ pasteurisé, sel, ferments _lactiques_, enzyme coagulante microbienne. \n\n_lait_ écrémé et pasteurisé, _crème_ 5%, sel, ferments _lactiques_, enzyme coagulante microbienne.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.420299+00:00"
     }
   }
 }

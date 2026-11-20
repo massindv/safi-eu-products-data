@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "402",
   "count": 2,
-  "updated_at": "2026-11-20T17:13:20.660833+00:00",
+  "updated_at": "2026-11-20T17:25:32.522491+00:00",
   "products": {
     "4023300738202": {
       "barcode": "4023300738202",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_735a4d3355696f34544c3263337a7374622d54377a41?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_735a4d3355696f34544c3263337a7374622d54377a41?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.070294+00:00"
+      "updated_at": "2026-11-20T17:25:32.074496+00:00"
     },
     "4023800062173": {
       "barcode": "4023800062173",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:13:20.387341+00:00"
+      "updated_at": "2026-11-20T17:25:32.334648+00:00"
     }
   }
 }

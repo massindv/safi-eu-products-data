@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "325",
   "count": 12,
-  "updated_at": "2026-11-20T17:13:20.610831+00:00",
+  "updated_at": "2026-11-20T17:25:32.486531+00:00",
   "products": {
     "3256540000704": {
       "barcode": "3256540000704",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.161220+00:00"
+      "updated_at": "2026-11-20T17:25:32.151995+00:00"
     },
     "3250391816453": {
       "barcode": "3250391816453",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.164328+00:00"
+      "updated_at": "2026-11-20T17:25:32.154894+00:00"
     },
     "3251490320001": {
       "barcode": "3251490320001",
@@ -60,7 +60,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.172784+00:00"
+      "updated_at": "2026-11-20T17:25:32.162630+00:00"
     },
     "3251510550005": {
       "barcode": "3251510550005",
@@ -78,7 +78,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.287065+00:00"
+      "updated_at": "2026-11-20T17:25:32.255289+00:00"
     },
     "3251092103736": {
       "barcode": "3251092103736",
@@ -96,7 +96,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.335913+00:00"
+      "updated_at": "2026-11-20T17:25:32.294363+00:00"
     },
     "3251092200664": {
       "barcode": "3251092200664",
@@ -114,7 +114,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.336841+00:00"
+      "updated_at": "2026-11-20T17:25:32.294615+00:00"
     },
     "3251092106249": {
       "barcode": "3251092106249",
@@ -134,7 +134,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.336872+00:00"
+      "updated_at": "2026-11-20T17:25:32.294639+00:00"
     },
     "3254550030193": {
       "barcode": "3254550030193",
@@ -154,7 +154,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.357202+00:00"
+      "updated_at": "2026-11-20T17:25:32.312498+00:00"
     },
     "3256540003491": {
       "barcode": "3256540003491",
@@ -174,7 +174,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.383670+00:00"
+      "updated_at": "2026-11-20T17:25:32.331734+00:00"
     },
     "3250392450229": {
       "barcode": "3250392450229",
@@ -192,7 +192,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.404211+00:00"
+      "updated_at": "2026-11-20T17:25:32.348784+00:00"
     },
     "3256813111243": {
       "barcode": "3256813111243",
@@ -212,7 +212,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.484175+00:00"
+      "updated_at": "2026-11-20T17:25:32.403709+00:00"
     },
     "3257650081126": {
       "barcode": "3257650081126",
@@ -230,7 +230,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.484216+00:00"
+      "updated_at": "2026-11-20T17:25:32.403735+00:00"
     }
   }
 }

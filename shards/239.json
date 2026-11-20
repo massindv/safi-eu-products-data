@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "239",
-  "count": 25,
-  "updated_at": "2026-11-20T17:13:20.555302+00:00",
+  "count": 30,
+  "updated_at": "2026-11-20T17:25:32.464093+00:00",
   "products": {
     "2395398804834": {
       "barcode": "2395398804834",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.078748+00:00"
+      "updated_at": "2026-11-20T17:25:32.097487+00:00"
     },
     "2391353203322": {
       "barcode": "2391353203322",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.078921+00:00"
+      "updated_at": "2026-11-20T17:25:32.097668+00:00"
     },
     "2392014908600": {
       "barcode": "2392014908600",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.079303+00:00"
+      "updated_at": "2026-11-20T17:25:32.098108+00:00"
     },
     "2392011304825": {
       "barcode": "2392011304825",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.079319+00:00"
+      "updated_at": "2026-11-20T17:25:32.098125+00:00"
     },
     "2392011404518": {
       "barcode": "2392011404518",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.079332+00:00"
+      "updated_at": "2026-11-20T17:25:32.098139+00:00"
     },
     "2392011604680": {
       "barcode": "2392011604680",
@@ -112,7 +112,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.079372+00:00"
+      "updated_at": "2026-11-20T17:25:32.098184+00:00"
     },
     "2398970802846": {
       "barcode": "2398970802846",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.079440+00:00"
+      "updated_at": "2026-11-20T17:25:32.098261+00:00"
     },
     "2391893401202": {
       "barcode": "2391893401202",
@@ -148,7 +148,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.129635+00:00"
+      "updated_at": "2026-11-20T17:25:32.135438+00:00"
     },
     "2395419202441": {
       "barcode": "2395419202441",
@@ -166,7 +166,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.129654+00:00"
+      "updated_at": "2026-11-20T17:25:32.135450+00:00"
     },
     "2399029407012": {
       "barcode": "2399029407012",
@@ -186,7 +186,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.131040+00:00"
+      "updated_at": "2026-11-20T17:25:32.136093+00:00"
     },
     "2395398004913": {
       "barcode": "2395398004913",
@@ -204,7 +204,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.342929+00:00"
+      "updated_at": "2026-11-20T17:25:32.300714+00:00"
     },
     "2391353303503": {
       "barcode": "2391353303503",
@@ -222,7 +222,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.343010+00:00"
+      "updated_at": "2026-11-20T17:25:32.300785+00:00"
     },
     "2391353603207": {
       "barcode": "2391353603207",
@@ -240,7 +240,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.343622+00:00"
+      "updated_at": "2026-11-20T17:25:32.301322+00:00"
     },
     "2391916204155": {
       "barcode": "2391916204155",
@@ -258,7 +258,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.362903+00:00"
+      "updated_at": "2026-11-20T17:25:32.317127+00:00"
     },
     "2391952007291": {
       "barcode": "2391952007291",
@@ -276,7 +276,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.363004+00:00"
+      "updated_at": "2026-11-20T17:25:32.317214+00:00"
     },
     "2391887901213": {
       "barcode": "2391887901213",
@@ -294,7 +294,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.363024+00:00"
+      "updated_at": "2026-11-20T17:25:32.317231+00:00"
     },
     "2391953108843": {
       "barcode": "2391953108843",
@@ -312,7 +312,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.363084+00:00"
+      "updated_at": "2026-11-20T17:25:32.317277+00:00"
     },
     "2398956705673": {
       "barcode": "2398956705673",
@@ -332,7 +332,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.363233+00:00"
+      "updated_at": "2026-11-20T17:25:32.317401+00:00"
     },
     "2399000105838": {
       "barcode": "2399000105838",
@@ -350,7 +350,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.363440+00:00"
+      "updated_at": "2026-11-20T17:25:32.317562+00:00"
     },
     "2391949906798": {
       "barcode": "2391949906798",
@@ -368,7 +368,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.363476+00:00"
+      "updated_at": "2026-11-20T17:25:32.317591+00:00"
     },
     "2391950506963": {
       "barcode": "2391950506963",
@@ -386,7 +386,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.363492+00:00"
+      "updated_at": "2026-11-20T17:25:32.317604+00:00"
     },
     "2391949308431": {
       "barcode": "2391949308431",
@@ -404,7 +404,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.363588+00:00"
+      "updated_at": "2026-11-20T17:25:32.317672+00:00"
     },
     "2391949907009": {
       "barcode": "2391949907009",
@@ -422,7 +422,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.363642+00:00"
+      "updated_at": "2026-11-20T17:25:32.317707+00:00"
     },
     "2391950806940": {
       "barcode": "2391950806940",
@@ -440,7 +440,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.363658+00:00"
+      "updated_at": "2026-11-20T17:25:32.317721+00:00"
     },
     "2391953707923": {
       "barcode": "2391953707923",
@@ -458,7 +458,101 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.363699+00:00"
+      "updated_at": "2026-11-20T17:25:32.317758+00:00"
+    },
+    "2399112704936": {
+      "barcode": "2399112704936",
+      "product_name": "Guanciale",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.409647+00:00"
+    },
+    "2399075406298": {
+      "barcode": "2399075406298",
+      "product_name": "Mager hamlap",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.410208+00:00"
+    },
+    "2399112404515": {
+      "barcode": "2399112404515",
+      "product_name": "Guanciale",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.410241+00:00"
+    },
+    "2391936903137": {
+      "barcode": "2391936903137",
+      "product_name": "Varkensrollade Shoarma",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "92% varkensvlees, zout, voedingszuur (E326, E331, E262), varkenseiwit, specerijen, suiker, dextrose, gistextract, aardappel zetmeel, maltodextrine, stabilisator (E450), antioxidant (E301), natuurlijk aroma, tijm, gehydrolyseerd koolzaadeiwit, glucosestroop, zonnebloemolie, paprikaconcentraat, conserveermiddel (E250), zuurteregelaar (E500).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.410430+00:00"
+    },
+    "2395311302577": {
+      "barcode": "2395311302577",
+      "product_name": "Roasted Indisch Spek",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "93% varkensvlees, zout, voedingszuur (E326, E331, E262), specerijen (o.a SELDERIJ), melasse, suiker, dextrose, natuurlik aroma, maltodextrine, SOJAbloem, aroma (SCA), antioxidant (E301), stabilisator (E450), azijn, gefermenteerde SOJAboon. glucosestroop, conserveermiddel (E250), zuurteregelaar (E500)",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.410760+00:00"
     }
   }
 }

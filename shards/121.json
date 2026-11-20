@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "121",
+  "count": 1,
+  "updated_at": "2026-11-20T17:25:32.442983+00:00",
+  "products": {
+    "12119523": {
+      "barcode": "12119523",
+      "product_name": "Huile d’olive vierge extra",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "HUILE D'OLIVE VIERGE EXTRA-100 % huile d'olive vierge extra d'origine biologique. Huile d'olive de catégorie supérieure obtenue directement des olives et uniquement par des procédés mécaniques. Origine: assemblage d'huiles d'olive originaires de l'Union européenne et non originaires de l'Union.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T17:25:32.414171+00:00"
+    }
+  }
+}

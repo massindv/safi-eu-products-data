@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "731",
   "count": 4,
-  "updated_at": "2026-11-20T17:13:20.728207+00:00",
+  "updated_at": "2026-11-20T17:25:32.597892+00:00",
   "products": {
     "7311312010957": {
       "barcode": "7311312010957",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_6e666f3368387744534157424266635136336f704b41?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_6e666f3368387744534157424266635136336f704b41?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Tapioca, zonnebloemolie, GARNALEN (16%), suiker, zout, maïszetmeel, gistextract. Allergie-informatie Bevat: Schaaldieren",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.027157+00:00"
+      "updated_at": "2026-11-20T17:25:32.034598+00:00"
     },
     "7311070032604": {
       "barcode": "7311070032604",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.088711+00:00"
+      "updated_at": "2026-11-20T17:25:32.104792+00:00"
     },
     "7312930002201": {
       "barcode": "7312930002201",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.464534+00:00"
+      "updated_at": "2026-11-20T17:25:32.387908+00:00"
     },
     "7310102630665": {
       "barcode": "7310102630665",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.479955+00:00"
+      "updated_at": "2026-11-20T17:25:32.401324+00:00"
     }
   }
 }

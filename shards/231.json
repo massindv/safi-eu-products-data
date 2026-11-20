@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "231",
-  "count": 5,
-  "updated_at": "2026-11-20T17:13:20.542137+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T17:25:32.458083+00:00",
   "products": {
     "2312129804765": {
       "barcode": "2312129804765",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.128213+00:00"
+      "updated_at": "2026-11-20T17:25:32.134360+00:00"
     },
     "2310161801315": {
       "barcode": "2310161801315",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.128505+00:00"
+      "updated_at": "2026-11-20T17:25:32.134594+00:00"
     },
     "2310161301747": {
       "barcode": "2310161301747",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.128895+00:00"
+      "updated_at": "2026-11-20T17:25:32.134885+00:00"
     },
     "2311106103860": {
       "barcode": "2311106103860",
@@ -78,7 +78,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.343519+00:00"
+      "updated_at": "2026-11-20T17:25:32.301227+00:00"
     },
     "2312467205736": {
       "barcode": "2312467205736",
@@ -96,7 +96,27 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.362875+00:00"
+      "updated_at": "2026-11-20T17:25:32.317102+00:00"
+    },
+    "2313104406905": {
+      "barcode": "2313104406905",
+      "product_name": "Varkens filet rollade",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "81% varkensvlees, 8,6% water, 3,3% roomkaas, halfgedroogde tomaat, 1,2% champignon, zout, crème fraîche, gedroogde groente (ui, paprika, tomaat, wortel), specerijen, aardappelzetmeel, glucosestroop, zuurteregelaar (E331). natuurlijke aroma's, poeder (tomaat, wortel), gemodificeerd maïszetmeel, kruiden, antioxidant (E300, E330, E301), verdikkingsmiddel (E461, E415), suiker, melkeiwit, rundvlees - extract, aroma's, zeezout, plantaardige olie (zonnebloem, raap), gistextract, gehydrolyseerd raapeiwit, lactose, maltodextrine, Chinese truffel, dextrose, concentraat (champignonsap, tomaat, uiensap, wortelsap), extra vierge olijfolie, rookaroma, conserveermiddel (E250, E252), witte truffel. glutenvrij",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.410179+00:00"
     }
   }
 }

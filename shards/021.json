@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "021",
+  "count": 1,
+  "updated_at": "2026-11-20T17:25:32.428931+00:00",
+  "products": {
+    "02182278": {
+      "barcode": "02182278",
+      "product_name": "mini saucissons secs",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc, sel, lactose, dextrose, sucre, poivre, ail déshydraté, muscade, conservateur : nitrite de sodium, ferments. Enveloppe comestible : collagène, eau, cellulose, 183g de viande de porc mis en euvre pour 100 g de produit fini. Peut contenir des traces de fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.405778+00:00"
+    }
+  }
+}

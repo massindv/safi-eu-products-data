@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "544",
   "count": 10,
-  "updated_at": "2026-11-20T17:13:20.717499+00:00",
+  "updated_at": "2026-11-20T17:25:32.587462+00:00",
   "products": {
     "5449000133335": {
       "barcode": "5449000133335",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_6d6f456861453338527a576b4657395a624b4e454477?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_6d6f456861453338527a576b4657395a624b4e454477?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Sprankelend water, kleurstof: E150d, voedingszuur: E338, zoetstoffen: aspartaam, acesulfaam-K, natuurlijke aroma's, waaronder cafeïne, zuurteregelaar: E331",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.024285+00:00"
+      "updated_at": "2026-11-20T17:25:32.031827+00:00"
     },
     "5449000131843": {
       "barcode": "5449000131843",
@@ -37,7 +37,7 @@
       "store": "carrefour.be",
       "category": "beverages",
       "country": "EU",
-      "image_url": "https://static.ah.nl/dam/product/AHI_2d776c754578777a5462794e78584f62527159346467?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_2d776c754578777a5462794e78584f62527159346467?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Wasser, Kohlensäure, Farbstoff E 150d, Süssungsmittel Cyclamat, Acesulfam-K und Aspartam, Säuerungsmittel E 338 und Natriumcitrate, natürliche Aromen inkl. Koffein.",
       "nutrition": {
         "calories_100g": null,
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.328908+00:00"
+      "updated_at": "2026-11-20T17:25:32.289171+00:00"
     },
     "5449000267436": {
       "barcode": "5449000267436",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.320881+00:00"
+      "updated_at": "2026-11-20T17:25:32.282401+00:00"
     },
     "5449000243416": {
       "barcode": "5449000243416",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:13:20.322201+00:00"
+      "updated_at": "2026-11-20T17:25:32.283626+00:00"
     },
     "5449000000484": {
       "barcode": "5449000000484",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.327461+00:00"
+      "updated_at": "2026-11-20T17:25:32.287921+00:00"
     },
     "5449000000996": {
       "barcode": "5449000000996",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.328816+00:00"
+      "updated_at": "2026-11-20T17:25:32.289092+00:00"
     },
     "5449000006271": {
       "barcode": "5449000006271",
@@ -146,7 +146,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.329059+00:00"
+      "updated_at": "2026-11-20T17:25:32.289301+00:00"
     },
     "5449000033819": {
       "barcode": "5449000033819",
@@ -164,7 +164,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.329414+00:00"
+      "updated_at": "2026-11-20T17:25:32.289604+00:00"
     },
     "5449000120977": {
       "barcode": "5449000120977",
@@ -182,7 +182,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.482244+00:00"
+      "updated_at": "2026-11-20T17:25:32.402605+00:00"
     },
     "5449000266972": {
       "barcode": "5449000266972",
@@ -200,7 +200,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.483423+00:00"
+      "updated_at": "2026-11-20T17:25:32.403342+00:00"
     }
   }
 }

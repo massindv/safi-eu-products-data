@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "872",
-  "count": 19,
-  "updated_at": "2026-11-20T17:13:20.797747+00:00",
+  "count": 20,
+  "updated_at": "2026-11-20T17:25:32.651733+00:00",
   "products": {
     "8727500033094": {
       "barcode": "8727500033094",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_337a62726e666e305432576f53354b72793063796641?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_337a62726e666e305432576f53354b72793063796641?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: cacaopoeder*, zuurteregelaar (E501). *Rainforest Alliance certified",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.021313+00:00"
+      "updated_at": "2026-11-20T17:25:32.028042+00:00"
     },
     "8721800408880": {
       "barcode": "8721800408880",
@@ -37,7 +37,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303539303232?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303539303232?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: MELK, zout, zuursel (MELK), vegetarisch stremsel Allergie-informatie Bevat: Melk",
       "nutrition": {
         "calories_100g": null,
@@ -58,7 +58,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.040616+00:00"
+      "updated_at": "2026-11-20T17:25:32.047510+00:00"
     },
     "8721800408866": {
       "barcode": "8721800408866",
@@ -66,7 +66,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_646d4f6e4f4254645353654e706939446e5346716b41?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_646d4f6e4f4254645353654e706939446e5346716b41?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: MELK, zout, zuursel (MELK), vegetarisch stremsel Allergie-informatie Bevat: Melk",
       "nutrition": {
         "calories_100g": null,
@@ -87,7 +87,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.040712+00:00"
+      "updated_at": "2026-11-20T17:25:32.047617+00:00"
     },
     "8722700255642": {
       "barcode": "8722700255642",
@@ -95,7 +95,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_437568627551485854326941476d4447697863386267?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_437568627551485854326941476d4447697863386267?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Varkensvlees 46%, varkensseparatorvlees 34%, water, aardappelzetmeel, zout, dextrose, rookaroma, rundercollageen, stabilisator (E451, E452), antioxidant (E301, rozemarijnextract), specerij-extracten (foelie, chilipeper, koriander, knoflook, gember, peper, paprika), conserveermiddel E250, Opgiet: water, zout.",
       "nutrition": {
         "calories_100g": null,
@@ -116,7 +116,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.052258+00:00"
+      "updated_at": "2026-11-20T17:25:32.057697+00:00"
     },
     "8720182103406": {
       "barcode": "8720182103406",
@@ -124,7 +124,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303935323436?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303935323436?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Zout, smaakversterker (E621, E627, E631), aroma (bevat SELDERIJ), mineraalzout (kalium), kruiden¹ 1,5% (peterselie, lavas), rode paprika¹ 0,8%, groene paprika, palmvet, uienpoeder¹, suiker, gebakken uiensapconcentraat¹ (uiensapconcentraat, zonnebloemolie), specerijen¹ (knoflookpoeder, peterseliewortelpoeder), gistextract, karamelsiroop, maltodextrine.  ¹op duurzame wijze geteeld. Allergie-informatie Bevat: Selderij",
       "nutrition": {
         "calories_100g": 4.0,
@@ -143,7 +143,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.062209+00:00"
+      "updated_at": "2026-11-20T17:25:32.068415+00:00"
     },
     "8720182368782": {
       "barcode": "8720182368782",
@@ -163,7 +163,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.077580+00:00"
+      "updated_at": "2026-11-20T17:25:32.096139+00:00"
     },
     "8725800000464": {
       "barcode": "8725800000464",
@@ -179,11 +179,13 @@
       "halal_status": "HARAM",
       "is_halal": false,
       "triggers": [
-        "pork"
+        "pork",
+        "carmine",
+        "insect_derived"
       ],
-      "reason": "Contains pork derivatives / pork fat",
+      "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 / karmijnzuur insect colorant",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.077958+00:00"
+      "updated_at": "2026-11-20T17:25:32.096607+00:00"
     },
     "8720865628554": {
       "barcode": "8720865628554",
@@ -203,7 +205,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.114978+00:00"
+      "updated_at": "2026-11-20T17:25:32.125997+00:00"
     },
     "8720865628684": {
       "barcode": "8720865628684",
@@ -224,7 +226,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter; Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.115393+00:00"
+      "updated_at": "2026-11-20T17:25:32.126215+00:00"
     },
     "8720828249338": {
       "barcode": "8720828249338",
@@ -242,7 +244,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.191360+00:00"
+      "updated_at": "2026-11-20T17:25:32.178171+00:00"
     },
     "8720182460721": {
       "barcode": "8720182460721",
@@ -260,7 +262,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.215825+00:00"
+      "updated_at": "2026-11-20T17:25:32.198721+00:00"
     },
     "8720608002849": {
       "barcode": "8720608002849",
@@ -278,7 +280,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.315857+00:00"
+      "updated_at": "2026-11-20T17:25:32.278431+00:00"
     },
     "8722700129523": {
       "barcode": "8722700129523",
@@ -296,7 +298,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.316301+00:00"
+      "updated_at": "2026-11-20T17:25:32.278767+00:00"
     },
     "8720157400172": {
       "barcode": "8720157400172",
@@ -314,7 +316,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.324243+00:00"
+      "updated_at": "2026-11-20T17:25:32.285158+00:00"
     },
     "8720157467595": {
       "barcode": "8720157467595",
@@ -332,7 +334,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.324681+00:00"
+      "updated_at": "2026-11-20T17:25:32.285523+00:00"
     },
     "8728500999922": {
       "barcode": "8728500999922",
@@ -350,7 +352,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.326762+00:00"
+      "updated_at": "2026-11-20T17:25:32.287335+00:00"
     },
     "8720604473018": {
       "barcode": "8720604473018",
@@ -368,7 +370,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.380224+00:00"
+      "updated_at": "2026-11-20T17:25:32.329419+00:00"
     },
     "8722700692140": {
       "barcode": "8722700692140",
@@ -386,7 +388,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.422470+00:00"
+      "updated_at": "2026-11-20T17:25:32.360860+00:00"
     },
     "8728907522389": {
       "barcode": "8728907522389",
@@ -404,7 +406,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.452128+00:00"
+      "updated_at": "2026-11-20T17:25:32.380089+00:00"
+    },
+    "8720182202062": {
+      "barcode": "8720182202062",
+      "product_name": "Kipstuckjes",
+      "store": "ah.nl",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "sojastructuur 89% (water, _soja-eiwit_), natuurlijk aroma, zonnebloemolie, zout, vitamine B12.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.417758+00:00"
     }
   }
 }

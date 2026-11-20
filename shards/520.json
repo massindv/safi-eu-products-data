@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "520",
   "count": 3,
-  "updated_at": "2026-11-20T17:13:20.673728+00:00",
+  "updated_at": "2026-11-20T17:25:32.533804+00:00",
   "products": {
     "5201168915013": {
       "barcode": "5201168915013",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_344f646b44555943516d57436a446748627952523141?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_344f646b44555943516d57436a446748627952523141?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Gepasteuriseerde koe-, schapen- en geitenMELK, zout, gehakte munt, niet-dierlijk stremsel. Allergenen: Zie vetgedrukte ingrediënten. Allergie-informatie Bevat: Geitenmelk, Melk",
       "nutrition": {
         "calories_100g": null,
@@ -31,7 +31,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.040525+00:00"
+      "updated_at": "2026-11-20T17:25:32.047404+00:00"
     },
     "5201054015681": {
       "barcode": "5201054015681",
@@ -49,7 +49,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.158133+00:00"
+      "updated_at": "2026-11-20T17:25:32.149121+00:00"
     },
     "5201077204475": {
       "barcode": "5201077204475",
@@ -67,7 +67,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.214195+00:00"
+      "updated_at": "2026-11-20T17:25:32.197739+00:00"
     }
   }
 }

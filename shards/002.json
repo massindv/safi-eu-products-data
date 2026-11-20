@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "002",
   "count": 2,
-  "updated_at": "2026-11-20T17:13:20.490911+00:00",
+  "updated_at": "2026-11-20T17:25:32.424396+00:00",
   "products": {
     "0024000010920": {
       "barcode": "0024000010920",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_7964474c5a6873515343714b45534836316f5f7a7167?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_7964474c5a6873515343714b45534836316f5f7a7167?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Vruchten in wisselende verhoudingen (perziken, peren, ananas, druiven, kersen met kleurstof E 127), water, glucose-fructosestroop, suiker, zuurteregelaar: citroenzuur.",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.062019+00:00"
+      "updated_at": "2026-11-20T17:25:32.068218+00:00"
     },
     "0023066444809": {
       "barcode": "0023066444809",
@@ -49,7 +49,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.081436+00:00"
+      "updated_at": "2026-11-20T17:25:32.100015+00:00"
     }
   }
 }

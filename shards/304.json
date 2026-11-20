@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "304",
   "count": 8,
-  "updated_at": "2026-11-20T17:13:20.576785+00:00",
+  "updated_at": "2026-11-20T17:25:32.472204+00:00",
   "products": {
     "3045320082586": {
       "barcode": "3045320082586",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4d48386673757353524b2d58674c4e4e664d33634367?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4d48386673757353524b2d58674c4e4e664d33634367?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: aardbeien, suiker, bruine rietsuiker, geconcentreerd citroensap, geleermiddel: pectinen.",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.043572+00:00"
+      "updated_at": "2026-11-20T17:25:32.050544+00:00"
     },
     "3041090063114": {
       "barcode": "3041090063114",
@@ -37,7 +37,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_776473522d5631335432716667344944684d75477851?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_776473522d5631335432716667344944684d75477851?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Meel ( TARWE 98 %, ROGGE 0,5 %), magere MELKPOEDER , suiker, palmolie, zout. Allergie-informatie Bevat: Tarwe, Melk, Glutenbevattende Granen",
       "nutrition": {
         "calories_100g": null,
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.045880+00:00"
+      "updated_at": "2026-11-20T17:25:32.052941+00:00"
     },
     "3045320517101": {
       "barcode": "3045320517101",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.092156+00:00"
+      "updated_at": "2026-11-20T17:25:32.107762+00:00"
     },
     "3041090063206": {
       "barcode": "3041090063206",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.105735+00:00"
+      "updated_at": "2026-11-20T17:25:32.118636+00:00"
     },
     "3045140105502": {
       "barcode": "3045140105502",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.173102+00:00"
+      "updated_at": "2026-11-20T17:25:32.162991+00:00"
     },
     "3041090061615": {
       "barcode": "3041090061615",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.174773+00:00"
+      "updated_at": "2026-11-20T17:25:32.164722+00:00"
     },
     "3045320083453": {
       "barcode": "3045320083453",
@@ -146,7 +146,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.346717+00:00"
+      "updated_at": "2026-11-20T17:25:32.304216+00:00"
     },
     "3045320528572": {
       "barcode": "3045320528572",
@@ -164,7 +164,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.439220+00:00"
+      "updated_at": "2026-11-20T17:25:32.370982+00:00"
     }
   }
 }

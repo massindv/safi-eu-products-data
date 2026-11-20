@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "638",
+  "count": 1,
+  "updated_at": "2026-11-20T17:25:32.592095+00:00",
+  "products": {
+    "63895292": {
+      "barcode": "63895292",
+      "product_name": "Scharrel Kipfilet Schnitzel",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "58% kipfilet, 18% mais, 9.8% water, zonne bloemolic, tarwebloem, zout, zelmeel (mais, aardappel, tarwe) suiker, specerijen, natuurlijk aroma, kippenciwit, gerstemout extract, specerijenextract, poeder (pastinaak, peterseliewortel)",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T17:25:32.410860+00:00"
+    }
+  }
+}

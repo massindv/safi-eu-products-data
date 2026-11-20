@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "576",
   "count": 2,
-  "updated_at": "2026-11-20T17:13:20.721807+00:00",
+  "updated_at": "2026-11-20T17:25:32.589100+00:00",
   "products": {
     "5760466739924": {
       "barcode": "5760466739924",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_3952735851586e315374615a474a7a7474417a4b3741?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_3952735851586e315374615a474a7a7474417a4b3741?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Magere MELK, 47% room (MELK), zout, boter (MELK), 0,2% peterselie, 0,2% natuurlijk knoflookaroma, 0,1% mierikswortelbereiding (mierikswortel, water, raapzaadolie, zout, zuurteregelaar: citroenzuur, antioxidant: natriumdisulfiet), 0,1% knoflookgranulaat, azijn, basilicum, witte peper, zuursel Allergie-informatie Bevat: Melk",
       "nutrition": {
         "calories_100g": 267.0,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.043742+00:00"
+      "updated_at": "2026-11-20T17:25:32.050721+00:00"
     },
     "5760466732918": {
       "barcode": "5760466732918",
@@ -49,7 +49,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:13:20.129387+00:00"
+      "updated_at": "2026-11-20T17:25:32.135275+00:00"
     }
   }
 }

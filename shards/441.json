@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "441",
+  "count": 1,
+  "updated_at": "2026-11-20T17:25:32.524889+00:00",
+  "products": {
+    "4412407108009": {
+      "barcode": "4412407108009",
+      "product_name": "Boni bio walnoot",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "100% walnootpitten van biologische oorsprong. Van nature rijk aan vezels. KAN SPOREN VAN PINDA, SOJA, ALLE ANDERE NOTEN EN SESAM BEVATTEN.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T17:25:32.414003+00:00"
+    }
+  }
+}

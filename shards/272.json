@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "272",
   "count": 14,
-  "updated_at": "2026-11-20T17:13:20.561107+00:00",
+  "updated_at": "2026-11-20T17:25:32.467451+00:00",
   "products": {
     "2723326008038": {
       "barcode": "2723326008038",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.086543+00:00"
+      "updated_at": "2026-11-20T17:25:32.102684+00:00"
     },
     "2726386012687": {
       "barcode": "2726386012687",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.086855+00:00"
+      "updated_at": "2026-11-20T17:25:32.102981+00:00"
     },
     "2725101003320": {
       "barcode": "2725101003320",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.087005+00:00"
+      "updated_at": "2026-11-20T17:25:32.103132+00:00"
     },
     "2725026002330": {
       "barcode": "2725026002330",
@@ -82,7 +82,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.345579+00:00"
+      "updated_at": "2026-11-20T17:25:32.303183+00:00"
     },
     "2721299003456": {
       "barcode": "2721299003456",
@@ -100,7 +100,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.345771+00:00"
+      "updated_at": "2026-11-20T17:25:32.303355+00:00"
     },
     "2721299003463": {
       "barcode": "2721299003463",
@@ -118,7 +118,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.345811+00:00"
+      "updated_at": "2026-11-20T17:25:32.303392+00:00"
     },
     "2726353002246": {
       "barcode": "2726353002246",
@@ -138,7 +138,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.345917+00:00"
+      "updated_at": "2026-11-20T17:25:32.303491+00:00"
     },
     "2721299003357": {
       "barcode": "2721299003357",
@@ -156,7 +156,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.345962+00:00"
+      "updated_at": "2026-11-20T17:25:32.303534+00:00"
     },
     "2726352004876": {
       "barcode": "2726352004876",
@@ -176,7 +176,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.345988+00:00"
+      "updated_at": "2026-11-20T17:25:32.303557+00:00"
     },
     "2720809003559": {
       "barcode": "2720809003559",
@@ -196,7 +196,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.346084+00:00"
+      "updated_at": "2026-11-20T17:25:32.303647+00:00"
     },
     "2721299003548": {
       "barcode": "2721299003548",
@@ -214,7 +214,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.346153+00:00"
+      "updated_at": "2026-11-20T17:25:32.303709+00:00"
     },
     "2725195012345": {
       "barcode": "2725195012345",
@@ -232,7 +232,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.346171+00:00"
+      "updated_at": "2026-11-20T17:25:32.303726+00:00"
     },
     "2723125002848": {
       "barcode": "2723125002848",
@@ -252,7 +252,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.346201+00:00"
+      "updated_at": "2026-11-20T17:25:32.303755+00:00"
     },
     "2720729002885": {
       "barcode": "2720729002885",
@@ -270,7 +270,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.346237+00:00"
+      "updated_at": "2026-11-20T17:25:32.303787+00:00"
     }
   }
 }

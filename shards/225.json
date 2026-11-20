@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "225",
-  "count": 20,
-  "updated_at": "2026-11-20T17:13:20.532227+00:00",
+  "count": 26,
+  "updated_at": "2026-11-20T17:25:32.453599+00:00",
   "products": {
     "2252642002579": {
       "barcode": "2252642002579",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.083768+00:00"
+      "updated_at": "2026-11-20T17:25:32.100792+00:00"
     },
     "2251023001453": {
       "barcode": "2251023001453",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.167883+00:00"
+      "updated_at": "2026-11-20T17:25:32.157706+00:00"
     },
     "2250692002198": {
       "barcode": "2250692002198",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.168014+00:00"
+      "updated_at": "2026-11-20T17:25:32.157800+00:00"
     },
     "2250893002751": {
       "barcode": "2250893002751",
@@ -76,7 +76,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.168275+00:00"
+      "updated_at": "2026-11-20T17:25:32.157882+00:00"
     },
     "2255169001155": {
       "barcode": "2255169001155",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.168543+00:00"
+      "updated_at": "2026-11-20T17:25:32.158018+00:00"
     },
     "2259262003757": {
       "barcode": "2259262003757",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.168779+00:00"
+      "updated_at": "2026-11-20T17:25:32.158149+00:00"
     },
     "2254662001990": {
       "barcode": "2254662001990",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.168965+00:00"
+      "updated_at": "2026-11-20T17:25:32.158264+00:00"
     },
     "2254674001094": {
       "barcode": "2254674001094",
@@ -148,7 +148,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.169052+00:00"
+      "updated_at": "2026-11-20T17:25:32.158304+00:00"
     },
     "2251222001308": {
       "barcode": "2251222001308",
@@ -166,7 +166,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.169354+00:00"
+      "updated_at": "2026-11-20T17:25:32.158468+00:00"
     },
     "2251703001452": {
       "barcode": "2251703001452",
@@ -184,7 +184,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.169382+00:00"
+      "updated_at": "2026-11-20T17:25:32.158492+00:00"
     },
     "2251497001850": {
       "barcode": "2251497001850",
@@ -202,7 +202,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:13:20.170772+00:00"
+      "updated_at": "2026-11-20T17:25:32.160430+00:00"
     },
     "2258240001358": {
       "barcode": "2258240001358",
@@ -220,7 +220,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.250196+00:00"
+      "updated_at": "2026-11-20T17:25:32.224497+00:00"
     },
     "2256862001749": {
       "barcode": "2256862001749",
@@ -238,7 +238,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.252217+00:00"
+      "updated_at": "2026-11-20T17:25:32.225957+00:00"
     },
     "2254221001447": {
       "barcode": "2254221001447",
@@ -256,7 +256,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.252676+00:00"
+      "updated_at": "2026-11-20T17:25:32.226405+00:00"
     },
     "2250810007838": {
       "barcode": "2250810007838",
@@ -276,7 +276,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.343851+00:00"
+      "updated_at": "2026-11-20T17:25:32.301534+00:00"
     },
     "2258840003400": {
       "barcode": "2258840003400",
@@ -294,7 +294,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.344639+00:00"
+      "updated_at": "2026-11-20T17:25:32.302299+00:00"
     },
     "2252645002392": {
       "barcode": "2252645002392",
@@ -314,7 +314,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.344987+00:00"
+      "updated_at": "2026-11-20T17:25:32.302629+00:00"
     },
     "2253780001103": {
       "barcode": "2253780001103",
@@ -334,7 +334,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.345184+00:00"
+      "updated_at": "2026-11-20T17:25:32.302814+00:00"
     },
     "2257550001409": {
       "barcode": "2257550001409",
@@ -354,7 +354,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.345201+00:00"
+      "updated_at": "2026-11-20T17:25:32.302828+00:00"
     },
     "2256560000839": {
       "barcode": "2256560000839",
@@ -371,11 +371,126 @@
       "is_halal": false,
       "triggers": [
         "pork",
+        "carmine",
         "insect_derived"
       ],
-      "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 insect colorant",
+      "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 / karmijnzuur insect colorant",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:13:20.390212+00:00"
+      "updated_at": "2026-11-20T17:25:32.336960+00:00"
+    },
+    "2254593024808": {
+      "barcode": "2254593024808",
+      "product_name": "Rôti de porc cuit",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.407364+00:00"
+    },
+    "2258760003115": {
+      "barcode": "2258760003115",
+      "product_name": "Jambon cuit au four",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:25:32.411037+00:00"
+    },
+    "2251691006613": {
+      "barcode": "2251691006613",
+      "product_name": "Spare ribs spicy",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc, huile végétale durcie (RSPO),épices, sel, arôme (dont _céleri_), oignons, dextrose, anti-agglomérant E551.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:25:32.411914+00:00"
+    },
+    "2252643003216": {
+      "barcode": "2252643003216",
+      "product_name": "filet de dinde",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:25:32.411939+00:00"
+    },
+    "2258760003047": {
+      "barcode": "2258760003047",
+      "product_name": "Jambon cuit au four / ovengebakken ham",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T17:25:32.412596+00:00"
+    },
+    "2257150046978": {
+      "barcode": "2257150046978",
+      "product_name": "Conté 20 mois carrefour",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.420993+00:00"
     }
   }
 }

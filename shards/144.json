@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "144",
-  "count": 1,
-  "updated_at": "2026-11-20T17:13:20.512877+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T17:25:32.445199+00:00",
   "products": {
     "14447860": {
       "barcode": "14447860",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.461035+00:00"
+      "updated_at": "2026-11-20T17:25:32.385079+00:00"
+    },
+    "1443536455965": {
+      "barcode": "1443536455965",
+      "product_name": "Jambon cuit fumé",
+      "store": "colruyt.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T17:25:32.409398+00:00"
     }
   }
 }

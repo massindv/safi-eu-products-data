@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "805",
+  "count": 1,
+  "updated_at": "2026-11-20T17:25:32.605424+00:00",
+  "products": {
+    "8059070742176": {
+      "barcode": "8059070742176",
+      "product_name": "Mozzarella Di Bufala Campana DOP",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait de bufflonne thermisé, sel, présure",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T17:25:32.421506+00:00"
+    }
+  }
+}

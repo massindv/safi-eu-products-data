@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "801",
   "count": 8,
-  "updated_at": "2026-11-20T17:13:20.739697+00:00",
+  "updated_at": "2026-11-20T17:25:32.604461+00:00",
   "products": {
     "8019873924100": {
       "barcode": "8019873924100",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_434d50303739373339?revLabel=5&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_434d50303739373339?revLabel=5&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Contains sulfites Allergie-informatie Bevat: Sulfieten",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.024336+00:00"
+      "updated_at": "2026-11-20T17:25:32.031876+00:00"
     },
     "8019440003993": {
       "barcode": "8019440003993",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.081462+00:00"
+      "updated_at": "2026-11-20T17:25:32.100032+00:00"
     },
     "8012666520435": {
       "barcode": "8012666520435",
@@ -67,7 +67,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.165237+00:00"
+      "updated_at": "2026-11-20T17:25:32.155630+00:00"
     },
     "8013355999143": {
       "barcode": "8013355999143",
@@ -85,7 +85,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.199363+00:00"
+      "updated_at": "2026-11-20T17:25:32.184842+00:00"
     },
     "8011119013685": {
       "barcode": "8011119013685",
@@ -103,7 +103,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.215223+00:00"
+      "updated_at": "2026-11-20T17:25:32.198289+00:00"
     },
     "8011119013708": {
       "barcode": "8011119013708",
@@ -121,7 +121,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:13:20.215273+00:00"
+      "updated_at": "2026-11-20T17:25:32.198307+00:00"
     },
     "8012666049295": {
       "barcode": "8012666049295",
@@ -139,7 +139,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:13:20.259730+00:00"
+      "updated_at": "2026-11-20T17:25:32.233220+00:00"
     },
     "8012666520602": {
       "barcode": "8012666520602",
@@ -157,7 +157,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.410587+00:00"
+      "updated_at": "2026-11-20T17:25:32.352986+00:00"
     }
   }
 }

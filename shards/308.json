@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "308",
   "count": 10,
-  "updated_at": "2026-11-20T17:13:20.582638+00:00",
+  "updated_at": "2026-11-20T17:25:32.474136+00:00",
   "products": {
     "3083681025484": {
       "barcode": "3083681025484",
@@ -10,7 +10,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_645f484c304a6c6a544553565036492d504666565367?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_645f484c304a6c6a544553565036492d504666565367?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Maïskorrels, water, zout.",
       "nutrition": {
         "calories_100g": null,
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.062277+00:00"
+      "updated_at": "2026-11-20T17:25:32.068484+00:00"
     },
     "3083681006964": {
       "barcode": "3083681006964",
@@ -37,7 +37,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_2d7236765f39314652535369666a4d42503877365667?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_2d7236765f39314652535369666a4d42503877365667?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Kikkererwten, water, zout. Kan SOJA en GRANEN (GLUTEN) bevatten. Allergie-informatie Kan bevatten: Glutenbevattende Granen, Soja",
       "nutrition": {
         "calories_100g": null,
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.062626+00:00"
+      "updated_at": "2026-11-20T17:25:32.068825+00:00"
     },
     "3083680600965": {
       "barcode": "3083680600965",
@@ -64,7 +64,7 @@
       "store": "ah.be",
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4b542d575532415153585355587a6d417a77676a4277?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4b542d575532415153585355587a6d417a77676a4277?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Linzen, water, zout, verstevigingsmiddel: E509. Kan SOJA en GRANEN (GLUTEN) bevatten. Allergie-informatie Kan bevatten: Soja, Glutenbevattende Granen",
       "nutrition": {
         "calories_100g": null,
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:13:20.062738+00:00"
+      "updated_at": "2026-11-20T17:25:32.068931+00:00"
     },
     "3083681093926": {
       "barcode": "3083681093926",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.089882+00:00"
+      "updated_at": "2026-11-20T17:25:32.105680+00:00"
     },
     "3080216043210": {
       "barcode": "3080216043210",
@@ -121,7 +121,7 @@
       ],
       "reason": "Alcoholic beverage / beer: Kronenbourg 50 cl Kronenbourg 4.2 DEGRE ALCOOL",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.330514+00:00"
+      "updated_at": "2026-11-20T17:25:32.290448+00:00"
     },
     "3083680025881": {
       "barcode": "3083680025881",
@@ -139,7 +139,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.346789+00:00"
+      "updated_at": "2026-11-20T17:25:32.304282+00:00"
     },
     "3083681149975": {
       "barcode": "3083681149975",
@@ -157,7 +157,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.347692+00:00"
+      "updated_at": "2026-11-20T17:25:32.304976+00:00"
     },
     "3083681070354": {
       "barcode": "3083681070354",
@@ -175,7 +175,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.464696+00:00"
+      "updated_at": "2026-11-20T17:25:32.388022+00:00"
     },
     "3080216052274": {
       "barcode": "3080216052274",
@@ -195,7 +195,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.483889+00:00"
+      "updated_at": "2026-11-20T17:25:32.403560+00:00"
     },
     "3080216047225": {
       "barcode": "3080216047225",
@@ -215,7 +215,7 @@
       ],
       "reason": "Alcoholic beverage / beer: 1664",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:13:20.484121+00:00"
+      "updated_at": "2026-11-20T17:25:32.403670+00:00"
     }
   }
 }
