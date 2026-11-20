@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "841",
   "count": 4,
-  "updated_at": "2026-11-20T21:24:54.170302+00:00",
+  "updated_at": "2026-11-20T21:39:51.503766+00:00",
   "products": {
     "8410065630586": {
       "barcode": "8410065630586",
@@ -34,7 +34,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.030069+00:00"
+      "updated_at": "2026-11-20T21:39:51.369068+00:00"
     },
     "8410066139231": {
       "barcode": "8410066139231",
@@ -64,7 +64,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.051970+00:00"
+      "updated_at": "2026-11-20T21:39:51.389368+00:00"
     },
     "8410702054065": {
       "barcode": "8410702054065",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.060122+00:00"
+      "updated_at": "2026-11-20T21:39:51.396934+00:00"
     },
     "8410010877592": {
       "barcode": "8410010877592",
@@ -124,7 +124,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.073145+00:00"
+      "updated_at": "2026-11-20T21:39:51.408611+00:00"
     }
   }
 }

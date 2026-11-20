@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "872",
   "count": 5,
-  "updated_at": "2026-11-20T21:24:54.185355+00:00",
+  "updated_at": "2026-11-20T21:39:51.517702+00:00",
   "products": {
     "8727500033094": {
       "barcode": "8727500033094",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.026775+00:00"
+      "updated_at": "2026-11-20T21:39:51.365903+00:00"
     },
     "8721800408880": {
       "barcode": "8721800408880",
@@ -64,7 +64,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.045810+00:00"
+      "updated_at": "2026-11-20T21:39:51.383213+00:00"
     },
     "8721800408866": {
       "barcode": "8721800408866",
@@ -96,7 +96,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.045900+00:00"
+      "updated_at": "2026-11-20T21:39:51.383305+00:00"
     },
     "8722700255642": {
       "barcode": "8722700255642",
@@ -128,7 +128,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.056467+00:00"
+      "updated_at": "2026-11-20T21:39:51.393452+00:00"
     },
     "8720182103406": {
       "barcode": "8720182103406",
@@ -158,7 +158,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.066562+00:00"
+      "updated_at": "2026-11-20T21:39:51.403700+00:00"
     }
   }
 }

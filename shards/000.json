@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "000",
   "count": 7,
-  "updated_at": "2026-11-20T21:24:54.153835+00:00",
+  "updated_at": "2026-11-20T21:39:51.479443+00:00",
   "products": {
     "0000096067345": {
       "barcode": "0000096067345",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:53.998552+00:00"
+      "updated_at": "2026-11-20T21:39:51.350066+00:00"
     },
     "0000076222276": {
       "barcode": "0000076222276",
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.046079+00:00"
+      "updated_at": "2026-11-20T21:39:51.383483+00:00"
     },
     "0000080042556": {
       "barcode": "0000080042556",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.048373+00:00"
+      "updated_at": "2026-11-20T21:39:51.385779+00:00"
     },
     "0000054025271": {
       "barcode": "0000054025271",
@@ -125,7 +125,7 @@
       ],
       "reason": "Contains carmine / E120 / karmijnzuur insect colorant",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.054267+00:00"
+      "updated_at": "2026-11-20T21:39:51.391379+00:00"
     },
     "0000080035343": {
       "barcode": "0000080035343",
@@ -155,7 +155,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.073542+00:00"
+      "updated_at": "2026-11-20T21:39:51.409056+00:00"
     },
     "0000080023418": {
       "barcode": "0000080023418",
@@ -185,7 +185,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.073880+00:00"
+      "updated_at": "2026-11-20T21:39:51.409416+00:00"
     },
     "0000080023401": {
       "barcode": "0000080023401",
@@ -215,7 +215,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:24:54.074152+00:00"
+      "updated_at": "2026-11-20T21:39:51.409761+00:00"
     }
   }
 }
