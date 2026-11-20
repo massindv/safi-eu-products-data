@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "842",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.992517+00:00",
+  "products": {
+    "8424523030337": {
+      "barcode": "8424523030337",
+      "product_name": "Pimientos asados con tomate",
+      "store": "carrefour.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Tomate* (102g para elaborar 100g de producto),\npimiento asado* (26%), aceite de oliva virgen extra* (3,3%), azúcar de caña* y sal.\n*Ecológicos",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:02:23.893957+00:00"
+    }
+  }
+}

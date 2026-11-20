@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "316",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.933988+00:00",
+  "products": {
+    "3166291010610": {
+      "barcode": "3166291010610",
+      "product_name": "Herbes de Provence",
+      "store": "carrefour.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "sarriette, romarin (33%), marjolaine, origan (8%), basilic, thym (8%),",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:02:23.776530+00:00"
+    }
+  }
+}

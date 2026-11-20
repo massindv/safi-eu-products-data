@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "035",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.905922+00:00",
+  "products": {
+    "0358947864019": {
+      "barcode": "0358947864019",
+      "product_name": "Drop- en fruitmix",
+      "store": "ah.nl",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.845958+00:00"
+    }
+  }
+}

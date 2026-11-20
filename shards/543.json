@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "543",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.980804+00:00",
+  "products": {
+    "5430000408776": {
+      "barcode": "5430000408776",
+      "product_name": "Great Porridge",
+      "store": "delhaize.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "FR - Ingrédients : flocons d'avoine sans gluten*, flocons fins d'avoine sans gluten*, son d'avoine sans gluten*, AMANDES effilées* 3,3 %, graines de chia*, inuline d'agave*, framboises lyophilisées* 2,1 %, poudre d'acérola* 1 %. *Issu de l'agriculture biologique. Peut contenir des traces d'autres fruits à coque, de sésame, de soja et de moutarde.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.771993+00:00"
+    }
+  }
+}

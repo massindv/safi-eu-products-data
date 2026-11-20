@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "333",
-  "count": 1,
-  "updated_at": "2026-11-20T15:34:04.652516+00:00",
+  "count": 5,
+  "updated_at": "2026-11-20T16:02:23.941338+00:00",
   "products": {
     "3330720244017": {
       "barcode": "3330720244017",
@@ -20,7 +20,79 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.622436+00:00"
+      "updated_at": "2026-11-20T16:02:23.754824+00:00"
+    },
+    "3330720251039": {
+      "barcode": "3330720251039",
+      "product_name": "Poire Williams à la vanille",
+      "store": "carrefour.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Poires Williams 45%, sucre, pommes 15%, gélifiant : pectines, jus de citron concentré, gousses de vanille épuisées, arôme naturel de vanille 0,0002%.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:02:23.776834+00:00"
+    },
+    "3336971805021": {
+      "barcode": "3336971805021",
+      "product_name": "Chips de lentilles saveur fines herbes",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de lentille (36%), huiles végétales (tournesol, colza), farine de riz, farine de maïs, amidons, sucre, sel, oignon, ail, persil, aneth, ciboulette, arôme naturel, extrait d'aneth, poivre vert, chlorure de potassium, régulateurs d'acidité (acide citrique, acide lactique).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.823673+00:00"
+    },
+    "3336971805038": {
+      "barcode": "3336971805038",
+      "product_name": "Chips de lentilles saveur tomate mozza",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de lentille (37%), huiles végétales (tournesol, colza), farine de riz, farine de maïs, amidons, lactosérum en poudre (LAIT), sel, sucre, chlorure de potassium, arôme naturel, tomate, persil, oignon, poivre vert, ail, mozzarella en poudre (LAIT).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.825448+00:00"
+    },
+    "3336971209133": {
+      "barcode": "3336971209133",
+      "product_name": "Curly cacahuete",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Semoule de maïs, ARACHIDES grillées moulues 32%, huile de tournesol, sel, arôme naturel\nTraces de GLUTEN, LAIT et FRUITS A COQUE",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.830718+00:00"
     }
   }
 }

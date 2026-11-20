@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "506",
-  "count": 3,
-  "updated_at": "2026-11-20T15:34:04.660437+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:02:23.958745+00:00",
   "products": {
     "5060466511880": {
       "barcode": "5060466511880",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.580222+00:00"
+      "updated_at": "2026-11-20T16:02:23.694703+00:00"
     },
     "5060139432993": {
       "barcode": "5060139432993",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T15:34:04.629486+00:00"
+      "updated_at": "2026-11-20T16:02:23.763781+00:00"
     },
     "5061005130128": {
       "barcode": "5061005130128",
@@ -65,7 +65,63 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T15:34:04.630130+00:00"
+      "updated_at": "2026-11-20T16:02:23.764596+00:00"
+    },
+    "5060194790731": {
+      "barcode": "5060194790731",
+      "product_name": "Sushi ginger",
+      "store": "delhaize.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Ginger 58%, water, salt, acids: citric acid and acetic acid, preservative: E202, sweeteners (E950, aspartame*, E954, E955). *(Phenylketonurics: Contains Phenylalanine)",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.770018+00:00"
+    },
+    "5060088707449": {
+      "barcode": "5060088707449",
+      "product_name": "EU Product",
+      "store": "ah.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "53 % 16% 15% 10 % 5 % c'EST TOUT !",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.841016+00:00"
+    },
+    "5060709280344": {
+      "barcode": "5060709280344",
+      "product_name": "Smokin' Ghost Hot Sauce - Ghost Pepper & Chipotle",
+      "store": "delhaize.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "TOMATE (DES DE TOMATE, JUS DE TOMATE, CORRECTEUR D'ACIDITE ACIDE CITRIQUE), SUCRE BRUN, VINAIGRE DE CIDRE, CONCENTRE DE TOMATE, OIGNON, PIMENT GHOST PEPPER 7 %, EAU, SEL PIMENT CHIPOTLE &lt;1%, OIGNON EN POUDRE, AIL EN POUDRE, ARÔME DE FUMEE (MALTODEXTRINE, AROME DE FUMÉE, DIOXYDE DE SILICIUM (E551))",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.892526+00:00"
     }
   }
 }

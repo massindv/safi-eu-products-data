@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "239",
-  "count": 7,
-  "updated_at": "2026-11-20T15:34:04.639412+00:00",
+  "count": 10,
+  "updated_at": "2026-11-20T16:02:23.922959+00:00",
   "products": {
     "2395398804834": {
       "barcode": "2395398804834",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T15:34:04.612421+00:00"
+      "updated_at": "2026-11-20T16:02:23.744244+00:00"
     },
     "2391353203322": {
       "barcode": "2391353203322",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T15:34:04.612596+00:00"
+      "updated_at": "2026-11-20T16:02:23.744441+00:00"
     },
     "2392014908600": {
       "barcode": "2392014908600",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T15:34:04.612990+00:00"
+      "updated_at": "2026-11-20T16:02:23.744885+00:00"
     },
     "2392011304825": {
       "barcode": "2392011304825",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T15:34:04.613006+00:00"
+      "updated_at": "2026-11-20T16:02:23.744903+00:00"
     },
     "2392011404518": {
       "barcode": "2392011404518",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T15:34:04.613021+00:00"
+      "updated_at": "2026-11-20T16:02:23.744919+00:00"
     },
     "2392011604680": {
       "barcode": "2392011604680",
@@ -112,7 +112,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T15:34:04.613063+00:00"
+      "updated_at": "2026-11-20T16:02:23.744965+00:00"
     },
     "2398970802846": {
       "barcode": "2398970802846",
@@ -130,7 +130,63 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T15:34:04.613131+00:00"
+      "updated_at": "2026-11-20T16:02:23.745046+00:00"
+    },
+    "2391893401202": {
+      "barcode": "2391893401202",
+      "product_name": "Kleintje camembert",
+      "store": "ah.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.788233+00:00"
+    },
+    "2395419202441": {
+      "barcode": "2395419202441",
+      "product_name": "Chaumes",
+      "store": "ah.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.788251+00:00"
+    },
+    "2399029407012": {
+      "barcode": "2399029407012",
+      "product_name": "Goudse belegen 30+ stuk",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Milk, salt, starter culture, microbial rennet",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.789068+00:00"
     }
   }
 }

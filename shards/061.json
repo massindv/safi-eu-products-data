@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "061",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.906496+00:00",
+  "products": {
+    "06138030": {
+      "barcode": "06138030",
+      "product_name": "2 petites baguettes",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau ; amidon de maïs ; farine de maïs; fécule de manioc ; fécule de pomme de terre ; huile de tournesol ; farine de riz; fibre de psyllium; humectant: glycérol; levure; fibre de bambou ; épaississants : E464, gomme guar Sucre; sel ;dextrose ; conservateur : E282. Traces de lait et oeufs.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.809384+00:00"
+    }
+  }
+}

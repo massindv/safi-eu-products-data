@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "968",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:24.022008+00:00",
+  "products": {
+    "96825785": {
+      "barcode": "96825785",
+      "product_name": "Spaghetti",
+      "store": "carrefour.be",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "farine de mais, il ne faut pas acheter ce produit, cuisson aléatoire, les pâtes se mettent en paquet, elles sont pas mangeables, traçabilité au niveau de tricherie de la Roumanie, produit à proscrire.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:02:23.862834+00:00"
+    }
+  }
+}

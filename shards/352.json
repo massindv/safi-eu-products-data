@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "prefix": "352",
+  "count": 3,
+  "updated_at": "2026-11-20T16:02:23.943433+00:00",
+  "products": {
+    "3523230028431": {
+      "barcode": "3523230028431",
+      "product_name": "La bûche Sainte-Maure (Poitou-Charentes",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait de chèvre pasteurisé (origine France), sel, ferments (dont lait).\r\n\r\nConvient aux végétariens.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.779118+00:00"
+    },
+    "3523230052856": {
+      "barcode": "3523230052856",
+      "product_name": "Yaourts nature au lait entier",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_Lait_ entier, poudre de _lait_ écrémé, ferments lactiques (_lait_).",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.779919+00:00"
+    },
+    "3523230039680": {
+      "barcode": "3523230039680",
+      "product_name": "Yaourt au lait de chevre",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait entier de chèvre pasteurisé (origine France), ferments lactiques (lait).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.800617+00:00"
+    }
+  }
+}

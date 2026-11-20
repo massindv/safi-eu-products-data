@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "311",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.931982+00:00",
+  "products": {
+    "3116430208941": {
+      "barcode": "3116430208941",
+      "product_name": "DELICHOC Chocolat noir",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Chocolat (40%) ( pâte de cacao, sucre, beurre de cacao, beurre pâtissier, émulsifiant: lécithine de soja) - farine de blé - sucre - graisses végétales (palme, colza) - sel - lactose et protéines de lait - émulsifiant: lécithine de soja - poudres à lever: carbonates de sodium, carbonates d'ammonium - arôme. Peut contenir des noisettes, d'autres fruits à coque et des oeufs.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.832206+00:00"
+    }
+  }
+}

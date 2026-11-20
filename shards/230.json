@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "230",
-  "count": 7,
-  "updated_at": "2026-11-20T15:34:04.636568+00:00",
+  "count": 8,
+  "updated_at": "2026-11-20T16:02:23.919812+00:00",
   "products": {
     "2308023102540": {
       "barcode": "2308023102540",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:34:04.610446+00:00"
+      "updated_at": "2026-11-20T16:02:23.741899+00:00"
     },
     "2302432902531": {
       "barcode": "2302432902531",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T15:34:04.612624+00:00"
+      "updated_at": "2026-11-20T16:02:23.744473+00:00"
     },
     "2302432402529": {
       "barcode": "2302432402529",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T15:34:04.612868+00:00"
+      "updated_at": "2026-11-20T16:02:23.744728+00:00"
     },
     "2303260703826": {
       "barcode": "2303260703826",
@@ -76,7 +76,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T15:34:04.613399+00:00"
+      "updated_at": "2026-11-20T16:02:23.745378+00:00"
     },
     "2302298103370": {
       "barcode": "2302298103370",
@@ -96,7 +96,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T15:34:04.613488+00:00"
+      "updated_at": "2026-11-20T16:02:23.745490+00:00"
     },
     "2302743202009": {
       "barcode": "2302743202009",
@@ -114,7 +114,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T15:34:04.613660+00:00"
+      "updated_at": "2026-11-20T16:02:23.745641+00:00"
     },
     "2303489403569": {
       "barcode": "2303489403569",
@@ -132,7 +132,27 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T15:34:04.614800+00:00"
+      "updated_at": "2026-11-20T16:02:23.746419+00:00"
+    },
+    "2302982504414": {
+      "barcode": "2302982504414",
+      "product_name": "Gaten kaas jong belegen",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "melk*, zout, zuursel, vegetarisch stremsel, conserveermiddel (natriumnitraat [E251]), kleurstof (caroteen [E160a]).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.789137+00:00"
     }
   }
 }

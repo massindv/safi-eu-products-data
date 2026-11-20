@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "576",
-  "count": 1,
-  "updated_at": "2026-11-20T15:34:04.670514+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T16:02:23.983086+00:00",
   "products": {
     "5760466739924": {
       "barcode": "5760466739924",
@@ -29,7 +29,27 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.582126+00:00"
+      "updated_at": "2026-11-20T16:02:23.697126+00:00"
+    },
+    "5760466732918": {
+      "barcode": "5760466732918",
+      "product_name": "Original White Cheese",
+      "store": "ah.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_melk_ 96%, zout, zuursel, microbieel stremsel",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.788011+00:00"
     }
   }
 }

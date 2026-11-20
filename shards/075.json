@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "075",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.907482+00:00",
+  "products": {
+    "0758012454761": {
+      "barcode": "0758012454761",
+      "product_name": "Volkoren wok noodles",
+      "store": "jumbo.com",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.861105+00:00"
+    }
+  }
+}

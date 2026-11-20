@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "206",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.910232+00:00",
+  "products": {
+    "20686215": {
+      "barcode": "20686215",
+      "product_name": "Tortelloni with meat",
+      "store": "colruyt.be",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:02:23.860969+00:00"
+    }
+  }
+}

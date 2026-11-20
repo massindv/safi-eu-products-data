@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "410",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.955505+00:00",
+  "products": {
+    "4100290079727": {
+      "barcode": "4100290079727",
+      "product_name": "Protein Salted Caramel",
+      "store": "jumbo.com",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Melk, melkeiwitten, zoetstoffen: erytrital en steviolglycosiden uit Stevia, stabilisatoren: carrageen en guarpitmeel, zout, BCAA: leucine, isoleucine en valine, natuurlijk aroma, magnesiumcarbonaat, vitamine D3, lactase.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.803149+00:00"
+    }
+  }
+}

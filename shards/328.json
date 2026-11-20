@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "328",
+  "count": 2,
+  "updated_at": "2026-11-20T16:02:23.939385+00:00",
+  "products": {
+    "3285810043202": {
+      "barcode": "3285810043202",
+      "product_name": "Cancoillotte IGP Ail 250g marque",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Metton (Lait écrémé pasteurisé, ferments lactiques, coagulant), eau, beurre, Ail de France (2.7%), sel de fonte : citrate de sodium, sel. Lait : origine France.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.781957+00:00"
+    },
+    "3285810043103": {
+      "barcode": "3285810043103",
+      "product_name": "Cancoillotte IGP Nature 250g marque",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau, Metton (LAIT écrémé pasteurisé, ferments lactiques, coagulant), BEURRE, sel de fonte : citrate de sodium, sel.\n\nLait : origine France",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.801229+00:00"
+    }
+  }
+}

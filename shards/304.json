@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "304",
-  "count": 3,
-  "updated_at": "2026-11-20T15:34:04.641804+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:02:23.926701+00:00",
   "products": {
     "3045320082586": {
       "barcode": "3045320082586",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.581948+00:00"
+      "updated_at": "2026-11-20T16:02:23.696884+00:00"
     },
     "3041090063114": {
       "barcode": "3041090063114",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.584402+00:00"
+      "updated_at": "2026-11-20T16:02:23.699708+00:00"
     },
     "3045320517101": {
       "barcode": "3045320517101",
@@ -74,7 +74,61 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.623333+00:00"
+      "updated_at": "2026-11-20T16:02:23.755881+00:00"
+    },
+    "3041090063206": {
+      "barcode": "3041090063206",
+      "product_name": "Cracotte Céréales Complètes",
+      "store": "delhaize.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Céréales 98,5 % (farine complète de blé 66,2 %, farine de seigle 12,1 %, farine de blé 10,1 %, farine de riz 3,2 %, farine de blé malté 2,1 %, farine de sarrasin 1,6 %, farine d'orge 1,6 %, semoule de blé 1,6 %), sucre, lactosérum en poudre (de lait), sel, huile de palme, germes de blé. Peut contenir soja, sésame.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.768536+00:00"
+    },
+    "3045140105502": {
+      "barcode": "3045140105502",
+      "product_name": "Chocolat au lait du pays alpin Milka",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sucre, Beurre de cacao, pâte de cacao, Lait écrémé en poudre, lactosérum en poudre (Lait), Beurre concentré, Émulsifiant (Lécithine de soja), Pâte de noisette, Arôme naturel",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.824591+00:00"
+    },
+    "3041090061615": {
+      "barcode": "3041090061615",
+      "product_name": "Cracotte Chocolat",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLÉ 49 %, sucre, huiles végétales (palme, colza en proportion variable), chocolat 10 % (cacao maigre en poudre, pâte de cacao, sucre), lactosérum en poudre (de LAIT), émulsifiant (lécithines de SOJA), sel. PEUT CONTENIR FRUITS À COQUE.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.827666+00:00"
     }
   }
 }

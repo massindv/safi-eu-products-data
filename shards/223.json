@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "223",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.916384+00:00",
+  "products": {
+    "2235439001597": {
+      "barcode": "2235439001597",
+      "product_name": "Ah special brood haver",
+      "store": "ah.be",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.818573+00:00"
+    }
+  }
+}

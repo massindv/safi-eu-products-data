@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "072",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.906758+00:00",
+  "products": {
+    "0723093644738": {
+      "barcode": "0723093644738",
+      "product_name": "Groene pesto",
+      "store": "ah.nl",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Plantaardige olie (zonnebloem, raap [in wisselende verhoudingen]), 16% pijnboompit, melk, 11% basilicum, 10% spinazie, wittewijnazijn, specerijen, zeezout, aardappelzetmeel, zout, water, conserveermiddel (E202), zuursel, microbieel stremsel, kleurstof (E160a).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.886154+00:00"
+    }
+  }
+}

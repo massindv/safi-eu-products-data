@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "020",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.905396+00:00",
+  "products": {
+    "0204669011159": {
+      "barcode": "0204669011159",
+      "product_name": "pain nordique",
+      "store": "colruyt.be",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "MIX KRKEN: FARINE DE BLE, GLUTEN DE BLE, GRAINES DE TOURNESOL, GRAINES DE LIN BRLON, GRAINES DE LIN JAUNE, SEMOULE DE SOJA, GRAINES DE SESAME, FARINE D'ORGE, ISSUES DE SEIGLE, FARINE DE MALT DORCE TORRÉFIER FIE, SEL, LEVAIN DE SEIGLE DESHYDRATE ET DEVITALISE EAU.\nMELANGE 5 GRAINES : GRAINES DE LIN BRUN, GRAINES DE LIN JAUNE, GRAINES DE MILLET DECORTIQUE, GRAINES DE PROT BLEU, GRAINES DE SESAME DECORTIQUEES. FARINE DE BLE, GLUTEN DE BLE, EMULSIFIANT E471, AGENT,  FRE DE BLE, GLUTEN DE BLE, EN ENLSIFIRNTE471, ACENT DE TRUTENT DE LA FRONE E300. LEURE, TRACES POSSIBLES D'OEUFS, LAUT, FRUITS A\nCOCUE, MOUTHROE ET LUPIN.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:02:23.814641+00:00"
+    }
+  }
+}

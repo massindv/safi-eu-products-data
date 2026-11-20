@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "302",
-  "count": 2,
-  "updated_at": "2026-11-20T15:34:04.641221+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:02:23.925852+00:00",
   "products": {
     "3021210012000": {
       "barcode": "3021210012000",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.607845+00:00"
+      "updated_at": "2026-11-20T16:02:23.738986+00:00"
     },
     "3029330069355": {
       "barcode": "3029330069355",
@@ -42,7 +42,43 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:34:04.626584+00:00"
+      "updated_at": "2026-11-20T16:02:23.759884+00:00"
+    },
+    "3023260030928": {
+      "barcode": "3023260030928",
+      "product_name": "Salakis 100% Brebis",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Fromage de brebis au lait pasteurisé. \r\n\r\nLait origine: France. Convient aux végétariens.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.779312+00:00"
+    },
+    "3029330005773": {
+      "barcode": "3029330005773",
+      "product_name": "La Briochée Pur Beurre",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de blé, beurre, sucre, œufs, levure, gluten de blé, sel, colorant : lutéine, acide ascorbique",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.811029+00:00"
     }
   }
 }

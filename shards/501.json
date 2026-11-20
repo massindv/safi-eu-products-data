@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "501",
-  "count": 6,
-  "updated_at": "2026-11-20T15:34:04.658961+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T16:02:23.957226+00:00",
   "products": {
     "5016599010639": {
       "barcode": "5016599010639",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.554050+00:00"
+      "updated_at": "2026-11-20T16:02:23.667444+00:00"
     },
     "5016599011247": {
       "barcode": "5016599011247",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.557096+00:00"
+      "updated_at": "2026-11-20T16:02:23.670440+00:00"
     },
     "5010477348630": {
       "barcode": "5010477348630",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.619698+00:00"
+      "updated_at": "2026-11-20T16:02:23.751617+00:00"
     },
     "5010477348517": {
       "barcode": "5010477348517",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.620681+00:00"
+      "updated_at": "2026-11-20T16:02:23.752763+00:00"
     },
     "5011546475165": {
       "barcode": "5011546475165",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:34:04.625121+00:00"
+      "updated_at": "2026-11-20T16:02:23.758112+00:00"
     },
     "5018357006779": {
       "barcode": "5018357006779",
@@ -128,7 +128,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:34:04.629070+00:00"
+      "updated_at": "2026-11-20T16:02:23.763219+00:00"
+    },
+    "5018297010577": {
+      "barcode": "5018297010577",
+      "product_name": "Bagels",
+      "store": "colruyt.be",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:02:23.814903+00:00"
     }
   }
 }

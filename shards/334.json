@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "334",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.941686+00:00",
+  "products": {
+    "3343450400127": {
+      "barcode": "3343450400127",
+      "product_name": "Finucchietti Biggi x12",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sel, grains d’anis, levure de panification, farine",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.811541+00:00"
+    }
+  }
+}

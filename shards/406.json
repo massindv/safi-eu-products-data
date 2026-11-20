@@ -1,0 +1,64 @@
+{
+  "version": "1.0",
+  "prefix": "406",
+  "count": 3,
+  "updated_at": "2026-11-20T16:02:23.954814+00:00",
+  "products": {
+    "4065019063947": {
+      "barcode": "4065019063947",
+      "product_name": "Gouda Holland kaas 48+ belegen",
+      "store": "jumbo.com",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Gepasteuriseerde koemelk, zout, zuursel, microbieel stremsel.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.785991+00:00"
+    },
+    "4065019064579": {
+      "barcode": "4065019064579",
+      "product_name": "Geitenkaas saladebolletjes 45+",
+      "store": "jumbo.com",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.787346+00:00"
+    },
+    "4062300217256": {
+      "barcode": "4062300217256",
+      "product_name": "Mon premier biscuit",
+      "store": "carrefour.fr",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de froment 68%, sucre, huile de coco, farine de froment (partiellement hydrolysée) 7%, lait écrémé en poudre, poudres à lever (hydrogénocarbonate d'ammonium, hydrogénotartrate de potassium, hydrogénocarbonate de sodium), extrait de malt d'orge, arôme naturel de vanille, émulsifiant (lécithine), vitamine B1,",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.897380+00:00"
+    }
+  }
+}

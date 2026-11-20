@@ -1,0 +1,146 @@
+{
+  "version": "1.0",
+  "prefix": "220",
+  "count": 7,
+  "updated_at": "2026-11-20T16:02:23.911569+00:00",
+  "products": {
+    "2205499003077": {
+      "barcode": "2205499003077",
+      "product_name": "Côte de porc grillée",
+      "store": "delhaize.be",
+      "category": "charcuterie",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.778996+00:00"
+    },
+    "2208476004746": {
+      "barcode": "2208476004746",
+      "product_name": "EU Product",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait de chèvre pasteurisé, sel, ferments lactiques, présure animale, conservateur (nitrate de sodium), correcteur d'acidité (chlorure de calcium).",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.791273+00:00"
+    },
+    "2205308003342": {
+      "barcode": "2205308003342",
+      "product_name": "Brie",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait de vache pasteurisé, sel, ferments lactiques, présure microbienne, culture de moisissures",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.791440+00:00"
+    },
+    "2205308003649": {
+      "barcode": "2205308003649",
+      "product_name": "Brie",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait, sel, cultures de démarrage, présure microbienne, culture de moisissures",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.791490+00:00"
+    },
+    "2200235007715": {
+      "barcode": "2200235007715",
+      "product_name": "Comté Bio AOP Cheese",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait cru*, sel, ferments lactiques (lait), présure animale. *Agriculture biologique.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.791553+00:00"
+    },
+    "2208532003744": {
+      "barcode": "2208532003744",
+      "product_name": "EU Product",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait de vache pasteurisé, sel, ferments lactiques, présure microbienne, colorant (norbixine de rocou).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.791641+00:00"
+    },
+    "2200761000792": {
+      "barcode": "2200761000792",
+      "product_name": "brood",
+      "store": "ah.be",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.818724+00:00"
+    }
+  }
+}

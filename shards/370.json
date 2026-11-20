@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "370",
+  "count": 2,
+  "updated_at": "2026-11-20T16:02:23.951874+00:00",
+  "products": {
+    "3701283800437": {
+      "barcode": "3701283800437",
+      "product_name": "Biscuits Petit Dej & Goûter - Betterave & Fruits Rouges",
+      "store": "delhaize.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farines de blé (T65 et T110) ; farines de légumes et légumineuses 16,1% (farine de pois chiche poudre de betterave 5,3% ; farine de sarrasin; farine de lin); huile de colza ; flocons d'avoine ; sucre de canne ; pépites de chocolat 7,5% (masse de cacao, sucre de canne , beurre de cacao, extrait de vanille) : graines de chia (Salvia hispanica) ; riz soufflé 2,9% ; arôme naturel de fruits rouges 0,4% ; poudre lever : carbonates d'ammonium et carbonates de sodium ; poudre de fruits rouges 0,1% (fruits rouges en proportion variable : framboises, fraises, myrtilles) ; sel.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.849540+00:00"
+    },
+    "3700211234221": {
+      "barcode": "3700211234221",
+      "product_name": "Gerble - Gluten Free and Lactose Free Chocolate Chip Cookies, 150g (5.3oz)",
+      "store": "carrefour.fr",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine (maïs 16%, teff 13,7%, riz 9,1%), sucre, huile de tournesol oléique, pépites de chocolat noir 9,1% (pâte de cacao', sucre, beurre de cacao, émulsifiant: lecithines (soja)), fécule de tapioca, sirop de glucose, fibres de chicorée, arôme, émulsifiant lécithines, poudres à lever (acide citrique, carbonates de potassium), épaississant: gomme xanthane, amidon de riz, sel.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.895979+00:00"
+    }
+  }
+}

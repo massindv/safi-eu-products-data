@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "376",
-  "count": 1,
-  "updated_at": "2026-11-20T15:34:04.655779+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:02:23.952727+00:00",
   "products": {
     "3760049790214": {
       "barcode": "3760049790214",
@@ -20,7 +20,61 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.619146+00:00"
+      "updated_at": "2026-11-20T16:02:23.750964+00:00"
+    },
+    "3760056265118": {
+      "barcode": "3760056265118",
+      "product_name": "Grana padano",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.790938+00:00"
+    },
+    "3760092218055": {
+      "barcode": "3760092218055",
+      "product_name": "mini muffins",
+      "store": "delhaize.be",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Œufs*, fourrage au chocolat* 17% (chocolat noir* 5,2% (pâte de cacao*(¹), sucre de canne*(1), beurre de cacao*(¹)), sucre de canne*, sirop de riz*, huile de tournesol*, eau, poudre de blanc d'œuf*, émulsifiant : lécithines* (tournesol), gélifiant : pectines, correcteurs d'acidité : citrates de calcium et acide citrique), huile de tournesol*, farine de riz semi-complète*, sucre de canne blond*(¹), fécule de pomme de terre*, miel*, sirop de tapioca*, sirop de riz*, amidon de maïs*, amande en poudre*, poudres à lever : carbonates de sodium et phosphates de calcium, émulsifiant : lécithines* (tournesol), sel marin, épaississants : gomme guar* et gomme xanthane. *Ingrédients issus de l'agriculture biologique. Ingrédients issus du commerce équitable. Sans gluten, sans lait, sans lactose. Allergènes : peut contenir des traces d'autres fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.821406+00:00"
+    },
+    "3760091726667": {
+      "barcode": "3760091726667",
+      "product_name": "Chocolat noir 80% Équateur intense et floral",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "pâte de cacao  70%, sucre de canne , beurre de cacao, Cacao : 80% minimum dans le chocolat,\r\n\r\n° Issus de l'agriculture biologique (100%)\r\n* Issus du commerce équitable (100% du poids total avec 89% SPP)",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.827895+00:00"
     }
   }
 }

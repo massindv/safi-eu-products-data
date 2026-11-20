@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "571",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.982821+00:00",
+  "products": {
+    "5712057783878": {
+      "barcode": "5712057783878",
+      "product_name": "stroganoff saus",
+      "store": "jumbo.com",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "average nutritional value per 100 g per 8.0 g ri* kj 1535 kj 123 energy kcal",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.882348+00:00"
+    }
+  }
+}

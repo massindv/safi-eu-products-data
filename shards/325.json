@@ -1,0 +1,66 @@
+{
+  "version": "1.0",
+  "prefix": "325",
+  "count": 3,
+  "updated_at": "2026-11-20T16:02:23.937421+00:00",
+  "products": {
+    "3256540000704": {
+      "barcode": "3256540000704",
+      "product_name": "Pains au lait format familial",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLÉ 43% - Levain 21% (farine de BLÉ 11%, eau, sel) - Sucre, ŒUFS frais  - BEURRE  - Huile de colza - Levure, LAIT écrémé en poudre (équivalent à 10% de LAIT écrémé reconstitué) - Émulsifiant: mono et diglycérides d'acides gras - Sel - Protéines de Blé,  GLUTEN de BLÉ - Extrait de carotte - Agent de traitement de la farine: acide ascorbique, Protéines de LAIT.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.807516+00:00"
+    },
+    "3250391816453": {
+      "barcode": "3250391816453",
+      "product_name": "4 Muffins complets",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine complète de blé 61% (UE), eau, levure, semoule de blé dur, huile de colza 2%, sucre, arôme (contient alcool), gluten de blé, sel, émulsifiants : mono et diglycérides d’acides gras, esters momoacétyltartriques et diacétyltartriques des mono et diglycérides d’acides gras, levain de seigle déshydraté et dévitalisé, farines de blé (UE / non UE), conservateur : propionate de calcium, vinaigre, farine de fève, agent de traitement de la farine : acide ascorbique.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.810877+00:00"
+    },
+    "3251490320001": {
+      "barcode": "3251490320001",
+      "product_name": "Biscuit complet au germe de blé",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine complète de blé 45,3%, farine de blé 23%, sucre non raffiné, huile de colza, germe de blé 5,7%, fibres d'avoine, arômes naturels (extrait de malt d'orge), poudres à lever (carbonates d'ammonium, acide citrique), magnésium, émulsifiant : lecithines, sel de mer, antioxydant: extrait naturel riche en tocopherols, amidon de blé, vitamines (E, D, B6, B1, B9).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.824033+00:00"
+    }
+  }
+}

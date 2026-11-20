@@ -1,0 +1,82 @@
+{
+  "version": "1.0",
+  "prefix": "471",
+  "count": 4,
+  "updated_at": "2026-11-20T16:02:23.956069+00:00",
+  "products": {
+    "4718098274703": {
+      "barcode": "4718098274703",
+      "product_name": "Emmentaler kaas 45+ jong",
+      "store": "jumbo.com",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.787373+00:00"
+    },
+    "4718900515772": {
+      "barcode": "4718900515772",
+      "product_name": "Cottage cheese",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Skimmed milk, cream, salt, vegetarian rennet, lactic acid",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.789369+00:00"
+    },
+    "4718901788496": {
+      "barcode": "4718901788496",
+      "product_name": "Witte kaas",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.789887+00:00"
+    },
+    "4718900725270": {
+      "barcode": "4718900725270",
+      "product_name": "Roomkaas rode biet geitenkaas",
+      "store": "ah.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "40% zoete aardappel, kikkererwt, plantaardige olie (raap, zonnebloem), wortelpuree, water, extract (kokos, paprika), suiker, specerijen (o.a. 0,3% chili, selderij), 1,5% pompoenpit, knoflook, citroensap, zout, gember, lente-ui, azijn, conserveermiddel (E262, E202), gemodificeerd maïszetmeel, citrusvezel, knoflookolie.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.883307+00:00"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "050",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.906239+00:00",
+  "products": {
+    "05014008": {
+      "barcode": "05014008",
+      "product_name": "Franse magere kwark",
+      "store": "jumbo.com",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Magere kwark (MELK).",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.803586+00:00"
+    }
+  }
+}

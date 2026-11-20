@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "077",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.907731+00:00",
+  "products": {
+    "07707315": {
+      "barcode": "07707315",
+      "product_name": "pain sans gluten aux fruits et raisins secs",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau, farine sans gluten (farine de riz, fécule de tapioca, fécule de pommede terre, farine de mais, fécule de riz, fécule de maïs), raisins macérés 12% (raisins, is d'orange concentré), levure, huile de tournesol, zestes d'orange 2%, écorce de psyllum déshydratée, poudre de blanc d'aœuf, sirop de sucre inverti, humectant (glycérol), mélase noire, stabilisant (hydroxypropylméthylcellulose), sel, jus de fruits concentré (raisi, pomme, poire), canelle moulue, gingembre moulu. INFORMATIONS RELATIVES AUX ALLERGIES: Les allergènes sont indiqués en gras.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.813055+00:00"
+    }
+  }
+}

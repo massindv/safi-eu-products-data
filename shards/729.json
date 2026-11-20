@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "729",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.985602+00:00",
+  "products": {
+    "7290005307027": {
+      "barcode": "7290005307027",
+      "product_name": "Houmous classic",
+      "store": "ah.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "gekookte kikkererwten (51% (water, kikkererwten, rijsmiddel (natriumcarbonaat)), koolzaadolie, sesamzaadpasta (16%), water, zout, voedingszuur (citroenzuur), specerijen, conserveermiddel (kaliumsorbaat)",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.883517+00:00"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "403",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.954530+00:00",
+  "products": {
+    "4036300143211": {
+      "barcode": "4036300143211",
+      "product_name": "Magere kwark",
+      "store": "jumbo.com",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "magere melk, melkzuurbacteriecultuur, microbiologisch stremsel",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.803184+00:00"
+    }
+  }
+}

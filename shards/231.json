@@ -1,0 +1,64 @@
+{
+  "version": "1.0",
+  "prefix": "231",
+  "count": 3,
+  "updated_at": "2026-11-20T16:02:23.920240+00:00",
+  "products": {
+    "2312129804765": {
+      "barcode": "2312129804765",
+      "product_name": "Kaas mey appeltaart smaak",
+      "store": "jumbo.com",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Gepasteuriseerde MELK, kokoslikeur 5,9%, appelsap 2,7%, zout, kaneel 0,1%, zuursel, vegetarisch stremsel Korst: Honingcoating.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.786804+00:00"
+    },
+    "2310161801315": {
+      "barcode": "2310161801315",
+      "product_name": "Rookkaas",
+      "store": "jumbo.com",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "kaas 91.7% (MELK), water, smeltzout: E331, rookaroma 0.4%, conserveermiddel E200/E251, kleurstof: annatto norbixine/carotenen",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.787106+00:00"
+    },
+    "2310161301747": {
+      "barcode": "2310161301747",
+      "product_name": "Roomkaas",
+      "store": "jumbo.com",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Kaas 91,7% (melk),water,smeltzout: E331,rookaroma 0,4%,conserveermiddel: E200/E251,kleurstof: annatto/carotenen.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.787497+00:00"
+    }
+  }
+}

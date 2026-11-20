@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "305",
-  "count": 2,
-  "updated_at": "2026-11-20T15:34:04.642142+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:02:23.927127+00:00",
   "products": {
     "3052910013677": {
       "barcode": "3052910013677",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.587888+00:00"
+      "updated_at": "2026-11-20T16:02:23.703637+00:00"
     },
     "3052910013776": {
       "barcode": "3052910013776",
@@ -56,7 +56,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.587965+00:00"
+      "updated_at": "2026-11-20T16:02:23.703725+00:00"
+    },
+    "3056440032696": {
+      "barcode": "3056440032696",
+      "product_name": "Petits coeurs chocolat",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLÉ 47%, huiles végétales (palme, coprah), sucre, chocolat en poudre 7,5 % (sucre, cacao en poudre), lactose (de LAIT), poudres à lever (carbonates d'ammonium, carbonates de sodium), LAIT entier en poudre, pâte de cacao, sel, pâte de NOISETTES, émulsifiant (lécithines de SOJA). PEUT CONTENIR OEUF ET AUTRES FRUITS À COQUE.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.832734+00:00"
+    },
+    "3056440070896": {
+      "barcode": "3056440070896",
+      "product_name": "Bastogne",
+      "store": "delhaize.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLÉ 45 %, sucre, huile de palme, sucre candi en poudre 9,9 %, sirop de fructose-glucose, ŒUFS, sirop de sucre candi, poudre à lever (carbonates de sodium), colorant (caramel ordinaire), sirop de glucose, cannelle en poudre 0,2 %, sel, arôme. PEUT CONTENIR SÉSAME.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.848181+00:00"
     }
   }
 }

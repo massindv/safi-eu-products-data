@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "802",
+  "count": 2,
+  "updated_at": "2026-11-20T16:02:23.990889+00:00",
+  "products": {
+    "8021398301809": {
+      "barcode": "8021398301809",
+      "product_name": "Igor Gorgonzola piccante 50+",
+      "store": "ah.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "MELK, zout, zuursel, schimmelcultuur. Allegie-informatie: bevat LACTOSE, MELKEIWIT.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.788313+00:00"
+    },
+    "8021398301793": {
+      "barcode": "8021398301793",
+      "product_name": "Igor Gorgonzola cremoso 50+",
+      "store": "ah.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "MELK, zout, zuursel, schimmelcultuur. Allergie-informatie: bevat lactose, melkeiwit.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.788878+00:00"
+    }
+  }
+}

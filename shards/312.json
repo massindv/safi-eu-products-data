@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "312",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.932681+00:00",
+  "products": {
+    "3123930617609": {
+      "barcode": "3123930617609",
+      "product_name": "Emmental tranches entremont",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_Lait_ pasteurisé (Origine: France), sel, ferments _lactiques_, coagulant.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.790403+00:00"
+    }
+  }
+}

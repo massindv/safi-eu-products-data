@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "330",
-  "count": 4,
-  "updated_at": "2026-11-20T15:34:04.652155+00:00",
+  "count": 5,
+  "updated_at": "2026-11-20T16:02:23.940055+00:00",
   "products": {
     "3302740047367": {
       "barcode": "3302740047367",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.605155+00:00"
+      "updated_at": "2026-11-20T16:02:23.736122+00:00"
     },
     "3302740039362": {
       "barcode": "3302740039362",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.605284+00:00"
+      "updated_at": "2026-11-20T16:02:23.736255+00:00"
     },
     "3302740047411": {
       "barcode": "3302740047411",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.605627+00:00"
+      "updated_at": "2026-11-20T16:02:23.736646+00:00"
     },
     "3302740047336": {
       "barcode": "3302740047336",
@@ -82,7 +82,27 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.605741+00:00"
+      "updated_at": "2026-11-20T16:02:23.736766+00:00"
+    },
+    "3305510131808": {
+      "barcode": "3305510131808",
+      "product_name": "Le Cabécou du Périgord - Fromage de chèvre",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "lait de chèvre pasteurisé, sel, ferments, présure",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.781597+00:00"
     }
   }
 }

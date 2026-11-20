@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "730",
-  "count": 1,
-  "updated_at": "2026-11-20T15:34:04.671975+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T16:02:23.985889+00:00",
   "products": {
     "7300400481700": {
       "barcode": "7300400481700",
@@ -29,7 +29,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.586874+00:00"
+      "updated_at": "2026-11-20T16:02:23.702452+00:00"
+    },
+    "7300400126229": {
+      "barcode": "7300400126229",
+      "product_name": "CRISPS ROSEMARY & SEA SALT",
+      "store": "delhaize.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "wholemeal flour, wheat flour, vegetable oil (palm), rosemary (2,0%), salt (1,5%), sea salt (1,4%), barley malt extract, yeast, antioxidant: rosemary extracts,\r\nmay contain traces of sesame seeds,",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.769112+00:00"
     }
   }
 }

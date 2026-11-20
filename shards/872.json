@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "872",
-  "count": 7,
-  "updated_at": "2026-11-20T15:34:04.692817+00:00",
+  "count": 11,
+  "updated_at": "2026-11-20T16:02:24.020330+00:00",
   "products": {
     "8727500033094": {
       "barcode": "8727500033094",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.562237+00:00"
+      "updated_at": "2026-11-20T16:02:23.675371+00:00"
     },
     "8721800408880": {
       "barcode": "8721800408880",
@@ -58,7 +58,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.579037+00:00"
+      "updated_at": "2026-11-20T16:02:23.693145+00:00"
     },
     "8721800408866": {
       "barcode": "8721800408866",
@@ -87,7 +87,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.579122+00:00"
+      "updated_at": "2026-11-20T16:02:23.693245+00:00"
     },
     "8722700255642": {
       "barcode": "8722700255642",
@@ -116,7 +116,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.589136+00:00"
+      "updated_at": "2026-11-20T16:02:23.705102+00:00"
     },
     "8720182103406": {
       "barcode": "8720182103406",
@@ -143,7 +143,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.598523+00:00"
+      "updated_at": "2026-11-20T16:02:23.716440+00:00"
     },
     "8720182368782": {
       "barcode": "8720182368782",
@@ -163,7 +163,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:34:04.611318+00:00"
+      "updated_at": "2026-11-20T16:02:23.742869+00:00"
     },
     "8725800000464": {
       "barcode": "8725800000464",
@@ -183,7 +183,84 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:34:04.611691+00:00"
+      "updated_at": "2026-11-20T16:02:23.743261+00:00"
+    },
+    "8720865628554": {
+      "barcode": "8720865628554",
+      "product_name": "Kaddour Kip grillworst madame jeanette",
+      "store": "ah.be",
+      "category": "charcuterie",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Kippendijen (90%), water, aardappelzetmeel, specerijen (*KORIANDERZAAD), madame jeanette, paprikapoeder, zout, dextrose, gistextract, stabilisator E450i, smaakversterker E621, antioxidant E300, voedingszuur E261, natriumnitriet E250, natuurlijke kleurstof (rode biet, zwarte bes). *Allergeen",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.777583+00:00"
+    },
+    "8720865628684": {
+      "barcode": "8720865628684",
+      "product_name": "Kaddour Kip grillworst kaas",
+      "store": "ah.be",
+      "category": "charcuterie",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Kippendijen (83%), water, kaas (7%) (MELK*, zout, zuursel, stremsel), aardappelzetmeel, specerijen en kruiden (KORIANDERZAAD*), paprikapoeder, zout, stabilisator E450i, smaakversterker E621, antioxidant E300, gistextract, dextrose, natriumnitriet E250, voedingszuur E261, natuurlijke kleurstof (rode biet, zwarte bes). *Allergeen",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat",
+        "other_haram"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter; Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.777829+00:00"
+    },
+    "8720828249338": {
+      "barcode": "8720828249338",
+      "product_name": "Eiwitreep Pindakaas",
+      "store": "ah.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "dates, peanuts (28%), egg protein (19%), chicory root fiber, cocoa butter, cacao nibs, emulsifier: sunflower lecithin",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.841087+00:00"
+    },
+    "8720182460721": {
+      "barcode": "8720182460721",
+      "product_name": "Amora Moutarde Forte Verre 430g",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau, graines de MOUTARDE, vinaigre d'alcool, sel, acidifiant : acide citrique, conservateur : DISULFITE de potassium.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.862940+00:00"
     }
   }
 }

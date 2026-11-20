@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "221",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.914023+00:00",
+  "products": {
+    "2210280005321": {
+      "barcode": "2210280005321",
+      "product_name": "Orval",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait pasteurisé, sel, présure animale, ferments, traitement de la croûte [colorant (norbixine de rocou), conservateur (natamycine)].",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.791369+00:00"
+    }
+  }
+}

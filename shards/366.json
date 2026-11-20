@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "366",
+  "count": 2,
+  "updated_at": "2026-11-20T16:02:23.951110+00:00",
+  "products": {
+    "3661344221772": {
+      "barcode": "3661344221772",
+      "product_name": "Yaourt saveur myrtille sauvage",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait demi-écrémé bio pasteurisé équitable 74,1%, Myrtille sauvage bio 8,6%, Sucre de canne bio 8%, Crème de lait bio, Poudre de lait écrémé bio, Arôme naturel de myrtille, Pectine de fruits, Ferments lactiques (Lait)",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.799984+00:00"
+    },
+    "3664346306638": {
+      "barcode": "3664346306638",
+      "product_name": "Rochers - chocolat au lait",
+      "store": "carrefour.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sucre, praliné 22% (NOISETTES, sucre), pâte de cacao, graisses végétales (palme, karité), beurre de cacao, poudre de LAIT écrémé, éclats de NOISETTES (3,5%), lactosérum en poudre (de LAIT), BEURRE concentré, émulsifiants (lécithine de SOJA, E476, lécithine de tournesol), arômes, PEUT CONTENIR AUTRES FRUITS À COQUE ET BLÉ,",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:02:23.853255+00:00"
+    }
+  }
+}

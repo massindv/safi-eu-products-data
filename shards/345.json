@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "345",
-  "count": 2,
-  "updated_at": "2026-11-20T15:34:04.653720+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:02:23.942419+00:00",
   "products": {
     "3450160004795": {
       "barcode": "3450160004795",
@@ -23,7 +23,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.608541+00:00"
+      "updated_at": "2026-11-20T16:02:23.739726+00:00"
     },
     "3450160001831": {
       "barcode": "3450160001831",
@@ -44,7 +44,25 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.608607+00:00"
+      "updated_at": "2026-11-20T16:02:23.739797+00:00"
+    },
+    "3451790961274": {
+      "barcode": "3451790961274",
+      "product_name": "Elle & Vire Crème Anglaise Poche 33cl",
+      "store": "delhaize.be",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "LAIT entier (80% - origine France), sucre, OEUF (4%), fécule, épaississant : pectine, arôme naturel de vanille Bourbon, colorant : extrait de carotte.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.806328+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "322",
-  "count": 11,
-  "updated_at": "2026-11-20T15:34:04.649608+00:00",
+  "count": 19,
+  "updated_at": "2026-11-20T16:02:23.935625+00:00",
   "products": {
     "3228020232028": {
       "barcode": "3228020232028",
@@ -31,7 +31,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.572074+00:00"
+      "updated_at": "2026-11-20T16:02:23.685606+00:00"
     },
     "3227061000023": {
       "barcode": "3227061000023",
@@ -51,7 +51,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.605831+00:00"
+      "updated_at": "2026-11-20T16:02:23.736862+00:00"
     },
     "3229820019307": {
       "barcode": "3229820019307",
@@ -69,7 +69,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.619189+00:00"
+      "updated_at": "2026-11-20T16:02:23.751014+00:00"
     },
     "3229820794648": {
       "barcode": "3229820794648",
@@ -87,7 +87,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.620355+00:00"
+      "updated_at": "2026-11-20T16:02:23.752384+00:00"
     },
     "3228857000883": {
       "barcode": "3228857000883",
@@ -107,7 +107,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.620508+00:00"
+      "updated_at": "2026-11-20T16:02:23.752560+00:00"
     },
     "3229820784939": {
       "barcode": "3229820784939",
@@ -125,7 +125,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.620964+00:00"
+      "updated_at": "2026-11-20T16:02:23.753097+00:00"
     },
     "3229820116716": {
       "barcode": "3229820116716",
@@ -143,7 +143,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.621445+00:00"
+      "updated_at": "2026-11-20T16:02:23.753665+00:00"
     },
     "3229820794556": {
       "barcode": "3229820794556",
@@ -161,7 +161,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.621916+00:00"
+      "updated_at": "2026-11-20T16:02:23.754211+00:00"
     },
     "3228857001101": {
       "barcode": "3228857001101",
@@ -181,7 +181,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.622067+00:00"
+      "updated_at": "2026-11-20T16:02:23.754389+00:00"
     },
     "3229820181424": {
       "barcode": "3229820181424",
@@ -199,7 +199,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.622375+00:00"
+      "updated_at": "2026-11-20T16:02:23.754750+00:00"
     },
     "3229820762692": {
       "barcode": "3229820762692",
@@ -217,7 +217,153 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.622603+00:00"
+      "updated_at": "2026-11-20T16:02:23.755018+00:00"
+    },
+    "3222110024029": {
+      "barcode": "3222110024029",
+      "product_name": "Saint Agur crème format maxi",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Fromage (50%), Lait, eau, protéines de lait, sels émulsifiants (E450, E452), acidifiant (acide lactique), sel.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.780004+00:00"
+    },
+    "3228020481464": {
+      "barcode": "3228020481464",
+      "product_name": "PRESIDENT CAMEMBERT 8PORTIONS 240g",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "LAIT (origine France), sel, ferments",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.781794+00:00"
+    },
+    "3228857000838": {
+      "barcode": "3228857000838",
+      "product_name": "American Sandwich Nature",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "wheat flour 65%, water, sugar, rapeseed oil, salt, vinegar, yeast, flour of beans, wheat gluten, flavor (contains alcohol), extract of acerola, may contain traces of eggs, soya, milk, fruit shell, sesame seeds,",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.810566+00:00"
+    },
+    "3229820021027": {
+      "barcode": "3229820021027",
+      "product_name": "P'tit Nature Complet",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine complète de blé* 76,8%, Sucre de canne* roux, Huile de colza*, Amidon de blé*, Poudre à lever (carbonates d'ammonium), Sel marin, Arôme naturel de vanille, Antioxydant (extraits de romarin).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.823109+00:00"
+    },
+    "3229820791081": {
+      "barcode": "3229820791081",
+      "product_name": "Gaufres Miel",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de blé* 27%, sirop de blé*, graisses végétales* (huile de tournesol*, beurre de cacao*), sucre de canne* non raffiné, miel* 12%, son de blé* 1,7%, sel de mer, œufs* entiers en poudre, émulsifiant: lécithines*, poudre à lever carbonates de sodium, cannelle*, jus de citron*. Peut contenir des traces de lait et de fruits à coque. *Ingrédients biologiques.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.828369+00:00"
+    },
+    "3229820181738": {
+      "barcode": "3229820181738",
+      "product_name": "Biscuits Farine de Blé et Graines de Sésame",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de blé* 47%, Sucre de canne* roux non raffiné , Farine de blé* complète 15%, Graines de sésame* 13% , Huile de tournesol* oléique , Sel marin, Poudres à lever (carbonates d'ammonium, carbonates de sodium, acide citrique ), Antioxydant: extraits de romarin* .",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.831742+00:00"
+    },
+    "3229820765365": {
+      "barcode": "3229820765365",
+      "product_name": "Ramen saveur boeuf",
+      "store": "carrefour.fr",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Nouilles  (Farine de blé 61%, eau, amidon acétylé, gluten de blé, sel, huile de soja, correcteurs d'acidité: acide lactique, carbonates de sodium), \r\nAssaisonnement saveur boeuf (Sel, sucre, maltodextrine de maïs, extrait de levure, épices en poudre (poivre noir, gingembre, cannelle, cumin, piment de la Jamaïque), extrait de malt de blé en poudre, arôme saveur boeuf [sauce soja (sel, sucre, extrait de levure, fèves de soja, graines de sésame, ail en poudre, oignons en poudre), sel, extrait de levure, sucre, maltodextrine de mais, huile de tournesol, amidon de maïs, exhausteur de goût: 5'-ribonucleotide disodique], exhausteur de goût: 5'-ribonucleotide disodique; sauce soja en poudre (sel, sucre, extrait de levure, fèves de soja, graines de sésame, ail en poudre, oignons en poudre, huile de tournesol), persil, huile de tournesol, antiagglomérant: carbonates de sodium; correcteur d'acidité : acide citrique)",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.856226+00:00"
+    },
+    "3229820764443": {
+      "barcode": "3229820764443",
+      "product_name": "Sablissime chocolat au lait",
+      "store": "carrefour.fr",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de blé*, chocolat au lait* 23% (sucre de canne*, beurre de cacao*, poudre de lait entier*, pâte de cacao*, extrait de vanille*), farine complète de blé* 19%, sucre de canne non raffiné*, beurre*, huile de colza, farine d'avoine, poudre à lever: carbonates de sodium. *ingrédients biologiques",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.895753+00:00"
     }
   }
 }

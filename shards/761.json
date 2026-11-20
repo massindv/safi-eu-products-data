@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "761",
-  "count": 9,
-  "updated_at": "2026-11-20T15:34:04.672828+00:00",
+  "count": 13,
+  "updated_at": "2026-11-20T16:02:23.987340+00:00",
   "products": {
     "7613036394109": {
       "barcode": "7613036394109",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.591484+00:00"
+      "updated_at": "2026-11-20T16:02:23.707808+00:00"
     },
     "7613036961684": {
       "barcode": "7613036961684",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.594545+00:00"
+      "updated_at": "2026-11-20T16:02:23.711673+00:00"
     },
     "7613031564705": {
       "barcode": "7613031564705",
@@ -76,7 +76,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T15:34:04.616786+00:00"
+      "updated_at": "2026-11-20T16:02:23.748353+00:00"
     },
     "7613036956031": {
       "barcode": "7613036956031",
@@ -96,7 +96,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T15:34:04.616927+00:00"
+      "updated_at": "2026-11-20T16:02:23.748506+00:00"
     },
     "7613036504706": {
       "barcode": "7613036504706",
@@ -116,7 +116,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T15:34:04.617595+00:00"
+      "updated_at": "2026-11-20T16:02:23.749229+00:00"
     },
     "7613032996666": {
       "barcode": "7613032996666",
@@ -137,7 +137,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 insect colorant",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T15:34:04.617797+00:00"
+      "updated_at": "2026-11-20T16:02:23.749457+00:00"
     },
     "7613036669146": {
       "barcode": "7613036669146",
@@ -155,7 +155,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.619435+00:00"
+      "updated_at": "2026-11-20T16:02:23.751296+00:00"
     },
     "7613032655495": {
       "barcode": "7613032655495",
@@ -173,7 +173,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.620753+00:00"
+      "updated_at": "2026-11-20T16:02:23.752850+00:00"
     },
     "7613287514325": {
       "barcode": "7613287514325",
@@ -191,7 +191,79 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.621609+00:00"
+      "updated_at": "2026-11-20T16:02:23.753858+00:00"
+    },
+    "7613035859098": {
+      "barcode": "7613035859098",
+      "product_name": "NESTLÉ DESSERT 70% Absolu 170g",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Pâte de cacao¹ (Afrique de l'Ouest, Amérique du Sud), sucre, beurre de cacao¹, BEURRE pâtissier, arôme naturel de vanille de Madagascar. Peut contenir : FRUITS À COQUE. Cacao : 70% minimum. *Bilan massique certifié Rainforest Alliance www.ra.org",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.828795+00:00"
+    },
+    "7613287461124": {
+      "barcode": "7613287461124",
+      "product_name": "KitKat Vegan",
+      "store": "ah.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Krokante wafel omhuld met chocolade couverture (66%) Ingrediënten: Suiker, cacaoboter, TARWEmeel (met toegevoegde calcium, niacine, ijzer en vitamine B1), maisvezel, rijststroop, cacaomassa', plantaardige vetten&quot; (palmpit, palm), magere cacao' emulgator (lecithinen), naturlijk vanillearoma, gist, rijsmiddel (natriumcarbonaten).",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.843647+00:00"
+    },
+    "7610058207714": {
+      "barcode": "7610058207714",
+      "product_name": "les ficelles olives",
+      "store": "carrefour.fr",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLE, preparations d'olives vertes et noires (olives vertes hachees (15%), olives noires hachees (1%), capres, huile de tournesol, epices, sel, correcteurs d'acidite (acide lactique, acide citrique), antioxydant (acide ascorbique)), BEURRE, levure, huile d'olive (3.5%), sel, LAIT ecreme en poudre, extrait de malt d'orge, ail en poudre, basilic seche, sucre, poudre a lever (bicarbonate de sodium), concentre de citron, cacao en poudre, poivre, acerola en poudre (sur fecule de manioc). peut contenir des morceaux de noyaux d'olives.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.895422+00:00"
+    },
+    "7614800170004": {
+      "barcode": "7614800170004",
+      "product_name": "Butterfly",
+      "store": "carrefour.fr",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de blé, sucre, beurre 14%, amandes 10%, fécule de pomme de terre, crème, poudre à lever (carbonates de sodium), sel. Peut contenir des traces de: œuf, autres fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.897949+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "801",
-  "count": 2,
-  "updated_at": "2026-11-20T15:34:04.674910+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:02:23.990522+00:00",
   "products": {
     "8019873924100": {
       "barcode": "8019873924100",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.565097+00:00"
+      "updated_at": "2026-11-20T16:02:23.677995+00:00"
     },
     "8019440003993": {
       "barcode": "8019440003993",
@@ -47,7 +47,81 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T15:34:04.615856+00:00"
+      "updated_at": "2026-11-20T16:02:23.747308+00:00"
+    },
+    "8012666520435": {
+      "barcode": "8012666520435",
+      "product_name": "Taralli Lunghi Di Barletta",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "farine de _blé_,vin blanc, huile d'olive (16%), sel, piment (0,6%), levure.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.812359+00:00"
+    },
+    "8013355999143": {
+      "barcode": "8013355999143",
+      "product_name": "Gocciole classiche pav 500 gr",
+      "store": "delhaize.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLÉ, sucre, chocolat 14,6%* (sucre, pâte de cacao, beurre de cacao, cacao maigre, émulsifiant : lécithine de SOJA), huile de tournesol, BEURRE, sirop de glucose, amidon de BLÉ, poudres à lever (carbonate acide de sodium, carbonate acide d'ammonium), sel, arôme vanilline. *% exprimé sur le produit fini. Peut contenir des traces de FRUITS À COQUE, MOUTARDE, SÉSAME et OEUFS.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.848382+00:00"
+    },
+    "8011119013685": {
+      "barcode": "8011119013685",
+      "product_name": "Fettuccine",
+      "store": "delhaize.be",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.862407+00:00"
+    },
+    "8011119013708": {
+      "barcode": "8011119013708",
+      "product_name": "Fettucine con basilico",
+      "store": "delhaize.be",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.862430+00:00"
     }
   }
 }

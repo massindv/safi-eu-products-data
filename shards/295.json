@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "prefix": "295",
+  "count": 3,
+  "updated_at": "2026-11-20T16:02:23.925214+00:00",
+  "products": {
+    "2951726703134": {
+      "barcode": "2951726703134",
+      "product_name": "Comte AOC",
+      "store": "carrefour.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:02:23.793807+00:00"
+    },
+    "2952702601987": {
+      "barcode": "2952702601987",
+      "product_name": "Gouda jeune",
+      "store": "carrefour.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:02:23.799764+00:00"
+    },
+    "2953428202649": {
+      "barcode": "2953428202649",
+      "product_name": "Morbier AOC",
+      "store": "carrefour.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:02:23.799779+00:00"
+    }
+  }
+}

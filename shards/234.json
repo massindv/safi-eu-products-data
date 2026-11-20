@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "234",
-  "count": 2,
-  "updated_at": "2026-11-20T15:34:04.638170+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:02:23.921215+00:00",
   "products": {
     "2348740404671": {
       "barcode": "2348740404671",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:34:04.609956+00:00"
+      "updated_at": "2026-11-20T16:02:23.741235+00:00"
     },
     "2346726502656": {
       "barcode": "2346726502656",
@@ -40,7 +40,47 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:34:04.611450+00:00"
+      "updated_at": "2026-11-20T16:02:23.743012+00:00"
+    },
+    "2340110906846": {
+      "barcode": "2340110906846",
+      "product_name": "Belegen Geitenkaas 50+",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Geitenmelk, zout, zuursel, vegetarisch stremsel",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.790057+00:00"
+    },
+    "2340621103093": {
+      "barcode": "2340621103093",
+      "product_name": "Bleu d'Auvergne",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Melk, zout, zuursel, stremsel blauwschimmelcultuur. \\",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.790224+00:00"
     }
   }
 }

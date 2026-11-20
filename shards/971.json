@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "971",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:24.022321+00:00",
+  "products": {
+    "9719052327157": {
+      "barcode": "9719052327157",
+      "product_name": "Tomatenketchup",
+      "store": "jumbo.com",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.881179+00:00"
+    }
+  }
+}

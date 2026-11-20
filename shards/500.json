@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "500",
-  "count": 4,
-  "updated_at": "2026-11-20T15:34:04.658229+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T16:02:23.956701+00:00",
   "products": {
     "5000232957283": {
       "barcode": "5000232957283",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.552405+00:00"
+      "updated_at": "2026-11-20T16:02:23.665840+00:00"
     },
     "5000232957306": {
       "barcode": "5000232957306",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.552491+00:00"
+      "updated_at": "2026-11-20T16:02:23.665925+00:00"
     },
     "5000159560979": {
       "barcode": "5000159560979",
@@ -85,7 +85,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.564327+00:00"
+      "updated_at": "2026-11-20T16:02:23.677310+00:00"
     },
     "5000111041010": {
       "barcode": "5000111041010",
@@ -112,7 +112,61 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.597091+00:00"
+      "updated_at": "2026-11-20T16:02:23.715034+00:00"
+    },
+    "5000426171518": {
+      "barcode": "5000426171518",
+      "product_name": "AFTER EIGHT Coffret 300g",
+      "store": "delhaize.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sucre, pâte de cacao, sirop de glucose, matières grasses végétales (palme, karité, palmiste), beurre de cacao, matière grasse de LAIT anhydre, émulsifiant (lécithines), stabilisant (invertase), huile essentielle de menthe poivrée, acidifiant (acide citrique). Peut contenir : ARACHIDES, FRUITS A COQUE (NOISETTES) et LAIT.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.848528+00:00"
+    },
+    "5000328244389": {
+      "barcode": "5000328244389",
+      "product_name": "Pop works",
+      "store": "delhaize.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sojaproteïne (35%) (bevat sulmeten), cassave, tapiocameel, zoete barbecuesmaak [suiker, zeezout, azijnpoeder, tomaten-, knoflook-, uienpoeder, sojaproteïne, gistextract, voedingszuur, (citroenzuur), specerijen, rookaroma, aroma), zonnebloemolie, tapiocazetmeel, suiker, solavezels, zout, knoflookpoeder, kleurstof (paprika-extract).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.852037+00:00"
+    },
+    "5000175407623": {
+      "barcode": "5000175407623",
+      "product_name": "Curry",
+      "store": "delhaize.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.889154+00:00"
     }
   }
 }

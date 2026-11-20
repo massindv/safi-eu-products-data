@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "590",
-  "count": 2,
-  "updated_at": "2026-11-20T15:34:04.671147+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:02:23.983637+00:00",
   "products": {
     "5906259705879": {
       "barcode": "5906259705879",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.553837+00:00"
+      "updated_at": "2026-11-20T16:02:23.667236+00:00"
     },
     "5900563001078": {
       "barcode": "5900563001078",
@@ -47,7 +47,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:34:04.626761+00:00"
+      "updated_at": "2026-11-20T16:02:23.760096+00:00"
+    },
+    "5900951311321": {
+      "barcode": "5900951311321",
+      "product_name": "Mars",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Zucker, Glukosesirup, Magermilchpulver, Kakaobutter, Kakaomasse, Sonnenblumenöl, Molkepermeat (Milch), Palmfett, Butterreinfett (Milch), fettarme Kakaopulver, Gerstenmalzextrakt, Salz, Emulgator (Sojalecithin Hühnerei-Trockeneiweiss, (Kann enthalten: Erdnüsse, andere Nüsse), Milchschokolade enthält neben Kakaobutter auch andere pflanzliche Fette,",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.830622+00:00"
     }
   }
 }

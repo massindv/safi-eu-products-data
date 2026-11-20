@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "235",
-  "count": 4,
-  "updated_at": "2026-11-20T15:34:04.638456+00:00",
+  "count": 10,
+  "updated_at": "2026-11-20T16:02:23.921542+00:00",
   "products": {
     "2351881202006": {
       "barcode": "2351881202006",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T15:34:04.612565+00:00"
+      "updated_at": "2026-11-20T16:02:23.744406+00:00"
     },
     "2351665303509": {
       "barcode": "2351665303509",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T15:34:04.613254+00:00"
+      "updated_at": "2026-11-20T16:02:23.745188+00:00"
     },
     "2352489302419": {
       "barcode": "2352489302419",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T15:34:04.613543+00:00"
+      "updated_at": "2026-11-20T16:02:23.745553+00:00"
     },
     "2351665503534": {
       "barcode": "2351665503534",
@@ -76,7 +76,123 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T15:34:04.613739+00:00"
+      "updated_at": "2026-11-20T16:02:23.745697+00:00"
+    },
+    "2354026308717": {
+      "barcode": "2354026308717",
+      "product_name": "Wapenear Jong Belegen",
+      "store": "jumbo.com",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Gepasteuriseerde MELK, zout, zuursel, dierlijk stremsel, conserveermiddel: E251, kleurstof: E160b(ii).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.787029+00:00"
+    },
+    "2353096904454": {
+      "barcode": "2353096904454",
+      "product_name": "Beemster jong belegen",
+      "store": "jumbo.com",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.787317+00:00"
+    },
+    "2352167801685": {
+      "barcode": "2352167801685",
+      "product_name": "Rookkaas 45+",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_melk_, water, _boter_, maïszetmeel, smeltzout (E339, E452), zout, zuursel, stremsel, conserveermiddel (E251), kleurstof (caroteen, annatto), rook",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.789450+00:00"
+    },
+    "2352420003474": {
+      "barcode": "2352420003474",
+      "product_name": "Kaas 20+ belegen",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Melk*, zout, zuursel, stremsel. Waarvan toegevoegde suikers 0 g per 100 g en waarvan toegevoegd zout 2,00 g per 100 g. Allergie-informatie: bevat melkeiwit. *Weidemelk keurmerk: koeien die minimaal 120 dagen per jaar, 6 uur per dag in de wei lopen.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.789663+00:00"
+    },
+    "2352429908275": {
+      "barcode": "2352429908275",
+      "product_name": "Extra belegen",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.790155+00:00"
+    },
+    "2351991105044": {
+      "barcode": "2351991105044",
+      "product_name": "Geitenkaas belegen 50+",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "geitenmelk, zout, zuursel, vegetarisch stremsel.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.790268+00:00"
     }
   }
 }

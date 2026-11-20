@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "prefix": "236",
+  "count": 2,
+  "updated_at": "2026-11-20T16:02:23.922003+00:00",
+  "products": {
+    "2367519405695": {
+      "barcode": "2367519405695",
+      "product_name": "EU Product",
+      "store": "ah.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Melk*, zout, zuursel, vegetarisch stremsel, kleurstof (E160b[ii]). *Van weidemelk. Allergie-informatie: bevat melkeiwit.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.787625+00:00"
+    },
+    "2367519105113": {
+      "barcode": "2367519105113",
+      "product_name": "Beemster 30+ Oud",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_Melk_*, zout, zuursel, vegetarisch stremsel, kleurstof (E160b[ii])\r\n* Van weidemelk",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.790134+00:00"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "353",
+  "count": 2,
+  "updated_at": "2026-11-20T16:02:23.944085+00:00",
+  "products": {
+    "3533636760002": {
+      "barcode": "3533636760002",
+      "product_name": "Lait sans Lactose",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait a 1% de matieres grasses, lactase",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.800562+00:00"
+    },
+    "3533631722289": {
+      "barcode": "3533631722289",
+      "product_name": "Candy'Up Goût Chocolat allégé",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait partiellement écrémé (80%), perméat de lait reconstitué, sucre (2%), cacao 1,2%, arôme naturel, vitamine D. Contient de la réglisse. Convient aux enfants dès 3 ans. Avant ouverture, à conserver dans un endroit frais et sec.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.801441+00:00"
+    }
+  }
+}

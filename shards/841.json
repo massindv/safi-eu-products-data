@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "841",
-  "count": 4,
-  "updated_at": "2026-11-20T15:34:04.675601+00:00",
+  "count": 11,
+  "updated_at": "2026-11-20T16:02:23.991961+00:00",
   "products": {
     "8410065630586": {
       "barcode": "8410065630586",
@@ -31,7 +31,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.565256+00:00"
+      "updated_at": "2026-11-20T16:02:23.678802+00:00"
     },
     "8410066139231": {
       "barcode": "8410066139231",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.585322+00:00"
+      "updated_at": "2026-11-20T16:02:23.700657+00:00"
     },
     "8410702054065": {
       "barcode": "8410702054065",
@@ -85,7 +85,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.592400+00:00"
+      "updated_at": "2026-11-20T16:02:23.708885+00:00"
     },
     "8410010877592": {
       "barcode": "8410010877592",
@@ -112,7 +112,139 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.603307+00:00"
+      "updated_at": "2026-11-20T16:02:23.721241+00:00"
+    },
+    "8412289001906": {
+      "barcode": "8412289001906",
+      "product_name": "Queso Manchego",
+      "store": "colruyt.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait de brebis pasteurisé de brebis Mancheg,  ferments lactiques (LAIT), sel, présure.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:02:23.783396+00:00"
+    },
+    "8412289000497": {
+      "barcode": "8412289000497",
+      "product_name": "Queso Manchego",
+      "store": "colruyt.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait de brebis pasteurise. _ferments Lactiques_. sel. presure.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:02:23.785026+00:00"
+    },
+    "8410131031576": {
+      "barcode": "8410131031576",
+      "product_name": "Croûtons Caesar",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "FARINE DE _BLÉ_, EAU, HUILE DE TOURNESOL, SEL, GLUTEN DE _BLÉ_, LEVURES, SUCRE, MALTODEXTRINE, _LACTOSERUM_ EN POUDRE, AIL EN POUDRE, OIGNONS EN POUDRE, _FROMAGE_ EN POUDRE, _CRÈME_ EN POUDRE, VINAIGRE D'ALCOOL EN POUDRE, EXHAUSTEUR DE GOÛT: GLUTAMATE DE SODIUM, 5'-RIBONUCLEOTIDE DISODIQUE; CORRECTEUR D'ACIDITÉ : ACIDE CITRIQUE, PLANTES AROMATIQUES, ARÔME, ROMARIN, EXTRAIT D'ÉPICES.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.809242+00:00"
+    },
+    "8412600552452": {
+      "barcode": "8412600552452",
+      "product_name": "Panecillos 100 integral",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "WHOLEMEAL WHEAT FLOUR, WHEAT FLOUR, VEGETABLE OIL (SUNFLOWER) 5,6%, YEAST, SUGAR, MALTED BARLEY EXTRACT( SALT, FLOUR TREATMENT AGENT (E-300)",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.811182+00:00"
+    },
+    "8410076473899": {
+      "barcode": "8410076473899",
+      "product_name": "Barquitas",
+      "store": "carrefour.fr",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "BarquitasTM tortillas de blé extra moelleuses (53%): farine de blé, eau, stabilisant: glycérol; huile de tournesol, poudres à lever: carbonate acide de sodium, diphosphates, phosphates de calcium; émulsifiant: mono et diglycérides d'acides gras; dextrose, sel. \r\n\r\nSauce à napper (39%) : tomates en morceaux (64%), oignons (17%), poivrons vert (11%), concentré de tomates, sel, vinaigre, sucre, jus de citron concentré, piment chili (0.4%), ail en oudre, arôme naturel, correcteur d'acidité: acide citrique; affermissant: chlorure de calcium; amidon modifié de maïs.\r\n\r\n Mélange aux épices (8%): sucre, légumes déshydratés (oignon, ail), sel, protéines hydrolysées de soja, épices (6%) (poivre noir, piment de Cayenne, gingembre), arôme de fumée, correcteurs d'acidité: acide citrique; arômes, extrait de levure, colorant: caramel ordinaire.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.812209+00:00"
+    },
+    "8410376037883": {
+      "barcode": "8410376037883",
+      "product_name": "Galletas Chip Choco Sin Gluten Sin Azúcares Añadidos",
+      "store": "carrefour.fr",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "cornmeal, sugar-free chocolate drops 25% (cocoa paste, sweetener: maltitol (e-965), cocoa butter, emulgent: soy lecithin (e-322), vanilla aroma), sweetener: maltitol (e-965), corn starch, vegetable oil (high oleic sunflower) 19%, rice flour, soybean meal, vegetable fiber, potato starch, gasificants: sodium bicarbonate (e-500 ii) and ammon bicarbonate (e-503 ii), salt, aromas , emulgent: soy lecithin (e-322),",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.831281+00:00"
+    },
+    "8410000810004": {
+      "barcode": "8410000810004",
+      "product_name": "Oreo original box",
+      "store": "delhaize.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "wheat flour, sugar, palm oil, rapeseed oil, wheat starch, low-fat cocoa powder 4,7%, glucose-fructose syrup, raising agents (ammonium carbonates, potassium carbonates, sodium carbonates), salt, emulsifier (soy lecithins), acidity regulator (sodium hydroxide), flavourings, may contain milk,",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.849252+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "233",
-  "count": 2,
-  "updated_at": "2026-11-20T15:34:04.637875+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:02:23.920897+00:00",
   "products": {
     "2335592205389": {
       "barcode": "2335592205389",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:34:04.611601+00:00"
+      "updated_at": "2026-11-20T16:02:23.743170+00:00"
     },
     "2336136402806": {
       "barcode": "2336136402806",
@@ -40,7 +40,43 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:34:04.612149+00:00"
+      "updated_at": "2026-11-20T16:02:23.743799+00:00"
+    },
+    "2333422203277": {
+      "barcode": "2333422203277",
+      "product_name": "Roombrie 60+",
+      "store": "jumbo.com",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.787293+00:00"
+    },
+    "2336146203837": {
+      "barcode": "2336146203837",
+      "product_name": "Goudse kaas 48+",
+      "store": "jumbo.com",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:02:23.787425+00:00"
     }
   }
 }

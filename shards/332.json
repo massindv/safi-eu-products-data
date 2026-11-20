@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "332",
+  "count": 2,
+  "updated_at": "2026-11-20T16:02:23.940731+00:00",
+  "products": {
+    "3329757003926": {
+      "barcode": "3329757003926",
+      "product_name": "Confiture de fraise",
+      "store": "carrefour.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Fraises, sucre, eau, jus de citron concentré, jus de sureau concentré, gélifiant : pectines, édulcorant : glycosides de stéviol issus de Stevia",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:02:23.774087+00:00"
+    },
+    "3329770051072": {
+      "barcode": "3329770051072",
+      "product_name": "Petit Yoplait",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "LAIT écrémé et CREME pasteurisés - Poudre de LAIT écrémé - Ferments LACTIQUES - Papier traité au sorbate de potassium,\r\nLAIT D'ORIGINE FRANCE",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.799858+00:00"
+    }
+  }
+}

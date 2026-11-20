@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "520",
-  "count": 1,
-  "updated_at": "2026-11-20T15:34:04.661090+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:02:23.959484+00:00",
   "products": {
     "5201168915013": {
       "barcode": "5201168915013",
@@ -31,7 +31,43 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.578947+00:00"
+      "updated_at": "2026-11-20T16:02:23.693042+00:00"
+    },
+    "5201054015681": {
+      "barcode": "5201054015681",
+      "product_name": "FAGE Total 0%",
+      "store": "ah.be",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Afgeroomde melk, levende yoghurtfermenten.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.804598+00:00"
+    },
+    "5201077204475": {
+      "barcode": "5201077204475",
+      "product_name": "Pâtes Grecques",
+      "store": "delhaize.be",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.861632+00:00"
     }
   }
 }

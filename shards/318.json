@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "318",
-  "count": 4,
-  "updated_at": "2026-11-20T15:34:04.648055+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T16:02:23.934900+00:00",
   "products": {
     "3180940079506": {
       "barcode": "3180940079506",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.607428+00:00"
+      "updated_at": "2026-11-20T16:02:23.738554+00:00"
     },
     "3182180001477": {
       "barcode": "3182180001477",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.619827+00:00"
+      "updated_at": "2026-11-20T16:02:23.751772+00:00"
     },
     "3182180001996": {
       "barcode": "3182180001996",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.620268+00:00"
+      "updated_at": "2026-11-20T16:02:23.752287+00:00"
     },
     "3182180002542": {
       "barcode": "3182180002542",
@@ -76,7 +76,61 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.622226+00:00"
+      "updated_at": "2026-11-20T16:02:23.754576+00:00"
+    },
+    "3184670001141": {
+      "barcode": "3184670001141",
+      "product_name": "La Faisselle",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "pasteurized milk,",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.779398+00:00"
+    },
+    "3184670010532": {
+      "barcode": "3184670010532",
+      "product_name": "Le Crottin de Chèvre",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_Lait_ de chèvre pasteurisé.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.780049+00:00"
+    },
+    "3184670010525": {
+      "barcode": "3184670010525",
+      "product_name": "Crottin de Chavignol",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.790894+00:00"
     }
   }
 }

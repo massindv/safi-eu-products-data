@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "611",
+  "count": 1,
+  "updated_at": "2026-11-20T16:02:23.984837+00:00",
+  "products": {
+    "6111032004448": {
+      "barcode": "6111032004448",
+      "product_name": "Danup fraise",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "حليب بدون قشدة ، سكر، مسحوق الحليب بدون قشدة ، مصل الحليب ، قشدة. جزا (نشا) ، زبدة ، مادة ذهنية نباتية جوز الهند) لیات ، خمائر حليبية لليوغرت ، معادن (كالسيوم حديد) (فيتامينات: فيتامين B6، فيتامين (D3) مد: 138",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.800104+00:00"
+    }
+  }
+}

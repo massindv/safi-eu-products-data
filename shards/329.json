@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "prefix": "329",
+  "count": 3,
+  "updated_at": "2026-11-20T16:02:23.939725+00:00",
+  "products": {
+    "3292070008476": {
+      "barcode": "3292070008476",
+      "product_name": "Houmous aux poivrons",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Pois chiches 44% - poivrons grillés 31% - huile de colza - eau - pâte de graines de sésame 6% - sel - acidifiant: E270 - sucre - ras el hanout 0,1% - conservateur E202",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.868256+00:00"
+    },
+    "3292070008841": {
+      "barcode": "3292070008841",
+      "product_name": "Houmous extra aux tomates sechees",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Pois chiches 45%, eau, huile de colza, tomates séchées 8% (tomates, sel, sirop de glucose, acidifiant : E330 et E300, conservateur E202), pâte de _graines de sésame, double concentré de tomate, sel, acidifiant : E330, basilic citron, basilic 0,5%, ail 0,5%, conservateur : E202.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.868607+00:00"
+    },
+    "3292070001781": {
+      "barcode": "3292070001781",
+      "product_name": "guacamole",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Avocat 90%, poivron rouge 3%, oignon, sel, coriandre, piment Jalapeno rouge, sucre, jus de citron vert concentré, cumin en poudre, piment fort, extrait d'épices, épaississant : E415, conservateur : E202, antioxydant : E300, correcteur d'acidité : E330,",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.868931+00:00"
+    }
+  }
+}

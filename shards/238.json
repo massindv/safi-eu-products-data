@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "238",
-  "count": 3,
-  "updated_at": "2026-11-20T15:34:04.639103+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:02:23.922603+00:00",
   "products": {
     "2385407906796": {
       "barcode": "2385407906796",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T15:34:04.612554+00:00"
+      "updated_at": "2026-11-20T16:02:23.744393+00:00"
     },
     "2389232803169": {
       "barcode": "2389232803169",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T15:34:04.613714+00:00"
+      "updated_at": "2026-11-20T16:02:23.745681+00:00"
     },
     "2389221403561": {
       "barcode": "2389221403561",
@@ -58,7 +58,61 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T15:34:04.614950+00:00"
+      "updated_at": "2026-11-20T16:02:23.746512+00:00"
+    },
+    "2385306403358": {
+      "barcode": "2385306403358",
+      "product_name": "Geitenkaas 30+",
+      "store": "ah.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.788146+00:00"
+    },
+    "2389282207375": {
+      "barcode": "2389282207375",
+      "product_name": "jong 48+",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.790180+00:00"
+    },
+    "2385323003319": {
+      "barcode": "2385323003319",
+      "product_name": "Zaanlander 35+",
+      "store": "ah.nl",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:02:23.790290+00:00"
     }
   }
 }

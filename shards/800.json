@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "800",
-  "count": 12,
-  "updated_at": "2026-11-20T15:34:04.674275+00:00",
+  "count": 28,
+  "updated_at": "2026-11-20T16:02:23.989543+00:00",
   "products": {
     "8002230000302": {
       "barcode": "8002230000302",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.569889+00:00"
+      "updated_at": "2026-11-20T16:02:23.683506+00:00"
     },
     "8001240140930": {
       "barcode": "8001240140930",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.577313+00:00"
+      "updated_at": "2026-11-20T16:02:23.691147+00:00"
     },
     "8001240100590": {
       "barcode": "8001240100590",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.577423+00:00"
+      "updated_at": "2026-11-20T16:02:23.691278+00:00"
     },
     "8001240140954": {
       "barcode": "8001240140954",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.577545+00:00"
+      "updated_at": "2026-11-20T16:02:23.691435+00:00"
     },
     "8002270986765": {
       "barcode": "8002270986765",
@@ -137,7 +137,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.587786+00:00"
+      "updated_at": "2026-11-20T16:02:23.703520+00:00"
     },
     "8001935361404": {
       "barcode": "8001935361404",
@@ -164,7 +164,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.599183+00:00"
+      "updated_at": "2026-11-20T16:02:23.717083+00:00"
     },
     "8000050016275": {
       "barcode": "8000050016275",
@@ -191,7 +191,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:34:04.603417+00:00"
+      "updated_at": "2026-11-20T16:02:23.721360+00:00"
     },
     "8007660325216": {
       "barcode": "8007660325216",
@@ -211,7 +211,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:34:04.611853+00:00"
+      "updated_at": "2026-11-20T16:02:23.743449+00:00"
     },
     "8003334326121": {
       "barcode": "8003334326121",
@@ -231,7 +231,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:34:04.611903+00:00"
+      "updated_at": "2026-11-20T16:02:23.743504+00:00"
     },
     "8007660325414": {
       "barcode": "8007660325414",
@@ -251,7 +251,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:34:04.611928+00:00"
+      "updated_at": "2026-11-20T16:02:23.743531+00:00"
     },
     "8002470023727": {
       "barcode": "8002470023727",
@@ -269,7 +269,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:34:04.621114+00:00"
+      "updated_at": "2026-11-20T16:02:23.753273+00:00"
     },
     "8000830000999": {
       "barcode": "8000830000999",
@@ -287,7 +287,299 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:34:04.624525+00:00"
+      "updated_at": "2026-11-20T16:02:23.757368+00:00"
+    },
+    "8001060001886": {
+      "barcode": "8001060001886",
+      "product_name": "Sauce peperoni e melanzane",
+      "store": "carrefour.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Poivrons rouges 26% Pure tomate Huile de tournesol, Aubergines 11%, Crème en poudre (CREME LAIT ente Ogron Sel marin, Persil séché, Vinaigre de vin, Origan, Ail en poudre, Oignon en poudre Side Aromes Correcteur d'acidité: Acide lactique, Antioxydants: ANHYDRIDE SULFUREUX Veus nutritionnelles",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:02:23.776722+00:00"
+    },
+    "8000430138719": {
+      "barcode": "8000430138719",
+      "product_name": "mozzarella",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "LAIT entier pasteurisé (origine UE), sel, correcteur d'acidité : acide citrique",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.779372+00:00"
+    },
+    "8002710400219": {
+      "barcode": "8002710400219",
+      "product_name": "Burrata MAXI ITALIANA",
+      "store": "ah.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.788338+00:00"
+    },
+    "8002710402978": {
+      "barcode": "8002710402978",
+      "product_name": "Zanetti Mini burratine",
+      "store": "ah.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.788813+00:00"
+    },
+    "8008698003152": {
+      "barcode": "8008698003152",
+      "product_name": "CIABATTA RUSTICA - Petits pavés aux graines précuits",
+      "store": "ah.be",
+      "category": "breads",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Majsstärkelse/maisstivelse, surdeg 14% (rismjöl, vatten/vann), vatten/vann, rismjöl, solrosfrö/solsikkekerner 7%, bovetemjöl/bokhvetemel/boghvedemel 5,5%, linfrö/hørfrø 5%, jäst/gær, vegetabiliska fibrer/vegetabilske fibre (psyllium, bambu), äppelextrakt/æble ekstrakt, risstärkelse/-stivelse, förtjockningsmedel/fortykningsmiddel: hydroxipropylmetylcellulosa; solrosolja/solsikkeolie, rissirap/-sirup, fullkornsrismjöl/-mel, SOJAPROTEIN, hirsmjöl/-mel, extra jungfruolivolja,/ekstra jomfruolivenolie, havssalt/havsalt, syra/syre: citronsyra, vinsyra.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.818293+00:00"
+    },
+    "80052043": {
+      "barcode": "80052043",
+      "product_name": "TIC TAC Fresh Mint",
+      "store": "delhaize.be",
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "sugar, maltodextrin, fructose, thickener: gum arabic, rice starch, aromas, mint essential oil, coating agent: carnauba wax",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.849063+00:00"
+    },
+    "8007290335098": {
+      "barcode": "8007290335098",
+      "product_name": "Gnocchetti bio intégrales",
+      "store": "carrefour.fr",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Semoule biologique de blé entier. Peut contenir traces des soja et moutarde.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.859335+00:00"
+    },
+    "8005658018058": {
+      "barcode": "8005658018058",
+      "product_name": "Agnolotti gorgonzola et noix",
+      "store": "carrefour.fr",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Ricotta 28% (LACTOSERUM, LAIT, sel), farine de BLÉ tendre 27%, ŒUFS (poules élevées au sol) 13%, semoule de BLÉ dur 11%, Gorgonzola AOP 5% (LAIT, sel, présure), NOIX 4%, eau, mozzarella (LAIT, sel, ferments lactiques, présure), chapelure (farine de BLÉ, levure, sel); sel, fromage râpé (LAIT, sel, présure, conservateur lysozyme d'ŒUF), Grana Padano AOP (LAIT, sel, présure, conservateur : lysozyme d'ŒUF), farine de riz.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.860184+00:00"
+    },
+    "8001665701495": {
+      "barcode": "8001665701495",
+      "product_name": "Tagliatelle",
+      "store": "carrefour.fr",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "semoule de _blé_ dur, _oeufs_ 18%, eau.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.860225+00:00"
+    },
+    "8005709205048": {
+      "barcode": "8005709205048",
+      "product_name": "Il Fusillone",
+      "store": "delhaize.be",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.861552+00:00"
+    },
+    "8006013100302": {
+      "barcode": "8006013100302",
+      "product_name": "Penne",
+      "store": "delhaize.be",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.861567+00:00"
+    },
+    "8006013100296": {
+      "barcode": "8006013100296",
+      "product_name": "Spaghetti Alla Chitara",
+      "store": "delhaize.be",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.861765+00:00"
+    },
+    "8006013100272": {
+      "barcode": "8006013100272",
+      "product_name": "Tagliolini",
+      "store": "delhaize.be",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.861818+00:00"
+    },
+    "8006013995670": {
+      "barcode": "8006013995670",
+      "product_name": "Girasoli aux légumes",
+      "store": "delhaize.be",
+      "category": "pasta",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:02:23.862328+00:00"
+    },
+    "8001310003448": {
+      "barcode": "8001310003448",
+      "product_name": "PESTO alla genovese crémeux",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Huile de tournesol, basilic 32 %, NOIX DE CAJOU 5%, FROMAGE GRANA PADANO AOP 4,6 % ( contient OEUF ), sel, crème de LAIT 3,5%, huile d'olive extra vierge 2 %, FROMAGE PECORINO ROMANO AOP 1,2 %, pignons de pin, ail, correcteur d'acidité : acide lactique, persil.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.870380+00:00"
+    },
+    "8003979005122": {
+      "barcode": "8003979005122",
+      "product_name": "Pesto alla genovese",
+      "store": "ah.be",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "vegan pesto prepared with tofu and hala basil, ingrediènter: talion basil (31%), sunflower oil, cashew nuts, extra viergė oliveólie, tofu (5%) (water, soy), zot, pine pitteri, garlic, àntiáxidant: ascoibine acid, acidity regulator: citric acid, may contain groundnuts and other nuts, glutenvrj, pesto génois végétalien préparé avec tofu et acidifiant: pin, ail, antiaxydant: ácide ascorbique, nord salse sr via rossana, 7 12026 piasoo (cn) haly pour plus d'info:  www,puro-taste,com info@puro-taste,com net weight:/ poids net: 135g",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:02:23.884315+00:00"
     }
   }
 }

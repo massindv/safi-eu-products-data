@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "prefix": "326",
+  "count": 2,
+  "updated_at": "2026-11-20T16:02:23.937767+00:00",
+  "products": {
+    "3267031040581": {
+      "barcode": "3267031040581",
+      "product_name": "Camembert de Normandie AOP au Lait Cru (22% MG)",
+      "store": "carrefour.fr",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_Lait_ cru de vache, présure animale, sel, _ferments lactiques_ et d'affinage.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.780635+00:00"
+    },
+    "3265470000852": {
+      "barcode": "3265470000852",
+      "product_name": "Mayonnaise BIO",
+      "store": "carrefour.fr",
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Huile de tournesol, eau, jaune d'_œuf_ de poules élevées en plein air 5,2 %, moutarde de Dijon (eau, graines de _moutarde_, vinaigre de cidre, sel), vinaigres, sel, sucre, amidon, jus de citron concentré, épaississant : gomme xanthane, arôme naturel,",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:02:23.869857+00:00"
+    }
+  }
+}
