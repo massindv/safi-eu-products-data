@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "303",
-  "count": 1,
-  "updated_at": "2026-11-20T15:01:28.052028+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T15:34:04.641510+00:00",
   "products": {
     "3038352910101": {
       "barcode": "3038352910101",
@@ -22,7 +22,27 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:01:28.043664+00:00"
+      "updated_at": "2026-11-20T15:34:04.608041+00:00"
+    },
+    "3033610061816": {
+      "barcode": "3033610061816",
+      "product_name": "Magret canard fumé Labeyrie",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Magret de Canard du Sud-Ouest, sel, poivre, épices, antioxydant: ascorbate de sodium, conservateur: nitrite de sodium, ferments",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618555+00:00"
     }
   }
 }

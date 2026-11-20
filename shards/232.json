@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "232",
-  "count": 2,
-  "updated_at": "2026-11-20T15:01:28.050629+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T15:34:04.637282+00:00",
   "products": {
     "2324451605262": {
       "barcode": "2324451605262",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:01:28.046932+00:00"
+      "updated_at": "2026-11-20T15:34:04.611182+00:00"
     },
     "2324451705238": {
       "barcode": "2324451705238",
@@ -38,7 +38,27 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:01:28.046984+00:00"
+      "updated_at": "2026-11-20T15:34:04.611233+00:00"
+    },
+    "2327600302296": {
+      "barcode": "2327600302296",
+      "product_name": "Grillworst",
+      "store": "ah.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "80% varkensvlees, water, TARWEzetmeel, voedingszuur (E326, E262), zout, specerijen (o.a. MOSTERD, SELDERIJ), dextrose, MELKeiwit, stabilisator (E451, E450), smaakversterker (E621), TARWEmeel, zuurteregelaar (E575), rookaroma, conserveermiddel (E250), verdikkingsmiddel (E415), zuurteregelaar (E331)",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T15:34:04.613115+00:00"
     }
   }
 }

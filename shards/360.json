@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "prefix": "360",
+  "count": 3,
+  "updated_at": "2026-11-20T15:34:04.655448+00:00",
+  "products": {
+    "3608580157885": {
+      "barcode": "3608580157885",
+      "product_name": "Be Nuts 100% Purée Cacahuète",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "cacahuètes torréfiées",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.621668+00:00"
+    },
+    "3608580758686": {
+      "barcode": "3608580758686",
+      "product_name": "Confiture extra de Fraises",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Fraises, sucre, sucre roux de canne, jus de citrons concentré, gélifiant (pectine de fruits).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.622287+00:00"
+    },
+    "3600900011037": {
+      "barcode": "3600900011037",
+      "product_name": "Quinoa Gourmand",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Quinoa (51%), Boulgour (31,5%), semoule de blé dur (15%), concassé de blé toasté, épices.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.622979+00:00"
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "801",
-  "count": 1,
-  "updated_at": "2026-11-20T15:01:28.070412+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T15:34:04.674910+00:00",
   "products": {
     "8019873924100": {
       "barcode": "8019873924100",
@@ -29,7 +29,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:27.981992+00:00"
+      "updated_at": "2026-11-20T15:34:04.565097+00:00"
+    },
+    "8019440003993": {
+      "barcode": "8019440003993",
+      "product_name": "Pancetta Carbonara",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.615856+00:00"
     }
   }
 }

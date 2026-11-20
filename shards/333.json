@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "333",
+  "count": 1,
+  "updated_at": "2026-11-20T15:34:04.652516+00:00",
+  "products": {
+    "3330720244017": {
+      "barcode": "3330720244017",
+      "product_name": "Confiture fraise sans sucre ajoutes",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Fraise 65g*, fibres végétales solubles 45,1g*, gélifiants: pectine, jus de citron concentré.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.622436+00:00"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "version": "1.0",
+  "prefix": "272",
+  "count": 3,
+  "updated_at": "2026-11-20T15:34:04.640633+00:00",
+  "products": {
+    "2723326008038": {
+      "barcode": "2723326008038",
+      "product_name": "EU Product",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "CARREFOUR POULET ROTI CB CARREFOUR GEBRADEN KIP CR N°Lot:537 2010 133 Tare (kg): 0,008 Max 4°C €/kg 8.43 consommer jusqu au: gebruiken tot: 16.05.20 8,03€ 0,952kg 2 |172 332 6 008038 Poids net / Neto gevicht 3720101339765095208037751 PREPARE SUR PLACE Si acheté chaud, à consommer immédiatement. A défaut, à conserver au Compositon: viande de poulet, glaçure, épices ALLergènes: S0JA, BLE, CELERI, MOUTARDE frais (0-7°C) BEREID TER PLAASTE Samenstelling: kippenuLees, glazuur, specerijen ALLergenen: S0JR. TARWE, SELDERIJ. MOSTERD Indien Harm gekocht, onmiddellijk te gebruikan Anders kael bewaren (0-7 C) sa Dufrais B-4880 Aubol Mer",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618366+00:00"
+    },
+    "2726386012687": {
+      "barcode": "2726386012687",
+      "product_name": "poulet",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618656+00:00"
+    },
+    "2725101003320": {
+      "barcode": "2725101003320",
+      "product_name": "Bio haché porc bœuf",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "75% viande de porc*, 19% viande de boeuf, oeufs*, sel, plantes aromatiques*, dextrose*, antioxydant: acide ascorbique. Peut contenir des traces de soja, lait, gluten, moutarde et céleri",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618806+00:00"
+    }
+  }
+}

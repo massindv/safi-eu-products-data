@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "807",
-  "count": 2,
-  "updated_at": "2026-11-20T15:01:28.070781+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T15:34:04.675195+00:00",
   "products": {
     "8076800195057": {
       "barcode": "8076800195057",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:28.007280+00:00"
+      "updated_at": "2026-11-20T15:34:04.583212+00:00"
     },
     "8076800195019": {
       "barcode": "8076800195019",
@@ -56,7 +56,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:28.007490+00:00"
+      "updated_at": "2026-11-20T15:34:04.583326+00:00"
+    },
+    "8076809513722": {
+      "barcode": "8076809513722",
+      "product_name": "Basilico",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Pulpe de tomates 72%, concentré de tomates 14%, oignons, huile de tournesol, basilic 2%, sucre, sel, arôme naturel.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.619891+00:00"
     }
   }
 }

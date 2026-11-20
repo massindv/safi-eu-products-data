@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "540",
-  "count": 39,
-  "updated_at": "2026-11-20T15:01:28.063238+00:00",
+  "count": 120,
+  "updated_at": "2026-11-20T15:34:04.661393+00:00",
   "products": {
     "5400141763997": {
       "barcode": "5400141763997",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044308+00:00"
+      "updated_at": "2026-11-20T15:34:04.608622+00:00"
     },
     "5400141380866": {
       "barcode": "5400141380866",
@@ -40,7 +40,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044330+00:00"
+      "updated_at": "2026-11-20T15:34:04.608642+00:00"
     },
     "5400141186376": {
       "barcode": "5400141186376",
@@ -60,7 +60,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044406+00:00"
+      "updated_at": "2026-11-20T15:34:04.608716+00:00"
     },
     "5400141358575": {
       "barcode": "5400141358575",
@@ -78,7 +78,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044459+00:00"
+      "updated_at": "2026-11-20T15:34:04.608768+00:00"
     },
     "5400141410822": {
       "barcode": "5400141410822",
@@ -96,7 +96,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044473+00:00"
+      "updated_at": "2026-11-20T15:34:04.608784+00:00"
     },
     "5400141423556": {
       "barcode": "5400141423556",
@@ -114,7 +114,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044495+00:00"
+      "updated_at": "2026-11-20T15:34:04.608806+00:00"
     },
     "5400210488165": {
       "barcode": "5400210488165",
@@ -134,7 +134,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044546+00:00"
+      "updated_at": "2026-11-20T15:34:04.608856+00:00"
     },
     "5400141364262": {
       "barcode": "5400141364262",
@@ -155,7 +155,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 insect colorant",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044617+00:00"
+      "updated_at": "2026-11-20T15:34:04.608909+00:00"
     },
     "5400141246131": {
       "barcode": "5400141246131",
@@ -175,7 +175,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044634+00:00"
+      "updated_at": "2026-11-20T15:34:04.608928+00:00"
     },
     "5400141354287": {
       "barcode": "5400141354287",
@@ -195,7 +195,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044781+00:00"
+      "updated_at": "2026-11-20T15:34:04.609071+00:00"
     },
     "5400141324020": {
       "barcode": "5400141324020",
@@ -216,7 +216,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 insect colorant",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044864+00:00"
+      "updated_at": "2026-11-20T15:34:04.609152+00:00"
     },
     "5400141540413": {
       "barcode": "5400141540413",
@@ -236,7 +236,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044887+00:00"
+      "updated_at": "2026-11-20T15:34:04.609177+00:00"
     },
     "5400141324013": {
       "barcode": "5400141324013",
@@ -256,7 +256,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044904+00:00"
+      "updated_at": "2026-11-20T15:34:04.609194+00:00"
     },
     "5400141421248": {
       "barcode": "5400141421248",
@@ -274,7 +274,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044923+00:00"
+      "updated_at": "2026-11-20T15:34:04.609211+00:00"
     },
     "5400101024496": {
       "barcode": "5400101024496",
@@ -292,7 +292,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044940+00:00"
+      "updated_at": "2026-11-20T15:34:04.609227+00:00"
     },
     "5400141325683": {
       "barcode": "5400141325683",
@@ -310,7 +310,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.044954+00:00"
+      "updated_at": "2026-11-20T15:34:04.609241+00:00"
     },
     "5400141324778": {
       "barcode": "5400141324778",
@@ -331,7 +331,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 insect colorant",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045015+00:00"
+      "updated_at": "2026-11-20T15:34:04.609302+00:00"
     },
     "5400141242904": {
       "barcode": "5400141242904",
@@ -351,7 +351,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045135+00:00"
+      "updated_at": "2026-11-20T15:34:04.609409+00:00"
     },
     "5400141890365": {
       "barcode": "5400141890365",
@@ -369,7 +369,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045162+00:00"
+      "updated_at": "2026-11-20T15:34:04.609434+00:00"
     },
     "5400141196764": {
       "barcode": "5400141196764",
@@ -389,7 +389,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045226+00:00"
+      "updated_at": "2026-11-20T15:34:04.609497+00:00"
     },
     "5400141319897": {
       "barcode": "5400141319897",
@@ -407,7 +407,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045242+00:00"
+      "updated_at": "2026-11-20T15:34:04.609512+00:00"
     },
     "5400141323405": {
       "barcode": "5400141323405",
@@ -425,7 +425,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045255+00:00"
+      "updated_at": "2026-11-20T15:34:04.609528+00:00"
     },
     "5400141326291": {
       "barcode": "5400141326291",
@@ -445,7 +445,7 @@
       ],
       "reason": "Contains carmine / E120 insect colorant",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045329+00:00"
+      "updated_at": "2026-11-20T15:34:04.609602+00:00"
     },
     "5400141190458": {
       "barcode": "5400141190458",
@@ -463,7 +463,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045341+00:00"
+      "updated_at": "2026-11-20T15:34:04.609614+00:00"
     },
     "5400141915358": {
       "barcode": "5400141915358",
@@ -483,7 +483,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045359+00:00"
+      "updated_at": "2026-11-20T15:34:04.609632+00:00"
     },
     "5400141478174": {
       "barcode": "5400141478174",
@@ -501,7 +501,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045378+00:00"
+      "updated_at": "2026-11-20T15:34:04.609651+00:00"
     },
     "5400141935240": {
       "barcode": "5400141935240",
@@ -519,7 +519,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045390+00:00"
+      "updated_at": "2026-11-20T15:34:04.609662+00:00"
     },
     "5400141840025": {
       "barcode": "5400141840025",
@@ -537,7 +537,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045407+00:00"
+      "updated_at": "2026-11-20T15:34:04.609681+00:00"
     },
     "5400141197327": {
       "barcode": "5400141197327",
@@ -555,7 +555,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045428+00:00"
+      "updated_at": "2026-11-20T15:34:04.609702+00:00"
     },
     "5400141321494": {
       "barcode": "5400141321494",
@@ -575,7 +575,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045442+00:00"
+      "updated_at": "2026-11-20T15:34:04.609716+00:00"
     },
     "5400141322453": {
       "barcode": "5400141322453",
@@ -593,7 +593,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045460+00:00"
+      "updated_at": "2026-11-20T15:34:04.609733+00:00"
     },
     "5400141012705": {
       "barcode": "5400141012705",
@@ -613,7 +613,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045497+00:00"
+      "updated_at": "2026-11-20T15:34:04.609770+00:00"
     },
     "5400141322781": {
       "barcode": "5400141322781",
@@ -631,7 +631,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045515+00:00"
+      "updated_at": "2026-11-20T15:34:04.609787+00:00"
     },
     "5400141320480": {
       "barcode": "5400141320480",
@@ -651,7 +651,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045541+00:00"
+      "updated_at": "2026-11-20T15:34:04.609813+00:00"
     },
     "5400141069587": {
       "barcode": "5400141069587",
@@ -671,7 +671,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045558+00:00"
+      "updated_at": "2026-11-20T15:34:04.609831+00:00"
     },
     "5400141066951": {
       "barcode": "5400141066951",
@@ -691,7 +691,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045576+00:00"
+      "updated_at": "2026-11-20T15:34:04.609849+00:00"
     },
     "5400141242973": {
       "barcode": "5400141242973",
@@ -709,7 +709,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045595+00:00"
+      "updated_at": "2026-11-20T15:34:04.609865+00:00"
     },
     "5400141375961": {
       "barcode": "5400141375961",
@@ -727,7 +727,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045614+00:00"
+      "updated_at": "2026-11-20T15:34:04.609883+00:00"
     },
     "5400141191059": {
       "barcode": "5400141191059",
@@ -747,7 +747,1533 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T15:01:28.045667+00:00"
+      "updated_at": "2026-11-20T15:34:04.609935+00:00"
+    },
+    "5400111273785": {
+      "barcode": "5400111273785",
+      "product_name": "Nuggets de poulet",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "poulet, pâte à frire [eau, mélange pour pâte à frire (farine de _blé_, amidon (mais, blé, manioc), poudres à lever (pyrophosphate acide de sodium, bicarbonate de sodium), sucre, sel, huile de palme, épices (poivre blanc, poivre noir), maltodextrine, poudre d'ognon, extrait de levure, poudre d'ail, colorant (extrait de paprika), farine de blé], marinade (eau, sucre, sel, amidon modifié de manioc), enduit (farine de blé, amidon de blé, amidon difié de mais, sel), Pré-frit dans de l'huile de palme raffinée,",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.615374+00:00"
+    },
+    "5400119559294": {
+      "barcode": "5400119559294",
+      "product_name": "Jambon degraissé",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.615416+00:00"
+    },
+    "5400119548199": {
+      "barcode": "5400119548199",
+      "product_name": "Prosciutto di San Daniele",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.615456+00:00"
+    },
+    "5400112721582": {
+      "barcode": "5400112721582",
+      "product_name": "Salami sans ail",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.615488+00:00"
+    },
+    "5400113670063": {
+      "barcode": "5400113670063",
+      "product_name": "Yakitori soja",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Cuisse de poulet désossée sans peau, marinade de soja {sucre, sauce soja en poudre (graines de soja, blé, maltodextrine, sel), amidon modifié de tapioca (amidon acétique), sel, épices (piment, gingembre), colorant (caramel, extrait de poivrons)}, sauce soja yakitori {sucre, eau, sauce soja en poudre (eau, graines de soja, blé, sel), sirop de fructose, amidon modifié de tapioca (phosphate de diamidon hydroxypropylé), mirin (sirop de glucose, eau, alcool, riz), sel, épices (gingembre, piment), colorant (caramel)}, émulsifiants (esters mono - et diacetyltartriques des mono - et diglycérides d'acides gras).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.615792+00:00"
+    },
+    "5400112586006": {
+      "barcode": "5400112586006",
+      "product_name": "Boulettes Kip poulet",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.615817+00:00"
+    },
+    "5400119558365": {
+      "barcode": "5400119558365",
+      "product_name": "Poulet croustillant",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Poulet 47% naturel (poivre) et sucre, sel non indé dextrose, épices, en tournesol non hydrog céleri et moutarde, CONDITIONNE SOUS A (A4°C) A CONSOMMER PREPARATION F 210°C, mettez les produits 10 minutes, A la pole matières grasses, en remuant",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.615960+00:00"
+    },
+    "5400119550062": {
+      "barcode": "5400119550062",
+      "product_name": "Linguini pancetta",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau, pâtes 23 % (semoule de blé dur), pulpe de tomate 14 % (tomate, jus de tomate), crème 7% (lait), champignon 7 %, pancetta 6 % [viande de porc, sel, herbes et épices, dextrose, extrait de viande, extrait d'herbes, extrait d'épices, antioxydant (E301), conservateurs (E250, E262), fumée, arôme de fumée), courgette grillée 5 %, huile d'olive, fromage 1 % [lait thermisé, sel, présure, levain lactique, antiagglomérant (amidon de mais)], concentré de tomates 1 %, fond de poulet [extrait de poulet, extrait de levure, maltodextrine, graisse de poulet, amidon de riz, sel, extraits de légumes (carotte, oignon), jus de citron, extraits d'herbes et d'épices (poivre, curcuma, livèche)], ail, amidon modifié de maïs, sel, crème de poivron [sirop de sucre inverti, colorant (E160c)], herbes et épices.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616194+00:00"
+    },
+    "5400113567660": {
+      "barcode": "5400113567660",
+      "product_name": "Saucisses cocktail",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616211+00:00"
+    },
+    "5400119548076": {
+      "barcode": "5400119548076",
+      "product_name": "Pain de viande aux cerises purée",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616283+00:00"
+    },
+    "5400119570596": {
+      "barcode": "5400119570596",
+      "product_name": "Dino burger",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de poulet 74%, eau, chapelure (farine de BLE - seigle,sel, levure, épices (curcuma, coriandre), graines de CELERI, huile de colza.extrait de levure, laurier, colorant: curcumine), farine de SOJA, protéine de SOJA, vinaigre, arômes. sel, épices(coriandre), farine de riz. amidon modifié de pomme de terre. dextrose, sirop de glucose, sucre, extrait de levure, CELERI, herbes (persil),huile de piment,correcteurs d'acidité: acide citrique chlorure de potassium. antioxydant: acide ascorbique. O Peut contenir des traces d'oeufs, de lait, de moutarde et de graines de sésame.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616486+00:00"
+    },
+    "5400112541012": {
+      "barcode": "5400112541012",
+      "product_name": "Saucisson sec supérieur au reblochon",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616603+00:00"
+    },
+    "5400112582107": {
+      "barcode": "5400112582107",
+      "product_name": "Saucisse séchée",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616621+00:00"
+    },
+    "5400113670490": {
+      "barcode": "5400113670490",
+      "product_name": "Yakitori soja",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616636+00:00"
+    },
+    "5400119577830": {
+      "barcode": "5400119577830",
+      "product_name": "Poulet cesar",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616651+00:00"
+    },
+    "5400119570565": {
+      "barcode": "5400119570565",
+      "product_name": "Salami zonder look",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Varkensvlees, varkens - et nitrietzout (zout, conserveermiddel (E250)], kruiden [dextrose, antioxidanten (E300, E301), specerijen], melkeiwit, natuurlijk aroma, kleurstof (E120), fermenten, rook",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "insect_derived"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 insect colorant",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616692+00:00"
+    },
+    "5400119610025": {
+      "barcode": "5400119610025",
+      "product_name": "EU Product",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616718+00:00"
+    },
+    "5400112716342": {
+      "barcode": "5400112716342",
+      "product_name": "Filet de poulet",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616735+00:00"
+    },
+    "5400119526869": {
+      "barcode": "5400119526869",
+      "product_name": "Jambon degraissé",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "porc, sel, sel de mer, arômes, dextrose, épice, antioxydant (ascorbate de sodium), conservateur (nitrite de sodium),",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616769+00:00"
+    },
+    "5400119559331": {
+      "barcode": "5400119559331",
+      "product_name": "Jambon roti au four",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616805+00:00"
+    },
+    "5400112717264": {
+      "barcode": "5400112717264",
+      "product_name": "Blanc de poulet aux fines herbes",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616888+00:00"
+    },
+    "5400112716212": {
+      "barcode": "5400112716212",
+      "product_name": "Kipfilet flinterdun",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616944+00:00"
+    },
+    "5400119559393": {
+      "barcode": "5400119559393",
+      "product_name": "Jambon a l’ancienne",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616970+00:00"
+    },
+    "5400119557832": {
+      "barcode": "5400119557832",
+      "product_name": "Saucisson de Jambon",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Porc 70%, eau, fécule de pomme de terre, sel, graisse de porc, dextrose, stabilisant (diphosphates), antioxydants (citrate de sodium, acide ascor - bique, ascorbate de sodium), fibres alimentaires, extraits de plantes aromatiques, extraits d'épices, colorant (carmin), conservateur (nitrite de sodium)",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "insect_derived"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 insect colorant",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.617236+00:00"
+    },
+    "5400119558228": {
+      "barcode": "5400119558228",
+      "product_name": "Saucisson de jambon",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.617254+00:00"
+    },
+    "5400112210307": {
+      "barcode": "5400112210307",
+      "product_name": "Sauce  Poulet Curry",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.617274+00:00"
+    },
+    "5400112716014": {
+      "barcode": "5400112716014",
+      "product_name": "Jambon cru",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.617310+00:00"
+    },
+    "5400101256132": {
+      "barcode": "5400101256132",
+      "product_name": "Carrefour Extra Salami Sticks Piquant",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc, sel, lactose, épices, dextrose, plantes aromatiques, ail en poudre, conservateur : nitrite de sodium, ferments. Boyau comestible: collagène de boeuf, cellulose.170g de viande de porc ont été utilisés pour 100g de salami. Peut contenir des traces de fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617506+00:00"
+    },
+    "5400101007154": {
+      "barcode": "5400101007154",
+      "product_name": "Filets de poulet",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de poulet",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617531+00:00"
+    },
+    "5400101063433": {
+      "barcode": "5400101063433",
+      "product_name": "Jambon braise porc d antan",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617612+00:00"
+    },
+    "5400101007758": {
+      "barcode": "5400101007758",
+      "product_name": "Filet de dinde",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617629+00:00"
+    },
+    "5400101075481": {
+      "barcode": "5400101075481",
+      "product_name": "Jambon cuit au four",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617653+00:00"
+    },
+    "5400101257993": {
+      "barcode": "5400101257993",
+      "product_name": "Bp des de filet de poulet",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de poulet",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617684+00:00"
+    },
+    "5400101247550": {
+      "barcode": "5400101247550",
+      "product_name": "Saucisse de porc et de boeuf",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617708+00:00"
+    },
+    "5400101078253": {
+      "barcode": "5400101078253",
+      "product_name": "Saucisson sec",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617722+00:00"
+    },
+    "5400101063617": {
+      "barcode": "5400101063617",
+      "product_name": "Jambon cuit au four",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617818+00:00"
+    },
+    "5400101007147": {
+      "barcode": "5400101007147",
+      "product_name": "Filets de poulet",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Poulet",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617837+00:00"
+    },
+    "5400101074972": {
+      "barcode": "5400101074972",
+      "product_name": "Émincés de cuisses de poulet jaune fermier d'Auvergne",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617874+00:00"
+    },
+    "5400101007130": {
+      "barcode": "5400101007130",
+      "product_name": "Filet de poitrine de poulet",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617898+00:00"
+    },
+    "5400101247437": {
+      "barcode": "5400101247437",
+      "product_name": "Chipolata aux fines herbes",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc 86%, œufs 7%, enrobage (stabilisant : E401, amidon), mix (sel, épices, dextrose, lactose, antioxydants : E301-E300, cerfeuil, antioxydant : E331ii), mix (dextrose, correcteur d'acidité : E262i, antioxydants E300-E301-E330-E331ii), persil, mix (protéines de soja, chapelure (contient blé), épices (contient moutarde), lactose, herbes (contient céleri), poudre de blanc d’œuf de poule).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617998+00:00"
+    },
+    "5400101059399": {
+      "barcode": "5400101059399",
+      "product_name": "Pick et mix mix mini chipolatas",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618028+00:00"
+    },
+    "5400101075405": {
+      "barcode": "5400101075405",
+      "product_name": "Filet d'Anvers",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de bœuf, sel, sirop de glucose, sucre, dextrose acidifiant: citrate de sodium, conservateurs: nitrite de sodium - nitrate de potassium, arôme, persil furnée. Peut contenir des traces de ait",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618117+00:00"
+    },
+    "5400101007659": {
+      "barcode": "5400101007659",
+      "product_name": "Jambon aux épices italiennes",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618391+00:00"
+    },
+    "5400101081024": {
+      "barcode": "5400101081024",
+      "product_name": "Filet de dinde",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618411+00:00"
+    },
+    "5400101039223": {
+      "barcode": "5400101039223",
+      "product_name": "Chipolata",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618423+00:00"
+    },
+    "5400101082953": {
+      "barcode": "5400101082953",
+      "product_name": "jambon cuit sans nitrite",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618443+00:00"
+    },
+    "5400101206267": {
+      "barcode": "5400101206267",
+      "product_name": "rosette",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618568+00:00"
+    },
+    "5400101061750": {
+      "barcode": "5400101061750",
+      "product_name": "Filet de poulet",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618585+00:00"
+    },
+    "5400101251199": {
+      "barcode": "5400101251199",
+      "product_name": "Filet d'Anvers",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de bœuf, sel, sirop de glucose, sucre, dextrose, acidifiant : citrate de sodium, conservateurs : nitrite de sodium - nitrate de potassium, arôme, persil, fumée.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618735+00:00"
+    },
+    "5400101063303": {
+      "barcode": "5400101063303",
+      "product_name": "Salami Apero",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618752+00:00"
+    },
+    "5400101061576": {
+      "barcode": "5400101061576",
+      "product_name": "Pate aux chicons",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Foie de porc 40%, viande de porc 30%, gras de porc, sucre, eau, chicons 27%, sel, _oeufs_, dextrose, gélatine de porc, protéine de _lait_, sirop de glucose, épices (poivre et noix de muscade), extraits d'épice, légumes séchés (tomates et oignons), arômes, émulsifiant: esters citriques des mono-et diglycérides d'acides gras, stabilisant: carraghénanes, antioxydant acide ascorbique, conservateurs: nitrite de sodium-lactate de potas sium, gélifiant: chlorure de potassium, colorant de surface: caramel. Peut contenir des traces de fuits à coque, de gluten, de soja et de moutarde.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618905+00:00"
+    },
+    "5400101010314": {
+      "barcode": "5400101010314",
+      "product_name": "Jambon de Bruges",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618923+00:00"
+    },
+    "5400101007383": {
+      "barcode": "5400101007383",
+      "product_name": "Jambon Forêt Noire",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618942+00:00"
+    },
+    "5400101028098": {
+      "barcode": "5400101028098",
+      "product_name": "Jambon cuit",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618957+00:00"
+    },
+    "5400101051638": {
+      "barcode": "5400101051638",
+      "product_name": "Cuisse de poulet avec compote de pommes",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618984+00:00"
+    },
+    "5400101051829": {
+      "barcode": "5400101051829",
+      "product_name": "Lardons fumés",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc 96%, sel, chlorure de potassium, arôme, sirop de glucose, antioxydant : ascorbate de sodium, conservateurs : nitrite de sodium - lactate de sodium - acétate de sodium, fumée.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.619029+00:00"
+    },
+    "5400101063594": {
+      "barcode": "5400101063594",
+      "product_name": "Jambon cuit dégraissé",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.619050+00:00"
+    },
+    "5400141766165": {
+      "barcode": "5400141766165",
+      "product_name": "Muesli",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "32% flocon d'AVOINE complète (gluten)*, 31% flocon de BLÉ complet (gluten)*, 26% fruits secs (raisin sec Sultana*, datte*, pomme*), 4,5% flocon d'ORGE complète (gluten)*, 2,5% graine de tournesol*, 2% flocon de mais (mais, antiagglomérant* (E322)], 1% morceau de NOISETTE torréfiée*, 1% AMANDE mondée*, farine de riz*, huile de tournesol.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.623766+00:00"
+    },
+    "5400141660135": {
+      "barcode": "5400141660135",
+      "product_name": "Muesli",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "70% céréales [flocons de blé complet (gluten), flocon d'avoine complète (gluten), flocons d'ORGE (gluten), petales de maïs (farine de maïs, sucre, sel, extrait de malt d'orge (gluten), émulsifiant (E322)), flocons de seigle complet (gluten)], 30 % fruits séchés et graines [raisins secs (raisins secs, huiles végéta es (tournesol, graines de coton)), graine de lin, graines de tournesol, chips de banane frites (bananes, graisse de coco, sucre), morceaux de dattes séchées (dattes, farine de riz), morceaux d'abricots séchés (abricots, farine de riz), morceaux de pommes séchées (pommes, correcteur d'acidité (E330), antioxydant (E220 (sulfites))), morceaux de prunes séchées (prune, farine de riz)]. Peut contenir des traces de soja, de lait et de fruits à coque (amandes, noisettes, noix de cajou, noix de pécan et noix du Brésil).",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.624256+00:00"
+    },
+    "5400141373912": {
+      "barcode": "5400141373912",
+      "product_name": "amandes",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Ingrediënten - Ingrédients NL AMANDELNOTEN - 100% amandelnoten. Van nature rijk aan vezels. KAN SPOREN VAN PINDA, SOJA, NOTEN (HAZEL-, WAL-, CASHEW-, PECAN-, BRAZIEL-, PISTACHE-EN MACADAMIANOTEN) EN SESAM BEVATTEN. FR AMANDES-100% amande.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.624669+00:00"
+    },
+    "5400141937756": {
+      "barcode": "5400141937756",
+      "product_name": "Choco clams",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de _blé_ 76% (_gluten_), chocolat en poudre 25% (sucre, cacao en poudre), sirop de glucose, huile de tournesol, sel, émulsifiants (E471, E472e), arôme de vanille, cannelle, antioxydant (E306), vitamines (B1, B2, B3, B5, B6, B8, B9, B12), fer,",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.624935+00:00"
+    },
+    "5400141894882": {
+      "barcode": "5400141894882",
+      "product_name": "Tomates concassées",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Tomate, correcteur d’acidité",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.625186+00:00"
+    },
+    "5400141444391": {
+      "barcode": "5400141444391",
+      "product_name": "Demi-baguette grises",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Ingredients NL VOORGEBAKKEN BRUINE STOKBROODJES TARWEbloem (gluten), water, volkoren TARWEbloem (gluten), gist, bruin lijnzaad, geel lijnzaad, TARWEgluten, ethylalcohol, zout, gebrande GERSTEmoutbloem (gluten), gedeactiveerde gedroogde TARWEzuurdesem (gluten), TARWEmoutbloem (gluten), TARWEkiemen (gluten), GERSTEmoutextract (gluten), GERSTE - moutbloem (gluten), antioxidant (E300), gedeactiveerde gist. KAN SPOREN VAN MELK EN SESAM BEVATTEN. FR DEMI-BAGUETTES GRISES, PRÉCUITES Farine de BLÉ (gluten), eau, farine complète de BLÉ (gluten), levure, graines de lin brun, graines de lin jaune, gluten de BLE, alcool éthylique, sel, farine d'ORGE maltée torréfiée (gluten), levain de BLÉ déshydraté désactivé (gluten), farine de BLÉ malté (gluten), germes de BLÉ (gluten), extrait de malt d'ORGE (gluten), farine d'ORGE maitée (gluten), antioxydant (E300), levure désactivée. PEUT CONTENIR DES TRACES DE LAIT ET DE SÉSAME. EN HALF BROWN BAGUETTES, PART-BAKED WHEAT flour (gluten), water, whole WHEAT flour (gluten), yeast, brown linseed, yellow linseed, WHEAT gluten, ethyl alcohol, salt, roasted malted BARLEY flour (gluten), deactivated dehydrated WHEAT sourdough (gluten), malted WHEAT flour (gluten), WHEAT germ (gluten), BARLEY malt extract (gluten), malted BARLEY flour (gluten), antioxidant (E300), deactivated yeast. MAY CONTAIN TRACES OF MILK AND SESAME. Bereiding - Préparation - Preparation NL Oven: haal de stokbroodjes uit de verpakking en bak ze 10 à 12 min. in een op 200 à 220 °C voorverwarmde oven. Laat enkele minuten afkoelen. Airfryer: bak 5 à 6 min. op 200 à 220 °C.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.625655+00:00"
+    },
+    "5400141583755": {
+      "barcode": "5400141583755",
+      "product_name": "Volwaardige Rijst",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Ingrédients Zutaten NL VOLWAARDIGE RUST 100% volwaardige rijst.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.625699+00:00"
+    },
+    "5400141844153": {
+      "barcode": "5400141844153",
+      "product_name": "Bouillon de légumes - Groente",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sel, exhausteur de goût (E621), maltodextrine, extrait de levure, graisse de palme, sucre, 3,8 % légumes (oignons, poireaux, épinards, carottes, CÉLERI, chou), amidon, plantes aromatiques et épices (ail, persil, curcuma, poivre blanc), arômes (CELERI)",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.625819+00:00"
+    },
+    "5400141800562": {
+      "barcode": "5400141800562",
+      "product_name": "Pistaches grillées et non salées",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "pistachenoten",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.625964+00:00"
+    },
+    "5400141056471": {
+      "barcode": "5400141056471",
+      "product_name": "Wheat flour",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "wheat flour t55 - 100% wheat flour",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626169+00:00"
+    },
+    "5400141237030": {
+      "barcode": "5400141237030",
+      "product_name": "Boni riz/rijst",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626187+00:00"
+    },
+    "5400141864397": {
+      "barcode": "5400141864397",
+      "product_name": "Figues séchées",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "vijgen",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626206+00:00"
+    },
+    "5400141649352": {
+      "barcode": "5400141649352",
+      "product_name": "EU Product",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626216+00:00"
+    },
+    "5400141097900": {
+      "barcode": "5400141097900",
+      "product_name": "cannelle",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626228+00:00"
+    },
+    "5400141705096": {
+      "barcode": "5400141705096",
+      "product_name": "Pistachenoten",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Pistachenoten 98,8%, zout 1,2%",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626255+00:00"
+    },
+    "5400141312225": {
+      "barcode": "5400141312225",
+      "product_name": "Riz Basmati",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626292+00:00"
+    },
+    "5400141894257": {
+      "barcode": "5400141894257",
+      "product_name": "hele witte asperges",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "NL GESCHILDE, HELE WITTE ASPERGES Witte asperges, water, zout, voedingszuur (E330). Van nature rijk aan vezels FR ASPERGES BLANCHES ENTIÈRES PELÉES Asperges blanches, eau, sel, acidifiant (E330).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626389+00:00"
+    },
+    "5400141938005": {
+      "barcode": "5400141938005",
+      "product_name": "Demi-baguettes blanches précuites",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLÉ (gluten), eau, levure, sel, farine de BLÉ malté (gluten), farine de BLÉ fermentée (gluten), antioxydant (E300).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626464+00:00"
+    },
+    "5400141168631": {
+      "barcode": "5400141168631",
+      "product_name": "Salsifis",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626476+00:00"
+    },
+    "5400141370119": {
+      "barcode": "5400141370119",
+      "product_name": "Graines de tournesol",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626495+00:00"
+    },
+    "5400141097412": {
+      "barcode": "5400141097412",
+      "product_name": "Mixed pepper selection",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626604+00:00"
+    },
+    "5400141294415": {
+      "barcode": "5400141294415",
+      "product_name": "Petits pois extrafins",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626622+00:00"
+    },
+    "5400141506631": {
+      "barcode": "5400141506631",
+      "product_name": "Poivrons cerises farcis",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626640+00:00"
+    },
+    "5400141058383": {
+      "barcode": "5400141058383",
+      "product_name": "Haricots Verts entiers",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626676+00:00"
     }
   }
 }

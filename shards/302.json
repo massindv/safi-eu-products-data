@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "302",
-  "count": 1,
-  "updated_at": "2026-11-20T15:01:28.051767+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T15:34:04.641221+00:00",
   "products": {
     "3021210012000": {
       "barcode": "3021210012000",
@@ -22,7 +22,27 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:01:28.043442+00:00"
+      "updated_at": "2026-11-20T15:34:04.607845+00:00"
+    },
+    "3029330069355": {
+      "barcode": "3029330069355",
+      "product_name": "Classic' burger nature",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de _blé_ (64%), eau, levure, sucre, huile de colza, graines de _sésame_ (2%), _gluten de blé_, arôme (contient alcool), sel, farine de feve, conservateur: propionate de calcium, extrait d'acérola.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.626584+00:00"
     }
   }
 }

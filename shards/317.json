@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "317",
-  "count": 1,
-  "updated_at": "2026-11-20T15:01:28.054581+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T15:34:04.647514+00:00",
   "products": {
     "3175460000017": {
       "barcode": "3175460000017",
@@ -29,7 +29,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:27.991193+00:00"
+      "updated_at": "2026-11-20T15:34:04.571532+00:00"
+    },
+    "3175681257566": {
+      "barcode": "3175681257566",
+      "product_name": "Gingembre saveur citron",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "farine complète de blé* 55,4%, farine de blé* semi-complète 19,4%, sucre de canne*, huile de tournesol oléique*, acide citrique, carbonates de sodium, huile essentielle de citron*, gingembre* en poudre.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.619997+00:00"
+    },
+    "3175681028111": {
+      "barcode": "3175681028111",
+      "product_name": "Les Galettes Boulgour & Quinoa - Tomate & Paprika",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Boulgour de blé* 44,9%, quinoa* cuit 11,7%, poivrons rouges*, oignons*, farine de blé  5,6%, concentré de tomates* 4,6%, huiles tournesol* 4.1%, avoine* 3,7%, gluten de  blé* 2,8%, flocons de blé complet* 2,3%, maïs doux*, ail*, sel de mer, paprika doux* 0,7%,",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.620157+00:00"
     }
   }
 }

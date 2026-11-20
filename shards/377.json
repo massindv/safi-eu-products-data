@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "377",
+  "count": 2,
+  "updated_at": "2026-11-20T15:34:04.656322+00:00",
+  "products": {
+    "3770016162043": {
+      "barcode": "3770016162043",
+      "product_name": "Merguez Végétale",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau, huile de colza, protéines de pois texturées, alginate de calcium, fibres de bambou, fibres d’agrumes, méthylcellulose, vinaigre tamponné, épices, isolat de protéines de pois (1.5%), paprika, cumin, farine de riz, extrait de betterave rouge, amidon de pomme de terre, arômes naturels, sel",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.620903+00:00"
+    },
+    "3770018078038": {
+      "barcode": "3770018078038",
+      "product_name": "Rostlinná slanina",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Rehydratovaná _SÓJOVÁ bílkovina_ 82%, slunečnicový olej, sůl, přírodní aromata a barviva: antokyan, lykopen, regulátor kyselosti: octan draselný.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.622678+00:00"
+    }
+  }
+}

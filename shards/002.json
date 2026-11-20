@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "002",
-  "count": 1,
-  "updated_at": "2026-11-20T15:01:28.049269+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T15:34:04.632664+00:00",
   "products": {
     "0024000010920": {
       "barcode": "0024000010920",
@@ -29,7 +29,27 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:28.028947+00:00"
+      "updated_at": "2026-11-20T15:34:04.598315+00:00"
+    },
+    "0023066444809": {
+      "barcode": "0023066444809",
+      "product_name": "Filet de poulet bio",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.615837+00:00"
     }
   }
 }

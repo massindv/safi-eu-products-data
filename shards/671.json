@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "671",
+  "count": 1,
+  "updated_at": "2026-11-20T15:34:04.671724+00:00",
+  "products": {
+    "6719947878446": {
+      "barcode": "6719947878446",
+      "product_name": "EU Product",
+      "store": "ah.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T15:34:04.629998+00:00"
+    }
+  }
+}

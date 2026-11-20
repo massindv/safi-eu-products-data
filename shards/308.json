@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "308",
-  "count": 3,
-  "updated_at": "2026-11-20T15:01:28.053150+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T15:34:04.642719+00:00",
   "products": {
     "3083681025484": {
       "barcode": "3083681025484",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:28.029506+00:00"
+      "updated_at": "2026-11-20T15:34:04.598598+00:00"
     },
     "3083681006964": {
       "barcode": "3083681006964",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:28.030205+00:00"
+      "updated_at": "2026-11-20T15:34:04.598965+00:00"
     },
     "3083680600965": {
       "barcode": "3083680600965",
@@ -83,7 +83,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:28.030420+00:00"
+      "updated_at": "2026-11-20T15:34:04.599076+00:00"
+    },
+    "3083681093926": {
+      "barcode": "3083681093926",
+      "product_name": "Aubergines cuisinées à la Provençal",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Dès d'aubergines préfrites 36% (aubergines 31%, huile de tournesol), tomates pelées concassées au jus 23% (tomates, jus de tomate), dès d'aubergines 15%, oignons coupés 12%, purée de tomates mi-réduite 5,4%, double concentré de tomates 2,2%, sucre 1,4%, huile d'olive vierge extra 1%, basilic 0,9%, sel, ail, jus concentré de citron.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.621291+00:00"
     }
   }
 }

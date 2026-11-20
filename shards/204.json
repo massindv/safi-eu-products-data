@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "204",
+  "count": 1,
+  "updated_at": "2026-11-20T15:34:04.635471+00:00",
+  "products": {
+    "2040633004318": {
+      "barcode": "2040633004318",
+      "product_name": "Spirling de porc",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Porc 100%",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616708+00:00"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "900",
   "count": 2,
-  "updated_at": "2026-11-20T15:01:28.086782+00:00",
+  "updated_at": "2026-11-20T15:34:04.693470+00:00",
   "products": {
     "9001810011645": {
       "barcode": "9001810011645",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:28.004385+00:00"
+      "updated_at": "2026-11-20T15:34:04.581816+00:00"
     },
     "9001810011546": {
       "barcode": "9001810011546",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:28.004449+00:00"
+      "updated_at": "2026-11-20T15:34:04.581856+00:00"
     }
   }
 }

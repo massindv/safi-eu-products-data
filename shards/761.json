@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "761",
-  "count": 2,
-  "updated_at": "2026-11-20T15:01:28.068668+00:00",
+  "count": 9,
+  "updated_at": "2026-11-20T15:34:04.672828+00:00",
   "products": {
     "7613036394109": {
       "barcode": "7613036394109",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:28.018930+00:00"
+      "updated_at": "2026-11-20T15:34:04.591484+00:00"
     },
     "7613036961684": {
       "barcode": "7613036961684",
@@ -56,7 +56,142 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:28.023542+00:00"
+      "updated_at": "2026-11-20T15:34:04.594545+00:00"
+    },
+    "7613031564705": {
+      "barcode": "7613031564705",
+      "product_name": "Fond de veau",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616786+00:00"
+    },
+    "7613036956031": {
+      "barcode": "7613036956031",
+      "product_name": "Allumettes de lardons",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Poitrine** et viande de porc** 94%, sel, arômes naturels, antioxydant : acide ascorbique. *Ingrédients issus de l'agriculture biologique.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616927+00:00"
+    },
+    "7613036504706": {
+      "barcode": "7613036504706",
+      "product_name": "Dés de lardons fumés",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Poitrine de porc 93%, sel, conservateurs lactate de potassium, acétgte de potassium; arome naturel, fumée. Conditionné sous atmosphèr protectrice.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617595+00:00"
+    },
+    "7613032996666": {
+      "barcode": "7613032996666",
+      "product_name": "Saucisson de Jambon",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "viande de porc 80%, eau, gras de porc, sel nitrité (sel, conservateur: nitrite de sodium), stabilisants: diphosphates, polyphosphates; sucre, épices, herbes, oignon, sirop de glucose, dextrose, extrait d'épices, arôme, antioxydants: erythorbate de sodium, acide ascorbique; correcteur d'acidité; glucano-delta-lactone; acidifiant; acide citrique; colorant: carmin.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "insect_derived"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 insect colorant",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617797+00:00"
+    },
+    "7613036669146": {
+      "barcode": "7613036669146",
+      "product_name": "NESTLE CHOCAPIC BIO Céréales - Boite de 375g",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLÉ complet* 34,8 %, chocolat en poudre 23,9 % (sucre*, cacao en poudre**), farine de BLÉ*, semoule de maïs*, sirop de glucose*, extrait de malt d'ORGE*, huile de tournesol*, sel, arôme naturel de vanille, arôme naturel de cannelle. Peut contenir du LAIT et des FRUITS À COQUE. *ingrédients issus de l'agriculture biologique. **Bilan massique certifié Rainforest Alliance. www.ra.org/fr. Nestlé achète une quantité de cacao certifié Rainforest Alliance équivalente à celle nécessaire pour ce produit.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.619435+00:00"
+    },
+    "7613032655495": {
+      "barcode": "7613032655495",
+      "product_name": "Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Café soluble 33%, fibres de chicorée (oligofructose) 33%, chicorée soluble 30%, magnésium.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.620753+00:00"
+    },
+    "7613287514325": {
+      "barcode": "7613287514325",
+      "product_name": "Fitness Nature Céréales complètes",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "BLE complet 61.3%, riz 34.6%, sucre, fructo-olligosaccharides, sirop de sucre inverti, carbonate de calcium, extrait de malt d'ORGE (ORGE, ORGE malté), huile de tournesol, sel, mélasse, arômes naturels, fer, antioxydant : extrait riche en tocophérols ; vitamines B5, B3, B2, B9 et B6. Peut contenir du LAIT et FRUITS A COQUE.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.621609+00:00"
     }
   }
 }

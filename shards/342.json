@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "342",
+  "count": 1,
+  "updated_at": "2026-11-20T15:34:04.653436+00:00",
+  "products": {
+    "3421557501630": {
+      "barcode": "3421557501630",
+      "product_name": "Muesli BIO Fruits raisins pommes abricots & noix de coco Sans sucres ajoutés",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Flocons de _blé_* complets 27%, flocons d'_avoine_* complets* 20%. flocons de _seigle_ complets* 20%, raisins secs* (raisins* 17%, huile de tournesol*), pétales de _blé_* 4%, abricots secs* (abricots* 3,8%, farine de riz*), graines de tournesol*, _noisettes_ grillées* 1%, pommes séchées* 1%, lamelles de noix de coco toastées* 1%, figues séchées* (figues* 0,9%, farine de riz*).\r\n\r\n* Ingrédients issus de l'Agriculture Biologique",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.623204+00:00"
+    }
+  }
+}

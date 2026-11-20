@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "940",
+  "count": 1,
+  "updated_at": "2026-11-20T15:34:04.694489+00:00",
+  "products": {
+    "94001129": {
+      "barcode": "94001129",
+      "product_name": "Sungold Kiwi",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Kiwi",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.623506+00:00"
+    }
+  }
+}

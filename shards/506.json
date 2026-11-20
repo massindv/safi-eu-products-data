@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "506",
-  "count": 1,
-  "updated_at": "2026-11-20T15:01:28.062440+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T15:34:04.660437+00:00",
   "products": {
     "5060466511880": {
       "barcode": "5060466511880",
@@ -29,7 +29,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:28.002357+00:00"
+      "updated_at": "2026-11-20T15:34:04.580222+00:00"
+    },
+    "5060139432993": {
+      "barcode": "5060139432993",
+      "product_name": "Yoyos",
+      "store": "ah.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Pommes (65,8%), poires (32,9%), fraises (1,0%), extrait de carotte noire (0,3%)",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T15:34:04.629486+00:00"
+    },
+    "5061005130128": {
+      "barcode": "5061005130128",
+      "product_name": "Mockingbird Raw shield virgin juice",
+      "store": "ah.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T15:34:04.630130+00:00"
     }
   }
 }

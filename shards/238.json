@@ -1,0 +1,64 @@
+{
+  "version": "1.0",
+  "prefix": "238",
+  "count": 3,
+  "updated_at": "2026-11-20T15:34:04.639103+00:00",
+  "products": {
+    "2385407906796": {
+      "barcode": "2385407906796",
+      "product_name": "Varkenshaas spek",
+      "store": "ah.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T15:34:04.612554+00:00"
+    },
+    "2389232803169": {
+      "barcode": "2389232803169",
+      "product_name": "Gebraden kipfilet",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T15:34:04.613714+00:00"
+    },
+    "2389221403561": {
+      "barcode": "2389221403561",
+      "product_name": "Gerookte slagers achterham",
+      "store": "ah.nl",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T15:34:04.614950+00:00"
+    }
+  }
+}

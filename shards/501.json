@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "501",
-  "count": 2,
-  "updated_at": "2026-11-20T15:01:28.061767+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T15:34:04.658961+00:00",
   "products": {
     "5016599010639": {
       "barcode": "5016599010639",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:27.962800+00:00"
+      "updated_at": "2026-11-20T15:34:04.554050+00:00"
     },
     "5016599011247": {
       "barcode": "5016599011247",
@@ -56,7 +56,79 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:27.968534+00:00"
+      "updated_at": "2026-11-20T15:34:04.557096+00:00"
+    },
+    "5010477348630": {
+      "barcode": "5010477348630",
+      "product_name": "Muesli 36% fruits noix & graines",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Céréales complètes (64%) (flocons de blé, flocons d'avoine, pétales de blé grillé (13%)), raisins de sultane (16%), raisins secs (11%), copeaux de noix de coco (3,5%), noisettes grillées entières (3%), graines de tournesol (2,5%)",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.619698+00:00"
+    },
+    "5010477348517": {
+      "barcode": "5010477348517",
+      "product_name": "Country Crisp 4 Baies",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Céréales complètes (54%) (flocons d’avoine, farine d’avoine, farine d'avoune), sucre, flocons d’orge, huile végétale (huile de colza et de tournesol en proportions variables), farine de riz, baies lyophilisées (2,5%) (groseilles entières, cassis entiers, myrtilles entières, cranberries en tranches), noix de coco séchée, arôme naturel.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.620681+00:00"
+    },
+    "5011546475165": {
+      "barcode": "5011546475165",
+      "product_name": "EU Product",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sucre, _lait_ écrémé en poudre (22%), sirop de glucose, café (14%) (café instantané (13%), café torréfié moulu), huile de noix de coco, _lactose_, correcteurs d'acidité (carbonates de sodium, acide citrique), sel.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.625121+00:00"
+    },
+    "5018357006779": {
+      "barcode": "5018357006779",
+      "product_name": "cranberry, cherry & almond muesli",
+      "store": "jumbo.com",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Dried and sweetened dried fruit, nuts and seeds (50%) [raisins (21%), sultanas, sunflower seeds (8%), sweetened dried cranberries (6%) (sugar, cranberries), flaked almonds (3.5%), freeze dried cherries (1%)], toasted and malted flakes (wheat, barley malt extract), toasted and malted barley flakes, (barley, sugar, salt, malt extract), toasted and malted Cat flakes ( flakes, barley malt extract). ! allergy advice For allergens, including cereals containing gluten, see ingredients in . May contain other nuts.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T15:34:04.629070+00:00"
     }
   }
 }

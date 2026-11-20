@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "315",
-  "count": 5,
-  "updated_at": "2026-11-20T15:01:28.053800+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T15:34:04.643437+00:00",
   "products": {
     "3154230814085": {
       "barcode": "3154230814085",
@@ -31,7 +31,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:27.957963+00:00"
+      "updated_at": "2026-11-20T15:34:04.549122+00:00"
     },
     "3154230813965": {
       "barcode": "3154230813965",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:01:27.960330+00:00"
+      "updated_at": "2026-11-20T15:34:04.551534+00:00"
     },
     "3154230809890": {
       "barcode": "3154230809890",
@@ -78,7 +78,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:01:28.040039+00:00"
+      "updated_at": "2026-11-20T15:34:04.605350+00:00"
     },
     "3154230802259": {
       "barcode": "3154230802259",
@@ -98,7 +98,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:01:28.040097+00:00"
+      "updated_at": "2026-11-20T15:34:04.605399+00:00"
     },
     "3154230801825": {
       "barcode": "3154230801825",
@@ -118,7 +118,45 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:01:28.040845+00:00"
+      "updated_at": "2026-11-20T15:34:04.606020+00:00"
+    },
+    "3154230802013": {
+      "barcode": "3154230802013",
+      "product_name": "Jambon Superieur fumé au miel",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.617555+00:00"
+    },
+    "3154230600183": {
+      "barcode": "3154230600183",
+      "product_name": "HERTA TARTE EN OR Pâte Feuilletée 230g",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLÉ, Eau, Huiles végétales (palme, colza), GLUTEN de BLÉ, Alcool, Sel, Jus de citron concentré, Levure désactivée. Peut contenir : LAIT, SOJA, MOUTARDE.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.621753+00:00"
     }
   }
 }

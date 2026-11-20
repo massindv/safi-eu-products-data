@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "248",
+  "count": 1,
+  "updated_at": "2026-11-20T15:34:04.639813+00:00",
+  "products": {
+    "2480851008017": {
+      "barcode": "2480851008017",
+      "product_name": "Haché porc et boeuf",
+      "store": "carrefour.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc 72%, viande de boeuf 8%, OEUF, LAIT, amidon de pomme de terre, sel, dextrose, épices (macis, noix de muscade, poudre de paprika), antioxydant (E300), acidifiant (E330).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T15:34:04.618493+00:00"
+    }
+  }
+}

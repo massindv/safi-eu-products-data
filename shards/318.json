@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "318",
-  "count": 1,
-  "updated_at": "2026-11-20T15:01:28.055262+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T15:34:04.648055+00:00",
   "products": {
     "3180940079506": {
       "barcode": "3180940079506",
@@ -22,7 +22,61 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:01:28.042998+00:00"
+      "updated_at": "2026-11-20T15:34:04.607428+00:00"
+    },
+    "3182180001477": {
+      "barcode": "3182180001477",
+      "product_name": "Grilletine au froment sans sucres ajoutés",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLÉ 83% - Édulcorant : maltitol - Huile de tournesol - Levure boulangère - GLUTEN de blé - Sel - Minéraux de mer (potassium, magnésium, calcium) - Farine de BLÉ malté - Fibres de BLÉ - Agent de traitement de la farine : acide ascorbique",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.619827+00:00"
+    },
+    "3182180001996": {
+      "barcode": "3182180001996",
+      "product_name": "Biscottes Sans sucres ajoutés Blé complet",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLÉ complet 58% - Farine de BLÉ 42% - Huile de tournesol - GLUTEN de BLÉ - Levure boulangère - Levain de BLÉ déshydraté - Sel - Agent de traitement de la farine : acide ascorbique.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.620268+00:00"
+    },
+    "3182180002542": {
+      "barcode": "3182180002542",
+      "product_name": "Grilletine Sans sucres ajoutés Blé complet",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLÉ 58% - Céréales complètes 19% (farine de BLÉ complet 18%, farine de SEIGLE complète 1%) - Huile de tournesol - Fibre soluble de maïs - Son de BLÉ - Levure boulangère - GLUTEN de blé - Farine de sarrasin - Farine de BLÉ malté - Sel - Agent de traitement de la farine (acide ascorbique).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.622226+00:00"
     }
   }
 }

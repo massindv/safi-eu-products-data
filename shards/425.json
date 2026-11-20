@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "425",
+  "count": 1,
+  "updated_at": "2026-11-20T15:34:04.657398+00:00",
+  "products": {
+    "4251097400884": {
+      "barcode": "4251097400884",
+      "product_name": "The Original - Saucisson sec fumé",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc, viande de boeuf, sel iodé (sel, iodate de potassium), dextrose, épices (poivre, coriandre, ail), antioxydant (ascorbate de sodium), conservateur (nitrite de sodium), fumée de bois",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T15:34:04.616863+00:00"
+    }
+  }
+}

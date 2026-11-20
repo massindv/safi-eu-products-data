@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "324",
-  "count": 1,
-  "updated_at": "2026-11-20T15:01:28.057888+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T15:34:04.651417+00:00",
   "products": {
     "3245412155543": {
       "barcode": "3245412155543",
@@ -22,7 +22,25 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:01:28.042853+00:00"
+      "updated_at": "2026-11-20T15:34:04.607302+00:00"
+    },
+    "3240931547213": {
+      "barcode": "3240931547213",
+      "product_name": "Gnocchi aux pommes de terre",
+      "store": "carrefour.fr",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Purée 65.5% (eau, pommes de terre déshydratées, épice : curcuma), semoule de BLE, huile de colza et/ou tournesol, farine de BLE, sel.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T15:34:04.622763+00:00"
     }
   }
 }

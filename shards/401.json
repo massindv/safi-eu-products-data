@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "401",
+  "count": 1,
+  "updated_at": "2026-11-20T15:34:04.656885+00:00",
+  "products": {
+    "4018077632006": {
+      "barcode": "4018077632006",
+      "product_name": "Monster munch",
+      "store": "colruyt.be",
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "vegetable oils (sunflower, rapeseed), potato powder, potato starch, corn starch, pea starch, sweet whey powder, sugar, salt, cheese powder, cheddar cheese powder, paprika powder, natural flavouring, antioxidant (tocopherol-rich extract), may contain gluten,",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T15:34:04.624368+00:00"
+    }
+  }
+}
