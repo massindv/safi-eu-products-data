@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "731",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.824216+00:00",
+  "products": {
+    "7311312010957": {
+      "barcode": "7311312010957",
+      "product_name": "Conimex Kroepoek naturel",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_6e666f3368387744534157424266635136336f704b41?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Tapioca, zonnebloemolie, GARNALEN (16%), suiker, zout, maïszetmeel, gistextract. Allergie-informatie Bevat: Schaaldieren",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 25.0,
+        "saturated_fat_100g": 2.0,
+        "carbohydrates_100g": 64.0,
+        "sugars_100g": 9.4,
+        "fiber_100g": 3.1,
+        "proteins_100g": 1.8,
+        "salt_100g": 3.5
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.651077+00:00"
+    }
+  }
+}

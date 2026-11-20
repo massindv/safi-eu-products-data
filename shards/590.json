@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "590",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.820704+00:00",
+  "products": {
+    "5906259705879": {
+      "barcode": "5906259705879",
+      "product_name": "Olav's Gerookte zalmfilet",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_43545239363138343230?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "95% ZALM, zout, zuurteregelaar (natriumlactaat E325), rook. Waarvan toegevoegde suikers 0g per 100g en waarvan toegevoegd zout 2,5g per 100g Allergie-informatie Bevat: Vis",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 11.0,
+        "saturated_fat_100g": 1.5,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 21.0,
+        "salt_100g": 2.98
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.604776+00:00"
+    }
+  }
+}

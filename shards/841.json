@@ -1,0 +1,118 @@
+{
+  "version": "1.0",
+  "prefix": "841",
+  "count": 4,
+  "updated_at": "2026-11-20T14:59:19.842324+00:00",
+  "products": {
+    "8410065630586": {
+      "barcode": "8410065630586",
+      "product_name": "Berberana cava brut",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313837363939?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Druiven, liqueur de tirage, dosagelikeur, conserveringsmiddel: sulfieten. Allergie-informatie Bevat: Sulfieten",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 0.95,
+        "sugars_100g": 0.95,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": null
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.638631+00:00"
+    },
+    "8410066139231": {
+      "barcode": "8410066139231",
+      "product_name": "Heinz Tomato frito original",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313839373631?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Tomaten (160g per 100g Tomato Frito), plantaardige oliën 3,4% (zonnebloem, soja in wisselende verhoudingen met extracten van gebakken ui en knoflook), suiker, gemodificeerd zetmeel, zout.",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 3.5,
+        "saturated_fat_100g": 0.4,
+        "carbohydrates_100g": 9.3,
+        "sugars_100g": 6.0,
+        "fiber_100g": 1.3,
+        "proteins_100g": 1.1,
+        "salt_100g": 0.9
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.682729+00:00"
+    },
+    "8410702054065": {
+      "barcode": "8410702054065",
+      "product_name": "Los Molinos Wit",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_3469314739302d4c52683650427358374e69564e7241?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Druiven. Allergie-informatie Bevat: Sulfieten",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.01
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.703488+00:00"
+    },
+    "8410010877592": {
+      "barcode": "8410010877592",
+      "product_name": "Carbonell Knoflookteentjes",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313932343136?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: knoflookteentjes, water, voedingszuur (E270, bewaarmiddel), SULFIET (E224), zout.",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 6.4,
+        "sugars_100g": 0.9,
+        "fiber_100g": null,
+        "proteins_100g": 3.9,
+        "salt_100g": 4.5
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.738152+00:00"
+    }
+  }
+}

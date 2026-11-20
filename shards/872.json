@@ -1,0 +1,189 @@
+{
+  "version": "1.0",
+  "prefix": "872",
+  "count": 7,
+  "updated_at": "2026-11-20T14:59:19.891686+00:00",
+  "products": {
+    "8727500033094": {
+      "barcode": "8727500033094",
+      "product_name": "Blooker Cacaopoeder",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_337a62726e666e305432576f53354b72793063796641?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: cacaopoeder*, zuurteregelaar (E501). *Rainforest Alliance certified",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 21.0,
+        "saturated_fat_100g": 13.0,
+        "carbohydrates_100g": 13.0,
+        "sugars_100g": 0.4,
+        "fiber_100g": null,
+        "proteins_100g": 22.0,
+        "salt_100g": 0.1
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.626843+00:00"
+    },
+    "8721800408880": {
+      "barcode": "8721800408880",
+      "product_name": "Leerdammer Lightlife jong belegen 35+ plakken",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303539303232?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: MELK, zout, zuursel (MELK), vegetarisch stremsel Allergie-informatie Bevat: Melk",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 19.0,
+        "saturated_fat_100g": 13.0,
+        "carbohydrates_100g": 0.01,
+        "sugars_100g": 0.01,
+        "fiber_100g": null,
+        "proteins_100g": 28.0,
+        "salt_100g": 1.7
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.669670+00:00"
+    },
+    "8721800408866": {
+      "barcode": "8721800408866",
+      "product_name": "Leerdammer Original jong 45+ plakken",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_646d4f6e4f4254645353654e706939446e5346716b41?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: MELK, zout, zuursel (MELK), vegetarisch stremsel Allergie-informatie Bevat: Melk",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 28.0,
+        "saturated_fat_100g": 19.0,
+        "carbohydrates_100g": 0.01,
+        "sugars_100g": 0.01,
+        "fiber_100g": null,
+        "proteins_100g": 26.0,
+        "salt_100g": 1.5
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.669779+00:00"
+    },
+    "8722700255642": {
+      "barcode": "8722700255642",
+      "product_name": "Zwan Hot dog worstjes bel",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_437568627551485854326941476d4447697863386267?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Varkensvlees 46%, varkensseparatorvlees 34%, water, aardappelzetmeel, zout, dextrose, rookaroma, rundercollageen, stabilisator (E451, E452), antioxidant (E301, rozemarijnextract), specerij-extracten (foelie, chilipeper, koriander, knoflook, gember, peper, paprika), conserveermiddel E250, Opgiet: water, zout.",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 14.0,
+        "saturated_fat_100g": 6.1,
+        "carbohydrates_100g": 4.6,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 13.0,
+        "salt_100g": 2.1
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.693849+00:00"
+    },
+    "8720182103406": {
+      "barcode": "8720182103406",
+      "product_name": "Knorr Drinkbouillon tuinkruiden",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303935323436?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Zout, smaakversterker (E621, E627, E631), aroma (bevat SELDERIJ), mineraalzout (kalium), kruiden¹ 1,5% (peterselie, lavas), rode paprika¹ 0,8%, groene paprika, palmvet, uienpoeder¹, suiker, gebakken uiensapconcentraat¹ (uiensapconcentraat, zonnebloemolie), specerijen¹ (knoflookpoeder, peterseliewortelpoeder), gistextract, karamelsiroop, maltodextrine.  ¹op duurzame wijze geteeld. Allergie-informatie Bevat: Selderij",
+      "nutrition": {
+        "calories_100g": 4.0,
+        "fat_100g": 0.5,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 0.5,
+        "sugars_100g": 0.5,
+        "fiber_100g": 0.5,
+        "proteins_100g": 0.6,
+        "salt_100g": 1.3
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.727653+00:00"
+    },
+    "8720182368782": {
+      "barcode": "8720182368782",
+      "product_name": "Magere rookworst magnetron",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Varkensvlees 81%, water, aardappelzetmeel, rundercollageen, zout, mineraal zout (kalium), natuurlijk aroma, voedingszuur (E330), stabilisator (E451, É452), antioxidanten (E300, E392), rookaroma, conserveermiddel (E250).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T14:59:19.761517+00:00"
+    },
+    "8725800000464": {
+      "barcode": "8725800000464",
+      "product_name": "Groninger Metworst",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "VARKENSVLEES, VARKENSSPEK, ZOUT, AARDAPPEL - ZETMEEL, KRUIDNAGEL, VARKENS - ZWOERD, DEXTROSE, SPECERIJEN, ANTIOXIDANT: NATRIUMASCORBAAT, KLEURSTOF: KARMIJN, SPECERIJ - EXTRACT, CONSERVEERMIDDEL: NATRIUMNITRIET, WORSTOMHULSEL: VARKENSDARM. VOOR 100 GRAM DROGE WORST IS 139 GRAM VARKENSVLEES GEBRUIKT.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T14:59:19.762428+00:00"
+    }
+  }
+}

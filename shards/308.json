@@ -1,0 +1,89 @@
+{
+  "version": "1.0",
+  "prefix": "308",
+  "count": 3,
+  "updated_at": "2026-11-20T14:59:19.782444+00:00",
+  "products": {
+    "3083681025484": {
+      "barcode": "3083681025484",
+      "product_name": "Bonduelle Crispy maïs",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_645f484c304a6c6a544553565036492d504666565367?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Maïskorrels, water, zout.",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 1.4,
+        "saturated_fat_100g": 0.2,
+        "carbohydrates_100g": 11.0,
+        "sugars_100g": 5.1,
+        "fiber_100g": 3.0,
+        "proteins_100g": 2.7,
+        "salt_100g": 0.28
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.727871+00:00"
+    },
+    "3083681006964": {
+      "barcode": "3083681006964",
+      "product_name": "Bonduelle Kikkererwten",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_2d7236765f39314652535369666a4d42503877365667?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Kikkererwten, water, zout. Kan SOJA en GRANEN (GLUTEN) bevatten. Allergie-informatie Kan bevatten: Glutenbevattende Granen, Soja",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 2.2,
+        "saturated_fat_100g": 0.2,
+        "carbohydrates_100g": 15.0,
+        "sugars_100g": 0.5,
+        "fiber_100g": 7.7,
+        "proteins_100g": 6.4,
+        "salt_100g": 0.3
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.729156+00:00"
+    },
+    "3083680600965": {
+      "barcode": "3083680600965",
+      "product_name": "Bonduelle Linzen",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4b542d575532415153585355587a6d417a77676a4277?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Linzen, water, zout, verstevigingsmiddel: E509. Kan SOJA en GRANEN (GLUTEN) bevatten. Allergie-informatie Kan bevatten: Soja, Glutenbevattende Granen",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 0.4,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 16.0,
+        "sugars_100g": 0.5,
+        "fiber_100g": 6.8,
+        "proteins_100g": 8.7,
+        "salt_100g": 0.29
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.729582+00:00"
+    }
+  }
+}

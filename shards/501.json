@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "prefix": "501",
+  "count": 2,
+  "updated_at": "2026-11-20T14:59:19.802008+00:00",
+  "products": {
+    "5016599010639": {
+      "barcode": "5016599010639",
+      "product_name": "Princes Tonijnstukken in water",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_435054614c59374b51743249525548546c7957303467?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Skipjack tonijn (VIS), water, zout Allergie-informatie Bevat: Vis, Tonijn",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 0.5,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 0.1,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 24.0,
+        "salt_100g": 0.9
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.605168+00:00"
+    },
+    "5016599011247": {
+      "barcode": "5016599011247",
+      "product_name": "Princes Ansjovisfilets in zonnebloemolie",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313931313434?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: gezouten ansjoVISfilets (ansjoVIS, zout), zonnebloemolie. Allergie-informatie Bevat: Vis",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 15.0,
+        "saturated_fat_100g": 1.7,
+        "carbohydrates_100g": 0.1,
+        "sugars_100g": 0.0,
+        "fiber_100g": 0.0,
+        "proteins_100g": 23.0,
+        "salt_100g": 14.0
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.612226+00:00"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "version": "1.0",
+  "prefix": "321",
+  "count": 3,
+  "updated_at": "2026-11-20T14:59:19.785410+00:00",
+  "products": {
+    "3215061062776": {
+      "barcode": "3215061062776",
+      "product_name": "Lotus Gevulde wafel cassonade bel",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_746c50464f51377454694f594a4a534d696159596851?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: TARWEbloem, plantaardige oliën (palmolie van duurzame en gecertificeerde plantages, raapolie), cassonade 13%  , suiker, glucose-fructosestroop, TARWEzetmeel, scharrelEIEREN, TARWEvezels, zout  , gist, emulgator (mono- en diglyceriden van vetzuren, natriumstearoyl-2-lactylaat, SOJAlecithine), aroma, conserveermiddel (kaliumsorbaat), zuurteregelaar (citroenzuur), stabilisator (invertase) Allergie-informatie Bevat: Eieren, Soja, Tarwe, Glutenbevattende Granen",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 22.0,
+        "saturated_fat_100g": 12.0,
+        "carbohydrates_100g": 58.0,
+        "sugars_100g": 32.0,
+        "fiber_100g": 2.7,
+        "proteins_100g": 3.4,
+        "salt_100g": 0.5
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.702531+00:00"
+    },
+    "3215061072737": {
+      "barcode": "3215061072737",
+      "product_name": "Lotus Gevulde wafel vanille bel",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303230313035?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: TARWEbloem, plantaardige oliën (palm*, raap), dextrose, suiker, glucose-fructosestroop, TARWEzetmeel, EIEREN**, glucosestroop, TARWEvezels, zout, gist, aroma, emulgatoren (mono- en diglyceriden van vetzuren, natriumstearoyl-2-lactylaat, lecithinen (SOJA)), conserveermiddel (kaliumsorbaat), stabilisator (invertase), *Palmolie van duurzame en gecertificeerde plantages., **Scharreleieren Allergie-informatie Bevat: Eieren, Soja, Tarwe, Glutenbevattende Granen",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 22.0,
+        "saturated_fat_100g": 12.0,
+        "carbohydrates_100g": 58.0,
+        "sugars_100g": 32.0,
+        "fiber_100g": 2.8,
+        "proteins_100g": 3.2,
+        "salt_100g": 0.54
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.702813+00:00"
+    },
+    "3218260000181": {
+      "barcode": "3218260000181",
+      "product_name": "Boni fuseau lorrain fume au bois",
+      "store": "colruyt.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T14:59:19.754475+00:00"
+    }
+  }
+}

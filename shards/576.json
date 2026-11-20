@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "576",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.819834+00:00",
+  "products": {
+    "5760466739924": {
+      "barcode": "5760466739924",
+      "product_name": "Garlan Verse roomkaas met knoflook & kruiden",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_3952735851586e315374615a474a7a7474417a4b3741?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Magere MELK, 47% room (MELK), zout, boter (MELK), 0,2% peterselie, 0,2% natuurlijk knoflookaroma, 0,1% mierikswortelbereiding (mierikswortel, water, raapzaadolie, zout, zuurteregelaar: citroenzuur, antioxidant: natriumdisulfiet), 0,1% knoflookgranulaat, azijn, basilicum, witte peper, zuursel Allergie-informatie Bevat: Melk",
+      "nutrition": {
+        "calories_100g": 267.0,
+        "fat_100g": 26.0,
+        "saturated_fat_100g": 17.0,
+        "carbohydrates_100g": 3.1,
+        "sugars_100g": 2.8,
+        "fiber_100g": null,
+        "proteins_100g": 4.8,
+        "salt_100g": 1.4
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.675752+00:00"
+    }
+  }
+}

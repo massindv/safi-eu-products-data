@@ -1,0 +1,124 @@
+{
+  "version": "1.0",
+  "prefix": "315",
+  "count": 5,
+  "updated_at": "2026-11-20T14:59:19.783339+00:00",
+  "products": {
+    "3154230814085": {
+      "barcode": "3154230814085",
+      "product_name": "Herta Spekreepjes gerookt bel",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303135393831?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Varkensvlees 93%, conserveermiddelen: kaliumlactaat, natriumacetaat, natriumnitriet, zout, dextrose, antioxidant: natriumisoascorbaat.",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 20.0,
+        "saturated_fat_100g": 7.8,
+        "carbohydrates_100g": 0.4,
+        "sugars_100g": 0.4,
+        "fiber_100g": 0.5,
+        "proteins_100g": 17.0,
+        "salt_100g": 2.0
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.598193+00:00"
+    },
+    "3154230813965": {
+      "barcode": "3154230813965",
+      "product_name": "Herta Gerookte spekblokjes BEL",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313937313435?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Varkensborst, conserveermiddelen : natriumnitriet, natriumacetaat, kaliumlactaat, zout, dextrose, antioxidant: natriumerythorbaat, rook",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 20.0,
+        "saturated_fat_100g": 7.8,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": 0.0,
+        "proteins_100g": 17.0,
+        "salt_100g": 2.2
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.601365+00:00"
+    },
+    "3154230809890": {
+      "barcode": "3154230809890",
+      "product_name": "jambon",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jambon frais de porc, Sel, Arômes naturels (présence naturelle de polyphénols), Bouillon (eau, gras et couenne de porc, os de porc, sel, extraits de carotte et d'oignon, épices et plantes aromatiques), Sucre, Chlorure de potassium, Antioxydant: Acide ascorbique, Vinaigre en poudre.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.746674+00:00"
+    },
+    "3154230802259": {
+      "barcode": "3154230802259",
+      "product_name": "HERTA Lardons nature conservation sans nitrite - 2x75g",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Poitrine de porc, sel, conservateurs : lactate de potassium, acétate de potassium ; arôme naturel (présence naturelle de polyphénols), antioxydant : acide ascorbique.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.746823+00:00"
+    },
+    "3154230801825": {
+      "barcode": "3154230801825",
+      "product_name": "HERTA KNACKI Original saucisse Porc sans nitrite x4 - 140g",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc 77,9%, Eau, Gras de porc, Sel, Sucre, Isolat de protéines de pois, Fibre de BLE, Arôme naturel (présence naturelle de polyphénols), Arômes, Antioxydant : acide ascorbique, Ferments. Peut contenir : OEUF, LAIT.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.748341+00:00"
+    }
+  }
+}

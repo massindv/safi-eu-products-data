@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "739",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.825937+00:00",
+  "products": {
+    "7394376616501": {
+      "barcode": "7394376616501",
+      "product_name": "Oatly! Haver barista edition",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313036343637?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Water, HAVER 10%, koolzaadolie, zuurteregelaar (dikaliumfosfaat), mineralen (calciumcarbonaat, kaliumjodide), zout, vitaminen (D2, riboflavine, B12)\nVrij van melk en soja. Allergie-informatie Bevat: Haver, Glutenbevattende Granen",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 3.0,
+        "saturated_fat_100g": 0.3,
+        "carbohydrates_100g": 7.1,
+        "sugars_100g": 3.4,
+        "fiber_100g": 0.8,
+        "proteins_100g": 1.1,
+        "salt_100g": 0.1
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.601584+00:00"
+    }
+  }
+}

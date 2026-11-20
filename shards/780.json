@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "780",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.831830+00:00",
+  "products": {
+    "7804315304807": {
+      "barcode": "7804315304807",
+      "product_name": "Undurraga Carménère",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_434d50303331393633?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Contains sulfites Allergie-informatie Bevat: Sulfieten Kan bevatten: Eieren",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": null,
+        "saturated_fat_100g": null,
+        "carbohydrates_100g": null,
+        "sugars_100g": null,
+        "fiber_100g": null,
+        "proteins_100g": null,
+        "salt_100g": null
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.739910+00:00"
+    }
+  }
+}

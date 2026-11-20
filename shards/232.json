@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "232",
+  "count": 2,
+  "updated_at": "2026-11-20T14:59:19.779032+00:00",
+  "products": {
+    "2324451605262": {
+      "barcode": "2324451605262",
+      "product_name": "Gemarineerde kipfilet",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Kippenvlees 93,9%. raapzaadolie, zout, zwarte peper, tomatenpoeder, gistextract, paprikaconcentraat, gerookt zout.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T14:59:19.761142+00:00"
+    },
+    "2324451705238": {
+      "barcode": "2324451705238",
+      "product_name": "Filet Gemarineerd",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "kippenvlees 93,9%, raapzaadolie, zout, zwarte peper, tomatenpoeder, gistextract, paprikaconcentraat, gerookt zout.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T14:59:19.761280+00:00"
+    }
+  }
+}

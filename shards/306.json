@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "306",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.782137+00:00",
+  "products": {
+    "3068320120256": {
+      "barcode": "3068320120256",
+      "product_name": "Evian Mineraalwater 6-pack bel",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_596a4d31303262675246716a48494a76476151464651?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Samenstelling (mg/l), Ca++ 80, Mg++ 26, Na+ 6,5, K+ 1, SiO₂ 15, HCO₃⁻ 360, SO₄⁻⁻ 14, Cl⁻ 10, NO₃⁻ 3,8, Hoeveelheid minerale zouten bij 180°C : 345mg/l, pH = 7,2",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": null,
+        "saturated_fat_100g": null,
+        "carbohydrates_100g": null,
+        "sugars_100g": null,
+        "fiber_100g": null,
+        "proteins_100g": null,
+        "salt_100g": null
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.684940+00:00"
+    }
+  }
+}

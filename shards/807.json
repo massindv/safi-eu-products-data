@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "prefix": "807",
+  "count": 2,
+  "updated_at": "2026-11-20T14:59:19.840833+00:00",
+  "products": {
+    "8076800195057": {
+      "barcode": "8076800195057",
+      "product_name": "Barilla Spaghetti n.5 bel",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_43545239393831343334?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: harde TARWEGRIESMEEL, water. Kan sporen van SOJA en MOSTERD bevatten. Allergie-informatie Bevat: Glutenbevattende Granen, Tarwe Kan bevatten: Soja, Mosterd",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 2.0,
+        "saturated_fat_100g": 0.5,
+        "carbohydrates_100g": 71.0,
+        "sugars_100g": 3.5,
+        "fiber_100g": 3.0,
+        "proteins_100g": 13.0,
+        "salt_100g": 0.01
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.678229+00:00"
+    },
+    "8076800195019": {
+      "barcode": "8076800195019",
+      "product_name": "Barilla Capellini n.1 bel",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_43545239353733333539?revLabel=4&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: harde TARWEGRIESMEEL, water. Kan sporen van SOJA en MOSTERD bevatten. Allergie-informatie Bevat: Glutenbevattende Granen, Tarwe Kan bevatten: Soja, Mosterd",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 2.0,
+        "saturated_fat_100g": 0.5,
+        "carbohydrates_100g": 71.0,
+        "sugars_100g": 3.5,
+        "fiber_100g": 3.0,
+        "proteins_100g": 13.0,
+        "salt_100g": 0.01
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.678409+00:00"
+    }
+  }
+}

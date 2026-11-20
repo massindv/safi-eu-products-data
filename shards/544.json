@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "prefix": "544",
+  "count": 2,
+  "updated_at": "2026-11-20T14:59:19.818504+00:00",
+  "products": {
+    "5449000133335": {
+      "barcode": "5449000133335",
+      "product_name": "Coca-Cola Zero 6petfl BEL",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_6d6f456861453338527a576b4657395a624b4e454477?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Sprankelend water, kleurstof: E150d, voedingszuur: E338, zoetstoffen: aspartaam, acesulfaam-K, natuurlijke aroma's, waaronder cafeïne, zuurteregelaar: E331",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.02
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.637631+00:00"
+    },
+    "5449000131843": {
+      "barcode": "5449000131843",
+      "product_name": "Coca-Cola Zero BEL",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_2d776c754578777a5462794e78584f62527159346467?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Sprankelend water, kleurstof: E150d, voedingszuren: E338, E331, zoetstoffen: aspartaam, acesulfaam-K, natuurlijke aroma's (plantenextracten), waaronder cafeïne",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.02
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.691929+00:00"
+    }
+  }
+}

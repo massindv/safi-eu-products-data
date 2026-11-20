@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "prefix": "237",
+  "count": 2,
+  "updated_at": "2026-11-20T14:59:19.780566+00:00",
+  "products": {
+    "2378333503535": {
+      "barcode": "2378333503535",
+      "product_name": "Brabantse slagersachterham",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Varkensvlees 95%, zout, voedingszuren: E326 en E262, glucosestroop, natuurlijk aroma, stabilisatoren: E339, E452, E450, E451 en E407, conserveermiddel: E250, antioxidant: E301, rook.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T14:59:19.757510+00:00"
+    },
+    "2378822503534": {
+      "barcode": "2378822503534",
+      "product_name": "Ovengebakken kipfilet",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T14:59:19.763546+00:00"
+    }
+  }
+}

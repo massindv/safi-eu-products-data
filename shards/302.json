@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "302",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.780866+00:00",
+  "products": {
+    "3021210012000": {
+      "barcode": "3021210012000",
+      "product_name": "Le pâté de porc Hénaff",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc origine Bretagne (91%), fumet, foie de porc (1,5%), sel de Guérande (1,5%), épices,",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.752483+00:00"
+    }
+  }
+}

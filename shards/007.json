@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "007",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.771366+00:00",
+  "products": {
+    "0071475740012": {
+      "barcode": "0071475740012",
+      "product_name": "Cardini's Original caesardressing",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_727347304e7a5077547079394e4774443245556c4d67?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Koolzaadolie (62%), water, gepasteuriseerd EIGEEL, wittewijnazijn, citroensapconcentraat, zout, Parmigiano Reggiano-kaas (MELK) (1%), MOSTERDMEEL, zwarte peper, worcestersaus (water, brandewijnazijn, GERSTEMOUTAZIJN, suiker, melasse, zout, gedroogde ui, gedroogde knoflook, tamarindepasta, gedroogde gember, chilipoeder), gedroogde knoflook, gedroogde ui, extra vierge olijfolie, ansjovispasta (ansjovis (VIS), zout, olijfolie), stabilisator: xanthaangom. Allergie-informatie Bevat: Eieren, Melk, Mosterd, Gerst, Glutenbevattende Granen, Vis",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 66.0,
+        "saturated_fat_100g": 5.3,
+        "carbohydrates_100g": 1.9,
+        "sugars_100g": 0.5,
+        "fiber_100g": 0.5,
+        "proteins_100g": 2.3,
+        "salt_100g": 1.03
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.728572+00:00"
+    }
+  }
+}

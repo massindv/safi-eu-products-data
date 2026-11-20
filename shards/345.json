@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "prefix": "345",
+  "count": 2,
+  "updated_at": "2026-11-20T14:59:19.796332+00:00",
+  "products": {
+    "3450160004795": {
+      "barcode": "3450160004795",
+      "product_name": "Fine saveur de viande séchée",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc* ; sel ; lactose; dextrose; sucre ; poudre de lait; vin ; épices ; conservateurs : nitrate de potassium, nitrite de sodium ; arôme ; ferments. Viande d'origine UE rigoureusement sélectionnée.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "alcohol"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.754028+00:00"
+    },
+    "3450160001831": {
+      "barcode": "3450160001831",
+      "product_name": "Les p‘tites tranches nature",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "viande de porc, sel, lactose, dextrose, sucre, poudre de lait, vin, épices, conservateurs (nitrate de potassium, nitrite de sodium), arômes, ferments",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "alcohol"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.754163+00:00"
+    }
+  }
+}

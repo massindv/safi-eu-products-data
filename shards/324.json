@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "324",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.790433+00:00",
+  "products": {
+    "3245412155543": {
+      "barcode": "3245412155543",
+      "product_name": "Nuggets de poulet",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de poulet 50%, eau, farine de blé, fibre de blé, dextrose, protéine de blé, sel, levure, dextrine, poudres à lever: diphosphates, carbonates de sodium; extraits d'épices. Huile de tournesol. Peut contenir des traces de lait. Viande de poulet origine UE.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.751268+00:00"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "prefix": "305",
+  "count": 2,
+  "updated_at": "2026-11-20T14:59:19.781776+00:00",
+  "products": {
+    "3052910013677": {
+      "barcode": "3052910013677",
+      "product_name": "Monin Caramel siroop",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313634313238?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Suiker, water, natuurlijk aroma, voedingszuur: citroenzuur, kleur: E150a.",
+      "nutrition": {
+        "calories_100g": 324.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 79.0,
+        "sugars_100g": 79.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.03
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.687072+00:00"
+    },
+    "3052910013776": {
+      "barcode": "3052910013776",
+      "product_name": "Monin Vanille siroop",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4d4c4b734136496c52387953386d6a75783336564441?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Suiker, water, natuurlijk aroma, voedingszuur: citroenzuur, conserveermiddel: E202.",
+      "nutrition": {
+        "calories_100g": 341.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 84.0,
+        "sugars_100g": 84.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.03
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.687288+00:00"
+    }
+  }
+}

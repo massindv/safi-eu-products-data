@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "230",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.776609+00:00",
+  "products": {
+    "2308023102540": {
+      "barcode": "2308023102540",
+      "product_name": "Coburger ham gerookt",
+      "store": "jumbo.com",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "varkensvlees, zout, dextrose, suiker, specerijen (uipoeder, knoflookpoeder, zwarte peper, gember), jeneverbes, kruiden (rozemarijn, marjoraan), specerijenextracten (kaneel, koriander), antioxidant: E301, conserveermiddelen: E250 en E252, rook.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T14:59:19.758889+00:00"
+    }
+  }
+}

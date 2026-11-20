@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "600",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.821391+00:00",
+  "products": {
+    "6009706974442": {
+      "barcode": "6009706974442",
+      "product_name": "Stormhoek Cape rosé",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_7575445641326543524d75765f645476634e67684677?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten:\n                            Druiven. Gebotteld onder beschermende atmosfeer. Allergie-informatie Bevat: Sulfieten",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 0.5,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 0.3,
+        "sugars_100g": 0.3,
+        "fiber_100g": null,
+        "proteins_100g": 0.5,
+        "salt_100g": 0.0
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.646845+00:00"
+    }
+  }
+}

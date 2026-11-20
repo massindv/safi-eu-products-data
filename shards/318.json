@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "318",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.784983+00:00",
+  "products": {
+    "3180940079506": {
+      "barcode": "3180940079506",
+      "product_name": "Mon Jambon Blanc VPF 4tr",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jambon de porc français élevé sans antibiotique dès la fin du sevrage (42ème jour), sel, arômes naturels, dextrose, antioxydant : érythorbate de sodium, conservateur : nitrite de sodium.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.751556+00:00"
+    }
+  }
+}

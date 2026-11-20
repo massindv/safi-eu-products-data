@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "prefix": "502",
+  "count": 2,
+  "updated_at": "2026-11-20T14:59:19.802547+00:00",
+  "products": {
+    "5021991938917": {
+      "barcode": "5021991938917",
+      "product_name": "Clipper Lemon & Ginger organic infusion",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_306e5539504c776f537747674152753079434f755a67?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: citroengras*, gemberwortel* (16%), zoethoutwortel*, natuurlijk citroenaroma* (5%), citroenschil* (4%), sinaasappelschil*, witte hibiscus*, natuurlijk gemberaroma (1,5%). *ingredient van biologische teelt.",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": null,
+        "saturated_fat_100g": null,
+        "carbohydrates_100g": null,
+        "sugars_100g": null,
+        "fiber_100g": null,
+        "proteins_100g": null,
+        "salt_100g": null
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.659727+00:00"
+    },
+    "5029396738767": {
+      "barcode": "5029396738767",
+      "product_name": "Fentimans Rose lemonade",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313230303135?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Koolzuurhoudend water, fructose, suiker, geklaard citroensap uit concentraat (6%), perensapconcentraat|5%), gefermenteerd gemberwortelextractlwater, alucosestroop, gemberwortel, perensapconcentraat, gist), natuurlijke smaakstoffen, zuur (wijnsteenzuur, citroenzuur) k eurstof (concentraat van zoete aardappel, wortel, appel, hibiscus), zoetstoflsteviolglycosiden uitstevia), Bulgaarse rozenole.",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 4.5,
+        "sugars_100g": 4.4,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.01
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.682958+00:00"
+    }
+  }
+}

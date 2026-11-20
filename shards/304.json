@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "prefix": "304",
+  "count": 2,
+  "updated_at": "2026-11-20T14:59:19.781432+00:00",
+  "products": {
+    "3045320082586": {
+      "barcode": "3045320082586",
+      "product_name": "Bonne Maman Aardbeien confiture",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4d48386673757353524b2d58674c4e4e664d33634367?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: aardbeien, suiker, bruine rietsuiker, geconcentreerd citroensap, geleermiddel: pectinen.",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 0.1,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 59.0,
+        "sugars_100g": 59.0,
+        "fiber_100g": 1.2,
+        "proteins_100g": 0.4,
+        "salt_100g": 0.0
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.675538+00:00"
+    },
+    "3041090063114": {
+      "barcode": "3041090063114",
+      "product_name": "Liga Cracotte naturel",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_776473522d5631335432716667344944684d75477851?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Meel ( TARWE 98 %, ROGGE 0,5 %), magere MELKPOEDER , suiker, palmolie, zout. Allergie-informatie Bevat: Tarwe, Melk, Glutenbevattende Granen",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 2.7,
+        "saturated_fat_100g": 1.0,
+        "carbohydrates_100g": 78.0,
+        "sugars_100g": 7.9,
+        "fiber_100g": 3.0,
+        "proteins_100g": 11.0,
+        "salt_100g": 1.7
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.680828+00:00"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "901",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.913176+00:00",
+  "products": {
+    "9015160108450": {
+      "barcode": "9015160108450",
+      "product_name": "Almdudler 6-pack bel",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_69473877413855345135435373486f434d6673447467?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Water, suiker, koolzuur, zuurtemiddel citroenzuur, kleurstof ammonium-sulfiet, natuurlijke kruiden-extracten",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": null,
+        "carbohydrates_100g": 8.0,
+        "sugars_100g": 8.0,
+        "fiber_100g": 0.0,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.1
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.700311+00:00"
+    }
+  }
+}

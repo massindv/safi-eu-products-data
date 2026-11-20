@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "317",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.784186+00:00",
+  "products": {
+    "3175460000017": {
+      "barcode": "3175460000017",
+      "product_name": "Boursin Knoflook & fijne kruiden",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_79427356374d77345365754b63325053586547415377?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Gepasteuriseerde MELK en ROOM, zuursel (bevat MELK), knoflook en fijne kruiden 1,9%, zout, peper, conserveermiddel: kaliumsorbaat\n\nKan sporen van NOTEN bevatten.",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 39.0,
+        "saturated_fat_100g": 26.0,
+        "carbohydrates_100g": 3.0,
+        "sugars_100g": 2.5,
+        "fiber_100g": null,
+        "proteins_100g": 8.5,
+        "salt_100g": 1.2
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.657213+00:00"
+    }
+  }
+}

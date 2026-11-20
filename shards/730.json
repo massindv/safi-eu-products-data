@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "730",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.822814+00:00",
+  "products": {
+    "7300400481700": {
+      "barcode": "7300400481700",
+      "product_name": "Wasa Volkoren",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_526c6b63453458465171652d4f30316e476c47525867?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingredienten: volkoren ROGGEmeel 105 g*, gist, zout. *in g voor 100 g product. Kan LUPINE, MELK, MOSTERD, SESAMZAAD en SOJA bevatten. Allergie-informatie Bevat: Rogge, Glutenbevattende Granen Kan bevatten: Sesamzaad, Melk, Lupine, Mosterd, Soja",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 1.5,
+        "saturated_fat_100g": 0.4,
+        "carbohydrates_100g": 59.0,
+        "sugars_100g": 1.5,
+        "fiber_100g": 20.0,
+        "proteins_100g": 10.0,
+        "salt_100g": 1.2
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.685179+00:00"
+    }
+  }
+}

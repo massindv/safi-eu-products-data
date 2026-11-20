@@ -1,0 +1,349 @@
+{
+  "version": "1.0",
+  "prefix": "356",
+  "count": 17,
+  "updated_at": "2026-11-20T14:59:19.797288+00:00",
+  "products": {
+    "3560071264734": {
+      "barcode": "3560071264734",
+      "product_name": "Jambon supérieur",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jambon de porc*, sel, conservateur : vinaigre* tamponné, sucre de canne*, arômes naturels d'olive, de carotte, de poivre, de romarin et d'ail, antioxydant : acide ascorbique, plantes aromatiques*. *Ingrédient issu de l'agriculture biologique. Présence naturelle de polyphénols.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.747806+00:00"
+    },
+    "3560071449698": {
+      "barcode": "3560071449698",
+      "product_name": "Jambon Supérieur",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jambon de porc 90%, eau, sel, dextrose, arômes naturels (présence naturelle de polyphénols), bouillon (os et viande de porc, extraits de légumes, oignon, ail, extraits d'épices et de plantes aromatiques), chlorure de potassium, antioxydant: acide ascorbique. Viande de porc origine France",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.748019+00:00"
+    },
+    "3560070507832": {
+      "barcode": "3560070507832",
+      "product_name": "Rillettes de Poulet Rôti En cocotte",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de poulet 90%, graisse de poulet, oignons, tomates, carottes, sel, poivre.\nPoulet origine Union Européenne.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.748153+00:00"
+    },
+    "3560070912209": {
+      "barcode": "3560070912209",
+      "product_name": "Jambon Serrano 11 mois d'affinage minimum",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jambon de porc, sel, sucre, dextrose, conservateurs : nitrate de potassium et nitrite de sodium, antioxydant : ascorbate de sodium. Viande de porc origine Espagne.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.748460+00:00"
+    },
+    "3560070719266": {
+      "barcode": "3560070719266",
+      "product_name": "Le supérieur à l'étouffée -25 % de sel",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jambon de porc, eau, sel, arômes naturels, dextrose, bouillon de porc (os et viande de porc, extrait de carotte et extrait de poireau), chlorure de potassium, antioxydant : ascorbate de sodium, conservateur : nitrite de sodium. Viande de porc origine France",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.748629+00:00"
+    },
+    "3560070955763": {
+      "barcode": "3560070955763",
+      "product_name": "Viande des Grisons",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de bœuf, sel, sucre, épices et plantes aromatiques, acidifiant : citrate de sodium, antioxydant : ascorbate de sodium, conservateur : nitrate de potassium, dextrose, extraits d'épices, ferments. Peut contenir des traces de lait, fruits à coque, œuf.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.748860+00:00"
+    },
+    "3560071170318": {
+      "barcode": "3560071170318",
+      "product_name": "Pâté de campagne supérieur",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc* 41,9%, foie de porc* 23%, gras de porc* 14,3%, _œufs_*, oignon*, vin blanc* (raisins), sel, farine de _blé_*, ail*, poivre blanc*, thym en poudre*.\n*Ingrédients issus de l'agriculture biologique.\nPeut contenir des traces de lait, soja, céleri, fruits à coque, mollusques, crustacés, poissons, moutarde.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "alcohol"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.749763+00:00"
+    },
+    "3560070589654": {
+      "barcode": "3560070589654",
+      "product_name": "Blanc de Poulet",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Filet de poulet 92%, eau, sel, chlorure de potassium, gélifiant : carraghénanes, sucre, antioxydant : ascorbate de sodium, épices et plantes aromatiques, extraits d'épices et de plantes aromatiques, extrait de carotte, conservateur : nitrite de sodium, extraits végétaux. Peut contenir des traces de soja et de lait.\nViande de poulet origine Union Européenne.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.750063+00:00"
+    },
+    "3560070579778": {
+      "barcode": "3560070579778",
+      "product_name": "Blanc de poulet Doré au Four",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Filets de poulet 91.5 %, eau, sel, dextrose, arômes naturels, gélifiant : carraghénanes, thym, feuille de laurier, clou de girofle, noix de muscade, poivre noir, sucre, oignon en poudre, ail en poudre, conservateur : nitrite de sodium. Peut contenir des traces d'œuf.\nViande de poulet origine Union Européenne et Royaume-Uni.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.750374+00:00"
+    },
+    "3560070719327": {
+      "barcode": "3560070719327",
+      "product_name": "Le Supérieur Cuit à l'étouffée",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jambon de porc, sel, conservateurs : chlorure de potassium et nitrite de sodium, arômes, dextrose, antioxydant : érythorbate de sodium. Viande de porc origine France.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.750504+00:00"
+    },
+    "3560071014520": {
+      "barcode": "3560071014520",
+      "product_name": "Le Supérieur Avec couenne",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jambon de porc*, couenne et gras de porc*, sel, conservateurs chlorure de potassium et nitrite de sodium, dextrose, sirop de glucose, antioxydant: érythorbate de sodium, arôme naturel.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.750621+00:00"
+    },
+    "3560070692842": {
+      "barcode": "3560070692842",
+      "product_name": "Mini Saucissons Secs",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de porc, sel, lactose, dextrose, sucre, poivre, ail déshydraté, muscad conservateur: nitrite de sodium, ferments, boyau collagénique comestible. 183 g de viande de porc mis en œuvre pour 100 g de produit fini. Viande de porc origine France. Peut contenir des traces de fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.751433+00:00"
+    },
+    "3560070700110": {
+      "barcode": "3560070700110",
+      "product_name": "Blanc de Dinde Doré au four",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de filets de dinde 90%, eau, arômes naturels, sel, dextrose, poivre, antioxydant : ascorbate de sodium, conservateur : nitrite de sodium, colorant de surface : caramel ordinaire.\nViande de dinde origine Union Européenne.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.751859+00:00"
+    },
+    "3560071096298": {
+      "barcode": "3560071096298",
+      "product_name": "Le Paris à l'étouffée",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jambon de porc, sel, dextrose, bouillon de porc (os et viande de porc), arômes naturels, antioxydant : ascorbate de sodium, conservateur : nitrite de sodium.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.751965+00:00"
+    },
+    "3560071251048": {
+      "barcode": "3560071251048",
+      "product_name": "Le Supérieur Cuit à l'étouffée",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jambon de porc issu d'animaux élevés sans traitement antibiotique dès la fin du sevrage et nourris sans OGM (&lt;0,9%), sel, arômes naturels, sucre, extrait de carotte, extraits d'épices et d'herbes aromatiques, antioxydant : ascorbate de sodium, conservateur : nitrite de sodium.\r\nViande de porc origine France.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.752383+00:00"
+    },
+    "3560070948123": {
+      "barcode": "3560070948123",
+      "product_name": "Jambon Supérieur sans Couenne sans antibiotiques",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jambon de porc issu d'animaux élevés sans traitement antibiotique dès la fin du sevrage et nourris sans OGM (&lt;0,9%), sel, arômes naturels, sucre, extrait de carotte, extraits d'épices et d'herbes aromatiques, antioxydant : ascorbate de sodium, conservateur : nitrite de sodium.\r\nViande de porc origine France.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.753200+00:00"
+    },
+    "3560070872619": {
+      "barcode": "3560070872619",
+      "product_name": "Blanc de poulet doré au four",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Filets de poulet 91.5 %, eau, sel, dextrose, arômes naturels, gélifiant : carraghénanes, thym, feuille de laurier, clou de girofle, noix de muscade, poivre noir, sucre, oignon en poudre, ail en poudre, conservateur : nitrite de sodium. Peut contenir des traces d'œuf.\nViande de poulet origine Union Européenne et Royaume-Uni.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.753496+00:00"
+    }
+  }
+}

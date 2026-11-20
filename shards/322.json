@@ -1,0 +1,57 @@
+{
+  "version": "1.0",
+  "prefix": "322",
+  "count": 2,
+  "updated_at": "2026-11-20T14:59:19.786127+00:00",
+  "products": {
+    "3228020232028": {
+      "barcode": "3228020232028",
+      "product_name": "Président Le brie",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_7966653230745963535653563833366f745f74785477?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: MELK (France oorsrong), zout, fermenten, microbieel stremsel Allergie-informatie Bevat: Melk",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 31.0,
+        "saturated_fat_100g": 22.0,
+        "carbohydrates_100g": 0.5,
+        "sugars_100g": 0.5,
+        "fiber_100g": null,
+        "proteins_100g": 17.0,
+        "salt_100g": 1.2
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.658300+00:00"
+    },
+    "3227061000023": {
+      "barcode": "3227061000023",
+      "product_name": "Steack Haché 15%",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "100% pure beef",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.747874+00:00"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "402",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.800561+00:00",
+  "products": {
+    "4023300738202": {
+      "barcode": "4023300738202",
+      "product_name": "Langnese Bee easy",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_735a4d3355696f34544c3263337a7374622d54377a41?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": null,
+        "saturated_fat_100g": null,
+        "carbohydrates_100g": null,
+        "sugars_100g": null,
+        "fiber_100g": null,
+        "proteins_100g": null,
+        "salt_100g": null
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.742925+00:00"
+    }
+  }
+}

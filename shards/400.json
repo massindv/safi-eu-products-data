@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "400",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.800012+00:00",
+  "products": {
+    "4002391377101": {
+      "barcode": "4002391377101",
+      "product_name": "Faszination Hugo rosé",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_43545236313939393737?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Contains sulfites Allergie-informatie Bevat: Sulfieten",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": null,
+        "saturated_fat_100g": null,
+        "carbohydrates_100g": null,
+        "sugars_100g": null,
+        "fiber_100g": null,
+        "proteins_100g": null,
+        "salt_100g": null
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.706347+00:00"
+    }
+  }
+}

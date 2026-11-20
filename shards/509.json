@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "prefix": "509",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.803476+00:00",
+  "products": {
+    "5098732004835": {
+      "barcode": "5098732004835",
+      "product_name": "Chivers Olde English marmalade",
+      "store": "ah.be",
+      "category": "supermarket",
+      "country": "Belgium",
+      "image_url": "https://static.ah.nl/dam/product/AHI_767a4c49696f4d625133536e37684c64613978577251?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "ingredients_text": "Ingrediënten: Suiker, sinaasappels, voedingszuur (citroenzuur), zuurteregelaar (natriumcitraten), geleermiddel (pectine), kleurstof (karamel), Totaal suikergehalte: 66g per 100g.",
+      "nutrition": {
+        "calories_100g": null,
+        "fat_100g": 0.6,
+        "saturated_fat_100g": 0.3,
+        "carbohydrates_100g": 65.0,
+        "sugars_100g": 59.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.2,
+        "salt_100g": 0.12
+      },
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "AH_BE",
+      "updated_at": "2026-11-20T14:59:19.743144+00:00"
+    }
+  }
+}

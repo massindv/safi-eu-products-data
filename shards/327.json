@@ -1,0 +1,89 @@
+{
+  "version": "1.0",
+  "prefix": "327",
+  "count": 4,
+  "updated_at": "2026-11-20T14:59:19.791638+00:00",
+  "products": {
+    "3270190208211": {
+      "barcode": "3270190208211",
+      "product_name": "Grignottes de poulet rôties -Nature",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Manchons de poulet (origine : France), eau, sirop de glucose, protéine de pois, sel, amidon modifié, arôme naturel. 112g de manchons de poulet mis en œuvre pour 100g de produit fini.\nPeut contenir des traces de gluten, soja, lait, œufs, céleri et moutarde.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.749130+00:00"
+    },
+    "3270190203636": {
+      "barcode": "3270190203636",
+      "product_name": "Blanc de Dinde Doré au four",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de filets de dinde 90%, eau, arômes naturels, sel, dextrose, poivre, antioxydant : ascorbate de sodium, conservateur : nitrite de sodium, colorant de surface : caramel ordinaire.\nViande de dinde origine Union Européenne.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.749492+00:00"
+    },
+    "3270190020103": {
+      "barcode": "3270190020103",
+      "product_name": "Pur Bœuf 15% Mat. Gr.",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "100% viande bovine (origine France).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.751644+00:00"
+    },
+    "3270190203445": {
+      "barcode": "3270190203445",
+      "product_name": "Mousse de Canard Au Porto",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Gras de porc, foie maigre de canard 17%, gras de canard 15%, foie de poulet, _lait_ demi-écrémé, couenne de porc, saindoux, crème (contient _lait_), sel, farine de _blé_, amidon de maïs, Porto rouge dénaturé 0,8% (Porto rouge, sel), sucre, Armagnac, arôme naturel, poivre, antioxydant : ascorbate de sodium, huile de paprika, conservateur : nitrite de sodium. Peut contenir des traces d'oeufs.\nViande de porc origine France et volailles origine Union Européenne.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "alcohol"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.752211+00:00"
+    }
+  }
+}

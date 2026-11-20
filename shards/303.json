@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "303",
+  "count": 1,
+  "updated_at": "2026-11-20T14:59:19.781138+00:00",
+  "products": {
+    "3038352910101": {
+      "barcode": "3038352910101",
+      "product_name": "Le Cannelloni pur bœuf",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau, cannelloni (semoule de _BLE_ dur, viande de boeuf 8%, chapelure (farine de _BLE_ eau),carottes, eau, oignons 0,7%, sel, plantes aromatiques, tapioca, huile de tournesol 0,09%, arômes naturels), double concentré de tomate 5,4%, viande de bœuf 5%, pulpe de tomate 3% (tomates, jus de tomate), oignons 1,5%, carottes, amidon modifié de mais, huile de tournesol 0,4%, basilic, sucre, sel, arôme, extrait d'épices, ail en poudre, extrait de poivre 0,01%",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T14:59:19.752908+00:00"
+    }
+  }
+}
