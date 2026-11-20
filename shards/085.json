@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "085",
+  "count": 1,
+  "updated_at": "2026-11-20T16:17:15.105985+00:00",
+  "products": {
+    "0858014386722": {
+      "barcode": "0858014386722",
+      "product_name": "Green ice tea",
+      "store": "jumbo.com",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Water, fructosestroop, suiker, natuurlijk frambozenaroma, voedingszuur: citroenzuur, natuurlijk aroma, natuurlijk granaatappelaroma, groenethee-extract' 0,1%, zuurteregelaar: E331, antioxidant: E300, frambozensap uit concentraat 0,1%, zoetstof: steviolglycosiden uit Stevia. 'Rainforest Alliance Certified. Lees meer op ra.org. E = door EU goedgekeurde hulpstof.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:17:15.091290+00:00"
+    }
+  }
+}

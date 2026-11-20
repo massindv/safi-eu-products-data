@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "315",
-  "count": 9,
-  "updated_at": "2026-11-20T16:02:23.933409+00:00",
+  "count": 11,
+  "updated_at": "2026-11-20T16:17:15.130646+00:00",
   "products": {
     "3154230814085": {
       "barcode": "3154230814085",
@@ -31,7 +31,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.662306+00:00"
+      "updated_at": "2026-11-20T16:17:14.776778+00:00"
     },
     "3154230813965": {
       "barcode": "3154230813965",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.665008+00:00"
+      "updated_at": "2026-11-20T16:17:14.779392+00:00"
     },
     "3154230809890": {
       "barcode": "3154230809890",
@@ -78,7 +78,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.736326+00:00"
+      "updated_at": "2026-11-20T16:17:14.853897+00:00"
     },
     "3154230802259": {
       "barcode": "3154230802259",
@@ -98,7 +98,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.736378+00:00"
+      "updated_at": "2026-11-20T16:17:14.853947+00:00"
     },
     "3154230801825": {
       "barcode": "3154230801825",
@@ -118,7 +118,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.737067+00:00"
+      "updated_at": "2026-11-20T16:17:14.854841+00:00"
     },
     "3154230802013": {
       "barcode": "3154230802013",
@@ -136,7 +136,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:02:23.749185+00:00"
+      "updated_at": "2026-11-20T16:17:14.865721+00:00"
     },
     "3154230600183": {
       "barcode": "3154230600183",
@@ -156,7 +156,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.754019+00:00"
+      "updated_at": "2026-11-20T16:17:14.870835+00:00"
     },
     "3154230812401": {
       "barcode": "3154230812401",
@@ -176,7 +176,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:02:23.777445+00:00"
+      "updated_at": "2026-11-20T16:17:14.901052+00:00"
     },
     "3155250363645": {
       "barcode": "3155250363645",
@@ -196,7 +196,45 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.801024+00:00"
+      "updated_at": "2026-11-20T16:17:14.926448+00:00"
+    },
+    "3159470204948": {
+      "barcode": "3159470204948",
+      "product_name": "Special K Chocolat noir",
+      "store": "delhaize.be",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Riz(39%), BLÉ complet(31%), Chocolat (14%)(Sucre, Pâte de cacao, Matière grasse du LAIT, Beurre de cacao, Emulsifiant {Lécithine de SOJA}), Sucre, ORGE(4%), Farine d'ORGE maltée(3%), Arôme de malt d'ORGE, Sel. Vitamines et Minéraux: Vitamines (Niacine, B2, B1, B6, Acide folique, D, B12), Fer et Zinc.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:17:15.056627+00:00"
+    },
+    "3154230600305": {
+      "barcode": "3154230600305",
+      "product_name": "HERTA TARTE EN OR Pâte Feuilletée -30% M.G 230g",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Farine de BLÉ, Eau, Huiles végétales (palme, colza), Alcool, GLUTEN de BLÉ, Sel, Jus de citron concentré, Levure désactivée. Peut contenir : LAIT, SOJA, MOUTARDE.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.062343+00:00"
     }
   }
 }

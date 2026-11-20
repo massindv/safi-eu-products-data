@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "544",
-  "count": 2,
-  "updated_at": "2026-11-20T16:02:23.982095+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:17:15.199474+00:00",
   "products": {
     "5449000133335": {
       "barcode": "5449000133335",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.677945+00:00"
+      "updated_at": "2026-11-20T16:17:14.795261+00:00"
     },
     "5449000131843": {
       "barcode": "5449000131843",
@@ -56,7 +56,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.704690+00:00"
+      "updated_at": "2026-11-20T16:17:14.824865+00:00"
+    },
+    "5449000267436": {
+      "barcode": "5449000267436",
+      "product_name": "Coca-Cola Cherry",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "eau gazéifiée ; sucre ; colorant : E150d ; acidifiant : acide phosphorique ; arômes naturels ; arôme caféine.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.089046+00:00"
+    },
+    "5449000243416": {
+      "barcode": "5449000243416",
+      "product_name": "Minute Maid Orange",
+      "store": "colruyt.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "JUS D'ORANGE À BASE DE CONCENTRé",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:17:15.090248+00:00"
     }
   }
 }

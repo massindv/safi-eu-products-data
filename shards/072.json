@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "072",
-  "count": 1,
-  "updated_at": "2026-11-20T16:02:23.906758+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T16:17:15.100379+00:00",
   "products": {
     "0723093644738": {
       "barcode": "0723093644738",
@@ -22,7 +22,25 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.886154+00:00"
+      "updated_at": "2026-11-20T16:17:15.014654+00:00"
+    },
+    "0723256568345": {
+      "barcode": "0723256568345",
+      "product_name": "Herbal Infusion Ginger Turmeric",
+      "store": "ah.nl",
+      "category": "teas",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Gember*, kaneel*, kurkuma*",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:17:15.086930+00:00"
     }
   }
 }

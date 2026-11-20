@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "743",
+  "count": 1,
+  "updated_at": "2026-11-20T16:17:15.209754+00:00",
+  "products": {
+    "7434401057692": {
+      "barcode": "7434401057692",
+      "product_name": "Met Honing au miel",
+      "store": "carrefour.be",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:17:15.061594+00:00"
+    }
+  }
+}

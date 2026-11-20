@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "844",
-  "count": 3,
-  "updated_at": "2026-11-20T16:02:23.992778+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:17:15.224238+00:00",
   "products": {
     "8445290442369": {
       "barcode": "8445290442369",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.684856+00:00"
+      "updated_at": "2026-11-20T16:17:14.800765+00:00"
     },
     "8445291565036": {
       "barcode": "8445291565036",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.711632+00:00"
+      "updated_at": "2026-11-20T16:17:14.830651+00:00"
     },
     "8445290408372": {
       "barcode": "8445290408372",
@@ -83,7 +83,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.721161+00:00"
+      "updated_at": "2026-11-20T16:17:14.840070+00:00"
+    },
+    "8445290728791": {
+      "barcode": "8445290728791",
+      "product_name": "KitKat Cereal",
+      "store": "carrefour.fr",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "31,4% VOLLKORNWEIZENMEHL, Maisgrieß, Zucker, Dextrose, Palmöl, WEIZENMEHL, 5,4% Kakaopulver*, Glukosesirup, WEIZENSTÄRKE, MAGERMILCHPULVER, Sonnenblumenöl, Calciumcarbonat, GERSTENMALZEXTRAKT, fettarmes Kakaopulver*, natürliche Aromen, Kakaobutter*, Salz, Kakaomasse*, Emulgator (Lecithine), MOLKENERZEUGNIS, BUTTERREINFETT, Antioxidationsmittel (stark tocopherolhaltige Extrakte), Eisen, Niacin, Pantothensäure, Vitamin B6, Riboflavin (Vit. B2), Folsäure.Kann NÜSSE enthalten. *Rainforest Alliance-zertifiziert.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.041306+00:00"
     }
   }
 }

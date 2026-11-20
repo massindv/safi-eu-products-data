@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "376",
-  "count": 4,
-  "updated_at": "2026-11-20T16:02:23.952727+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:17:15.157623+00:00",
   "products": {
     "3760049790214": {
       "barcode": "3760049790214",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.750964+00:00"
+      "updated_at": "2026-11-20T16:17:14.867258+00:00"
     },
     "3760056265118": {
       "barcode": "3760056265118",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:02:23.790938+00:00"
+      "updated_at": "2026-11-20T16:17:14.915084+00:00"
     },
     "3760092218055": {
       "barcode": "3760092218055",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:02:23.821406+00:00"
+      "updated_at": "2026-11-20T16:17:14.947609+00:00"
     },
     "3760091726667": {
       "barcode": "3760091726667",
@@ -74,7 +74,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.827895+00:00"
+      "updated_at": "2026-11-20T16:17:14.951542+00:00"
+    },
+    "3760226261292": {
+      "barcode": "3760226261292",
+      "product_name": "Tablette de chocolat 62% de cacao, framboise et pralin",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Cacao*, sucre de canne*, beurre de cacao*, éclats de noisettes caramélisés✶ (7%) (noisettes*, sucre de canne roux*), framboise déshydratée et lyophilisée* (4%), fleur de sel, poudre de vanille*, émulsifiant: lécithine de tournesol* \n*Ingrédient issu de l'agriculture biologique",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.064126+00:00"
+    },
+    "3760091725776": {
+      "barcode": "3760091725776",
+      "product_name": "café arabica moulu Moka Éthiopie",
+      "store": "carrefour.fr",
+      "category": "coffees",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Café moulu",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.078504+00:00"
     }
   }
 }

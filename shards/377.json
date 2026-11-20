@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "377",
-  "count": 2,
-  "updated_at": "2026-11-20T16:02:23.953083+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:17:15.158331+00:00",
   "products": {
     "3770016162043": {
       "barcode": "3770016162043",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.753028+00:00"
+      "updated_at": "2026-11-20T16:17:14.869432+00:00"
     },
     "3770018078038": {
       "barcode": "3770018078038",
@@ -38,7 +38,27 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.755106+00:00"
+      "updated_at": "2026-11-20T16:17:14.873016+00:00"
+    },
+    "3771161411369": {
+      "barcode": "3771161411369",
+      "product_name": "Chicken teriyaki",
+      "store": "ah.be",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:17:15.070144+00:00"
     }
   }
 }

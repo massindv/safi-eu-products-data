@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "859",
-  "count": 1,
-  "updated_at": "2026-11-20T16:02:23.993673+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:17:15.225968+00:00",
   "products": {
     "8590421620854": {
       "barcode": "8590421620854",
@@ -29,7 +29,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.696683+00:00"
+      "updated_at": "2026-11-20T16:17:14.814319+00:00"
+    },
+    "8593894911856": {
+      "barcode": "8593894911856",
+      "product_name": "Belvita Petit Déjeuner Duo Fourré Yaourt",
+      "store": "delhaize.be",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:17:15.035342+00:00"
+    },
+    "8590421621165": {
+      "barcode": "8590421621165",
+      "product_name": "black tea",
+      "store": "ah.nl",
+      "category": "teas",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:17:15.086331+00:00"
     }
   }
 }

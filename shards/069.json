@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "069",
+  "count": 1,
+  "updated_at": "2026-11-20T16:17:15.100108+00:00",
+  "products": {
+    "06980410": {
+      "barcode": "06980410",
+      "product_name": "muedli floconneux chocolat noisettes",
+      "store": "carrefour.fr",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.044561+00:00"
+    }
+  }
+}

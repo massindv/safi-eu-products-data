@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "117",
+  "count": 1,
+  "updated_at": "2026-11-20T16:17:15.108357+00:00",
+  "products": {
+    "11760399": {
+      "barcode": "11760399",
+      "product_name": "Cruesli Luchtig",
+      "store": "colruyt.be",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Volkoren havermout (47%), zonnebloem - olie, suiker, glucosesiroop, maïs (5,7%), rijstebloem (4,9%), oligofructose, volkoren tarwemeel (4,4%), honing, melasse, zout, natuurlijk aroma, moutextract (van gerst), antioxidant (tocopherol). Dit product is geproduceerd op een productielijn waarop verschillende Soorten noten worden verwerkt en kan sporen van soja bevatten. INGRÉDIENTS flocons d'avoine complets (47%), huile de tournesol, sucre, sirop de glucose, maïs (5,7%), farine de riz (4,9%), oligofructose, farine de blé complet (4,4%), miel, mélasse, sel, arômes naturels, extrait de malt (d'orge), antioxydant (tocophérol). Ce produit est fabriqué sur une ligne de production où différentes sortes de noix sont traitées et peut contenir des traces de soja.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:17:15.049494+00:00"
+    }
+  }
+}

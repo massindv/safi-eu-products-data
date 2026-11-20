@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "037",
+  "count": 1,
+  "updated_at": "2026-11-20T16:17:15.098083+00:00",
+  "products": {
+    "0370588062760": {
+      "barcode": "0370588062760",
+      "product_name": "Kleinverpakking boerenkool",
+      "store": "ah.nl",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:17:15.071904+00:00"
+    }
+  }
+}

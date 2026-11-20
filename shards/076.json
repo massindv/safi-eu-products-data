@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "076",
+  "count": 2,
+  "updated_at": "2026-11-20T16:17:15.102496+00:00",
+  "products": {
+    "0762111141798": {
+      "barcode": "0762111141798",
+      "product_name": "Capsules café arabica espresso kenya",
+      "store": "delhaize.be",
+      "category": "coffees",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:17:15.082714+00:00"
+    },
+    "0762111213709": {
+      "barcode": "0762111213709",
+      "product_name": "Veranda blend lungo",
+      "store": "delhaize.be",
+      "category": "coffees",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:17:15.082732+00:00"
+    }
+  }
+}

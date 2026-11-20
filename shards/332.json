@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "332",
-  "count": 2,
-  "updated_at": "2026-11-20T16:02:23.940731+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:17:15.143690+00:00",
   "products": {
     "3329757003926": {
       "barcode": "3329757003926",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:02:23.774087+00:00"
+      "updated_at": "2026-11-20T16:17:14.897651+00:00"
     },
     "3329770051072": {
       "barcode": "3329770051072",
@@ -38,7 +38,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.799858+00:00"
+      "updated_at": "2026-11-20T16:17:14.925296+00:00"
+    },
+    "3329480013605": {
+      "barcode": "3329480013605",
+      "product_name": "Flocons d'avoine petits",
+      "store": "carrefour.fr",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Avoine biologique. Traces possibles de fruits à coques, sésame et soja.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.043278+00:00"
     }
   }
 }

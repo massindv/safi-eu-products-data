@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "590",
-  "count": 3,
-  "updated_at": "2026-11-20T16:02:23.983637+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:17:15.201339+00:00",
   "products": {
     "5906259705879": {
       "barcode": "5906259705879",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.667236+00:00"
+      "updated_at": "2026-11-20T16:17:14.781922+00:00"
     },
     "5900563001078": {
       "barcode": "5900563001078",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:02:23.760096+00:00"
+      "updated_at": "2026-11-20T16:17:14.878383+00:00"
     },
     "5900951311321": {
       "barcode": "5900951311321",
@@ -65,7 +65,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.830622+00:00"
+      "updated_at": "2026-11-20T16:17:14.954482+00:00"
+    },
+    "5900130030982": {
+      "barcode": "5900130030982",
+      "product_name": "Almond & Java Vanilla",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "LAIT écrémé réhydraté, sucre, crème (LAIT) 14,5%, beurre de cacao, sirop de glucose, morceaux d'AMANDES grillées, LAIT écrémé en poudre, matière grasse de LAIT anhydre, poudre de petit-lait (LAIT), pâte de cacao, LACTOSE (LAIT), émulsifiants (mono - et diglycérides d'acides gras*, lecithines (SOJA), E 476*), stabilisants (gomme guar, farine de graines de caroube), concentré de carotte, arôme naturel de vanille de Java, gousses de vanille épuisées broyées de Java. Peut contenir : ARACHIDES, autres FRUITS À COQUE et OEUFS. *d'origine végétale. Sans gluten.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.064628+00:00"
     }
   }
 }

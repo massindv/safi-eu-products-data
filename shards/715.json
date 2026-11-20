@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "715",
+  "count": 1,
+  "updated_at": "2026-11-20T16:17:15.207248+00:00",
+  "products": {
+    "7154027133715": {
+      "barcode": "7154027133715",
+      "product_name": "Trésor Choco Roulette - Maxi 650g",
+      "store": "carrefour.fr",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.045084+00:00"
+    }
+  }
+}

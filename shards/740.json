@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "740",
-  "count": 1,
-  "updated_at": "2026-11-20T16:02:23.986789+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:17:15.209364+00:00",
   "products": {
     "7404802573947": {
       "barcode": "7404802573947",
@@ -20,7 +20,61 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:02:23.815141+00:00"
+      "updated_at": "2026-11-20T16:17:14.940544+00:00"
+    },
+    "7404741022353": {
+      "barcode": "7404741022353",
+      "product_name": "muesli met 45%fruit, noten, zaden en pitten",
+      "store": "colruyt.be",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:17:15.050047+00:00"
+    },
+    "7404741224696": {
+      "barcode": "7404741224696",
+      "product_name": "Pizza Pollo",
+      "store": "colruyt.be",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:17:15.068438+00:00"
+    },
+    "7404741124002": {
+      "barcode": "7404741124002",
+      "product_name": "Grenadine",
+      "store": "colruyt.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:17:15.090194+00:00"
     }
   }
 }

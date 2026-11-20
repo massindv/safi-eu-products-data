@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "489",
+  "count": 1,
+  "updated_at": "2026-11-20T16:17:15.162921+00:00",
+  "products": {
+    "4895241205293": {
+      "barcode": "4895241205293",
+      "product_name": "EU Product",
+      "store": "delhaize.be",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Tarwebloem, suiker, cacaobotervervanger (inclusief emulgator E322), plantaardige olie, moutstroop, volle melkpoeder, maltodextrine. welpoeder. rijsmiddelen (E500. E503) emulgator (E471, E322) conserveermiddel E223, kleurstof E160a. tafelzout, vanilline, Voedselaroma. ALLERGIE-INFORMATIE. BEVAT: SOJA, KAN SPOREN VAN PINDA'S EN NOTEN BEVATTEN.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:17:15.035010+00:00"
+    }
+  }
+}

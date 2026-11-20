@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "370",
-  "count": 2,
-  "updated_at": "2026-11-20T16:02:23.951874+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:17:15.157012+00:00",
   "products": {
     "3701283800437": {
       "barcode": "3701283800437",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:02:23.849540+00:00"
+      "updated_at": "2026-11-20T16:17:14.983182+00:00"
     },
     "3700211234221": {
       "barcode": "3700211234221",
@@ -38,7 +38,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.895979+00:00"
+      "updated_at": "2026-11-20T16:17:15.024186+00:00"
+    },
+    "3700111093119": {
+      "barcode": "3700111093119",
+      "product_name": "Poudre De Cacao Maigre",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Cacao Maigre En Poudre, Correcteur Dacidité: Carbonates De Potassium",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.089582+00:00"
     }
   }
 }

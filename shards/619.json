@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "619",
+  "count": 1,
+  "updated_at": "2026-11-20T16:17:15.206066+00:00",
+  "products": {
+    "6194005296484": {
+      "barcode": "6194005296484",
+      "product_name": "Grain d'or (miel)",
+      "store": "carrefour.fr",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Semou!e de blé, Farine de blé, sucre, miel, huile végétale, fibre de b!é, sel iodé, Vitamines et minéraux ( Vitamine C, Pyrophosphate de fer, Vîtamine B5), arôme Miel, arôme Vanilline.\ncontient du gluten.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.043872+00:00"
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "502",
-  "count": 2,
-  "updated_at": "2026-11-20T16:02:23.957733+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:17:15.164940+00:00",
   "products": {
     "5021991938917": {
       "barcode": "5021991938917",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.686421+00:00"
+      "updated_at": "2026-11-20T16:17:14.803855+00:00"
     },
     "5029396738767": {
       "barcode": "5029396738767",
@@ -56,7 +56,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.700855+00:00"
+      "updated_at": "2026-11-20T16:17:14.818809+00:00"
+    },
+    "5021991941177": {
+      "barcode": "5021991941177",
+      "product_name": "Organic black tea with ginger&coconut",
+      "store": "ah.nl",
+      "category": "teas",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Black tea, Ginger root 15%, Dried coconut 3%, natural coconut aroma and other natural aromas 3%",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:17:15.086730+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "353",
   "count": 2,
-  "updated_at": "2026-11-20T16:02:23.944085+00:00",
+  "updated_at": "2026-11-20T16:17:15.147901+00:00",
   "products": {
     "3533636760002": {
       "barcode": "3533636760002",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.800562+00:00"
+      "updated_at": "2026-11-20T16:17:14.925986+00:00"
     },
     "3533631722289": {
       "barcode": "3533631722289",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.801441+00:00"
+      "updated_at": "2026-11-20T16:17:14.926863+00:00"
     }
   }
 }

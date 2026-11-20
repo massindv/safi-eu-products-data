@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "501",
-  "count": 7,
-  "updated_at": "2026-11-20T16:02:23.957226+00:00",
+  "count": 11,
+  "updated_at": "2026-11-20T16:17:15.164040+00:00",
   "products": {
     "5016599010639": {
       "barcode": "5016599010639",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.667444+00:00"
+      "updated_at": "2026-11-20T16:17:14.782142+00:00"
     },
     "5016599011247": {
       "barcode": "5016599011247",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.670440+00:00"
+      "updated_at": "2026-11-20T16:17:14.786314+00:00"
     },
     "5010477348630": {
       "barcode": "5010477348630",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.751617+00:00"
+      "updated_at": "2026-11-20T16:17:14.867904+00:00"
     },
     "5010477348517": {
       "barcode": "5010477348517",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.752763+00:00"
+      "updated_at": "2026-11-20T16:17:14.869040+00:00"
     },
     "5011546475165": {
       "barcode": "5011546475165",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:02:23.758112+00:00"
+      "updated_at": "2026-11-20T16:17:14.876090+00:00"
     },
     "5018357006779": {
       "barcode": "5018357006779",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:02:23.763219+00:00"
+      "updated_at": "2026-11-20T16:17:14.882592+00:00"
     },
     "5018297010577": {
       "barcode": "5018297010577",
@@ -146,7 +146,79 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:02:23.814903+00:00"
+      "updated_at": "2026-11-20T16:17:14.940284+00:00"
+    },
+    "5013803000035": {
+      "barcode": "5013803000035",
+      "product_name": "Super Granola Graines de Tournseol, Miel & Amandes",
+      "store": "carrefour.fr",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Avoine complète, graines de tournesol, miel, huile de colza, graines de courge, amandes, protéines de pois, pois chiche torréfiés, flocons de noix de coco, graines de lin",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.043746+00:00"
+    },
+    "5010029220773": {
+      "barcode": "5010029220773",
+      "product_name": "Weetabix",
+      "store": "carrefour.fr",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "wholegrain wheat (95%), extract of malted barley, sugar, salt, niacin, iron, vitamins b2, b1 and b9,",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.044075+00:00"
+    },
+    "5010477348296": {
+      "barcode": "5010477348296",
+      "product_name": "Simply Crunchy Honey Baked Granola",
+      "store": "delhaize.be",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Flocons d'AVOINE complets (81 %), sucre, huile de tournesol, miel (1 %), graines de tournesol, arôme naturel.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:17:15.056698+00:00"
+    },
+    "5010477358233": {
+      "barcode": "5010477358233",
+      "product_name": "Granola chocolate and hazelnut",
+      "store": "carrefour.be",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Flocons d'AVOINE complet (63%), copeaux de chocolat noir (16%) (cacao solide: 70% minimum (masse de cacao, sucre, beurre de cacao, émulsifiant (lécithine de SOJA), arôme naturel)), sucre, NOISETTES grillées en morceaux (6%), huile de tournesol, miel (1%), graines de tournesol, arôme naturel. Peut contenir également : lait, d'autres sources de gluten, d'autres fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T16:17:15.060717+00:00"
     }
   }
 }

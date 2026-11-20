@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "325",
-  "count": 3,
-  "updated_at": "2026-11-20T16:02:23.937421+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:17:15.138596+00:00",
   "products": {
     "3256540000704": {
       "barcode": "3256540000704",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.807516+00:00"
+      "updated_at": "2026-11-20T16:17:14.933365+00:00"
     },
     "3250391816453": {
       "barcode": "3250391816453",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.810877+00:00"
+      "updated_at": "2026-11-20T16:17:14.936533+00:00"
     },
     "3251490320001": {
       "barcode": "3251490320001",
@@ -60,7 +60,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.824033+00:00"
+      "updated_at": "2026-11-20T16:17:14.949092+00:00"
+    },
+    "3251510550005": {
+      "barcode": "3251510550005",
+      "product_name": "Oasis sorbet Tropical",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau, sucre, jus d'orange à base de concentré 17,4%, jus de pomme à base de concentré 9,1%, sirop de glucose, jus de citron à base de concentré 5,3%, jus d'ananas à base de concentré 3,1%, arôme naturel, jus de fruit de la passion à base de concentré 0,2%, épaississant (méthylcellulose), stabilisant (gomme xanthane), concentré de betterave rouge, colorant (caroténoïdes), purée de mangue 0,05%.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.062544+00:00"
     }
   }
 }

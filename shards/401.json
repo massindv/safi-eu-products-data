@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "401",
-  "count": 6,
-  "updated_at": "2026-11-20T16:02:23.953881+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T16:17:15.159686+00:00",
   "products": {
     "4018077632006": {
       "barcode": "4018077632006",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:02:23.757143+00:00"
+      "updated_at": "2026-11-20T16:17:14.875193+00:00"
     },
     "4012200401057": {
       "barcode": "4012200401057",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:02:23.769883+00:00"
+      "updated_at": "2026-11-20T16:17:14.892581+00:00"
     },
     "4016241050564": {
       "barcode": "4016241050564",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:02:23.804728+00:00"
+      "updated_at": "2026-11-20T16:17:14.930651+00:00"
     },
     "4016241043023": {
       "barcode": "4016241043023",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.806115+00:00"
+      "updated_at": "2026-11-20T16:17:14.932001+00:00"
     },
     "4014500041445": {
       "barcode": "4014500041445",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:02:23.806658+00:00"
+      "updated_at": "2026-11-20T16:17:14.932537+00:00"
     },
     "4014400400007": {
       "barcode": "4014400400007",
@@ -110,7 +110,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:02:23.847982+00:00"
+      "updated_at": "2026-11-20T16:17:14.981729+00:00"
+    },
+    "4017100127007": {
+      "barcode": "4017100127007",
+      "product_name": "Leibniz Zoo Original",
+      "store": "delhaize.be",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_Weizenmehl_, Zucker, _Butter_ 12%, Invertzuckersirup, Backtriebmittel: Natriumcarbonate, Diphosphate; _Molkenerzeugnis_, _Vollmilchpulver_, Salz, Emulgator: Lecithine (_Soja_); Säuerungsmittel: Citronensäure; Aroma (_Milch_), _Hühnervolleipulver_.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:17:15.036153+00:00"
     }
   }
 }

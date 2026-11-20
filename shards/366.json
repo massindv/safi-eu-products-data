@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "366",
-  "count": 2,
-  "updated_at": "2026-11-20T16:02:23.951110+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:17:15.156668+00:00",
   "products": {
     "3661344221772": {
       "barcode": "3661344221772",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.799984+00:00"
+      "updated_at": "2026-11-20T16:17:14.925416+00:00"
     },
     "3664346306638": {
       "barcode": "3664346306638",
@@ -38,7 +38,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:02:23.853255+00:00"
+      "updated_at": "2026-11-20T16:17:14.987915+00:00"
+    },
+    "3664346306003": {
+      "barcode": "3664346306003",
+      "product_name": "Grand Arôme 32% de Cacao",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "İngrédients : Sucre, cacao maigre (11 % de beurre de cacao) en poudre, arôme. Cacao : 32 % minimum. Peut contenir lait et soja.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.088482+00:00"
     }
   }
 }

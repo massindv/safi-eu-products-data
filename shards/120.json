@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "120",
+  "count": 1,
+  "updated_at": "2026-11-20T16:17:15.108915+00:00",
+  "products": {
+    "12011476": {
+      "barcode": "12011476",
+      "product_name": "Bossche bollen",
+      "store": "ah.nl",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "41% room, suiker, scharrelei, plantaardige olie [zonnebloem, raap, palm (in wisselende verhoudingen)], maïszetmeel, plantaardig vet [palm, kokos (in wisselende verhoudingen)], magere cacaopoeder, mageremelkpoeder, stabilisator (E407, emulgator (sojalecithine [E322]), (E471), rijsmiddel (E450, E500), gedroogde glucosestroop, zout, Bourbonvanille-extract, natuurlijk vanillearoma.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:17:15.032109+00:00"
+    }
+  }
+}

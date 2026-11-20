@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "061",
-  "count": 1,
-  "updated_at": "2026-11-20T16:02:23.906496+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T16:17:15.099560+00:00",
   "products": {
     "06138030": {
       "barcode": "06138030",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.809384+00:00"
+      "updated_at": "2026-11-20T16:17:14.935417+00:00"
+    },
+    "0619286717009": {
+      "barcode": "0619286717009",
+      "product_name": "EU Product",
+      "store": "ah.nl",
+      "category": "teas",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Organic Green Tea",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:17:15.086657+00:00"
     }
   }
 }

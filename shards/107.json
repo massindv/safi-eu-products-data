@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "107",
   "count": 1,
-  "updated_at": "2026-11-20T16:02:23.908250+00:00",
+  "updated_at": "2026-11-20T16:17:15.107089+00:00",
   "products": {
     "10760475": {
       "barcode": "10760475",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.745166+00:00"
+      "updated_at": "2026-11-20T16:17:14.862515+00:00"
     }
   }
 }

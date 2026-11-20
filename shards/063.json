@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "063",
+  "count": 1,
+  "updated_at": "2026-11-20T16:17:15.099844+00:00",
+  "products": {
+    "06338367": {
+      "barcode": "06338367",
+      "product_name": "Blé soufflé au miel",
+      "store": "carrefour.fr",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.044449+00:00"
+    }
+  }
+}

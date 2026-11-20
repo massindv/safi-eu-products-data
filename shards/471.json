@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "471",
-  "count": 4,
-  "updated_at": "2026-11-20T16:02:23.956069+00:00",
+  "count": 6,
+  "updated_at": "2026-11-20T16:17:15.161637+00:00",
   "products": {
     "4718098274703": {
       "barcode": "4718098274703",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:02:23.787373+00:00"
+      "updated_at": "2026-11-20T16:17:14.911349+00:00"
     },
     "4718900515772": {
       "barcode": "4718900515772",
@@ -40,7 +40,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.789369+00:00"
+      "updated_at": "2026-11-20T16:17:14.913456+00:00"
     },
     "4718901788496": {
       "barcode": "4718901788496",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.789887+00:00"
+      "updated_at": "2026-11-20T16:17:14.913986+00:00"
     },
     "4718900725270": {
       "barcode": "4718900725270",
@@ -76,7 +76,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:02:23.883307+00:00"
+      "updated_at": "2026-11-20T16:17:15.012919+00:00"
+    },
+    "4718901235310": {
+      "barcode": "4718901235310",
+      "product_name": "Volkoren Havermout",
+      "store": "ah.nl",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Volkoren havervlok. Waarvan toegevoegde suikers 0 g per 100 g en waarvan toegevoegd zout 0 g per 100 g.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:17:15.055687+00:00"
+    },
+    "4718900822290": {
+      "barcode": "4718900822290",
+      "product_name": "Geroosterde muesli",
+      "store": "ah.nl",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "80% volkoren havervlok, glucosestroop, zonnebloemolie, honing, antioxidant (tocoferolrijk extract [E306]).",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:17:15.055838+00:00"
     }
   }
 }

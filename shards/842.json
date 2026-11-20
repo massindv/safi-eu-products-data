@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "842",
-  "count": 1,
-  "updated_at": "2026-11-20T16:02:23.992517+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T16:17:15.221822+00:00",
   "products": {
     "8424523030337": {
       "barcode": "8424523030337",
@@ -20,7 +20,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:02:23.893957+00:00"
+      "updated_at": "2026-11-20T16:17:15.021562+00:00"
+    },
+    "8422584013740": {
+      "barcode": "8422584013740",
+      "product_name": "Choco bubbles",
+      "store": "carrefour.fr",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Riz, sucre de canne, poudre de cacao 6,7%, blé, orge, avoine et de malt d'orge.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.043603+00:00"
     }
   }
 }

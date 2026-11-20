@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "238",
-  "count": 6,
-  "updated_at": "2026-11-20T16:02:23.922603+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T16:17:15.123118+00:00",
   "products": {
     "2385407906796": {
       "barcode": "2385407906796",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:02:23.744393+00:00"
+      "updated_at": "2026-11-20T16:17:14.861872+00:00"
     },
     "2389232803169": {
       "barcode": "2389232803169",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.745681+00:00"
+      "updated_at": "2026-11-20T16:17:14.862904+00:00"
     },
     "2389221403561": {
       "barcode": "2389221403561",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.746512+00:00"
+      "updated_at": "2026-11-20T16:17:14.863543+00:00"
     },
     "2385306403358": {
       "barcode": "2385306403358",
@@ -76,7 +76,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:02:23.788146+00:00"
+      "updated_at": "2026-11-20T16:17:14.912216+00:00"
     },
     "2389282207375": {
       "barcode": "2389282207375",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.790180+00:00"
+      "updated_at": "2026-11-20T16:17:14.914294+00:00"
     },
     "2385323003319": {
       "barcode": "2385323003319",
@@ -112,7 +112,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.790290+00:00"
+      "updated_at": "2026-11-20T16:17:14.914411+00:00"
+    },
+    "2385375307557": {
+      "barcode": "2385375307557",
+      "product_name": "Kabeljauw filet a la minute",
+      "store": "ah.nl",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Kabeljauw (Gadus morhua)",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:17:15.071953+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "841",
-  "count": 11,
-  "updated_at": "2026-11-20T16:02:23.991961+00:00",
+  "count": 12,
+  "updated_at": "2026-11-20T16:17:15.219180+00:00",
   "products": {
     "8410065630586": {
       "barcode": "8410065630586",
@@ -31,7 +31,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.678802+00:00"
+      "updated_at": "2026-11-20T16:17:14.795394+00:00"
     },
     "8410066139231": {
       "barcode": "8410066139231",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.700657+00:00"
+      "updated_at": "2026-11-20T16:17:14.818462+00:00"
     },
     "8410702054065": {
       "barcode": "8410702054065",
@@ -85,7 +85,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.708885+00:00"
+      "updated_at": "2026-11-20T16:17:14.828542+00:00"
     },
     "8410010877592": {
       "barcode": "8410010877592",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.721241+00:00"
+      "updated_at": "2026-11-20T16:17:14.840145+00:00"
     },
     "8412289001906": {
       "barcode": "8412289001906",
@@ -132,7 +132,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:02:23.783396+00:00"
+      "updated_at": "2026-11-20T16:17:14.907686+00:00"
     },
     "8412289000497": {
       "barcode": "8412289000497",
@@ -152,7 +152,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T16:02:23.785026+00:00"
+      "updated_at": "2026-11-20T16:17:14.909136+00:00"
     },
     "8410131031576": {
       "barcode": "8410131031576",
@@ -170,7 +170,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.809242+00:00"
+      "updated_at": "2026-11-20T16:17:14.935270+00:00"
     },
     "8412600552452": {
       "barcode": "8412600552452",
@@ -188,7 +188,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.811182+00:00"
+      "updated_at": "2026-11-20T16:17:14.936700+00:00"
     },
     "8410076473899": {
       "barcode": "8410076473899",
@@ -208,7 +208,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.812209+00:00"
+      "updated_at": "2026-11-20T16:17:14.937247+00:00"
     },
     "8410376037883": {
       "barcode": "8410376037883",
@@ -226,7 +226,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.831281+00:00"
+      "updated_at": "2026-11-20T16:17:14.955339+00:00"
     },
     "8410000810004": {
       "barcode": "8410000810004",
@@ -244,7 +244,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:02:23.849252+00:00"
+      "updated_at": "2026-11-20T16:17:14.982897+00:00"
+    },
+    "8413216001136": {
+      "barcode": "8413216001136",
+      "product_name": "Cava",
+      "store": "colruyt.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:17:15.090120+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "074",
-  "count": 1,
-  "updated_at": "2026-11-20T16:02:23.907215+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T16:17:15.100928+00:00",
   "products": {
     "0747546698062": {
       "barcode": "0747546698062",
@@ -20,7 +20,61 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.846455+00:00"
+      "updated_at": "2026-11-20T16:17:14.978842+00:00"
+    },
+    "0748246320253": {
+      "barcode": "0748246320253",
+      "product_name": "Brosse Choco Spritsen",
+      "store": "ah.nl",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:17:15.032757+00:00"
+    },
+    "0748051600182": {
+      "barcode": "0748051600182",
+      "product_name": "Volkoren graanontbijt",
+      "store": "jumbo.com",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Volkoren TARWEmeel, zout.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:17:15.053185+00:00"
+    },
+    "0748946822286": {
+      "barcode": "0748946822286",
+      "product_name": "Geroosterde muesli zaden",
+      "store": "ah.be",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "61% volkoren havervlok, 19% tarwevlok, oligofructose, 4,5% honing. zonnebloemolie, 3% pompoenpit, 2% zonnebloempit, 1% lijnzaad, 1% chiazaad (Salvia hispanica), 1% sesamzaad, antioxidant (tocoferolrijk extract [E306]).",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:17:15.055117+00:00"
     }
   }
 }

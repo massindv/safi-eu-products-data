@@ -1,17 +1,17 @@
 {
   "version": "1.0",
   "prefix": "306",
-  "count": 8,
-  "updated_at": "2026-11-20T16:02:23.927517+00:00",
+  "count": 10,
+  "updated_at": "2026-11-20T16:17:15.128439+00:00",
   "products": {
     "3068320120256": {
       "barcode": "3068320120256",
-      "product_name": "Evian Mineraalwater 6-pack bel",
-      "store": "ah.be",
-      "category": "supermarket",
-      "country": "Belgium",
+      "product_name": "Eau minérale naturelle",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
       "image_url": "https://static.ah.nl/dam/product/AHI_596a4d31303262675246716a48494a76476151464651?revLabel=1&rendition=200x200_WEBP&fileType=binary",
-      "ingredients_text": "Ingrediënten: Samenstelling (mg/l), Ca++ 80, Mg++ 26, Na+ 6,5, K+ 1, SiO₂ 15, HCO₃⁻ 360, SO₄⁻⁻ 14, Cl⁻ 10, NO₃⁻ 3,8, Hoeveelheid minerale zouten bij 180°C : 345mg/l, pH = 7,2",
+      "ingredients_text": "Eau minérale naturelle",
       "nutrition": {
         "calories_100g": null,
         "fat_100g": null,
@@ -22,14 +22,14 @@
         "proteins_100g": null,
         "salt_100g": null
       },
-      "nutriscore_grade": null,
+      "nutriscore_grade": "a",
       "nutriscore_score": null,
       "halal_status": "HALAL",
       "is_halal": true,
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
-      "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.702231+00:00"
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.088067+00:00"
     },
     "3060921506972": {
       "barcode": "3060921506972",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:02:23.792889+00:00"
+      "updated_at": "2026-11-20T16:17:14.917132+00:00"
     },
     "3060921463411": {
       "barcode": "3060921463411",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:02:23.793147+00:00"
+      "updated_at": "2026-11-20T16:17:14.917417+00:00"
     },
     "3060921463398": {
       "barcode": "3060921463398",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:02:23.793164+00:00"
+      "updated_at": "2026-11-20T16:17:14.917435+00:00"
     },
     "3060921461318": {
       "barcode": "3060921461318",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:02:23.793268+00:00"
+      "updated_at": "2026-11-20T16:17:14.917539+00:00"
     },
     "3060921503827": {
       "barcode": "3060921503827",
@@ -119,7 +119,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:02:23.793413+00:00"
+      "updated_at": "2026-11-20T16:17:14.917712+00:00"
     },
     "3060921463497": {
       "barcode": "3060921463497",
@@ -137,7 +137,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T16:02:23.799691+00:00"
+      "updated_at": "2026-11-20T16:17:14.925152+00:00"
     },
     "3061990143365": {
       "barcode": "3061990143365",
@@ -155,7 +155,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.824400+00:00"
+      "updated_at": "2026-11-20T16:17:14.949317+00:00"
+    },
+    "3061990142467": {
+      "barcode": "3061990142467",
+      "product_name": "Mini Biscuits à la pulpe d'Abricot",
+      "store": "delhaize.be",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "cereals (45,2%) (wheat flour (45%), rye meal) - glucose-fructose syrup - sugar - vegetable oil (palm, rapeseed), stabilisers (glycerol, sorbitol) - concentrated apricot puree (apricot equivalent 5%) - milk solids -  salt - acidity regulators (citric acid - - trisodium citrates) - raising agents (sodium bicarbonates, ammonium bicarbonates) - flavouring - gelling agent ( pectine) - colours (safflower extract, beetroot red) - emulsifier (e 472 e),",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T16:17:15.035303+00:00"
+    },
+    "3068320120348": {
+      "barcode": "3068320120348",
+      "product_name": "Evian eau mineral naturelle",
+      "store": "colruyt.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:17:15.090366+00:00"
     }
   }
 }

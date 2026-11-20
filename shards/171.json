@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "prefix": "171",
+  "count": 2,
+  "updated_at": "2026-11-20T16:17:15.109500+00:00",
+  "products": {
+    "17104388": {
+      "barcode": "17104388",
+      "product_name": "Pommes",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Pommes de terre (89,5%), huile de tournesol (5,5%), enrobage (4,5%) [amidon modifié, farine de riz, dextrine, fibre de _pois_, poudres à lever (E450, E500), épaississant: gomme xanthane, extrait de curcuma, protéine de _pois_, colorant: extrait de Paprika], sel (0,5%). Contient du pois. Non fabriqué à l'huile d'arachide. Sans conservateur.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.063397+00:00"
+    },
+    "17181884": {
+      "barcode": "17181884",
+      "product_name": "koffie",
+      "store": "jumbo.com",
+      "category": "coffees",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Koffie:van biologische oorsprong, Fairtrade gecertificeerd en afkomstig van Fairtrade boeren. Verpakt onder beschermende atmosfeer. Gemiddelde",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:17:15.081283+00:00"
+    }
+  }
+}

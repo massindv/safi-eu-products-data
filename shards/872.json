@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "872",
-  "count": 11,
-  "updated_at": "2026-11-20T16:02:24.020330+00:00",
+  "count": 15,
+  "updated_at": "2026-11-20T16:17:15.258845+00:00",
   "products": {
     "8727500033094": {
       "barcode": "8727500033094",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.675371+00:00"
+      "updated_at": "2026-11-20T16:17:14.792829+00:00"
     },
     "8721800408880": {
       "barcode": "8721800408880",
@@ -58,7 +58,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.693145+00:00"
+      "updated_at": "2026-11-20T16:17:14.811242+00:00"
     },
     "8721800408866": {
       "barcode": "8721800408866",
@@ -87,7 +87,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.693245+00:00"
+      "updated_at": "2026-11-20T16:17:14.811340+00:00"
     },
     "8722700255642": {
       "barcode": "8722700255642",
@@ -116,7 +116,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.705102+00:00"
+      "updated_at": "2026-11-20T16:17:14.825306+00:00"
     },
     "8720182103406": {
       "barcode": "8720182103406",
@@ -143,7 +143,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.716440+00:00"
+      "updated_at": "2026-11-20T16:17:14.834505+00:00"
     },
     "8720182368782": {
       "barcode": "8720182368782",
@@ -163,7 +163,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:02:23.742869+00:00"
+      "updated_at": "2026-11-20T16:17:14.860658+00:00"
     },
     "8725800000464": {
       "barcode": "8725800000464",
@@ -183,7 +183,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T16:02:23.743261+00:00"
+      "updated_at": "2026-11-20T16:17:14.861026+00:00"
     },
     "8720865628554": {
       "barcode": "8720865628554",
@@ -203,7 +203,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:02:23.777583+00:00"
+      "updated_at": "2026-11-20T16:17:14.901307+00:00"
     },
     "8720865628684": {
       "barcode": "8720865628684",
@@ -224,7 +224,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter; Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:02:23.777829+00:00"
+      "updated_at": "2026-11-20T16:17:14.901745+00:00"
     },
     "8720828249338": {
       "barcode": "8720828249338",
@@ -242,7 +242,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:02:23.841087+00:00"
+      "updated_at": "2026-11-20T16:17:14.973916+00:00"
     },
     "8720182460721": {
       "barcode": "8720182460721",
@@ -260,7 +260,79 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.862940+00:00"
+      "updated_at": "2026-11-20T16:17:14.996774+00:00"
+    },
+    "8720608002849": {
+      "barcode": "8720608002849",
+      "product_name": "Infuse a froid pêche-framboise",
+      "store": "carrefour.fr",
+      "category": "teas",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "feuilles de mûrier, arôme naturel de pêche, avec autres arômes naturels 13%, arôme naturel 5%,betterave, racine de chicorée, réglisse, framboise 2% ,pêche 2%.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.084707+00:00"
+    },
+    "8722700129523": {
+      "barcode": "8722700129523",
+      "product_name": "Lipton Thé Vert Classique Goût Léger & Subtil 50 Sachets",
+      "store": "carrefour.fr",
+      "category": "teas",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Thé vert (94.1%), arôme naturel (5.9%).",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.085286+00:00"
+    },
+    "8720157400172": {
+      "barcode": "8720157400172",
+      "product_name": "Strawberry mojito",
+      "store": "jumbo.com",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Bronwater, vruchtensap uit concentraat 2,4% (aardbei 1,4%, limoen 1,0%), voedingszuur (citroenzuur), natuurlijk munt aroma en andere natuurlijke aroma's, kleurend plantenextract (wortel, zwarte bes), zoetstof (sucralose), koolzuur (&lt;0,1%).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:17:15.091751+00:00"
+    },
+    "8720157467595": {
+      "barcode": "8720157467595",
+      "product_name": "Dubbel Fris Appel & Peer",
+      "store": "jumbo.com",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Bronwater, vruchtensap uit concentraat (appel 7,5%, peer 7,5%), suiker, voedingszuur (citroenzuur), natuurlijk peer aroma met andere natuurlijke aroma's, koolzuur (&lt;0,1%).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-20T16:17:15.092108+00:00"
     }
   }
 }

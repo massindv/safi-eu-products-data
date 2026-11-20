@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "228",
-  "count": 5,
-  "updated_at": "2026-11-20T16:02:23.919122+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T16:17:15.115140+00:00",
   "products": {
     "2287580001353": {
       "barcode": "2287580001353",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.766738+00:00"
+      "updated_at": "2026-11-20T16:17:14.886410+00:00"
     },
     "2287483001894": {
       "barcode": "2287483001894",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:02:23.818940+00:00"
+      "updated_at": "2026-11-20T16:17:14.944864+00:00"
     },
     "2286657002491": {
       "barcode": "2286657002491",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.819539+00:00"
+      "updated_at": "2026-11-20T16:17:14.945572+00:00"
     },
     "2289549001152": {
       "barcode": "2289549001152",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.819872+00:00"
+      "updated_at": "2026-11-20T16:17:14.945979+00:00"
     },
     "2289872001997": {
       "barcode": "2289872001997",
@@ -92,7 +92,43 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T16:02:23.820476+00:00"
+      "updated_at": "2026-11-20T16:17:14.946667+00:00"
+    },
+    "2289838003188": {
+      "barcode": "2289838003188",
+      "product_name": "AH AM Cookie Triple Choco",
+      "store": "ah.be",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:17:15.031197+00:00"
+    },
+    "2289089001803": {
+      "barcode": "2289089001803",
+      "product_name": "Eierkoeken",
+      "store": "ah.nl",
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "TARWEbloem, suiker, water, 11% vrije-uitoopEI, magere MELKpoeder, SOJAbloem. rijsmiddel (ammonium-carbonaat (E503)), MELKeiwit, citroensapconcentraat, citroenschil, TARWEmoutmeel, LACTOSE, gemodificeerd aardappelzetmeel.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T16:17:15.033753+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "500",
-  "count": 7,
-  "updated_at": "2026-11-20T16:02:23.956701+00:00",
+  "count": 10,
+  "updated_at": "2026-11-20T16:17:15.163329+00:00",
   "products": {
     "5000232957283": {
       "barcode": "5000232957283",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.665840+00:00"
+      "updated_at": "2026-11-20T16:17:14.780345+00:00"
     },
     "5000232957306": {
       "barcode": "5000232957306",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.665925+00:00"
+      "updated_at": "2026-11-20T16:17:14.780444+00:00"
     },
     "5000159560979": {
       "barcode": "5000159560979",
@@ -85,7 +85,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.677310+00:00"
+      "updated_at": "2026-11-20T16:17:14.794733+00:00"
     },
     "5000111041010": {
       "barcode": "5000111041010",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T16:02:23.715034+00:00"
+      "updated_at": "2026-11-20T16:17:14.833211+00:00"
     },
     "5000426171518": {
       "barcode": "5000426171518",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:02:23.848528+00:00"
+      "updated_at": "2026-11-20T16:17:14.982203+00:00"
     },
     "5000328244389": {
       "barcode": "5000328244389",
@@ -148,7 +148,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:02:23.852037+00:00"
+      "updated_at": "2026-11-20T16:17:14.986584+00:00"
     },
     "5000175407623": {
       "barcode": "5000175407623",
@@ -166,7 +166,63 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T16:02:23.889154+00:00"
+      "updated_at": "2026-11-20T16:17:15.016470+00:00"
+    },
+    "5000354927881": {
+      "barcode": "5000354927881",
+      "product_name": "Granola",
+      "store": "ah.be",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:17:15.053792+00:00"
+    },
+    "5000159541459": {
+      "barcode": "5000159541459",
+      "product_name": "Mars ice cream x6",
+      "store": "ah.be",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait écrémé (17%), sucre, sirop de glucose, crème légère (lait)/crème (lait), eau, lait écrémé concentré sucré, matière grasse de noix de coco, beurre de cacao, pâte de cacao, matière grasse de palme, lait écrémé en poudre, extrait de malt d'orge, matière grasse du lait, lactose, perméat de lactosérum (lait), cacao maigre, émulsifiants (lécithine de soja, E471), stabilisants (E407, E410, E412), sel, extrait de vanille, arôme naturel (lait). (Peut contenir: cacahuète, amande, noisette).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_AH_BE",
+      "updated_at": "2026-11-20T16:17:15.069639+00:00"
+    },
+    "5000112611861": {
+      "barcode": "5000112611861",
+      "product_name": "PET 1.75L COCA",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau gazéifiée, sucre, colorant: E150d, acidifiant : acide phosphorique, arômes naturels, dont caféine.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.088139+00:00"
     }
   }
 }

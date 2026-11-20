@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "359",
-  "count": 1,
-  "updated_at": "2026-11-20T16:02:23.950370+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T16:17:15.155750+00:00",
   "products": {
     "3596690122094": {
       "barcode": "3596690122094",
@@ -22,7 +22,43 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T16:02:23.738309+00:00"
+      "updated_at": "2026-11-20T16:17:14.856576+00:00"
+    },
+    "3597620006613": {
+      "barcode": "3597620006613",
+      "product_name": "Cruesli Chocolat Cappuccino",
+      "store": "carrefour.fr",
+      "category": "breakfast-cereals",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Avoine complète (32%), blé complet (18%), sirop de glucose, huile de tournesol, sucre, chocolat blanc 4,9% [sucre, beurre de cacao, lait en poudre, petit-lait en poudre, émulsifiant (lécithine de soja), arôme], chocolat au lait 4,1% [sucre, beurre de cacao, lait en poudre, pâte de cacao, petit-lait en poudre, vanilline, émulsifiant (lécithine de soja)], oligofructose, farines de riz, blé et maïs, miel, colorant (caramel E150a), arôme café, arômes naturels, épaississant (gomme arabique), antioxydant (tocophérol), sel, agent d’enrobage (shellac), extrait de malt d’orge.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.045052+00:00"
+    },
+    "3599741003380": {
+      "barcode": "3599741003380",
+      "product_name": "Colin d'Alaska MSC façon Fish & Chips",
+      "store": "carrefour.fr",
+      "category": "frozen-foods",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Filet de Colin 49%, farine de _blé_ (_blé_, carbonate de calcium, fer, niacine, thiamine), eau, huile de colza, amidon de _blé_, sel, farine de riz, farine de maïs, _moutarde_, arômes naturels (dont _moutarde_), dextrose, poudres à lever (diphosphates, bicarbonate de sodium), poudre d'ail, gluten de _blé_, paprika, extrait d'épices",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T16:17:15.061923+00:00"
     }
   }
 }

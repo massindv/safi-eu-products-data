@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "351",
   "count": 2,
-  "updated_at": "2026-11-20T16:02:23.942991+00:00",
+  "updated_at": "2026-11-20T16:17:15.147306+00:00",
   "products": {
     "3512690007568": {
       "barcode": "3512690007568",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:02:23.777628+00:00"
+      "updated_at": "2026-11-20T16:17:14.901391+00:00"
     },
     "3512690007551": {
       "barcode": "3512690007551",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T16:02:23.777656+00:00"
+      "updated_at": "2026-11-20T16:17:14.901480+00:00"
     }
   }
 }

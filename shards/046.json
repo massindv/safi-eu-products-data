@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "046",
+  "count": 1,
+  "updated_at": "2026-11-20T16:17:15.098902+00:00",
+  "products": {
+    "04613701": {
+      "barcode": "04613701",
+      "product_name": "Dolce Gusto Cappuccino 30 Capsules",
+      "store": "colruyt.be",
+      "category": "coffees",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "volle melkpoeder (82,4%), suiker, gemalen gebrande koffie",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T16:17:15.080904+00:00"
+    }
+  }
+}
