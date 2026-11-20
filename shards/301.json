@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "301",
   "count": 6,
-  "updated_at": "2026-11-20T19:00:42.772594+00:00",
+  "updated_at": "2026-11-20T19:11:08.441286+00:00",
   "products": {
     "3017760542890": {
       "barcode": "3017760542890",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.375070+00:00"
+      "updated_at": "2026-11-20T19:11:07.831076+00:00"
     },
     "3017760000062": {
       "barcode": "3017760000062",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.557365+00:00"
+      "updated_at": "2026-11-20T19:11:07.907628+00:00"
     },
     "3017760656092": {
       "barcode": "3017760656092",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.570057+00:00"
+      "updated_at": "2026-11-20T19:11:07.912600+00:00"
     },
     "3017760363969": {
       "barcode": "3017760363969",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.966577+00:00"
+      "updated_at": "2026-11-20T19:11:08.138226+00:00"
     },
     "3017760667890": {
       "barcode": "3017760667890",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.976672+00:00"
+      "updated_at": "2026-11-20T19:11:08.145611+00:00"
     },
     "3011938003411": {
       "barcode": "3011938003411",
@@ -112,7 +112,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:00:42.170231+00:00"
+      "updated_at": "2026-11-20T19:11:08.225720+00:00"
     }
   }
 }

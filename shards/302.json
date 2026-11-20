@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "302",
-  "count": 10,
-  "updated_at": "2026-11-20T19:00:42.773600+00:00",
+  "count": 13,
+  "updated_at": "2026-11-20T19:11:08.441682+00:00",
   "products": {
     "3021210012000": {
       "barcode": "3021210012000",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.344035+00:00"
+      "updated_at": "2026-11-20T19:11:07.818738+00:00"
     },
     "3029330069355": {
       "barcode": "3029330069355",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T19:00:41.388797+00:00"
+      "updated_at": "2026-11-20T19:11:07.839613+00:00"
     },
     "3023260030928": {
       "barcode": "3023260030928",
@@ -60,7 +60,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.436843+00:00"
+      "updated_at": "2026-11-20T19:11:07.857571+00:00"
     },
     "3029330005773": {
       "barcode": "3029330005773",
@@ -78,7 +78,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.533605+00:00"
+      "updated_at": "2026-11-20T19:11:07.896907+00:00"
     },
     "3024480008797": {
       "barcode": "3024480008797",
@@ -98,7 +98,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:00:41.865659+00:00"
+      "updated_at": "2026-11-20T19:11:08.075036+00:00"
     },
     "3023010003585": {
       "barcode": "3023010003585",
@@ -116,7 +116,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:00:41.865799+00:00"
+      "updated_at": "2026-11-20T19:11:08.075109+00:00"
     },
     "3023290053829": {
       "barcode": "3023290053829",
@@ -134,7 +134,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:00:42.232121+00:00"
+      "updated_at": "2026-11-20T19:11:08.255835+00:00"
     },
     "3020640148709": {
       "barcode": "3020640148709",
@@ -152,7 +152,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:42.329071+00:00"
+      "updated_at": "2026-11-20T19:11:08.302639+00:00"
     },
     "3021760403181": {
       "barcode": "3021760403181",
@@ -170,7 +170,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:42.353909+00:00"
+      "updated_at": "2026-11-20T19:11:08.313376+00:00"
     },
     "3023290021217": {
       "barcode": "3023290021217",
@@ -190,7 +190,61 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:42.406252+00:00"
+      "updated_at": "2026-11-20T19:11:08.332976+00:00"
+    },
+    "3023290036631": {
+      "barcode": "3023290036631",
+      "product_name": "Douceur de yaourt",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait* entier (81,6%), eau, sucre, protéines de lait, poudre de lait* écrémé, amidon de maïs, fibres d'agrumes, arôme naturel de vanille de madagascar, jus de citron concentré, grains de vanille bourbon épuisés, ferments lactiques. *Lait origine France.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T19:11:08.371586+00:00"
+    },
+    "3023290027318": {
+      "barcode": "3023290027318",
+      "product_name": "Douceur de yaourt",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait* entier (95,9%), protéines de lait, poudre de lait* écrémé, ferments lactiques. *Lait origine France.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T19:11:08.371728+00:00"
+    },
+    "3023290012215": {
+      "barcode": "3023290012215",
+      "product_name": "Yaos Yaourt à la Grecque",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "_Lait_ écrémé (88,6%), crème (5,0%) (_lait_), poudre de _lait_ écrémé, protéines de _lait_, ferments lactiques.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T19:11:08.372928+00:00"
     }
   }
 }

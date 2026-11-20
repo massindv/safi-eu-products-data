@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "425",
   "count": 3,
-  "updated_at": "2026-11-20T19:00:42.947873+00:00",
+  "updated_at": "2026-11-20T19:11:08.495423+00:00",
   "products": {
     "4251097400884": {
       "barcode": "4251097400884",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:00:41.368522+00:00"
+      "updated_at": "2026-11-20T19:11:07.828205+00:00"
     },
     "4251097417493": {
       "barcode": "4251097417493",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T19:00:41.997859+00:00"
+      "updated_at": "2026-11-20T19:11:08.158166+00:00"
     },
     "4255582813401": {
       "barcode": "4255582813401",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T19:00:42.261084+00:00"
+      "updated_at": "2026-11-20T19:11:08.268878+00:00"
     }
   }
 }

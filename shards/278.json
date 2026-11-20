@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "278",
   "count": 13,
-  "updated_at": "2026-11-20T19:00:42.764413+00:00",
+  "updated_at": "2026-11-20T19:11:08.438480+00:00",
   "products": {
     "2786478003214": {
       "barcode": "2786478003214",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.474047+00:00"
+      "updated_at": "2026-11-20T19:11:07.871673+00:00"
     },
     "2780106003669": {
       "barcode": "2780106003669",
@@ -40,7 +40,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.474911+00:00"
+      "updated_at": "2026-11-20T19:11:07.871784+00:00"
     },
     "2786478003153": {
       "barcode": "2786478003153",
@@ -58,7 +58,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.475394+00:00"
+      "updated_at": "2026-11-20T19:11:07.872296+00:00"
     },
     "2786478003269": {
       "barcode": "2786478003269",
@@ -76,7 +76,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.475465+00:00"
+      "updated_at": "2026-11-20T19:11:07.872351+00:00"
     },
     "2781407002825": {
       "barcode": "2781407002825",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.499713+00:00"
+      "updated_at": "2026-11-20T19:11:07.876942+00:00"
     },
     "2786478003467": {
       "barcode": "2786478003467",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.499803+00:00"
+      "updated_at": "2026-11-20T19:11:07.877009+00:00"
     },
     "2786478003337": {
       "barcode": "2786478003337",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.499843+00:00"
+      "updated_at": "2026-11-20T19:11:07.877041+00:00"
     },
     "2788817006993": {
       "barcode": "2788817006993",
@@ -148,7 +148,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.810201+00:00"
+      "updated_at": "2026-11-20T19:11:08.035243+00:00"
     },
     "2780169002166": {
       "barcode": "2780169002166",
@@ -166,7 +166,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.904135+00:00"
+      "updated_at": "2026-11-20T19:11:08.094665+00:00"
     },
     "2781113004007": {
       "barcode": "2781113004007",
@@ -184,7 +184,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.941938+00:00"
+      "updated_at": "2026-11-20T19:11:08.122776+00:00"
     },
     "2786478003191": {
       "barcode": "2786478003191",
@@ -202,7 +202,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.941971+00:00"
+      "updated_at": "2026-11-20T19:11:08.122809+00:00"
     },
     "2786478003412": {
       "barcode": "2786478003412",
@@ -220,7 +220,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.942075+00:00"
+      "updated_at": "2026-11-20T19:11:08.122904+00:00"
     },
     "2781035003980": {
       "barcode": "2781035003980",
@@ -238,7 +238,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.966470+00:00"
+      "updated_at": "2026-11-20T19:11:08.138129+00:00"
     }
   }
 }

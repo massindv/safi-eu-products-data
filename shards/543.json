@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "543",
   "count": 4,
-  "updated_at": "2026-11-20T19:00:43.148110+00:00",
+  "updated_at": "2026-11-20T19:11:08.563947+00:00",
   "products": {
     "5430000408776": {
       "barcode": "5430000408776",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:00:41.424481+00:00"
+      "updated_at": "2026-11-20T19:11:07.850213+00:00"
     },
     "5430000560184": {
       "barcode": "5430000560184",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:00:41.867692+00:00"
+      "updated_at": "2026-11-20T19:11:08.076671+00:00"
     },
     "5430001342246": {
       "barcode": "5430001342246",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:00:41.867827+00:00"
+      "updated_at": "2026-11-20T19:11:08.076703+00:00"
     },
     "5439500000008": {
       "barcode": "5439500000008",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:00:42.526225+00:00"
+      "updated_at": "2026-11-20T19:11:08.368047+00:00"
     }
   }
 }

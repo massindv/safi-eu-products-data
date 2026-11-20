@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "050",
   "count": 1,
-  "updated_at": "2026-11-20T19:00:42.616870+00:00",
+  "updated_at": "2026-11-20T19:11:08.387608+00:00",
   "products": {
     "05014008": {
       "barcode": "05014008",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T19:00:41.514949+00:00"
+      "updated_at": "2026-11-20T19:11:07.884272+00:00"
     }
   }
 }

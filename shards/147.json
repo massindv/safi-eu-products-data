@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "147",
+  "count": 1,
+  "updated_at": "2026-11-20T19:11:08.409374+00:00",
+  "products": {
+    "14763656": {
+      "barcode": "14763656",
+      "product_name": "Brie",
+      "store": "delhaize.be",
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T19:11:08.370377+00:00"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "295",
   "count": 7,
-  "updated_at": "2026-11-20T19:00:42.770503+00:00",
+  "updated_at": "2026-11-20T19:11:08.440264+00:00",
   "products": {
     "2951726703134": {
       "barcode": "2951726703134",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.475501+00:00"
+      "updated_at": "2026-11-20T19:11:07.872393+00:00"
     },
     "2952702601987": {
       "barcode": "2952702601987",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.499977+00:00"
+      "updated_at": "2026-11-20T19:11:07.877074+00:00"
     },
     "2953428202649": {
       "barcode": "2953428202649",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.500020+00:00"
+      "updated_at": "2026-11-20T19:11:07.877107+00:00"
     },
     "2952853007737": {
       "barcode": "2952853007737",
@@ -76,7 +76,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.903533+00:00"
+      "updated_at": "2026-11-20T19:11:08.094032+00:00"
     },
     "2956147803906": {
       "barcode": "2956147803906",
@@ -96,7 +96,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.942185+00:00"
+      "updated_at": "2026-11-20T19:11:08.123010+00:00"
     },
     "2951727803338": {
       "barcode": "2951727803338",
@@ -116,7 +116,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.942289+00:00"
+      "updated_at": "2026-11-20T19:11:08.123102+00:00"
     },
     "2952400103301": {
       "barcode": "2952400103301",
@@ -136,7 +136,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T19:00:42.342582+00:00"
+      "updated_at": "2026-11-20T19:11:08.308290+00:00"
     }
   }
 }

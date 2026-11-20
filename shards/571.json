@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "571",
-  "count": 3,
-  "updated_at": "2026-11-20T19:00:43.174042+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T19:11:08.565664+00:00",
   "products": {
     "5712057783878": {
       "barcode": "5712057783878",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T19:00:41.672613+00:00"
+      "updated_at": "2026-11-20T19:11:07.955284+00:00"
     },
     "57101514": {
       "barcode": "57101514",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T19:00:42.189949+00:00"
+      "updated_at": "2026-11-20T19:11:08.231988+00:00"
     },
     "5711953077951": {
       "barcode": "5711953077951",
@@ -56,7 +56,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:00:42.338629+00:00"
+      "updated_at": "2026-11-20T19:11:08.306236+00:00"
+    },
+    "5711953079849": {
+      "barcode": "5711953079849",
+      "product_name": "Skyr yaourt style islandais aux fraise",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Fromage frais maigre (origine UE), fraises 6,5%, sucre, amidon de maïs, jus de citron concentré, arôme naturel. Ten minste houdbaar tot zie datum bovenziide",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T19:11:08.372010+00:00"
     }
   }
 }

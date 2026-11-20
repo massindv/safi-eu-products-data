@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "144",
   "count": 2,
-  "updated_at": "2026-11-20T19:00:42.679154+00:00",
+  "updated_at": "2026-11-20T19:11:08.408865+00:00",
   "products": {
     "14447860": {
       "barcode": "14447860",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T19:00:42.112210+00:00"
+      "updated_at": "2026-11-20T19:11:08.206959+00:00"
     },
     "1443536455965": {
       "barcode": "1443536455965",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T19:00:42.187489+00:00"
+      "updated_at": "2026-11-20T19:11:08.230853+00:00"
     }
   }
 }

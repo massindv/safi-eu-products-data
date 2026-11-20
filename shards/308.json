@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "308",
   "count": 11,
-  "updated_at": "2026-11-20T19:00:42.780137+00:00",
+  "updated_at": "2026-11-20T19:11:08.445285+00:00",
   "products": {
     "3083681025484": {
       "barcode": "3083681025484",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:00:41.323731+00:00"
+      "updated_at": "2026-11-20T19:11:07.801233+00:00"
     },
     "3083681006964": {
       "barcode": "3083681006964",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:00:41.324613+00:00"
+      "updated_at": "2026-11-20T19:11:07.801936+00:00"
     },
     "3083680600965": {
       "barcode": "3083680600965",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T19:00:41.324858+00:00"
+      "updated_at": "2026-11-20T19:11:07.802151+00:00"
     },
     "3083681093926": {
       "barcode": "3083681093926",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.378349+00:00"
+      "updated_at": "2026-11-20T19:11:07.832928+00:00"
     },
     "3080216043210": {
       "barcode": "3080216043210",
@@ -121,7 +121,7 @@
       ],
       "reason": "Alcoholic beverage / beer: Kronenbourg 50 cl Kronenbourg 4.2 DEGRE ALCOOL",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.859861+00:00"
+      "updated_at": "2026-11-20T19:11:08.071010+00:00"
     },
     "3083680025881": {
       "barcode": "3083680025881",
@@ -139,7 +139,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.905951+00:00"
+      "updated_at": "2026-11-20T19:11:08.095865+00:00"
     },
     "3083681149975": {
       "barcode": "3083681149975",
@@ -157,7 +157,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.907619+00:00"
+      "updated_at": "2026-11-20T19:11:08.097166+00:00"
     },
     "3083681070354": {
       "barcode": "3083681070354",
@@ -175,7 +175,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:42.127445+00:00"
+      "updated_at": "2026-11-20T19:11:08.209836+00:00"
     },
     "3080216052274": {
       "barcode": "3080216052274",
@@ -195,7 +195,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:42.168410+00:00"
+      "updated_at": "2026-11-20T19:11:08.224860+00:00"
     },
     "3080216047225": {
       "barcode": "3080216047225",
@@ -215,7 +215,7 @@
       ],
       "reason": "Alcoholic beverage / beer: 1664",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:42.168760+00:00"
+      "updated_at": "2026-11-20T19:11:08.224982+00:00"
     },
     "3080216059846": {
       "barcode": "3080216059846",
@@ -233,7 +233,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:42.328307+00:00"
+      "updated_at": "2026-11-20T19:11:08.302190+00:00"
     }
   }
 }

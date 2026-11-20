@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "044",
   "count": 2,
-  "updated_at": "2026-11-20T19:00:42.610376+00:00",
+  "updated_at": "2026-11-20T19:11:08.386364+00:00",
   "products": {
     "0440005001396": {
       "barcode": "0440005001396",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T19:00:41.969529+00:00"
+      "updated_at": "2026-11-20T19:11:08.140011+00:00"
     },
     "0444141215617": {
       "barcode": "0444141215617",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T19:00:42.493074+00:00"
+      "updated_at": "2026-11-20T19:11:08.356542+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "569",
   "count": 2,
-  "updated_at": "2026-11-20T19:00:43.162577+00:00",
+  "updated_at": "2026-11-20T19:11:08.565130+00:00",
   "products": {
     "5690847002364": {
       "barcode": "5690847002364",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T19:00:41.519995+00:00"
+      "updated_at": "2026-11-20T19:11:07.887345+00:00"
     },
     "5690845002731": {
       "barcode": "5690845002731",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T19:00:41.520217+00:00"
+      "updated_at": "2026-11-20T19:11:07.887492+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "352",
-  "count": 10,
-  "updated_at": "2026-11-20T19:00:42.862895+00:00",
+  "count": 11,
+  "updated_at": "2026-11-20T19:11:08.470852+00:00",
   "products": {
     "3523230028431": {
       "barcode": "3523230028431",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.436550+00:00"
+      "updated_at": "2026-11-20T19:11:07.857426+00:00"
     },
     "3523230052856": {
       "barcode": "3523230052856",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.437886+00:00"
+      "updated_at": "2026-11-20T19:11:07.858088+00:00"
     },
     "3523230039680": {
       "barcode": "3523230039680",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.504447+00:00"
+      "updated_at": "2026-11-20T19:11:07.878657+00:00"
     },
     "3523680438224": {
       "barcode": "3523680438224",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:41.906894+00:00"
+      "updated_at": "2026-11-20T19:11:08.096669+00:00"
     },
     "3529380014591": {
       "barcode": "3529380014591",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.942025+00:00"
+      "updated_at": "2026-11-20T19:11:08.122859+00:00"
     },
     "3529380014607": {
       "barcode": "3529380014607",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T19:00:41.964146+00:00"
+      "updated_at": "2026-11-20T19:11:08.137026+00:00"
     },
     "3528071121037": {
       "barcode": "3528071121037",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:42.275208+00:00"
+      "updated_at": "2026-11-20T19:11:08.275284+00:00"
     },
     "3523680449022": {
       "barcode": "3523680449022",
@@ -146,7 +146,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:42.292233+00:00"
+      "updated_at": "2026-11-20T19:11:08.282616+00:00"
     },
     "3523680466357": {
       "barcode": "3523680466357",
@@ -164,7 +164,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:42.313751+00:00"
+      "updated_at": "2026-11-20T19:11:08.295727+00:00"
     },
     "3524130005614": {
       "barcode": "3524130005614",
@@ -182,7 +182,25 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T19:00:42.412323+00:00"
+      "updated_at": "2026-11-20T19:11:08.336234+00:00"
+    },
+    "3523230049399": {
+      "barcode": "3523230049399",
+      "product_name": "brasse au lait de brebis",
+      "store": "carrefour.fr",
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Lait entier de brebis pasteurisé (origine : UE), eau, sucre de canne (6,3%), amidon, arôme naturel de vanille, épaississant: pectines, gousse de vanille épuisée broyée, concentré de carthame, ferments lactiques (lait),",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T19:11:08.373403+00:00"
     }
   }
 }

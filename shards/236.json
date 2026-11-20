@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "236",
   "count": 4,
-  "updated_at": "2026-11-20T19:00:42.746160+00:00",
+  "updated_at": "2026-11-20T19:11:08.429602+00:00",
   "products": {
     "2367519405695": {
       "barcode": "2367519405695",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T19:00:41.456024+00:00"
+      "updated_at": "2026-11-20T19:11:07.864707+00:00"
     },
     "2367519105113": {
       "barcode": "2367519105113",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T19:00:41.463945+00:00"
+      "updated_at": "2026-11-20T19:11:07.866878+00:00"
     },
     "2369079705239": {
       "barcode": "2369079705239",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T19:00:41.891374+00:00"
+      "updated_at": "2026-11-20T19:11:08.088144+00:00"
     },
     "2368570203329": {
       "barcode": "2368570203329",
@@ -80,7 +80,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T19:00:41.892176+00:00"
+      "updated_at": "2026-11-20T19:11:08.088765+00:00"
     }
   }
 }
