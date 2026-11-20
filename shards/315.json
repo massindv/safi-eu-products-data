@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "315",
   "count": 2,
-  "updated_at": "2026-11-20T21:39:51.486083+00:00",
+  "updated_at": "2026-11-20T23:36:27.343939+00:00",
   "products": {
     "3154230814085": {
       "barcode": "3154230814085",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303135393831?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303135393831?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Varkensvlees 93%, conserveermiddelen: kaliumlactaat, natriumacetaat, natriumnitriet, zout, dextrose, antioxidant: natriumisoascorbaat.",
       "nutrition": {
         "calories_100g": null,
@@ -34,7 +34,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.352055+00:00"
+      "updated_at": "2026-11-20T23:36:27.250999+00:00"
     },
     "3154230813965": {
       "barcode": "3154230813965",
@@ -45,7 +45,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313937313435?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313937313435?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Varkensborst, conserveermiddelen : natriumnitriet, natriumacetaat, kaliumlactaat, zout, dextrose, antioxidant: natriumerythorbaat, rook",
       "nutrition": {
         "calories_100g": null,
@@ -64,7 +64,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.354410+00:00"
+      "updated_at": "2026-11-20T23:36:27.253347+00:00"
     }
   }
 }

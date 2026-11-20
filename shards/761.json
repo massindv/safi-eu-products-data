@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "761",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.501319+00:00",
+  "updated_at": "2026-11-20T23:36:27.354227+00:00",
   "products": {
     "7613036394109": {
       "barcode": "7613036394109",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313736373136?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313736373136?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Instantkoffie",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.395944+00:00"
+      "updated_at": "2026-11-20T23:36:27.292409+00:00"
     }
   }
 }

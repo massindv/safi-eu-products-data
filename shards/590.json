@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "590",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.499541+00:00",
+  "updated_at": "2026-11-20T23:36:27.352038+00:00",
   "products": {
     "5906259705879": {
       "barcode": "5906259705879",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_43545239363138343230?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_43545239363138343230?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "95% ZALM, zout, zuurteregelaar (natriumlactaat E325), rook. Waarvan toegevoegde suikers 0g per 100g en waarvan toegevoegd zout 2,5g per 100g Allergie-informatie Bevat: Vis",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.356746+00:00"
+      "updated_at": "2026-11-20T23:36:27.255735+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "304",
   "count": 2,
-  "updated_at": "2026-11-20T21:39:51.483902+00:00",
+  "updated_at": "2026-11-20T23:36:27.342652+00:00",
   "products": {
     "3045320082586": {
       "barcode": "3045320082586",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4d48386673757353524b2d58674c4e4e664d33634367?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4d48386673757353524b2d58674c4e4e664d33634367?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: aardbeien, suiker, bruine rietsuiker, geconcentreerd citroensap, geleermiddel: pectinen.",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.386187+00:00"
+      "updated_at": "2026-11-20T23:36:27.282954+00:00"
     },
     "3041090063114": {
       "barcode": "3041090063114",
@@ -43,7 +43,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_776473522d5631335432716667344944684d75477851?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_776473522d5631335432716667344944684d75477851?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Meel ( TARWE 98 %, ROGGE 0,5 %), magere MELKPOEDER , suiker, palmolie, zout. Allergie-informatie Bevat: Tarwe, Melk, Glutenbevattende Granen",
       "nutrition": {
         "calories_100g": null,
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.388585+00:00"
+      "updated_at": "2026-11-20T23:36:27.285391+00:00"
     }
   }
 }

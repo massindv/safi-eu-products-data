@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "731",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.500786+00:00",
+  "updated_at": "2026-11-20T23:36:27.353255+00:00",
   "products": {
     "7311312010957": {
       "barcode": "7311312010957",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_6e666f3368387744534157424266635136336f704b41?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_6e666f3368387744534157424266635136336f704b41?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Tapioca, zonnebloemolie, GARNALEN (16%), suiker, zout, maïszetmeel, gistextract. Allergie-informatie Bevat: Schaaldieren",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.371644+00:00"
+      "updated_at": "2026-11-20T23:36:27.269458+00:00"
     }
   }
 }

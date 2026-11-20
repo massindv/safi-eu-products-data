@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "502",
   "count": 2,
-  "updated_at": "2026-11-20T21:39:51.488845+00:00",
+  "updated_at": "2026-11-20T23:36:27.347046+00:00",
   "products": {
     "5021991938917": {
       "barcode": "5021991938917",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_306e5539504c776f537747674152753079434f755a67?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_306e5539504c776f537747674152753079434f755a67?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: citroengras*, gemberwortel* (16%), zoethoutwortel*, natuurlijk citroenaroma* (5%), citroenschil* (4%), sinaasappelschil*, witte hibiscus*, natuurlijk gemberaroma (1,5%). *ingredient van biologische teelt.",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.376009+00:00"
+      "updated_at": "2026-11-20T23:36:27.273830+00:00"
     },
     "5029396738767": {
       "barcode": "5029396738767",
@@ -43,7 +43,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313230303135?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313230303135?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Koolzuurhoudend water, fructose, suiker, geklaard citroensap uit concentraat (6%), perensapconcentraat|5%), gefermenteerd gemberwortelextractlwater, alucosestroop, gemberwortel, perensapconcentraat, gist), natuurlijke smaakstoffen, zuur (wijnsteenzuur, citroenzuur) k eurstof (concentraat van zoete aardappel, wortel, appel, hibiscus), zoetstoflsteviolglycosiden uitstevia), Bulgaarse rozenole.",
       "nutrition": {
         "calories_100g": null,
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.389543+00:00"
+      "updated_at": "2026-11-20T23:36:27.286361+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "322",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.487046+00:00",
+  "updated_at": "2026-11-20T23:36:27.344877+00:00",
   "products": {
     "3228020232028": {
       "barcode": "3228020232028",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_7966653230745963535653563833366f745f74785477?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_7966653230745963535653563833366f745f74785477?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: MELK (France oorsrong), zout, fermenten, microbieel stremsel Allergie-informatie Bevat: Melk",
       "nutrition": {
         "calories_100g": null,
@@ -34,7 +34,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.375248+00:00"
+      "updated_at": "2026-11-20T23:36:27.273072+00:00"
     }
   }
 }

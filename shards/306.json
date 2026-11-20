@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "306",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.484629+00:00",
+  "updated_at": "2026-11-20T23:36:27.343297+00:00",
   "products": {
     "3068320120256": {
       "barcode": "3068320120256",
@@ -14,7 +14,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_596a4d31303262675246716a48494a76476151464651?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_596a4d31303262675246716a48494a76476151464651?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Samenstelling (mg/l), Ca++ 80, Mg++ 26, Na+ 6,5, K+ 1, SiO₂ 15, HCO₃⁻ 360, SO₄⁻⁻ 14, Cl⁻ 10, NO₃⁻ 3,8, Hoeveelheid minerale zouten bij 180°C : 345mg/l, pH = 7,2",
       "nutrition": {
         "calories_100g": null,
@@ -33,7 +33,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.390750+00:00"
+      "updated_at": "2026-11-20T23:36:27.287572+00:00"
     }
   }
 }

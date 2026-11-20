@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "844",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.504171+00:00",
+  "updated_at": "2026-11-20T23:36:27.357413+00:00",
   "products": {
     "8445290408372": {
       "barcode": "8445290408372",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_454a6f355a5533555454796c735475425670444d4651?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_454a6f355a5533555454796c735475425670444d4651?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Aardappelzetmeel, TARWEmeel, palmolie, zout, gistextract, gekarameliseerde suiker, aroma's (bevat TARWE, MELK), smaakversterker (E621), uien, rode paprika, natuurlijk kruidnagelaroma\n\nBevat mogelijk: selderij, ei, mosterd, soja. Allergie-informatie Bevat: Melk, Tarwe, Glutenbevattende Granen Kan bevatten: Selderij, Eieren, Mosterd, Soja",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.408444+00:00"
+      "updated_at": "2026-11-20T23:36:27.304122+00:00"
     }
   }
 }

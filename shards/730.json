@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "730",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.500503+00:00",
+  "updated_at": "2026-11-20T23:36:27.352912+00:00",
   "products": {
     "7300400481700": {
       "barcode": "7300400481700",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_526c6b63453458465171652d4f30316e476c47525867?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_526c6b63453458465171652d4f30316e476c47525867?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingredienten: volkoren ROGGEmeel 105 g*, gist, zout. *in g voor 100 g product. Kan LUPINE, MELK, MOSTERD, SESAMZAAD en SOJA bevatten. Allergie-informatie Bevat: Rogge, Glutenbevattende Granen Kan bevatten: Sesamzaad, Melk, Lupine, Mosterd, Soja",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.390916+00:00"
+      "updated_at": "2026-11-20T23:36:27.287736+00:00"
     }
   }
 }

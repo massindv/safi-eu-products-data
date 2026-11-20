@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "841",
   "count": 4,
-  "updated_at": "2026-11-20T21:39:51.503766+00:00",
+  "updated_at": "2026-11-20T23:36:27.356951+00:00",
   "products": {
     "8410065630586": {
       "barcode": "8410065630586",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313837363939?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313837363939?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Druiven, liqueur de tirage, dosagelikeur, conserveringsmiddel: sulfieten. Allergie-informatie Bevat: Sulfieten",
       "nutrition": {
         "calories_100g": null,
@@ -34,7 +34,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.369068+00:00"
+      "updated_at": "2026-11-20T23:36:27.266874+00:00"
     },
     "8410066139231": {
       "barcode": "8410066139231",
@@ -45,7 +45,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313839373631?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313839373631?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Tomaten (160g per 100g Tomato Frito), plantaardige oliën 3,4% (zonnebloem, soja in wisselende verhoudingen met extracten van gebakken ui en knoflook), suiker, gemodificeerd zetmeel, zout.",
       "nutrition": {
         "calories_100g": null,
@@ -64,7 +64,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.389368+00:00"
+      "updated_at": "2026-11-20T23:36:27.286186+00:00"
     },
     "8410702054065": {
       "barcode": "8410702054065",
@@ -75,7 +75,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_3469314739302d4c52683650427358374e69564e7241?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_3469314739302d4c52683650427358374e69564e7241?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Druiven. Allergie-informatie Bevat: Sulfieten",
       "nutrition": {
         "calories_100g": null,
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.396934+00:00"
+      "updated_at": "2026-11-20T23:36:27.293353+00:00"
     },
     "8410010877592": {
       "barcode": "8410010877592",
@@ -105,7 +105,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313932343136?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313932343136?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: knoflookteentjes, water, voedingszuur (E270, bewaarmiddel), SULFIET (E224), zout.",
       "nutrition": {
         "calories_100g": null,
@@ -124,7 +124,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.408611+00:00"
+      "updated_at": "2026-11-20T23:36:27.304200+00:00"
     }
   }
 }

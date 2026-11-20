@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "762",
   "count": 4,
-  "updated_at": "2026-11-20T21:39:51.501606+00:00",
+  "updated_at": "2026-11-20T23:36:27.354808+00:00",
   "products": {
     "7622202283994": {
       "barcode": "7622202283994",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4f754d7550766847526657775a662d79576538413367?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4f754d7550766847526657775a662d79576538413367?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Meel ( VOLKORENTARWE 42 %, rijst 17 %, VOLKORENROGGE 16 %, ROGGE 14 %, gemoute TARWE 2,5 %, HAVER 2,2 %), TARWE ZEMELEN, suiker, weipoeder (van MELK ), palmolie, zout, TARWE KIEMEN. Allergie-informatie Bevat: Melk, Tarwe, Glutenbevattende Granen, Haver, Rogge",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.364957+00:00"
+      "updated_at": "2026-11-20T23:36:27.263376+00:00"
     },
     "7622300348786": {
       "barcode": "7622300348786",
@@ -43,7 +43,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_43545237303337393333?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_43545237303337393333?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Suiker, TARWEBLOEM, cacaoboter, plantaardige vetten (palmpit, palm), magere MELKPOEDER, weipoeder (van MELK), cacaomassa, MELKVET, emulgatoren (SOJALECITHINEN, E476, zonnebloemlecithinen), zonnebloemolie, zout, koffie-extract, aroma's\n\nKan noten bevatten. Allergie-informatie Bevat: Melk, Soja, Tarwe, Glutenbevattende Granen Kan bevatten: Noten",
       "nutrition": {
         "calories_100g": null,
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.378910+00:00"
+      "updated_at": "2026-11-20T23:36:27.276638+00:00"
     },
     "7622210475183": {
       "barcode": "7622210475183",
@@ -73,7 +73,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_72465449525a7455536b4f6a626436536f7232446567?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_72465449525a7455536b4f6a626436536f7232446567?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: TARWEBLOEM 91 %, olijfolie extra vierge 6,5 %, palmolie, zonnebloemolie, zout, HAVERVLOKKEN , ROGGEVLOKKEN , GERSTVLOKKEN , zuurteregelaar (natriumcarbonaten), oregano 0,5 %, GERSTEMOUTMEEL , gist, antioxidant (extracten van rozemarijn). KAN MELK BEVATTEN . Allergie-informatie Bevat: Tarwe, Glutenbevattende Granen, Gerst, Haver, Rogge Kan bevatten: Melk",
       "nutrition": {
         "calories_100g": null,
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.386550+00:00"
+      "updated_at": "2026-11-20T23:36:27.283317+00:00"
     },
     "7622210993656": {
       "barcode": "7622210993656",
@@ -103,7 +103,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_7253416467676c7851494775436e507a354c625f3677?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_7253416467676c7851494775436e507a354c625f3677?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: TARWEBLOEM 45 %, suiker, palmolie, kandijpoeder 9,5 %, fructose-glucosestroop, EIEREN , kandijstroop, rijsmiddel (natriumcarbonaten), glucosestroop, kleurstof (karamel), kaneel 0,2 %, zout, aroma. Allergie-informatie Bevat: Eieren, Tarwe, Glutenbevattende Granen",
       "nutrition": {
         "calories_100g": null,
@@ -122,7 +122,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.388726+00:00"
+      "updated_at": "2026-11-20T23:36:27.285533+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "739",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.501053+00:00",
+  "updated_at": "2026-11-20T23:36:27.353869+00:00",
   "products": {
     "7394376616501": {
       "barcode": "7394376616501",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313036343637?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313036343637?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Water, HAVER 10%, koolzaadolie, zuurteregelaar (dikaliumfosfaat), mineralen (calciumcarbonaat, kaliumjodide), zout, vitaminen (D2, riboflavine, B12)\nVrij van melk en soja. Allergie-informatie Bevat: Haver, Glutenbevattende Granen",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.354555+00:00"
+      "updated_at": "2026-11-20T23:36:27.253494+00:00"
     }
   }
 }

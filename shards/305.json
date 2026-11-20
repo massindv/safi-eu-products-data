@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "305",
   "count": 2,
-  "updated_at": "2026-11-20T21:39:51.484296+00:00",
+  "updated_at": "2026-11-20T23:36:27.342974+00:00",
   "products": {
     "3052910013677": {
       "barcode": "3052910013677",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313634313238?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130313634313238?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Suiker, water, natuurlijk aroma, voedingszuur: citroenzuur, kleur: E150a.",
       "nutrition": {
         "calories_100g": 324.0,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.391939+00:00"
+      "updated_at": "2026-11-20T23:36:27.288761+00:00"
     },
     "3052910013776": {
       "barcode": "3052910013776",
@@ -43,7 +43,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4d4c4b734136496c52387953386d6a75783336564441?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4d4c4b734136496c52387953386d6a75783336564441?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Suiker, water, natuurlijk aroma, voedingszuur: citroenzuur, conserveermiddel: E202.",
       "nutrition": {
         "calories_100g": 341.0,
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.392019+00:00"
+      "updated_at": "2026-11-20T23:36:27.288841+00:00"
     }
   }
 }

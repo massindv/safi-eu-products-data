@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "859",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.504436+00:00",
+  "updated_at": "2026-11-20T23:36:27.358490+00:00",
   "products": {
     "8590421620854": {
       "barcode": "8590421620854",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_2d4775584735326b5235323763584259445354486e67?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_2d4775584735326b5235323763584259445354486e67?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: \nWaarvan toegevoegde suikers 0g per 100 milliliter en waarvan toegevoegd zout 0g per 100 milliliter Allergie-informatie Bevat: Melk, Lactose",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.386049+00:00"
+      "updated_at": "2026-11-20T23:36:27.282817+00:00"
     }
   }
 }

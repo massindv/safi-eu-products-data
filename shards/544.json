@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "544",
   "count": 2,
-  "updated_at": "2026-11-20T21:39:51.497858+00:00",
+  "updated_at": "2026-11-20T23:36:27.351413+00:00",
   "products": {
     "5449000133335": {
       "barcode": "5449000133335",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_6d6f456861453338527a576b4657395a624b4e454477?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_6d6f456861453338527a576b4657395a624b4e454477?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Sprankelend water, kleurstof: E150d, voedingszuur: E338, zoetstoffen: aspartaam, acesulfaam-K, natuurlijke aroma's, waaronder cafeïne, zuurteregelaar: E331",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.368396+00:00"
+      "updated_at": "2026-11-20T23:36:27.266736+00:00"
     },
     "5449000131843": {
       "barcode": "5449000131843",
@@ -44,7 +44,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_2d776c754578777a5462794e78584f62527159346467?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_2d776c754578777a5462794e78584f62527159346467?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Sprankelend water, kleurstof: E150d, voedingszuren: E338, E331, zoetstoffen: aspartaam, acesulfaam-K, natuurlijke aroma's (plantenextracten), waaronder cafeïne",
       "nutrition": {
         "calories_100g": null,
@@ -63,7 +63,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.393070+00:00"
+      "updated_at": "2026-11-20T23:36:27.289699+00:00"
     }
   }
 }

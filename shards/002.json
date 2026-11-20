@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "002",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.480931+00:00",
+  "updated_at": "2026-11-20T23:36:27.341749+00:00",
   "products": {
     "0024000010920": {
       "barcode": "0024000010920",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_7964474c5a6873515343714b45534836316f5f7a7167?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_7964474c5a6873515343714b45534836316f5f7a7167?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Vruchten in wisselende verhoudingen (perziken, peren, ananas, druiven, kersen met kleurstof E 127), water, glucose-fructosestroop, suiker, zuurteregelaar: citroenzuur.",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.403504+00:00"
+      "updated_at": "2026-11-20T23:36:27.299314+00:00"
     }
   }
 }

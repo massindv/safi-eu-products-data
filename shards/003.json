@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "003",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.481835+00:00",
+  "updated_at": "2026-11-20T23:36:27.342070+00:00",
   "products": {
     "0033200976387": {
       "barcode": "0033200976387",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_49443458715168635331436b457550497a4a58596351?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_49443458715168635331436b457550497a4a58596351?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Natriumbicarbonaat.",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.390434+00:00"
+      "updated_at": "2026-11-20T23:36:27.287255+00:00"
     }
   }
 }

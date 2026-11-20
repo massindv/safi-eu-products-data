@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "872",
   "count": 5,
-  "updated_at": "2026-11-20T21:39:51.517702+00:00",
+  "updated_at": "2026-11-20T23:36:27.370663+00:00",
   "products": {
     "8727500033094": {
       "barcode": "8727500033094",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_337a62726e666e305432576f53354b72793063796641?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_337a62726e666e305432576f53354b72793063796641?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: cacaopoeder*, zuurteregelaar (E501). *Rainforest Alliance certified",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.365903+00:00"
+      "updated_at": "2026-11-20T23:36:27.264248+00:00"
     },
     "8721800408880": {
       "barcode": "8721800408880",
@@ -43,7 +43,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303539303232?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303539303232?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: MELK, zout, zuursel (MELK), vegetarisch stremsel Allergie-informatie Bevat: Melk",
       "nutrition": {
         "calories_100g": null,
@@ -64,7 +64,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.383213+00:00"
+      "updated_at": "2026-11-20T23:36:27.279989+00:00"
     },
     "8721800408866": {
       "barcode": "8721800408866",
@@ -75,7 +75,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_646d4f6e4f4254645353654e706939446e5346716b41?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_646d4f6e4f4254645353654e706939446e5346716b41?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: MELK, zout, zuursel (MELK), vegetarisch stremsel Allergie-informatie Bevat: Melk",
       "nutrition": {
         "calories_100g": null,
@@ -96,7 +96,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.383305+00:00"
+      "updated_at": "2026-11-20T23:36:27.280081+00:00"
     },
     "8722700255642": {
       "barcode": "8722700255642",
@@ -107,7 +107,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_437568627551485854326941476d4447697863386267?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_437568627551485854326941476d4447697863386267?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Varkensvlees 46%, varkensseparatorvlees 34%, water, aardappelzetmeel, zout, dextrose, rookaroma, rundercollageen, stabilisator (E451, E452), antioxidant (E301, rozemarijnextract), specerij-extracten (foelie, chilipeper, koriander, knoflook, gember, peper, paprika), conserveermiddel E250, Opgiet: water, zout.",
       "nutrition": {
         "calories_100g": null,
@@ -128,7 +128,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.393452+00:00"
+      "updated_at": "2026-11-20T23:36:27.290065+00:00"
     },
     "8720182103406": {
       "barcode": "8720182103406",
@@ -139,7 +139,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303935323436?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4354523130303935323436?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Zout, smaakversterker (E621, E627, E631), aroma (bevat SELDERIJ), mineraalzout (kalium), kruiden¹ 1,5% (peterselie, lavas), rode paprika¹ 0,8%, groene paprika, palmvet, uienpoeder¹, suiker, gebakken uiensapconcentraat¹ (uiensapconcentraat, zonnebloemolie), specerijen¹ (knoflookpoeder, peterseliewortelpoeder), gistextract, karamelsiroop, maltodextrine.  ¹op duurzame wijze geteeld. Allergie-informatie Bevat: Selderij",
       "nutrition": {
         "calories_100g": 4.0,
@@ -158,7 +158,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.403700+00:00"
+      "updated_at": "2026-11-20T23:36:27.299510+00:00"
     }
   }
 }

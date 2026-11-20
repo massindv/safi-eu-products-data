@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "007",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.482615+00:00",
+  "updated_at": "2026-11-20T23:36:27.342352+00:00",
   "products": {
     "0071475740012": {
       "barcode": "0071475740012",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_727347304e7a5077547079394e4774443245556c4d67?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_727347304e7a5077547079394e4774443245556c4d67?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Koolzaadolie (62%), water, gepasteuriseerd EIGEEL, wittewijnazijn, citroensapconcentraat, zout, Parmigiano Reggiano-kaas (MELK) (1%), MOSTERDMEEL, zwarte peper, worcestersaus (water, brandewijnazijn, GERSTEMOUTAZIJN, suiker, melasse, zout, gedroogde ui, gedroogde knoflook, tamarindepasta, gedroogde gember, chilipoeder), gedroogde knoflook, gedroogde ui, extra vierge olijfolie, ansjovispasta (ansjovis (VIS), zout, olijfolie), stabilisator: xanthaangom. Allergie-informatie Bevat: Eieren, Melk, Mosterd, Gerst, Glutenbevattende Granen, Vis",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.404008+00:00"
+      "updated_at": "2026-11-20T23:36:27.299879+00:00"
     }
   }
 }

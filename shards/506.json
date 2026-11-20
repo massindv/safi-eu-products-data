@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "506",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.489603+00:00",
+  "updated_at": "2026-11-20T23:36:27.347696+00:00",
   "products": {
     "5060466511880": {
       "barcode": "5060466511880",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_34747479316f5a50536d795061796e52446176326451?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_34747479316f5a50536d795061796e52446176326451?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Sprankelend water, suiker, vruchtensappen uit sapconcentraten 4% (sinaasappel, appel, kiwi, mango), voedingszuren (citroenzuur, natriumcitraat), aroma's, cafeïne (0,03%), conserveermiddel (kaliumsorbaat), zoetstoffen (natrium cyclamaat, acesulfaam-K, aspartaam), antioxidant (ascorbinezuur), vitamines (B3, E, B12), kleurstoffen (E141ii, E160a), stabilisator (guarpitmeel)",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.384460+00:00"
+      "updated_at": "2026-11-20T23:36:27.281231+00:00"
     }
   }
 }

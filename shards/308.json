@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "308",
   "count": 3,
-  "updated_at": "2026-11-20T21:39:51.485530+00:00",
+  "updated_at": "2026-11-20T23:36:27.343578+00:00",
   "products": {
     "3083681025484": {
       "barcode": "3083681025484",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_645f484c304a6c6a544553565036492d504666565367?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_645f484c304a6c6a544553565036492d504666565367?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Maïskorrels, water, zout.",
       "nutrition": {
         "calories_100g": null,
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.403771+00:00"
+      "updated_at": "2026-11-20T23:36:27.299579+00:00"
     },
     "3083681006964": {
       "barcode": "3083681006964",
@@ -43,7 +43,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_2d7236765f39314652535369666a4d42503877365667?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_2d7236765f39314652535369666a4d42503877365667?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Kikkererwten, water, zout. Kan SOJA en GRANEN (GLUTEN) bevatten. Allergie-informatie Kan bevatten: Glutenbevattende Granen, Soja",
       "nutrition": {
         "calories_100g": null,
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.404112+00:00"
+      "updated_at": "2026-11-20T23:36:27.299996+00:00"
     },
     "3083680600965": {
       "barcode": "3083680600965",
@@ -73,7 +73,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_4b542d575532415153585355587a6d417a77676a4277?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_4b542d575532415153585355587a6d417a77676a4277?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Linzen, water, zout, verstevigingsmiddel: E509. Kan SOJA en GRANEN (GLUTEN) bevatten. Allergie-informatie Kan bevatten: Soja, Glutenbevattende Granen",
       "nutrition": {
         "calories_100g": null,
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.404218+00:00"
+      "updated_at": "2026-11-20T23:36:27.300109+00:00"
     }
   }
 }

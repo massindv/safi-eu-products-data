@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "520",
   "count": 1,
-  "updated_at": "2026-11-20T21:39:51.490154+00:00",
+  "updated_at": "2026-11-20T23:36:27.348297+00:00",
   "products": {
     "5201168915013": {
       "barcode": "5201168915013",
@@ -13,7 +13,7 @@
       ],
       "category": "supermarket",
       "country": "Belgium",
-      "image_url": "https://static.ah.nl/dam/product/AHI_344f646b44555943516d57436a446748627952523141?revLabel=1&rendition=800x800_JPG&fileType=binary",
+      "image_url": "https://static.ah.nl/dam/product/AHI_344f646b44555943516d57436a446748627952523141?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "ingredients_text": "Ingrediënten: Gepasteuriseerde koe-, schapen- en geitenMELK, zout, gehakte munt, niet-dierlijk stremsel. Allergenen: Zie vetgedrukte ingrediënten. Allergie-informatie Bevat: Geitenmelk, Melk",
       "nutrition": {
         "calories_100g": null,
@@ -34,7 +34,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T21:39:51.383116+00:00"
+      "updated_at": "2026-11-20T23:36:27.279895+00:00"
     }
   }
 }
