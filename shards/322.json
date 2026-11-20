@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "322",
   "count": 2,
-  "updated_at": "2026-11-20T15:00:30.545369+00:00",
+  "updated_at": "2026-11-20T15:01:28.056523+00:00",
   "products": {
     "3228020232028": {
       "barcode": "3228020232028",
@@ -31,7 +31,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:00:30.493532+00:00"
+      "updated_at": "2026-11-20T15:01:27.991751+00:00"
     },
     "3227061000023": {
       "barcode": "3227061000023",
@@ -51,7 +51,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:00:30.530079+00:00"
+      "updated_at": "2026-11-20T15:01:28.040616+00:00"
     }
   }
 }

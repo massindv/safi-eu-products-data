@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "872",
   "count": 7,
-  "updated_at": "2026-11-20T15:00:30.578153+00:00",
+  "updated_at": "2026-11-20T15:01:28.086028+00:00",
   "products": {
     "8727500033094": {
       "barcode": "8727500033094",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:00:30.484004+00:00"
+      "updated_at": "2026-11-20T15:01:27.979248+00:00"
     },
     "8721800408880": {
       "barcode": "8721800408880",
@@ -58,7 +58,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:00:30.501585+00:00"
+      "updated_at": "2026-11-20T15:01:28.001029+00:00"
     },
     "8721800408866": {
       "barcode": "8721800408866",
@@ -87,7 +87,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:00:30.501703+00:00"
+      "updated_at": "2026-11-20T15:01:28.001123+00:00"
     },
     "8722700255642": {
       "barcode": "8722700255642",
@@ -116,7 +116,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:00:30.512414+00:00"
+      "updated_at": "2026-11-20T15:01:28.016110+00:00"
     },
     "8720182103406": {
       "barcode": "8720182103406",
@@ -143,7 +143,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T15:00:30.523099+00:00"
+      "updated_at": "2026-11-20T15:01:28.029361+00:00"
     },
     "8720182368782": {
       "barcode": "8720182368782",
@@ -163,7 +163,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:00:30.537356+00:00"
+      "updated_at": "2026-11-20T15:01:28.047070+00:00"
     },
     "8725800000464": {
       "barcode": "8725800000464",
@@ -183,7 +183,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T15:00:30.537775+00:00"
+      "updated_at": "2026-11-20T15:01:28.047445+00:00"
     }
   }
 }

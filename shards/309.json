@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "309",
   "count": 3,
-  "updated_at": "2026-11-20T15:00:30.543843+00:00",
+  "updated_at": "2026-11-20T15:01:28.053491+00:00",
   "products": {
     "3095758049019": {
       "barcode": "3095758049019",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:00:30.529731+00:00"
+      "updated_at": "2026-11-20T15:01:28.040193+00:00"
     },
     "3095754136010": {
       "barcode": "3095754136010",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:00:30.529789+00:00"
+      "updated_at": "2026-11-20T15:01:28.040263+00:00"
     },
     "3095756102013": {
       "barcode": "3095756102013",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T15:00:30.529939+00:00"
+      "updated_at": "2026-11-20T15:01:28.040437+00:00"
     }
   }
 }
