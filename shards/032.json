@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "032",
   "count": 1,
-  "updated_at": "2026-11-20T17:51:11.168959+00:00",
+  "updated_at": "2026-11-20T18:03:23.087278+00:00",
   "products": {
     "03227139": {
       "barcode": "03227139",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.023973+00:00"
+      "updated_at": "2026-11-20T18:03:22.972048+00:00"
     }
   }
 }

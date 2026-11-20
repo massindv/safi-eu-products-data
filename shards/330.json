@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "330",
-  "count": 8,
-  "updated_at": "2026-11-20T17:51:11.368324+00:00",
+  "count": 9,
+  "updated_at": "2026-11-20T18:03:23.149072+00:00",
   "products": {
     "3302740047367": {
       "barcode": "3302740047367",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.723854+00:00"
+      "updated_at": "2026-11-20T18:03:22.677090+00:00"
     },
     "3302740039362": {
       "barcode": "3302740039362",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.723977+00:00"
+      "updated_at": "2026-11-20T18:03:22.677214+00:00"
     },
     "3302740047411": {
       "barcode": "3302740047411",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.724339+00:00"
+      "updated_at": "2026-11-20T18:03:22.677578+00:00"
     },
     "3302740047336": {
       "barcode": "3302740047336",
@@ -82,7 +82,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.724459+00:00"
+      "updated_at": "2026-11-20T18:03:22.677696+00:00"
     },
     "3305510131808": {
       "barcode": "3305510131808",
@@ -102,7 +102,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.762543+00:00"
+      "updated_at": "2026-11-20T18:03:22.717305+00:00"
     },
     "3305510066643": {
       "barcode": "3305510066643",
@@ -120,7 +120,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:51:10.950755+00:00"
+      "updated_at": "2026-11-20T18:03:22.906760+00:00"
     },
     "3300081001208": {
       "barcode": "3300081001208",
@@ -138,7 +138,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.008468+00:00"
+      "updated_at": "2026-11-20T18:03:22.959240+00:00"
     },
     "3306380119514": {
       "barcode": "3306380119514",
@@ -156,7 +156,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.057316+00:00"
+      "updated_at": "2026-11-20T18:03:22.993696+00:00"
+    },
+    "3302740010804": {
+      "barcode": "3302740010804",
+      "product_name": "Jambon cuit à l étouffée",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:03:23.073319+00:00"
     }
   }
 }

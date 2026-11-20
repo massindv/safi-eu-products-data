@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "843",
-  "count": 8,
-  "updated_at": "2026-11-20T17:51:11.541796+00:00",
+  "count": 9,
+  "updated_at": "2026-11-20T18:03:23.259099+00:00",
   "products": {
     "8435185980069": {
       "barcode": "8435185980069",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.920122+00:00"
+      "updated_at": "2026-11-20T18:03:22.878900+00:00"
     },
     "8437008952147": {
       "barcode": "8437008952147",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.921030+00:00"
+      "updated_at": "2026-11-20T18:03:22.879795+00:00"
     },
     "8431876276121": {
       "barcode": "8431876276121",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.990316+00:00"
+      "updated_at": "2026-11-20T18:03:22.942665+00:00"
     },
     "8436586782184": {
       "barcode": "8436586782184",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:51:11.049615+00:00"
+      "updated_at": "2026-11-20T18:03:22.987942+00:00"
     },
     "8431876265675": {
       "barcode": "8431876265675",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:51:11.075839+00:00"
+      "updated_at": "2026-11-20T18:03:23.010496+00:00"
     },
     "8431876268614": {
       "barcode": "8431876268614",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.078324+00:00"
+      "updated_at": "2026-11-20T18:03:23.012531+00:00"
     },
     "8436039436305": {
       "barcode": "8436039436305",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.085293+00:00"
+      "updated_at": "2026-11-20T18:03:23.018150+00:00"
     },
     "8431876270013": {
       "barcode": "8431876270013",
@@ -148,7 +148,25 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.126446+00:00"
+      "updated_at": "2026-11-20T18:03:23.049869+00:00"
+    },
+    "8431876059656": {
+      "barcode": "8431876059656",
+      "product_name": "Orange avec Pulpe",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jus d'orange, pulpe d'orange (3%).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:03:23.066388+00:00"
     }
   }
 }

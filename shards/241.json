@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "241",
-  "count": 2,
-  "updated_at": "2026-11-20T17:51:11.258120+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T18:03:23.121181+00:00",
   "products": {
     "2412621001911": {
       "barcode": "2412621001911",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:51:11.064509+00:00"
+      "updated_at": "2026-11-20T18:03:22.999389+00:00"
     },
     "2415805003824": {
       "barcode": "2415805003824",
@@ -42,7 +42,45 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:51:11.064741+00:00"
+      "updated_at": "2026-11-20T18:03:22.999447+00:00"
+    },
+    "2417564004685": {
+      "barcode": "2417564004685",
+      "product_name": "Cordon bleu savoyard",
+      "store": "colruyt.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T18:03:23.076266+00:00"
+    },
+    "2415264005254": {
+      "barcode": "2415264005254",
+      "product_name": "Poulet",
+      "store": "colruyt.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Kipfilet",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T18:03:23.076908+00:00"
     }
   }
 }

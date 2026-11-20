@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "308",
-  "count": 10,
-  "updated_at": "2026-11-20T17:51:11.314171+00:00",
+  "count": 11,
+  "updated_at": "2026-11-20T18:03:23.132805+00:00",
   "products": {
     "3083681025484": {
       "barcode": "3083681025484",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:51:10.717341+00:00"
+      "updated_at": "2026-11-20T18:03:22.669503+00:00"
     },
     "3083681006964": {
       "barcode": "3083681006964",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:51:10.717680+00:00"
+      "updated_at": "2026-11-20T18:03:22.669845+00:00"
     },
     "3083680600965": {
       "barcode": "3083680600965",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:51:10.717786+00:00"
+      "updated_at": "2026-11-20T18:03:22.669952+00:00"
     },
     "3083681093926": {
       "barcode": "3083681093926",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.739662+00:00"
+      "updated_at": "2026-11-20T18:03:22.693941+00:00"
     },
     "3080216043210": {
       "barcode": "3080216043210",
@@ -121,7 +121,7 @@
       ],
       "reason": "Alcoholic beverage / beer: Kronenbourg 50 cl Kronenbourg 4.2 DEGRE ALCOOL",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.922659+00:00"
+      "updated_at": "2026-11-20T18:03:22.881312+00:00"
     },
     "3083680025881": {
       "barcode": "3083680025881",
@@ -139,7 +139,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.937655+00:00"
+      "updated_at": "2026-11-20T18:03:22.895728+00:00"
     },
     "3083681149975": {
       "barcode": "3083681149975",
@@ -157,7 +157,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.938442+00:00"
+      "updated_at": "2026-11-20T18:03:22.896423+00:00"
     },
     "3083681070354": {
       "barcode": "3083681070354",
@@ -175,7 +175,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.034525+00:00"
+      "updated_at": "2026-11-20T18:03:22.979463+00:00"
     },
     "3080216052274": {
       "barcode": "3080216052274",
@@ -195,7 +195,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.057423+00:00"
+      "updated_at": "2026-11-20T18:03:22.993796+00:00"
     },
     "3080216047225": {
       "barcode": "3080216047225",
@@ -215,7 +215,25 @@
       ],
       "reason": "Alcoholic beverage / beer: 1664",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.057546+00:00"
+      "updated_at": "2026-11-20T18:03:22.993908+00:00"
+    },
+    "3080216059846": {
+      "barcode": "3080216059846",
+      "product_name": "Tourtel Twist citrons 🍋 & menthe",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "EAU, JUS DE CITRON À BASE DE JUS CONCENTRE (3,1%), SUCRE, MALT D'ORGE, MALT DE BLÉ, CO2, AROME NATUREL DE CITRON AVEC AUTRES AROMES NATURELS, EXTRAIT DE MENTHE, STABILISANT: GOMME D'ACACIA, EXTRAIT CONCENTRE DE CITRON, EXTRAIT DE HOUBLON.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:03:23.067020+00:00"
     }
   }
 }

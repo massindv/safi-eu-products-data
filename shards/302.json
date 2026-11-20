@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "302",
-  "count": 7,
-  "updated_at": "2026-11-20T17:51:11.273701+00:00",
+  "count": 8,
+  "updated_at": "2026-11-20T18:03:23.129339+00:00",
   "products": {
     "3021210012000": {
       "barcode": "3021210012000",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.726665+00:00"
+      "updated_at": "2026-11-20T18:03:22.679864+00:00"
     },
     "3029330069355": {
       "barcode": "3029330069355",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:51:10.745378+00:00"
+      "updated_at": "2026-11-20T18:03:22.699949+00:00"
     },
     "3023260030928": {
       "barcode": "3023260030928",
@@ -60,7 +60,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.760805+00:00"
+      "updated_at": "2026-11-20T18:03:22.715638+00:00"
     },
     "3029330005773": {
       "barcode": "3029330005773",
@@ -78,7 +78,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.786731+00:00"
+      "updated_at": "2026-11-20T18:03:22.742586+00:00"
     },
     "3024480008797": {
       "barcode": "3024480008797",
@@ -98,7 +98,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.924940+00:00"
+      "updated_at": "2026-11-20T18:03:22.883659+00:00"
     },
     "3023010003585": {
       "barcode": "3023010003585",
@@ -116,7 +116,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.924978+00:00"
+      "updated_at": "2026-11-20T18:03:22.883696+00:00"
     },
     "3023290053829": {
       "barcode": "3023290053829",
@@ -134,7 +134,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.086571+00:00"
+      "updated_at": "2026-11-20T18:03:23.019223+00:00"
+    },
+    "3020640148709": {
+      "barcode": "3020640148709",
+      "product_name": "Boisson rafraîchissante Multifruits.",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Jus de fruits à base de jus concentrés et purée de : pomme, orange, banane, raisin, citron, passion, kiwi, abricot, mangue, goyave, eau, sucre, vitamine C, arômes naturels",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:03:23.067656+00:00"
     }
   }
 }

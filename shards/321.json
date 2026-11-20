@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "321",
-  "count": 3,
-  "updated_at": "2026-11-20T17:51:11.334770+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T18:03:23.138051+00:00",
   "products": {
     "3215061062776": {
       "barcode": "3215061062776",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:51:10.710138+00:00"
+      "updated_at": "2026-11-20T18:03:22.662572+00:00"
     },
     "3215061072737": {
       "barcode": "3215061072737",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:51:10.710348+00:00"
+      "updated_at": "2026-11-20T18:03:22.662783+00:00"
     },
     "3218260000181": {
       "barcode": "3218260000181",
@@ -74,7 +74,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:51:10.727615+00:00"
+      "updated_at": "2026-11-20T18:03:22.680784+00:00"
+    },
+    "3217690057628": {
+      "barcode": "3217690057628",
+      "product_name": "Sirop Fruiss pêche abricot bio",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Sucre*,eau, jus de pêche à base de concentré* 6,3%, jus d'abricot* à base de concentré* 3,7%, acidifiant: acide citrique, arôme naturel d'abricot, arôme naturel de pêche, caramel aromatique* (sucre*, eau)\r\n\r\n* bio",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:03:23.066351+00:00"
     }
   }
 }

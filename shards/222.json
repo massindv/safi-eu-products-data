@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "222",
-  "count": 6,
-  "updated_at": "2026-11-20T17:51:11.232891+00:00",
+  "count": 9,
+  "updated_at": "2026-11-20T18:03:23.110414+00:00",
   "products": {
     "2229240009248": {
       "barcode": "2229240009248",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:51:10.730569+00:00"
+      "updated_at": "2026-11-20T18:03:22.683596+00:00"
     },
     "2225660001350": {
       "barcode": "2225660001350",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:51:10.792686+00:00"
+      "updated_at": "2026-11-20T18:03:22.747781+00:00"
     },
     "2228880003906": {
       "barcode": "2228880003906",
@@ -60,7 +60,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.068096+00:00"
+      "updated_at": "2026-11-20T18:03:23.002319+00:00"
     },
     "2227171008767": {
       "barcode": "2227171008767",
@@ -80,7 +80,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.068117+00:00"
+      "updated_at": "2026-11-20T18:03:23.002338+00:00"
     },
     "2227421021522": {
       "barcode": "2227421021522",
@@ -98,7 +98,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.077931+00:00"
+      "updated_at": "2026-11-20T18:03:23.012215+00:00"
     },
     "2227421022895": {
       "barcode": "2227421022895",
@@ -116,7 +116,65 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.077980+00:00"
+      "updated_at": "2026-11-20T18:03:23.012254+00:00"
+    },
+    "2227171054979": {
+      "barcode": "2227171054979",
+      "product_name": "Cote*** avec os à griller au beurre aux fines herbes",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:03:23.073145+00:00"
+    },
+    "2226501004684": {
+      "barcode": "2226501004684",
+      "product_name": "Steak de kangourou",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "100% viande de kangourou",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.079030+00:00"
+    },
+    "2227061002981": {
+      "barcode": "2227061002981",
+      "product_name": "Chipolata De Poulet",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.079048+00:00"
     }
   }
 }

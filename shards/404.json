@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "404",
-  "count": 1,
-  "updated_at": "2026-11-20T17:51:11.437318+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T18:03:23.176935+00:00",
   "products": {
     "4040328034215": {
       "barcode": "4040328034215",
@@ -22,7 +22,25 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.061877+00:00"
+      "updated_at": "2026-11-20T18:03:22.997307+00:00"
+    },
+    "4040328002306": {
+      "barcode": "4040328002306",
+      "product_name": "pizza salam",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:03:23.072783+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "885",
-  "count": 3,
-  "updated_at": "2026-11-20T17:51:11.593706+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T18:03:23.316326+00:00",
   "products": {
     "8850344000745": {
       "barcode": "8850344000745",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.994350+00:00"
+      "updated_at": "2026-11-20T18:03:22.946541+00:00"
     },
     "8854404004759": {
       "barcode": "8854404004759",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.005910+00:00"
+      "updated_at": "2026-11-20T18:03:22.955960+00:00"
     },
     "8853095001498": {
       "barcode": "8853095001498",
@@ -56,7 +56,27 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.109351+00:00"
+      "updated_at": "2026-11-20T18:03:23.037142+00:00"
+    },
+    "8858639000807": {
+      "barcode": "8858639000807",
+      "product_name": "Yakitori Brochettes Poulet",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de poulet (58%), eau, sauce _soja_ (eau, _soja_, _blé_, sel), sucre, sirop de glucose, vin de riz de cuisson doux (sirop de glucose, eau, riz gluant, alcool, riz malté), amidon (tapioca, pomme de terre), amidon modifié, xylose, vinaigre de riz, sel, fibre de pomme de terre, extrait de levure (levure, sel), colorant (E150 c).\r\n\r\nProduit élaboré dans un atelier qui utilise: céleri, crustacés, oeufs, poisson, lait, moutarde, arachides, graines de sésame.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:03:23.073071+00:00"
     }
   }
 }

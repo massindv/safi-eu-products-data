@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "prefix": "287",
+  "count": 1,
+  "updated_at": "2026-11-20T18:03:23.127399+00:00",
+  "products": {
+    "2874028052154": {
+      "barcode": "2874028052154",
+      "product_name": "Ribs à griller",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "ribs de porc savouré 94%, ( ribs de porc savouré 92%, eau, conservateur : E250 E262 E252, dextrose, sel, acidifiant E301, sucre, épices, plante aromatique), sucre, poudre de tomate, Chapelure (gluten), epices et plantes aromatiques, sel, aromes naturels, colorant E150c.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:03:23.074744+00:00"
+    }
+  }
+}

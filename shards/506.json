@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "506",
-  "count": 12,
-  "updated_at": "2026-11-20T17:51:11.453191+00:00",
+  "count": 14,
+  "updated_at": "2026-11-20T18:03:23.184077+00:00",
   "products": {
     "5060466511880": {
       "barcode": "5060466511880",
@@ -29,7 +29,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T17:51:10.698264+00:00"
+      "updated_at": "2026-11-20T18:03:22.650366+00:00"
     },
     "5060139432993": {
       "barcode": "5060139432993",
@@ -47,7 +47,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:51:10.748414+00:00"
+      "updated_at": "2026-11-20T18:03:22.702839+00:00"
     },
     "5061005130128": {
       "barcode": "5061005130128",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:51:10.749007+00:00"
+      "updated_at": "2026-11-20T18:03:22.703430+00:00"
     },
     "5060194790731": {
       "barcode": "5060194790731",
@@ -83,7 +83,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.753468+00:00"
+      "updated_at": "2026-11-20T18:03:22.708069+00:00"
     },
     "5060088707449": {
       "barcode": "5060088707449",
@@ -101,7 +101,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:51:10.809076+00:00"
+      "updated_at": "2026-11-20T18:03:22.764563+00:00"
     },
     "5060709280344": {
       "barcode": "5060709280344",
@@ -121,7 +121,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.848327+00:00"
+      "updated_at": "2026-11-20T18:03:22.807033+00:00"
     },
     "5060425284190": {
       "barcode": "5060425284190",
@@ -139,7 +139,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.955779+00:00"
+      "updated_at": "2026-11-20T18:03:22.912807+00:00"
     },
     "5060198644634": {
       "barcode": "5060198644634",
@@ -159,7 +159,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.035241+00:00"
+      "updated_at": "2026-11-20T18:03:22.979862+00:00"
     },
     "5060166690380": {
       "barcode": "5060166690380",
@@ -177,7 +177,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.045291+00:00"
+      "updated_at": "2026-11-20T18:03:22.986078+00:00"
     },
     "5060608740215": {
       "barcode": "5060608740215",
@@ -195,7 +195,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:51:11.049397+00:00"
+      "updated_at": "2026-11-20T18:03:22.987832+00:00"
     },
     "5060074630683": {
       "barcode": "5060074630683",
@@ -213,7 +213,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:51:11.050176+00:00"
+      "updated_at": "2026-11-20T18:03:22.988198+00:00"
     },
     "5060023979757": {
       "barcode": "5060023979757",
@@ -231,7 +231,43 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.144262+00:00"
+      "updated_at": "2026-11-20T18:03:23.063791+00:00"
+    },
+    "5060108452137": {
+      "barcode": "5060108452137",
+      "product_name": "Mediterranean Tonic Water",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "carbonated spring water, fructose, citric acid, natural flavourings quinine",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:03:23.066119+00:00"
+    },
+    "5060602580213": {
+      "barcode": "5060602580213",
+      "product_name": "Pêche, gingembre et chai",
+      "store": "carrefour.fr",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Eau gazeuse, extrait de pêche d'origine italienne, extrait d'écorce de cannelle, Acidifiant : acide citrique, extrait de gingembre d'origine sri Lankaise, colorant : caramel, arômes naturels : saveur naturelle de chaï, sucre, vitamine D3",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:03:23.067296+00:00"
     }
   }
 }

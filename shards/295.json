@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "295",
-  "count": 6,
-  "updated_at": "2026-11-20T17:51:11.269876+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T18:03:23.128004+00:00",
   "products": {
     "2951726703134": {
       "barcode": "2951726703134",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:51:10.772365+00:00"
+      "updated_at": "2026-11-20T18:03:22.727698+00:00"
     },
     "2952702601987": {
       "barcode": "2952702601987",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:51:10.775630+00:00"
+      "updated_at": "2026-11-20T18:03:22.731308+00:00"
     },
     "2953428202649": {
       "barcode": "2953428202649",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:51:10.775644+00:00"
+      "updated_at": "2026-11-20T18:03:22.731322+00:00"
     },
     "2952853007737": {
       "barcode": "2952853007737",
@@ -76,7 +76,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:51:10.936593+00:00"
+      "updated_at": "2026-11-20T18:03:22.894818+00:00"
     },
     "2956147803906": {
       "barcode": "2956147803906",
@@ -96,7 +96,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:51:10.954717+00:00"
+      "updated_at": "2026-11-20T18:03:22.911863+00:00"
     },
     "2951727803338": {
       "barcode": "2951727803338",
@@ -116,7 +116,27 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:51:10.954776+00:00"
+      "updated_at": "2026-11-20T18:03:22.911917+00:00"
+    },
+    "2952400103301": {
+      "barcode": "2952400103301",
+      "product_name": "Filet de poulet",
+      "store": "colruyt.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-20T18:03:23.075068+00:00"
     }
   }
 }

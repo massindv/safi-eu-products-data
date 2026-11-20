@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "349",
   "count": 2,
-  "updated_at": "2026-11-20T17:51:11.396357+00:00",
+  "updated_at": "2026-11-20T18:03:23.155510+00:00",
   "products": {
     "3498425562055": {
       "barcode": "3498425562055",
@@ -24,7 +24,7 @@
       ],
       "reason": "Contains carmine / E120 / karmijnzuur insect colorant; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.009594+00:00"
+      "updated_at": "2026-11-20T18:03:22.960314+00:00"
     },
     "3493373037013": {
       "barcode": "3493373037013",
@@ -42,7 +42,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.144351+00:00"
+      "updated_at": "2026-11-20T18:03:23.063860+00:00"
     }
   }
 }

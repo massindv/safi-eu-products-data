@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "245",
-  "count": 2,
-  "updated_at": "2026-11-20T17:51:11.258639+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T18:03:23.122243+00:00",
   "products": {
     "2451325023881": {
       "barcode": "2451325023881",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.077085+00:00"
+      "updated_at": "2026-11-20T18:03:23.011632+00:00"
     },
     "2456358016664": {
       "barcode": "2456358016664",
@@ -38,7 +38,27 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:11.078002+00:00"
+      "updated_at": "2026-11-20T18:03:23.012272+00:00"
+    },
+    "2457061045460": {
+      "barcode": "2457061045460",
+      "product_name": "Paupiette de veau carrefour",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:03:23.073188+00:00"
     }
   }
 }

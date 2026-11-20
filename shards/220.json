@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "220",
-  "count": 23,
-  "updated_at": "2026-11-20T17:51:11.226376+00:00",
+  "count": 41,
+  "updated_at": "2026-11-20T18:03:23.107797+00:00",
   "products": {
     "2205499003077": {
       "barcode": "2205499003077",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.760603+00:00"
+      "updated_at": "2026-11-20T18:03:22.715439+00:00"
     },
     "2208476004746": {
       "barcode": "2208476004746",
@@ -42,7 +42,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.770356+00:00"
+      "updated_at": "2026-11-20T18:03:22.725425+00:00"
     },
     "2205308003342": {
       "barcode": "2205308003342",
@@ -62,7 +62,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.770481+00:00"
+      "updated_at": "2026-11-20T18:03:22.725574+00:00"
     },
     "2205308003649": {
       "barcode": "2205308003649",
@@ -82,7 +82,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.770522+00:00"
+      "updated_at": "2026-11-20T18:03:22.725628+00:00"
     },
     "2200235007715": {
       "barcode": "2200235007715",
@@ -102,7 +102,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.770573+00:00"
+      "updated_at": "2026-11-20T18:03:22.725698+00:00"
     },
     "2208532003744": {
       "barcode": "2208532003744",
@@ -122,7 +122,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.770643+00:00"
+      "updated_at": "2026-11-20T18:03:22.725888+00:00"
     },
     "2200761000792": {
       "barcode": "2200761000792",
@@ -140,7 +140,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_BE",
-      "updated_at": "2026-11-20T17:51:10.791251+00:00"
+      "updated_at": "2026-11-20T18:03:22.746834+00:00"
     },
     "2203154003950": {
       "barcode": "2203154003950",
@@ -158,7 +158,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:51:10.934067+00:00"
+      "updated_at": "2026-11-20T18:03:22.892499+00:00"
     },
     "2205280005709": {
       "barcode": "2205280005709",
@@ -176,7 +176,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.935130+00:00"
+      "updated_at": "2026-11-20T18:03:22.893491+00:00"
     },
     "2205309002948": {
       "barcode": "2205309002948",
@@ -196,7 +196,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.954373+00:00"
+      "updated_at": "2026-11-20T18:03:22.911539+00:00"
     },
     "2202038002799": {
       "barcode": "2202038002799",
@@ -214,7 +214,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:51:10.966191+00:00"
+      "updated_at": "2026-11-20T18:03:22.921116+00:00"
     },
     "2202830001358": {
       "barcode": "2202830001358",
@@ -232,7 +232,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:51:10.966250+00:00"
+      "updated_at": "2026-11-20T18:03:22.921164+00:00"
     },
     "2205619003741": {
       "barcode": "2205619003741",
@@ -252,7 +252,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.067532+00:00"
+      "updated_at": "2026-11-20T18:03:23.001779+00:00"
     },
     "2205507002337": {
       "barcode": "2205507002337",
@@ -272,7 +272,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.068365+00:00"
+      "updated_at": "2026-11-20T18:03:23.002567+00:00"
     },
     "2205455003820": {
       "barcode": "2205455003820",
@@ -292,7 +292,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.068420+00:00"
+      "updated_at": "2026-11-20T18:03:23.002622+00:00"
     },
     "2205596004595": {
       "barcode": "2205596004595",
@@ -312,7 +312,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.068529+00:00"
+      "updated_at": "2026-11-20T18:03:23.002720+00:00"
     },
     "2205523002915": {
       "barcode": "2205523002915",
@@ -332,7 +332,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.068546+00:00"
+      "updated_at": "2026-11-20T18:03:23.002737+00:00"
     },
     "2205569005895": {
       "barcode": "2205569005895",
@@ -352,7 +352,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.068576+00:00"
+      "updated_at": "2026-11-20T18:03:23.002763+00:00"
     },
     "2205620002917": {
       "barcode": "2205620002917",
@@ -372,7 +372,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.068600+00:00"
+      "updated_at": "2026-11-20T18:03:23.002785+00:00"
     },
     "2200389002833": {
       "barcode": "2200389002833",
@@ -390,7 +390,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.080524+00:00"
+      "updated_at": "2026-11-20T18:03:23.014226+00:00"
     },
     "2208473003414": {
       "barcode": "2208473003414",
@@ -410,7 +410,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.080620+00:00"
+      "updated_at": "2026-11-20T18:03:23.014305+00:00"
     },
     "2200235004844": {
       "barcode": "2200235004844",
@@ -428,7 +428,7 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.080674+00:00"
+      "updated_at": "2026-11-20T18:03:23.014339+00:00"
     },
     "2200235005025": {
       "barcode": "2200235005025",
@@ -446,7 +446,359 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:11.080696+00:00"
+      "updated_at": "2026-11-20T18:03:23.014353+00:00"
+    },
+    "2205641002996": {
+      "barcode": "2205641002996",
+      "product_name": "Filet de poulet fumé",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.076979+00:00"
+    },
+    "2205726004280": {
+      "barcode": "2205726004280",
+      "product_name": "Jambon cuit avec couenne",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.077106+00:00"
+    },
+    "2205595004596": {
+      "barcode": "2205595004596",
+      "product_name": "Biche de poulet au fromage",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "74% hachée de poulet (87% viande de poulet, eau, farine et pro - zuurteregelaars: citroenzuur - kaliumchloride), 12% paneermeel (TARWEBLOEM, rijstmeel, tapiocazetmeel, zout; specerijen (koriander, MOSTERDZAAD). gist, kleurstof: paprikaextract), 11 % KAAS (MELK, zout. microbieel stremsel, kleurstof: caroteen), water, maiszetmeel, rijstmeel, gemodificeerd aardappelzetmeel. coriandre), extrait de levure, anti - oxydant: acide ascorbique, correcteurs d'acidité: acide citrique - chlorure de potassium), 12% chapelure (farine de BLE et riz, amidon de tapioca, sel. épicos (coriandre, grainis de MOUTARDE), levle, enfoant: extrait de paprika), 11% FROMACE (LAIT, sel enzyme coagulante d'orinine micro - bienne, colorant: carotenoides), eau. amidon de mais, farine de riz, amidon modifié de pomme de terre. BEVAT GLUTEN, SOJA, MELK, MOSTERD EN SELDERIJ. Kan sporen van eieren en sesamzaad bevatten. CONTIENT GLUTEN, SOJA LAIT, MOUTARDE ET CELERI. Peut contenir des traces d'oeufs et graines de sésame.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat",
+        "other_haram"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter; Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.077404+00:00"
+    },
+    "2205621002794": {
+      "barcode": "2205621002794",
+      "product_name": "Filet de poulet curry",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande de poulet 90%, dextrose, antioxydants (lactate de potassium, lactate de sodium, citrates de sodium, ascorbate de sodium), sel de mer, sel, stabilisants (carraghénanes, diphosphates), arôme, extrait d'épices et d'herbes (contient céleri), conservateur (nitrite de sodium). Enrobage oriental (oignon, curcuma [min. 15%), ail, gingembre, graines de fenugrec, fenouil, piment, cumin, sel). Zutaten: Hähnchenfleisch 90%, Dextrose, Antioxidationsmittel (Kaliumlactat, Natriumlactat, Natrium - citrate, Natriumascorbat), Meersalz, Salz, Stabilisatoren (Carrageen, Diphosphate), Aroma, Kräuter und Gewürzeextrakt (enthält Sellerie), Konservierungsstoff (Natriumnitrit). Orientalische Panade (Zwiebein, Kur - kuma [mind. 15%], Knoblauch, Ingwer, Bockshornkleesamen, Fenchel, Chilischoten, Kreuzkümmel, Salz). Bevat: selderij. Gemaakt in een bedrijf waar eieren en melk worden verwerkt. Contient: céleri.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.077862+00:00"
+    },
+    "2205726004662": {
+      "barcode": "2205726004662",
+      "product_name": "Jambon cuit avec couenne",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.077885+00:00"
+    },
+    "2205504002125": {
+      "barcode": "2205504002125",
+      "product_name": "Sacisson de jambon",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.078337+00:00"
+    },
+    "2205569004775": {
+      "barcode": "2205569004775",
+      "product_name": "Aiguillettes de poulet",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "100% poulet. Ce produit répond à un cahier des charges strict assurant une qualité irréprochable de la fourche à la fourchette. Malgré un filetage soigneux, un morceau d'os peut rester dans la viande de poulet. Kippenborsthaasjes INGREDIËNTEN: 100% kip. Dit product volgt het uiterst strikte lastenboek, waardoor van het begin tot het einde een onberispelijke kwaliteit wordt gegarandeerd. Ondanks zorgvuldig fileren, kan een stukje bot in het kippenvlees achtergebleven zijn.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.078549+00:00"
+    },
+    "2205641003429": {
+      "barcode": "2205641003429",
+      "product_name": "Filet de poulet fumé",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.078600+00:00"
+    },
+    "2205725004748": {
+      "barcode": "2205725004748",
+      "product_name": "Filet de Poulet",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.078628+00:00"
+    },
+    "2205639003189": {
+      "barcode": "2205639003189",
+      "product_name": "EU Product",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Varkensvlees, varkensvet, zout, voedingsvezel, dextrose, specenjen, kaliumchloride, kleurstof (bietenrood), stabilisator (difosfaten), cognac, antioxidant (natriumascorbaat), sjalotpoeder, kruidenextract, conserveermiddelen (kaliumnitraat, natriumnitriet), fermenten, rook. Kan melk en mosterd bevatten.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "alcohol"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.078693+00:00"
+    },
+    "2205618002875": {
+      "barcode": "2205618002875",
+      "product_name": "Filet de poulet en tranches (2×6)",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.078738+00:00"
+    },
+    "2205620003075": {
+      "barcode": "2205620003075",
+      "product_name": "Filet de poulet aux herbes",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.078760+00:00"
+    },
+    "2205621002893": {
+      "barcode": "2205621002893",
+      "product_name": "Filet de poulet curry",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.078782+00:00"
+    },
+    "2205621003036": {
+      "barcode": "2205621003036",
+      "product_name": "Filet de poulet curry",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.078801+00:00"
+    },
+    "2205500003386": {
+      "barcode": "2205500003386",
+      "product_name": "Delhaize Rosette de Lyon",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.078822+00:00"
+    },
+    "2205725004366": {
+      "barcode": "2205725004366",
+      "product_name": "Filet de poulet",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.078859+00:00"
+    },
+    "2205729004782": {
+      "barcode": "2205729004782",
+      "product_name": "Lard petit déjeuner",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.078875+00:00"
+    },
+    "2208623005947": {
+      "barcode": "2208623005947",
+      "product_name": "Haché de boeuf épicé bio",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.079003+00:00"
     }
   }
 }

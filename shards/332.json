@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "332",
-  "count": 6,
-  "updated_at": "2026-11-20T17:51:11.371805+00:00",
+  "count": 7,
+  "updated_at": "2026-11-20T18:03:23.149795+00:00",
   "products": {
     "3329757003926": {
       "barcode": "3329757003926",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-20T17:51:10.756765+00:00"
+      "updated_at": "2026-11-20T18:03:22.711558+00:00"
     },
     "3329770051072": {
       "barcode": "3329770051072",
@@ -38,7 +38,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.775723+00:00"
+      "updated_at": "2026-11-20T18:03:22.731401+00:00"
     },
     "3329480013605": {
       "barcode": "3329480013605",
@@ -56,7 +56,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.867043+00:00"
+      "updated_at": "2026-11-20T18:03:22.826317+00:00"
     },
     "3329770051201": {
       "barcode": "3329770051201",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.949766+00:00"
+      "updated_at": "2026-11-20T18:03:22.905442+00:00"
     },
     "3329770063198": {
       "barcode": "3329770063198",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-20T17:51:10.957511+00:00"
+      "updated_at": "2026-11-20T18:03:22.914434+00:00"
     },
     "3329770064249": {
       "barcode": "3329770064249",
@@ -110,7 +110,27 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:51:10.958013+00:00"
+      "updated_at": "2026-11-20T18:03:22.914873+00:00"
+    },
+    "3329496415677": {
+      "barcode": "3329496415677",
+      "product_name": "Steaks Hachés Labels Rouge 0.250. G",
+      "store": "carrefour.fr",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "Viande hachée fabriquée à partir de muscle frais rigoureusement sélectionnés 12% de matière grasse",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-20T18:03:23.072628+00:00"
     }
   }
 }

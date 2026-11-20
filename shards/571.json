@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "571",
-  "count": 2,
-  "updated_at": "2026-11-20T17:51:11.520082+00:00",
+  "count": 3,
+  "updated_at": "2026-11-20T18:03:23.237659+00:00",
   "products": {
     "5712057783878": {
       "barcode": "5712057783878",
@@ -20,7 +20,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-20T17:51:10.842007+00:00"
+      "updated_at": "2026-11-20T18:03:22.800464+00:00"
     },
     "57101514": {
       "barcode": "57101514",
@@ -38,7 +38,25 @@
       "triggers": [],
       "reason": "No ingredient list reported",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-20T17:51:11.066248+00:00"
+      "updated_at": "2026-11-20T18:03:23.000640+00:00"
+    },
+    "5711953077951": {
+      "barcode": "5711953077951",
+      "product_name": "Signature chocolate",
+      "store": "delhaize.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.071950+00:00"
     }
   }
 }

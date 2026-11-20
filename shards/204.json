@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "204",
-  "count": 3,
-  "updated_at": "2026-11-20T17:51:11.223272+00:00",
+  "count": 4,
+  "updated_at": "2026-11-20T18:03:23.105452+00:00",
   "products": {
     "2040633004318": {
       "barcode": "2040633004318",
@@ -22,7 +22,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.735019+00:00"
+      "updated_at": "2026-11-20T18:03:22.688276+00:00"
     },
     "2040807001785": {
       "barcode": "2040807001785",
@@ -40,7 +40,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.936217+00:00"
+      "updated_at": "2026-11-20T18:03:22.894483+00:00"
     },
     "2042735002315": {
       "barcode": "2042735002315",
@@ -60,7 +60,25 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-20T17:51:10.936240+00:00"
+      "updated_at": "2026-11-20T18:03:22.894503+00:00"
+    },
+    "2042919001738": {
+      "barcode": "2042919001738",
+      "product_name": "Bereide gehakt biefstuk met ui",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.077006+00:00"
     }
   }
 }

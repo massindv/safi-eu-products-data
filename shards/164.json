@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "164",
+  "count": 1,
+  "updated_at": "2026-11-20T18:03:23.102522+00:00",
+  "products": {
+    "16417506": {
+      "barcode": "16417506",
+      "product_name": "Jus orange",
+      "store": "carrefour.be",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-20T18:03:23.072214+00:00"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "prefix": "059",
+  "count": 1,
+  "updated_at": "2026-11-20T18:03:23.091156+00:00",
+  "products": {
+    "05977888": {
+      "barcode": "05977888",
+      "product_name": "Soja Drink Ongezoet",
+      "store": "ah.nl",
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "UNKNOWN",
+      "is_halal": false,
+      "triggers": [],
+      "reason": "No ingredient list reported",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-20T18:03:23.071058+00:00"
+    }
+  }
+}

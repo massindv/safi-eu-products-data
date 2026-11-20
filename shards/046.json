@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "046",
-  "count": 1,
-  "updated_at": "2026-11-20T17:51:11.182093+00:00",
+  "count": 2,
+  "updated_at": "2026-11-20T18:03:23.089419+00:00",
   "products": {
     "04613701": {
       "barcode": "04613701",
@@ -20,7 +20,27 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-20T17:51:10.905409+00:00"
+      "updated_at": "2026-11-20T18:03:22.864419+00:00"
+    },
+    "0464116609609": {
+      "barcode": "0464116609609",
+      "product_name": "worst saucisse poulet",
+      "store": "delhaize.be",
+      "category": "meats",
+      "country": "EU",
+      "image_url": "",
+      "ingredients_text": "viande de poulet 91%, eau, sel, farine de riz, fécule de pomme de terre, dextrose, épices (muscade, poivre blanc, coriandre), arôme naturel, oignon en poudre, herbes (livèche, sauge), sirop de glucose, antioxydant (acide ascorbique), acidifiant (acide citrique), conservateur (acétates de potassium), extrait d'épices, extrait d'herbes, intestins de porc",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-20T18:03:23.078979+00:00"
     }
   }
 }
