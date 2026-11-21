@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "325",
   "count": 4,
-  "updated_at": "2026-11-21T08:12:20.277721+00:00",
+  "updated_at": "2026-11-21T08:32:44.564737+00:00",
   "products": {
     "3255290252791": {
       "barcode": "3255290252791",
@@ -25,7 +25,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T08:12:20.178502+00:00"
+      "updated_at": "2026-11-21T08:32:44.458165+00:00"
     },
     "3255290253514": {
       "barcode": "3255290253514",
@@ -46,7 +46,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T08:12:20.178595+00:00"
+      "updated_at": "2026-11-21T08:32:44.458261+00:00"
     },
     "3256540031074": {
       "barcode": "3256540031074",
@@ -69,7 +69,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T08:12:20.233777+00:00"
+      "updated_at": "2026-11-21T08:32:44.512780+00:00"
     },
     "3256540035676": {
       "barcode": "3256540035676",
@@ -92,7 +92,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T08:12:20.233958+00:00"
+      "updated_at": "2026-11-21T08:32:44.512962+00:00"
     }
   }
 }
