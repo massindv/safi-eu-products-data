@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "352",
+  "count": 1,
+  "updated_at": "2026-11-21T02:51:27.183157+00:00",
+  "products": {
+    "3523680468016": {
+      "barcode": "3523680468016",
+      "product_name": "Citrons",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/352/368/046/8016/front_fr.10.400.jpg",
+      "ingredients_text": "Citrons issus de l'agriculture biologique.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:51:27.138813+00:00"
+    }
+  }
+}

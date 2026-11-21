@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "570",
   "count": 1,
-  "updated_at": "2026-11-21T02:39:47.290573+00:00",
+  "updated_at": "2026-11-21T02:51:27.207281+00:00",
   "products": {
     "57022741": {
       "barcode": "57022741",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T02:39:47.251850+00:00"
+      "updated_at": "2026-11-21T02:51:27.135364+00:00"
     }
   }
 }

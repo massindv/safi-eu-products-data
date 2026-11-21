@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "841",
-  "count": 6,
-  "updated_at": "2026-11-21T02:39:47.296568+00:00",
+  "count": 8,
+  "updated_at": "2026-11-21T02:51:27.221121+00:00",
   "products": {
     "8410065630586": {
       "barcode": "8410065630586",
@@ -34,7 +34,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:39:47.102929+00:00"
+      "updated_at": "2026-11-21T02:51:26.991541+00:00"
     },
     "8410066139231": {
       "barcode": "8410066139231",
@@ -64,7 +64,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:39:47.123806+00:00"
+      "updated_at": "2026-11-21T02:51:27.010746+00:00"
     },
     "8410702054065": {
       "barcode": "8410702054065",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:39:47.131585+00:00"
+      "updated_at": "2026-11-21T02:51:27.017719+00:00"
     },
     "8410010877592": {
       "barcode": "8410010877592",
@@ -124,7 +124,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:39:47.143201+00:00"
+      "updated_at": "2026-11-21T02:51:27.028261+00:00"
     },
     "8410525232060": {
       "barcode": "8410525232060",
@@ -145,7 +145,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:39:47.209309+00:00"
+      "updated_at": "2026-11-21T02:51:27.096570+00:00"
     },
     "8410148500591": {
       "barcode": "8410148500591",
@@ -166,7 +166,49 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:39:47.230965+00:00"
+      "updated_at": "2026-11-21T02:51:27.116292+00:00"
+    },
+    "8411026016241": {
+      "barcode": "8411026016241",
+      "product_name": "Gazpacho rode biet",
+      "store": "ah.nl",
+      "stores": [
+        "ah.nl"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/841/102/601/6241/front_nl.16.400.jpg",
+      "ingredients_text": "Rode biet (40%), tomaat, water, groene paprika, zonnebloemolie, olijfolie (0.26%), wijnazijn, ui, knoflook, zout, stabilisator: xanthaangom.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-21T02:51:27.144240+00:00"
+    },
+    "8411026015114": {
+      "barcode": "8411026015114",
+      "product_name": "Gazpacho",
+      "store": "ah.nl",
+      "stores": [
+        "ah.nl"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/841/102/601/5114/front_nl.21.400.jpg",
+      "ingredients_text": "Water, groenten (34%) (tomaat, rode paprika, ui, komkommer), olijfolie (3%), azijn, knoflook, zout en stabilisator: xanthaangom. GAZDAGU",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-21T02:51:27.144358+00:00"
     }
   }
 }

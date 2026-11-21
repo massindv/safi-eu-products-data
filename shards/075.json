@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "prefix": "075",
+  "count": 2,
+  "updated_at": "2026-11-21T02:51:27.162056+00:00",
+  "products": {
+    "0758961632661": {
+      "barcode": "0758961632661",
+      "product_name": "Kidney bonen",
+      "store": "jumbo.com",
+      "stores": [
+        "jumbo.com"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/075/896/163/2661/front_nl.7.400.jpg",
+      "ingredients_text": "Kidneybonen, water, zout, antioxidant: E300. E=door EU goedgekeurde hulpstof.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-21T02:51:27.142737+00:00"
+    },
+    "0758547633112": {
+      "barcode": "0758547633112",
+      "product_name": "EU Product",
+      "store": "ah.nl",
+      "stores": [
+        "ah.nl"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/075/854/763/3112/front_nl.4.400.jpg",
+      "ingredients_text": "Groente (tomaat, rode paprika, ui), 13% gedroogde tomaat, raapolie, quinoameel, kruiden (peterselie, basilicum, daslook, tijm, oregano), specerijen, stabilisator (E407), water, suiker, knoflookpuree, zeezout, quinoa, zout, verdikkingsmiddel (E406). Waarvan toegevoegde suikers 1,5 g per 100 g en waarvan toegevoegd zout 1,20 g per 100 g.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-21T02:51:27.143100+00:00"
+    }
+  }
+}

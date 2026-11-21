@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "940",
+  "count": 1,
+  "updated_at": "2026-11-21T02:51:27.246265+00:00",
+  "products": {
+    "9407580406696": {
+      "barcode": "9407580406696",
+      "product_name": "Frambozen confituur",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/940/758/040/6696/front_en.3.400.jpg",
+      "ingredients_text": "Fruit 61% (frambozen 58%, citroensap uit concentraat 3%), suiker, glucose-fructosestroop, geleermiddel (e440)",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T02:51:27.142425+00:00"
+    }
+  }
+}

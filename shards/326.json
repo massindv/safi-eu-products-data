@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "326",
-  "count": 1,
-  "updated_at": "2026-11-21T02:39:47.271178+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T02:51:27.177033+00:00",
   "products": {
     "3265475436007": {
       "barcode": "3265475436007",
@@ -23,7 +23,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:39:47.197825+00:00"
+      "updated_at": "2026-11-21T02:51:27.085904+00:00"
+    },
+    "3262880102220": {
+      "barcode": "3262880102220",
+      "product_name": "Olives noires à la Grecque",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/326/288/010/2220/front_fr.17.400.jpg",
+      "ingredients_text": "Olives (origin: Morocco), salt, sunflower oil. Net draine weight 500g; Net weight: 500g. After opening, keep refrigerat (between +2C and +6°C) and use quickly. Nutrition facts for 10 drained product: Calories: 1354k|/",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:51:27.136817+00:00"
     }
   }
 }

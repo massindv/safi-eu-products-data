@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "315",
   "count": 2,
-  "updated_at": "2026-11-21T02:39:47.268363+00:00",
+  "updated_at": "2026-11-21T02:51:27.173363+00:00",
   "products": {
     "3154230814085": {
       "barcode": "3154230814085",
@@ -34,7 +34,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:39:47.086350+00:00"
+      "updated_at": "2026-11-21T02:51:26.973622+00:00"
     },
     "3154230813965": {
       "barcode": "3154230813965",
@@ -64,7 +64,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:39:47.088762+00:00"
+      "updated_at": "2026-11-21T02:51:26.975930+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "426",
   "count": 1,
-  "updated_at": "2026-11-21T02:39:47.280176+00:00",
+  "updated_at": "2026-11-21T02:51:27.191017+00:00",
   "products": {
     "4260030322480": {
       "barcode": "4260030322480",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T02:39:47.183311+00:00"
+      "updated_at": "2026-11-21T02:51:27.072518+00:00"
     }
   }
 }
