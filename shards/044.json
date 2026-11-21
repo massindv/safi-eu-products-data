@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "044",
   "count": 1,
-  "updated_at": "2026-11-21T08:53:20.383472+00:00",
+  "updated_at": "2026-11-21T09:13:28.218102+00:00",
   "products": {
     "0444100206953": {
       "barcode": "0444100206953",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T08:53:20.314035+00:00"
+      "updated_at": "2026-11-21T09:13:28.145785+00:00"
     }
   }
 }
