@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "872",
   "count": 7,
-  "updated_at": "2026-11-21T06:04:19.493289+00:00",
+  "updated_at": "2026-11-21T06:22:42.056587+00:00",
   "products": {
     "8727500033094": {
       "barcode": "8727500033094",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T06:04:19.241865+00:00"
+      "updated_at": "2026-11-21T06:22:41.655529+00:00"
     },
     "8721800408880": {
       "barcode": "8721800408880",
@@ -64,7 +64,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T06:04:19.258088+00:00"
+      "updated_at": "2026-11-21T06:22:41.670845+00:00"
     },
     "8721800408866": {
       "barcode": "8721800408866",
@@ -96,7 +96,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T06:04:19.258178+00:00"
+      "updated_at": "2026-11-21T06:22:41.670936+00:00"
     },
     "8722700255642": {
       "barcode": "8722700255642",
@@ -128,7 +128,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T06:04:19.267893+00:00"
+      "updated_at": "2026-11-21T06:22:41.680605+00:00"
     },
     "8720182103406": {
       "barcode": "8720182103406",
@@ -158,7 +158,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T06:04:19.277075+00:00"
+      "updated_at": "2026-11-21T06:22:41.689848+00:00"
     },
     "8723400780748": {
       "barcode": "8723400780748",
@@ -181,7 +181,7 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T06:04:19.324714+00:00"
+      "updated_at": "2026-11-21T06:22:41.792019+00:00"
     },
     "8722100046949": {
       "barcode": "8722100046949",
@@ -202,7 +202,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-21T06:04:19.358142+00:00"
+      "updated_at": "2026-11-21T06:22:41.829211+00:00"
     }
   }
 }
