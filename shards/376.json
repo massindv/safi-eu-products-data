@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "376",
-  "count": 1,
-  "updated_at": "2026-11-21T00:34:03.151562+00:00",
+  "count": 4,
+  "updated_at": "2026-11-21T00:53:30.248867+00:00",
   "products": {
     "3760211111144": {
       "barcode": "3760211111144",
@@ -23,7 +23,73 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:34:03.130067+00:00"
+      "updated_at": "2026-11-21T00:53:30.218601+00:00"
+    },
+    "3760023970069": {
+      "barcode": "3760023970069",
+      "product_name": "Terrine de Chevreuil aux myrtilles",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/376/002/397/0069/front_fr.4.400.jpg",
+      "ingredients_text": "gorge de porc, chevreuil 25%, foie de porc, gras de porc. myrtilles 10%, oeufs frais, sel, cognac modifié, épices, ail. Viande de porc française.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "alcohol"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.223314+00:00"
+    },
+    "3760257091332": {
+      "barcode": "3760257091332",
+      "product_name": "curry vert, légumes au lait de coco",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/376/025/709/1332/front_fr.3.400.jpg",
+      "ingredients_text": "Riz basmati cuit* 28% (eau, riz*), lait de coco* 18% (extrait de noix de coco*, eau), carottes 11%, courgettes* 11%, lentilles vertes* (origine : France) 9%, petits pois* (origine : France) 5%, oignons”, eau, épinards*, amidon de maïs*, huile de tournesol*, curry vert* 0.7% (coriandre*, gingembre*, épinards”, curcuma&quot;, sel, poivre*, épices“), sel, bouillon de légumes déshydratés* (maltodextrine&quot;, sel, oignons*, extrait de levure*, huile de tournesol&quot;, poireaux&quot;, jus de carottes concentré *paprika”, fenouil”, tomates”, livéche&quot;, céleri”, ail&quot;), purée d'ail&quot;, jus de citron&quot;. Source de fibres *Ingrédients issus de l'Agriculture Biologique. Allergènes : en gras f @h et sur WWW.HARI - Retrouvez nos eng lentilles vertes, De délicieux lé",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.225560+00:00"
+    },
+    "3760091720436": {
+      "barcode": "3760091720436",
+      "product_name": "Quinoa de l'equateur",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/376/009/172/0436/front_fr.30.400.jpg",
+      "ingredients_text": "Quinoa",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.226235+00:00"
     }
   }
 }

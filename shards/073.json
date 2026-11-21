@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "prefix": "073",
+  "count": 1,
+  "updated_at": "2026-11-21T00:53:30.236947+00:00",
+  "products": {
+    "07332738": {
+      "barcode": "07332738",
+      "product_name": "Saucisson de l'Ardèche IGP",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/000/733/2738/front_fr.4.400.jpg",
+      "ingredients_text": "Viande de porc, sel, lactose. vin rouge, dextrose, épice et plante aromatique (poivre, ail), conservateur nitrate de potassium, ferments lactiques, enveloppe: boyau naturel de porc. 162 g deviande de porc mis en ocuvre pour 100g de produit fini. Porc origine France. Peut contenir des traces de fruits à coque. Conservation:",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "alcohol"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.222673+00:00"
+    }
+  }
+}

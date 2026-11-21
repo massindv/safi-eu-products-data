@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "500",
   "count": 4,
-  "updated_at": "2026-11-21T00:34:03.152820+00:00",
+  "updated_at": "2026-11-21T00:53:30.252884+00:00",
   "products": {
     "5000232957283": {
       "barcode": "5000232957283",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:34:03.018504+00:00"
+      "updated_at": "2026-11-21T00:53:30.123808+00:00"
     },
     "5000232957306": {
       "barcode": "5000232957306",
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:34:03.018595+00:00"
+      "updated_at": "2026-11-21T00:53:30.123899+00:00"
     },
     "5000159560979": {
       "barcode": "5000159560979",
@@ -94,7 +94,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:34:03.030176+00:00"
+      "updated_at": "2026-11-21T00:53:30.135715+00:00"
     },
     "5000111041010": {
       "barcode": "5000111041010",
@@ -124,7 +124,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:34:03.062413+00:00"
+      "updated_at": "2026-11-21T00:53:30.166950+00:00"
     }
   }
 }

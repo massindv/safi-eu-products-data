@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "247",
+  "count": 1,
+  "updated_at": "2026-11-21T00:53:30.239665+00:00",
+  "products": {
+    "2478611064489": {
+      "barcode": "2478611064489",
+      "product_name": "Pavé de bison",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/247/861/106/4489/front_fr.4.400.jpg",
+      "ingredients_text": "bison.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.223023+00:00"
+    }
+  }
+}

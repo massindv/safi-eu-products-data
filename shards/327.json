@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "327",
-  "count": 1,
-  "updated_at": "2026-11-21T00:34:03.150133+00:00",
+  "count": 4,
+  "updated_at": "2026-11-21T00:53:30.246144+00:00",
   "products": {
     "3270190119586": {
       "barcode": "3270190119586",
@@ -23,7 +23,70 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:34:03.132588+00:00"
+      "updated_at": "2026-11-21T00:53:30.221239+00:00"
+    },
+    "3270190007074": {
+      "barcode": "3270190007074",
+      "product_name": "Confiture Cerises",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/327/019/000/7074/front_fr.52.400.jpg",
+      "ingredients_text": "Kersen*, suiker, rietsuiker, geleermiddel: pectinen, voedingszuur: citroenzuur. Bereid met 50g vruchten per 100g.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.224197+00:00"
+    },
+    "3270190129622": {
+      "barcode": "3270190129622",
+      "product_name": "Huile de noix",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/327/019/012/9622/front_fr.58.400.jpg",
+      "ingredients_text": "Mengeling van 50% _walnoten_olie van de eerste persing en 50% geraffineerde _walnoten_olie.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.226185+00:00"
+    },
+    "3270190129615": {
+      "barcode": "3270190129615",
+      "product_name": "Sélection - Huile de noisette",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/327/019/012/9615/front_fr.57.400.jpg",
+      "ingredients_text": "Mengeling van 60% geraffineerde _hazelnoten_olie en 40% _hazelnoten_olie van de eerste persing.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.226340+00:00"
     }
   }
 }

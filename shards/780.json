@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "780",
-  "count": 1,
-  "updated_at": "2026-11-21T00:34:03.162220+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T00:53:30.266967+00:00",
   "products": {
     "7804315304807": {
       "barcode": "7804315304807",
@@ -32,7 +32,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:34:03.068911+00:00"
+      "updated_at": "2026-11-21T00:53:30.173498+00:00"
+    },
+    "78064522": {
+      "barcode": "78064522",
+      "product_name": "Walnuts",
+      "store": "ah.nl",
+      "stores": [
+        "ah.nl"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/007/806/4522/front_en.4.400.jpg",
+      "ingredients_text": "walnuts",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-21T00:53:30.232044+00:00"
     }
   }
 }

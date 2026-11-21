@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "prefix": "351",
+  "count": 1,
+  "updated_at": "2026-11-21T00:53:30.247740+00:00",
+  "products": {
+    "3515813902047": {
+      "barcode": "3515813902047",
+      "product_name": "grattons de canard",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/351/581/390/2047/front_fr.4.400.jpg",
+      "ingredients_text": "GRATTONS DE CANARD MI-CUIT Ingrédients Viande de canard (96%-Origine France) ail acidifiant: acide citrique.conservateur: metabisul fite de sodium) sel. poivre. Peut contenir des traces de NOIX, GLUTEN, d'OEUF",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.223124+00:00"
+    }
+  }
+}

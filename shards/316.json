@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "prefix": "316",
+  "count": 2,
+  "updated_at": "2026-11-21T00:53:30.243767+00:00",
+  "products": {
+    "3166291465007": {
+      "barcode": "3166291465007",
+      "product_name": "Piment doux",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/316/629/146/5007/front_fr.28.400.jpg",
+      "ingredients_text": "Piment doux moulu",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.224681+00:00"
+    },
+    "3166291495608": {
+      "barcode": "3166291495608",
+      "product_name": "Coriandre moulue",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/316/629/149/5608/front_fr.25.400.jpg",
+      "ingredients_text": "coriandre moulue",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.224726+00:00"
+    }
+  }
+}

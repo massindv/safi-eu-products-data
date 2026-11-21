@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "prefix": "267",
+  "count": 1,
+  "updated_at": "2026-11-21T00:53:30.240417+00:00",
+  "products": {
+    "2672680096499": {
+      "barcode": "2672680096499",
+      "product_name": "EU Product",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/267/268/009/6499/front_fr.4.400.jpg",
+      "ingredients_text": "magret de canard 91%\ne325\ne262\ne301\narome acerola\nfleur de sel 0.3%",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.223416+00:00"
+    }
+  }
+}

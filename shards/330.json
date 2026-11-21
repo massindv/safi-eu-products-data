@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "prefix": "330",
+  "count": 1,
+  "updated_at": "2026-11-21T00:53:30.246486+00:00",
+  "products": {
+    "3302740596025": {
+      "barcode": "3302740596025",
+      "product_name": "Jambon Supérieur Nature",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/330/274/059/6025/front_fr.4.400.jpg",
+      "ingredients_text": "Jambon de porc, bouillons 2,7% (eau, os de porc, céleri, sauge, viande de porc, oignon, huile de tournesol, épices), sel, dextrose de maïs, épices, antioxydant : ascorbate de sodium, conservateur: nitrite de sodium. Une allergie, une intolérance ? Plus d'infos sur : www.fleurymichon.fr",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.223218+00:00"
+    }
+  }
+}

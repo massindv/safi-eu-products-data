@@ -1,0 +1,71 @@
+{
+  "version": "1.0",
+  "prefix": "324",
+  "count": 3,
+  "updated_at": "2026-11-21T00:53:30.245243+00:00",
+  "products": {
+    "3245412718694": {
+      "barcode": "3245412718694",
+      "product_name": "Mouliné aux 8 Légumes",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/324/541/271/8694/front_fr.27.400.jpg",
+      "ingredients_text": "Water, aardappelen 16%, wortelen 16%, gereconstitueerde volle _melk_, gerehydreerde uien 4,5%, _knolselderij_ 4,3%, bloemkool 4,3%, rapen 4,3%, prei 3,2%, sperziebonen 1,1%, _boter_, vloeibaar zoutconcentraat, peterselie 0,3%, zout, natuurlijk aroma (bevat: _selderij_), gistextracten, natuurlijk peperaroma.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.224478+00:00"
+    },
+    "3245412730924": {
+      "barcode": "3245412730924",
+      "product_name": "Pomme Abricot",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/324/541/273/0924/front_fr.84.400.jpg",
+      "ingredients_text": "Purées de pommes 68,9%, purée d'abricots 24%, sucre, jus concentré d'acérola.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.226427+00:00"
+    },
+    "3245413157522": {
+      "barcode": "3245413157522",
+      "product_name": "Roquette",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/324/541/315/7522/front_fr.46.400.jpg",
+      "ingredients_text": "Roquette.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.226566+00:00"
+    }
+  }
+}

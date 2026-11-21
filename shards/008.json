@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "008",
-  "count": 1,
-  "updated_at": "2026-11-21T00:34:03.144639+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T00:53:30.236102+00:00",
   "products": {
     "0088009740219": {
       "barcode": "0088009740219",
@@ -23,7 +23,30 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:34:03.133200+00:00"
+      "updated_at": "2026-11-21T00:53:30.221891+00:00"
+    },
+    "0089686170726": {
+      "barcode": "0089686170726",
+      "product_name": "Mi goreng Fried Noodles",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/008/968/617/0726/front_fr.146.400.jpg",
+      "ingredients_text": "NOUILLES {Farine de blé (62%), huile de palme raffinée (contient antioxydant (E 319)), sel, régulateurs d'acidité (E 451, E 501, E 500), épaississant (E 412), colorant (E 101)}.\r\nPOUDRE D'ASSAISONNEMENT {Sel, sucre, exhausteur de goût (E 621, E 631, E 627), ail, saveur de poulet artificiel (soja), oignon, poivre blanc}.\r\nHUILE D'ASSAISONNEMENT {Huile de palme raffinée (contient antioxydant (E 319)), échalote}.\r\nSAUCE DE SOJA DOUCE {Sucre, eau, blé, soja, sel, épices, huile de sésame}.\r\nSAUCE AU CHILI {Chili, eau, sucre, sel, amidon de tapioca, régulateurs d'acidite (E 260, E 330), exhausteur de goût (E 621, E 631, E 627), saveur d'ail, préservatifs (E 211, E 223)}.\r\nÉCHALOTE FRITS {Échalote, huile de palme raffinée}. \r\n\r\nCONTIENT: BLÉ, GLUTEN, SOJA, SESAME",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.225093+00:00"
     }
   }
 }

@@ -1,0 +1,75 @@
+{
+  "version": "1.0",
+  "prefix": "225",
+  "count": 3,
+  "updated_at": "2026-11-21T00:53:30.238458+00:00",
+  "products": {
+    "2252642002777": {
+      "barcode": "2252642002777",
+      "product_name": "Filet de poulet",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/225/264/full/2777/front_fr.4.400.jpg",
+      "ingredients_text": "Viande de poulet 94%, antioxydants (E326, E325, E301, E331), dextrose, sel, stabilisants (E407, E450), arôme naturel, huile de colza, conservateur (E250).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:53:30.223509+00:00"
+    },
+    "2259670002915": {
+      "barcode": "2259670002915",
+      "product_name": "Pavé au poivre Vert",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/225/967/000/2915/front_fr.15.400.jpg",
+      "ingredients_text": "Varkensvlees, zout, specerijen, groene peper 1,3%, glucosestroop, lactose, dextrose, conserveermiddel (E252), fermenten",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:53:30.223961+00:00"
+    },
+    "2251150003610": {
+      "barcode": "2251150003610",
+      "product_name": "Americain Nature Bio",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/225/115/000/3610/front_fr.4.400.jpg",
+      "ingredients_text": "BIO boeuf 100%, sirop de glucose (* d'origine biologique), antioxygènes (E330, E300)",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:53:30.224042+00:00"
+    }
+  }
+}

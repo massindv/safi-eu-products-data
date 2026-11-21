@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "542",
+  "count": 1,
+  "updated_at": "2026-11-21T00:53:30.262399+00:00",
+  "products": {
+    "5425001800414": {
+      "barcode": "5425001800414",
+      "product_name": "Rescued cauliflower truffel dip",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/542/500/180/0414/front_fr.23.400.jpg",
+      "ingredients_text": "BLOEMKOOL (71,5%), ROOM, TRUFFELPASTA (4,5%) (CHAMPIGNONS, TRUFFEL, PROCINI, OLIJFOLIE, ZWARTE OLIJVEN, KAPPERTJES, KRUIDEN, ZOUT, AROMA), ZOUT, GEMODIFICEERD AARDAPPELZETMEEL, KOOLZAADOLIE, TRUFFELAROMA, WITTE PEPER, ZUURTEREGELAAR: MELKZUUR, VERDIKKINGSMIDDELEN: GUARGOM, XANTHAANGOM.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.228261+00:00"
+    }
+  }
+}

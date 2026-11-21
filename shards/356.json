@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "356",
-  "count": 3,
-  "updated_at": "2026-11-21T00:34:03.150977+00:00",
+  "count": 10,
+  "updated_at": "2026-11-21T00:53:30.248014+00:00",
   "products": {
     "3560071567354": {
       "barcode": "3560071567354",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:34:03.130490+00:00"
+      "updated_at": "2026-11-21T00:53:30.219036+00:00"
     },
     "3560071564902": {
       "barcode": "3560071564902",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:34:03.130680+00:00"
+      "updated_at": "2026-11-21T00:53:30.219230+00:00"
     },
     "3560071589660": {
       "barcode": "3560071589660",
@@ -68,7 +68,154 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter; Contains unverified gelatin source",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:34:03.131089+00:00"
+      "updated_at": "2026-11-21T00:53:30.219649+00:00"
+    },
+    "3560070134533": {
+      "barcode": "3560070134533",
+      "product_name": "Champignons de Paris",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/013/4533/front_fr.45.400.jpg",
+      "ingredients_text": "Gekweekte champignons, water, zout, zuurteregelaar: citroenzuur.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.224111+00:00"
+    },
+    "3560070874637": {
+      "barcode": "3560070874637",
+      "product_name": "Poivrons Piquillo Grillés",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/087/4637/front_fr.81.400.jpg",
+      "ingredients_text": "Poivrons Piquillo, eau, sucre, sel, acidifiant : acide citrique, affermissant : chlorure de calcium.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.224303+00:00"
+    },
+    "3560071493714": {
+      "barcode": "3560071493714",
+      "product_name": "Nature of Nuts - Cajou & Cranberries sans sel ajouté",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/149/3714/front_fr.27.400.jpg",
+      "ingredients_text": "_Cashewnoten_ 50%, gedroogde gesuikerde cranberry's 50% (cranberry's, suiker, zonnebloemolie).\r\nKan sporen bevatten van gluten, aardnoten en andere noten.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.225940+00:00"
+    },
+    "3560071370039": {
+      "barcode": "3560071370039",
+      "product_name": "Mais doux",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/137/0039/front_fr.38.400.jpg",
+      "ingredients_text": "Biologische zoete maïs in korrels zonder GGO*, water, zout.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.226097+00:00"
+    },
+    "3560070657636": {
+      "barcode": "3560070657636",
+      "product_name": "Haricots verts extra-fins coupés",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/065/7636/front_fr.34.400.jpg",
+      "ingredients_text": "Haricots verts extra-fins coupés, eau, sel.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.226501+00:00"
+    },
+    "3560071463595": {
+      "barcode": "3560071463595",
+      "product_name": "Mouliné de légumes",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/146/3595/front_fr.17.400.jpg",
+      "ingredients_text": "Water, groenten* 46,7% (aardappelen* 14,9%, wortelen* 14,9%, _knolselderij_* 4,6%, uien* 4,2%, bloemkool* 4,2%, prei* 2,8%, sperziebonen* 0,9%), maïszetmeel*, extra olijfolie van de eerste persing*, zout, knoflook*, natuurlijk laurieraroma*, lavas*, nootmuskaat*, peper*, marjolein*.\n*Biologisch.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.226737+00:00"
+    },
+    "3560070105908": {
+      "barcode": "3560070105908",
+      "product_name": "Olives à la farce aux anchois",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/010/5908/front_fr.59.400.jpg",
+      "ingredients_text": "Water, groene olijven, _ansjovis_pasta (1.7%* ansjovis, geleermiddel: natriumalginaat), zout, gistextract, voedingszuur: citroenzuur, antioxidant: ascorbinezuur. *percentage uitgedrukt in verhouding tot het netto-uitlekgewicht",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.226978+00:00"
     }
   }
 }

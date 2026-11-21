@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "prefix": "087",
+  "count": 1,
+  "updated_at": "2026-11-21T00:53:30.237245+00:00",
+  "products": {
+    "08755730": {
+      "barcode": "08755730",
+      "product_name": "boulettes provençales",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/000/875/5730/front_fr.4.400.jpg",
+      "ingredients_text": "viande bovine origine France 72 %, eau, to?\r\ndeshydratée 3%, fibres végétales, sel, gras bovin, chap \r\ne pois, farine de riz, vinaigre d'alcool en poudre, protéin \r\nois, arôme naturel, betterave rouge déshydratée, ép \r\nlantes aromatiques, sucre.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.222830+00:00"
+    }
+  }
+}

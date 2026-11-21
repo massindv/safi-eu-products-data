@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "761",
-  "count": 2,
-  "updated_at": "2026-11-21T00:34:03.161180+00:00",
+  "count": 3,
+  "updated_at": "2026-11-21T00:53:30.265455+00:00",
   "products": {
     "7613036394109": {
       "barcode": "7613036394109",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:34:03.056714+00:00"
+      "updated_at": "2026-11-21T00:53:30.161331+00:00"
     },
     "76145940": {
       "barcode": "76145940",
@@ -53,7 +53,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.125713+00:00"
+      "updated_at": "2026-11-21T00:53:30.214283+00:00"
+    },
+    "7613037398083": {
+      "barcode": "7613037398083",
+      "product_name": "GARDEN GOURMET Sensational Haché Cru Soja à Cuisiner 200g",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/761/303/739/8083/front_fr.114.400.jpg",
+      "ingredients_text": "Eau, concentré de protéines de SOJA 23,5%, huiles végétales (colza, noix de coco), correcteur d'acidité : vinaigre tamponné ; stabilisant: méthylcellulose ; arômes, concentrés végétaux (betterave, pomme, carotte, hibiscus), sel, extrait de malt d'ORGE, ail en poudre, oignon en poudre, poivre noir, sauce SOJA (SOJA, BLE, sel). Peut contenir : ŒUFS.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:53:30.225804+00:00"
     }
   }
 }

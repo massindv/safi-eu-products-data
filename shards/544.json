@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "544",
   "count": 2,
-  "updated_at": "2026-11-21T00:34:03.158852+00:00",
+  "updated_at": "2026-11-21T00:53:30.262816+00:00",
   "products": {
     "5449000133335": {
       "barcode": "5449000133335",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:34:03.030702+00:00"
+      "updated_at": "2026-11-21T00:53:30.136247+00:00"
     },
     "5449000131843": {
       "barcode": "5449000131843",
@@ -63,7 +63,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:34:03.054070+00:00"
+      "updated_at": "2026-11-21T00:53:30.158690+00:00"
     }
   }
 }

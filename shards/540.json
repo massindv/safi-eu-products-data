@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "540",
-  "count": 37,
-  "updated_at": "2026-11-21T00:34:03.154973+00:00",
+  "count": 61,
+  "updated_at": "2026-11-21T00:53:30.254822+00:00",
   "products": {
     "5400141139365": {
       "barcode": "5400141139365",
@@ -25,7 +25,7 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T00:34:03.119881+00:00"
+      "updated_at": "2026-11-21T00:53:30.208296+00:00"
     },
     "5400141193336": {
       "barcode": "5400141193336",
@@ -49,7 +49,7 @@
       ],
       "reason": "Contains carmine / E120 / karmijnzuur insect colorant",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T00:34:03.120065+00:00"
+      "updated_at": "2026-11-21T00:53:30.208468+00:00"
     },
     "5400141197068": {
       "barcode": "5400141197068",
@@ -70,7 +70,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T00:34:03.120223+00:00"
+      "updated_at": "2026-11-21T00:53:30.208623+00:00"
     },
     "5400141214550": {
       "barcode": "5400141214550",
@@ -91,7 +91,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T00:34:03.120355+00:00"
+      "updated_at": "2026-11-21T00:53:30.208757+00:00"
     },
     "5400141224269": {
       "barcode": "5400141224269",
@@ -112,7 +112,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T00:34:03.120524+00:00"
+      "updated_at": "2026-11-21T00:53:30.208925+00:00"
     },
     "5400141224887": {
       "barcode": "5400141224887",
@@ -133,7 +133,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T00:34:03.120710+00:00"
+      "updated_at": "2026-11-21T00:53:30.209113+00:00"
     },
     "5400141262421": {
       "barcode": "5400141262421",
@@ -156,7 +156,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T00:34:03.121013+00:00"
+      "updated_at": "2026-11-21T00:53:30.209414+00:00"
     },
     "5400141407471": {
       "barcode": "5400141407471",
@@ -177,7 +177,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T00:34:03.121401+00:00"
+      "updated_at": "2026-11-21T00:53:30.209802+00:00"
     },
     "5400141382617": {
       "barcode": "5400141382617",
@@ -198,7 +198,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T00:34:03.121493+00:00"
+      "updated_at": "2026-11-21T00:53:30.209894+00:00"
     },
     "5400141398083": {
       "barcode": "5400141398083",
@@ -221,7 +221,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T00:34:03.121666+00:00"
+      "updated_at": "2026-11-21T00:53:30.210067+00:00"
     },
     "5400141403213": {
       "barcode": "5400141403213",
@@ -242,7 +242,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T00:34:03.121766+00:00"
+      "updated_at": "2026-11-21T00:53:30.210172+00:00"
     },
     "5400141663044": {
       "barcode": "5400141663044",
@@ -267,7 +267,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 / karmijnzuur insect colorant",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T00:34:03.121853+00:00"
+      "updated_at": "2026-11-21T00:53:30.210262+00:00"
     },
     "5400113689553": {
       "barcode": "5400113689553",
@@ -288,7 +288,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.122661+00:00"
+      "updated_at": "2026-11-21T00:53:30.211077+00:00"
     },
     "5400113696063": {
       "barcode": "5400113696063",
@@ -309,7 +309,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.122788+00:00"
+      "updated_at": "2026-11-21T00:53:30.211222+00:00"
     },
     "5400111050683": {
       "barcode": "5400111050683",
@@ -330,7 +330,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.123056+00:00"
+      "updated_at": "2026-11-21T00:53:30.211503+00:00"
     },
     "5400112368862": {
       "barcode": "5400112368862",
@@ -351,7 +351,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.123178+00:00"
+      "updated_at": "2026-11-21T00:53:30.211632+00:00"
     },
     "5400112369050": {
       "barcode": "5400112369050",
@@ -372,7 +372,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.123287+00:00"
+      "updated_at": "2026-11-21T00:53:30.211747+00:00"
     },
     "5400113622499": {
       "barcode": "5400113622499",
@@ -393,7 +393,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.124062+00:00"
+      "updated_at": "2026-11-21T00:53:30.212579+00:00"
     },
     "5400113643449": {
       "barcode": "5400113643449",
@@ -414,7 +414,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.124166+00:00"
+      "updated_at": "2026-11-21T00:53:30.212686+00:00"
     },
     "5400113638865": {
       "barcode": "5400113638865",
@@ -435,7 +435,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.124329+00:00"
+      "updated_at": "2026-11-21T00:53:30.212854+00:00"
     },
     "5400113620648": {
       "barcode": "5400113620648",
@@ -456,7 +456,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.124403+00:00"
+      "updated_at": "2026-11-21T00:53:30.212931+00:00"
     },
     "5400113637837": {
       "barcode": "5400113637837",
@@ -479,7 +479,7 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.125033+00:00"
+      "updated_at": "2026-11-21T00:53:30.213576+00:00"
     },
     "5400113642282": {
       "barcode": "5400113642282",
@@ -500,7 +500,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.125230+00:00"
+      "updated_at": "2026-11-21T00:53:30.213779+00:00"
     },
     "5400113696001": {
       "barcode": "5400113696001",
@@ -521,7 +521,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.125520+00:00"
+      "updated_at": "2026-11-21T00:53:30.214084+00:00"
     },
     "5400119560702": {
       "barcode": "5400119560702",
@@ -542,7 +542,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.125909+00:00"
+      "updated_at": "2026-11-21T00:53:30.214487+00:00"
     },
     "5400119560825": {
       "barcode": "5400119560825",
@@ -563,7 +563,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.126084+00:00"
+      "updated_at": "2026-11-21T00:53:30.214667+00:00"
     },
     "5400119564410": {
       "barcode": "5400119564410",
@@ -586,7 +586,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.126384+00:00"
+      "updated_at": "2026-11-21T00:53:30.214939+00:00"
     },
     "5400119567855": {
       "barcode": "5400119567855",
@@ -610,7 +610,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter; Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.126906+00:00"
+      "updated_at": "2026-11-21T00:53:30.215357+00:00"
     },
     "5400119567824": {
       "barcode": "5400119567824",
@@ -631,7 +631,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.127077+00:00"
+      "updated_at": "2026-11-21T00:53:30.215531+00:00"
     },
     "5400119573405": {
       "barcode": "5400119573405",
@@ -654,7 +654,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.127344+00:00"
+      "updated_at": "2026-11-21T00:53:30.215761+00:00"
     },
     "5400119578165": {
       "barcode": "5400119578165",
@@ -675,7 +675,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.127532+00:00"
+      "updated_at": "2026-11-21T00:53:30.215955+00:00"
     },
     "5400113761150": {
       "barcode": "5400113761150",
@@ -696,7 +696,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.131450+00:00"
+      "updated_at": "2026-11-21T00:53:30.220020+00:00"
     },
     "5400113743255": {
       "barcode": "5400113743255",
@@ -717,7 +717,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.131813+00:00"
+      "updated_at": "2026-11-21T00:53:30.220422+00:00"
     },
     "5400113743989": {
       "barcode": "5400113743989",
@@ -740,7 +740,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.132014+00:00"
+      "updated_at": "2026-11-21T00:53:30.220635+00:00"
     },
     "5400112302200": {
       "barcode": "5400112302200",
@@ -761,7 +761,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.133564+00:00"
+      "updated_at": "2026-11-21T00:53:30.222296+00:00"
     },
     "5400112369739": {
       "barcode": "5400112369739",
@@ -782,7 +782,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.133629+00:00"
+      "updated_at": "2026-11-21T00:53:30.222363+00:00"
     },
     "5400113004851": {
       "barcode": "5400113004851",
@@ -803,7 +803,516 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:34:03.133751+00:00"
+      "updated_at": "2026-11-21T00:53:30.222500+00:00"
+    },
+    "5400119512947": {
+      "barcode": "5400119512947",
+      "product_name": "Lovely meals",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/951/2947/front_fr.4.400.jpg",
+      "ingredients_text": "poulet 30%, riz jaune cuit 12% (eau, riz, curcuma), riz blanc cuit 12% (eau, riz), carotte 9,3%, petits pois 8,2%, haricots noirs cuits 5,6% (eau, haricots noirs secs, sel), tomate 5,4%, maïs 4,2%, eau huile d'oliverextra vierge, oignon de printemps 1,7%, échalote 1,2%, fromage feta (lait de brebis, lait de chèure, sel iodé, présure, levain lactique), poiuron en poudre, concentré de tomates, herbes, sel, ail en poudre, mélange d'herbes 0,2% [sel, poivron en poudre, sucre de canne, cumin, ail en poudre, coriandre, poiure de Cayenne, sauge, basilic, origan, persil, romarin, sel de mer, légumes déshydratés (ail, tomate), poivre, laurier, cannelle], bouillon de légumes [sel, extrait de levure, amidon de pomme de terre, huile de tournesol non hydrogénée, extraits de légumes (céleri, oignon, poireau, tomate, carotte), oignon en poudre, ail, épi - ces) amidon modifié de mais, poiure, piment en poudre. Contient: lait, céleri Fabriqué dans un atelier qui utilise aussi: arachides et fruits à coque",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat",
+        "other_haram"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter; Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:53:30.223875+00:00"
+    },
+    "5400141585070": {
+      "barcode": "5400141585070",
+      "product_name": "Pêches",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/158/5070/front_fr.13.400.jpg",
+      "ingredients_text": "pêches",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.227010+00:00"
+    },
+    "5400141951219": {
+      "barcode": "5400141951219",
+      "product_name": "Couscous",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/195/1219/front_fr.3.400.jpg",
+      "ingredients_text": "couscous précuit 100% semoule de blé dur (gluten) peut contenir des traces de soja",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.227073+00:00"
+    },
+    "5400141570359": {
+      "barcode": "5400141570359",
+      "product_name": "Bio 100% Beurre de cacahuètes",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/157/0359/front_fr.11.400.jpg",
+      "ingredients_text": "100 % _PINDA’S_ van biologische oorsprong",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.227159+00:00"
+    },
+    "5400141070286": {
+      "barcode": "5400141070286",
+      "product_name": "Risotto",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/107/0286/front_fr.24.400.jpg",
+      "ingredients_text": "Riz risotto 100 % riz pour risotto.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.227221+00:00"
+    },
+    "5400141076141": {
+      "barcode": "5400141076141",
+      "product_name": "Hele, voorgekookte aardappelen",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/107/6141/front_nl.16.400.jpg",
+      "ingredients_text": "Petites pommes de terre entieres précuites et épluchées-Pomesde terre, eau, sel, affermissant (E509 antioxydant (E300), acidifiant 0 Naturellement riches en fibres. Ingrediënten Geschilde en voorgekookte kleine, hele aardappelen-Aardappelen, water, zout verstevigingsmiddel (E509), antioxidant (E300), voedingszuur (E330) Van nature rijk aan vezels Gemiddelde voedingswaarde-",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.227426+00:00"
+    },
+    "5400141089035": {
+      "barcode": "5400141089035",
+      "product_name": "Pignons de pin",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/108/9035/front_fr.14.400.jpg",
+      "ingredients_text": "100 % pijnboompitten.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.227477+00:00"
+    },
+    "5400141102284": {
+      "barcode": "5400141102284",
+      "product_name": "Margarine",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/110/2284/front_fr.4.400.jpg",
+      "ingredients_text": "Matière grasse végétale 78% pour tartiner, cuire et rôtir - Huiles et graisses végétales (graisse de palme, huile de colza, huile de tournesol, huile de coco), eau, émulsifiants (E472c, E322) lait écrémé en poudre, 0,3 % sel, conservateur (E202), acidifiant (E330), vitamines (A B1, B2, B6, B12, D, E), arôme (beurre), colorant (E160a). Contient du lait.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.227672+00:00"
+    },
+    "5400141117394": {
+      "barcode": "5400141117394",
+      "product_name": "Huile de mais",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/111/7394/front_fr.25.400.jpg",
+      "ingredients_text": "Huile de mais 100 % huile de mais.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.227730+00:00"
+    },
+    "5400141255348": {
+      "barcode": "5400141255348",
+      "product_name": "Bio mélange de riz",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/125/5348/front_fr.4.400.jpg",
+      "ingredients_text": "zwarte wilde rijst",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.227805+00:00"
+    },
+    "5400141087574": {
+      "barcode": "5400141087574",
+      "product_name": "Pistache",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/108/7574/front_fr.16.400.jpg",
+      "ingredients_text": "Pistachenoten, 2 % zout.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.227908+00:00"
+    },
+    "5400141271324": {
+      "barcode": "5400141271324",
+      "product_name": "Pignons de pin",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/127/1324/front_fr.19.400.jpg",
+      "ingredients_text": "100 % pignons de pin.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.227966+00:00"
+    },
+    "5400141195637": {
+      "barcode": "5400141195637",
+      "product_name": "Purée de pommes de terre",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/119/5637/front_fr.16.400.jpg",
+      "ingredients_text": "81,8 % aardappelen, volle melk, water, margarine [plantaardige oliën (palm, zonnebloem), water, karnemelkpoeder, emulgatoren (E322, E471), natuurlijk aroma, voedingszuur (E330)], zout, boter, witte peper,",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.228117+00:00"
+    },
+    "5400141123654": {
+      "barcode": "5400141123654",
+      "product_name": "Farine pain complet",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/112/3654/front_fr.4.400.jpg",
+      "ingredients_text": "Farine complète de blé, améliorant de panification [protéines de blé, malt de blé, enzymes, agent de traitement de la farine (E300)]. Contient du gluten. Peut contenir des traces d'outs, de soja, de lait et de sésame.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.228407+00:00"
+    },
+    "5400141088472": {
+      "barcode": "5400141088472",
+      "product_name": "Farine de Maïs",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/108/8472/front_fr.4.400.jpg",
+      "ingredients_text": "100 % fécule de maïs.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:53:30.228483+00:00"
+    },
+    "5400601001782": {
+      "barcode": "5400601001782",
+      "product_name": "Galettes de riz salées",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/060/100/1782/front_fr.25.400.jpg",
+      "ingredients_text": "riz complet, sel de mer 0,2%,",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:53:30.232568+00:00"
+    },
+    "5400113667643": {
+      "barcode": "5400113667643",
+      "product_name": "Beurre de cacahuetes",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/366/7643/front_fr.3.400.jpg",
+      "ingredients_text": "pinda's (aardnoten) 100%.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:53:30.232633+00:00"
+    },
+    "5400113405092": {
+      "barcode": "5400113405092",
+      "product_name": "Boisson riz coco",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/340/5092/front_fr.25.400.jpg",
+      "ingredients_text": "Water, rijst* 10%, kokosmelk* 8%, zeewier 0,4% (Lithothamnion calcareum), natuurlijk kokosaroma zeezout.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:53:30.232746+00:00"
+    },
+    "5400113620389": {
+      "barcode": "5400113620389",
+      "product_name": "Haricots rouges",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/362/0389/front_fr.16.400.jpg",
+      "ingredients_text": "Haricots rouges secs réhydratés 60%, eau, sel, antioxydant: acide ascorbique.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:53:30.232819+00:00"
+    },
+    "5400113538462": {
+      "barcode": "5400113538462",
+      "product_name": "Haricots blancs à la sauce Tomate",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/353/8462/front_fr.16.400.jpg",
+      "ingredients_text": "60% witte boon, water, 5,5% tomatenpuree, suiker, zout, azijn, gemodficerd Tasemeel specerijen, gehydrolyseerd plantaardig eiwit, natuurlijke aroma's.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:53:30.232929+00:00"
+    },
+    "5400119018555": {
+      "barcode": "5400119018555",
+      "product_name": "Huile D'olive Bio",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/901/8555/front_fr.26.400.jpg",
+      "ingredients_text": "Extra olijfolie verkregen bij de eerste persing. Ingredient: extra olijfolie* verkregen bij de eerste persing. Rechtstreeks uit olijven en op mechanische wijze verkregen olijfolie van superieure kwaliteit. *Biologische landbouw.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:53:30.233086+00:00"
+    },
+    "5400112535592": {
+      "barcode": "5400112535592",
+      "product_name": "Bananes",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/253/5592/front_fr.3.400.jpg",
+      "ingredients_text": "Bananes: issues du commerce équitable Fairtrade, cultivées por des producteurs certifiés et commercialisées selon les standards Fairtrade, 100% du poids total. Visitez info.fairtrade.net/sourcing",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:53:30.233190+00:00"
+    },
+    "5400111327983": {
+      "barcode": "5400111327983",
+      "product_name": "Noix de cajou grillées",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/132/7983/front_fr.18.400.jpg",
+      "ingredients_text": "_noix de cajou_ 100%.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:53:30.233254+00:00"
+    },
+    "5400101019423": {
+      "barcode": "5400101019423",
+      "product_name": "Carottes",
+      "store": "carrefour.be",
+      "stores": [
+        "carrefour.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/010/101/9423/front_fr.4.400.jpg",
+      "ingredients_text": "Carottes lavées non épluchées",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_BE",
+      "updated_at": "2026-11-21T00:53:30.233307+00:00"
     }
   }
 }
