@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "024",
+  "count": 1,
+  "updated_at": "2026-11-21T03:35:26.198840+00:00",
+  "products": {
+    "02441665": {
+      "barcode": "02441665",
+      "product_name": "EU Product",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/000/244/1665/front_fr.4.400.jpg",
+      "ingredients_text": "pulpe de fruits 6 dise, poire, citron, framboise, abricot), sucre, glucc nt (pectine), correcteur d'acidité (acide citrig trait végétal (poire), arômes naturels. EMIDDELDE VOEDINGSWAARDE PER 100 g ALEUR NUTRITIVE MOYENNE PAR 100 g nergie: 1398 kJ/",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T03:35:26.191968+00:00"
+    }
+  }
+}
