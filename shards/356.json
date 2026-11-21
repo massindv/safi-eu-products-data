@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "356",
-  "count": 10,
-  "updated_at": "2026-11-21T00:53:30.248014+00:00",
+  "count": 14,
+  "updated_at": "2026-11-21T01:05:50.877247+00:00",
   "products": {
     "3560071567354": {
       "barcode": "3560071567354",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.219036+00:00"
+      "updated_at": "2026-11-21T01:05:50.820586+00:00"
     },
     "3560071564902": {
       "barcode": "3560071564902",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.219230+00:00"
+      "updated_at": "2026-11-21T01:05:50.820815+00:00"
     },
     "3560071589660": {
       "barcode": "3560071589660",
@@ -68,7 +68,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter; Contains unverified gelatin source",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.219649+00:00"
+      "updated_at": "2026-11-21T01:05:50.821283+00:00"
     },
     "3560070134533": {
       "barcode": "3560070134533",
@@ -89,7 +89,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.224111+00:00"
+      "updated_at": "2026-11-21T01:05:50.826298+00:00"
     },
     "3560070874637": {
       "barcode": "3560070874637",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.224303+00:00"
+      "updated_at": "2026-11-21T01:05:50.826517+00:00"
     },
     "3560071493714": {
       "barcode": "3560071493714",
@@ -131,7 +131,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.225940+00:00"
+      "updated_at": "2026-11-21T01:05:50.828329+00:00"
     },
     "3560071370039": {
       "barcode": "3560071370039",
@@ -152,7 +152,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.226097+00:00"
+      "updated_at": "2026-11-21T01:05:50.828491+00:00"
     },
     "3560070657636": {
       "barcode": "3560070657636",
@@ -173,7 +173,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.226501+00:00"
+      "updated_at": "2026-11-21T01:05:50.828952+00:00"
     },
     "3560071463595": {
       "barcode": "3560071463595",
@@ -194,7 +194,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.226737+00:00"
+      "updated_at": "2026-11-21T01:05:50.829219+00:00"
     },
     "3560070105908": {
       "barcode": "3560070105908",
@@ -215,7 +215,91 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.226978+00:00"
+      "updated_at": "2026-11-21T01:05:50.829490+00:00"
+    },
+    "3560070853175": {
+      "barcode": "3560070853175",
+      "product_name": "Lait amandes caramelisees pointe de sel",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/085/3175/front_fr.73.400.jpg",
+      "ingredients_text": "Suiker, stukjes _amandelen_ 19,6%, cacaoboter, magere_melk_poeder, cacaomassa (cacaobonen* oorsprong Ivoorkust), watervrij _melk_vet, zout 0,3%, emulgator: lecithinen, natuurlijk vanillearoma.\nTen minste 32% cacaobestanddelen in de melkchocolade\nKan andere noten en glutenbevattende granen bevatten.\n*cacaobonen afkomstig uit het programma Transparence Cacao.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.838944+00:00"
+    },
+    "3560070698356": {
+      "barcode": "3560070698356",
+      "product_name": "Cheesecake aux fruits rouges",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/069/8356/front_fr.52.400.jpg",
+      "ingredients_text": "_Fromage_ blanc 22%, sucre, eau, purée de fruits rouges 9.4% (fraises 3,7%, groseilles 1,8%, mûres 1,8%, framboises 0,9%, cassis 0,9%), huile de tournesol, farine de blé, crème 5,7%, _œuf_, poudre de _lait_ écrémé, beurre de cacao, amidon de pomme de terre, blanc d'_œuf_, poudre de _lactosérum_, jaune d'_œuf_, jus de citron concentré, _beurre_, arôme naturel, épaississant : pectines, émulsifiant : lécithine de _soja_, conservateur : sorbate de potassium, sel, poudre à lever : carbonates de sodium. Peut contenir des traces d'arachides et de fruits à coques",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.839795+00:00"
+    },
+    "3560071080365": {
+      "barcode": "3560071080365",
+      "product_name": "Petits Pavés aux 2 graines et pépites de chocolat noir",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/108/0365/front_fr.61.400.jpg",
+      "ingredients_text": "Farine de ble 40%, pépites de chocolat noir* 20% [pâte de cacao*, sucre de canne*, émulsifiant : lécithines* (soja)], sucre de canne*, beurre , huile de tournesol*, graines de sesame *5%,oeufs*, sel, poudre à lever : carbonates de sodium, acidifiant : acide citrique,antioxydant: extrait de romarin*, *bio,",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.840398+00:00"
+    },
+    "3560070686544": {
+      "barcode": "3560070686544",
+      "product_name": "Duo glacier",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/068/6544/front_fr.27.400.jpg",
+      "ingredients_text": "_Tarwe_bloem, suiker, kopravet, koolzaadolie, magere_melk_poeder, aroma, zout, emulgator: lecithinen (koolzaad), karamel (glucosestroop, suiker, water), banketbakkers_boter_, _gerst_emoutextract, rijsmiddelen: difosfaten en natriumcarbonaten, antioxidant: alfa-tocoferol, kleurstof: paprika-extract. Kan sporen bevatten van soja.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.841505+00:00"
     }
   }
 }

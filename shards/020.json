@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "020",
   "count": 2,
-  "updated_at": "2026-11-21T00:53:30.236394+00:00",
+  "updated_at": "2026-11-21T01:05:50.852764+00:00",
   "products": {
     "0202336019682": {
       "barcode": "0202336019682",
@@ -25,7 +25,7 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.216210+00:00"
+      "updated_at": "2026-11-21T01:05:50.817481+00:00"
     },
     "0202297019356": {
       "barcode": "0202297019356",
@@ -46,7 +46,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.217358+00:00"
+      "updated_at": "2026-11-21T01:05:50.818732+00:00"
     }
   }
 }

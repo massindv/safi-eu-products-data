@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "303",
+  "count": 1,
+  "updated_at": "2026-11-21T01:05:50.858752+00:00",
+  "products": {
+    "3033491024481": {
+      "barcode": "3033491024481",
+      "product_name": "Activia Saveur Vanille",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/303/349/102/4481/front_fr.7.400.jpg",
+      "ingredients_text": "_Lait_ entier (82,4 %), [?] ou en poudre, _crème_, arôme, [?] bifidobacterium (Bifidus ActiRegularis®).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:05:50.838493+00:00"
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "302",
-  "count": 4,
-  "updated_at": "2026-11-21T00:53:30.241147+00:00",
+  "count": 5,
+  "updated_at": "2026-11-21T01:05:50.858268+00:00",
   "products": {
     "3020640010884": {
       "barcode": "3020640010884",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.220743+00:00"
+      "updated_at": "2026-11-21T01:05:50.822478+00:00"
     },
     "3020640100738": {
       "barcode": "3020640100738",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.221106+00:00"
+      "updated_at": "2026-11-21T01:05:50.822873+00:00"
     },
     "3020648106459": {
       "barcode": "3020648106459",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.221340+00:00"
+      "updated_at": "2026-11-21T01:05:50.823129+00:00"
     },
     "3020640010464": {
       "barcode": "3020640010464",
@@ -86,7 +86,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.222025+00:00"
+      "updated_at": "2026-11-21T01:05:50.823871+00:00"
+    },
+    "3023290030813": {
+      "barcode": "3023290030813",
+      "product_name": "Yaos nature",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/302/329/003/0813/front_fr.14.400.jpg",
+      "ingredients_text": "Volle melk (83,1%), room (12,0%) (melk), magere melkpoeder, melkfermenten.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.837318+00:00"
     }
   }
 }

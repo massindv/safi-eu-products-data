@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "316",
-  "count": 2,
-  "updated_at": "2026-11-21T00:53:30.243767+00:00",
+  "count": 5,
+  "updated_at": "2026-11-21T01:05:50.863814+00:00",
   "products": {
     "3166291465007": {
       "barcode": "3166291465007",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.224681+00:00"
+      "updated_at": "2026-11-21T01:05:50.826945+00:00"
     },
     "3166291495608": {
       "barcode": "3166291495608",
@@ -44,7 +44,70 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.224726+00:00"
+      "updated_at": "2026-11-21T01:05:50.826996+00:00"
+    },
+    "3168930005681": {
+      "barcode": "3168930005681",
+      "product_name": "Lay's Nature format familial",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/316/893/000/5681/front_fr.102.400.jpg",
+      "ingredients_text": "Pommes de terre,huiles végétales (tournesol, colza, maïs en proportion variable),sel",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.839413+00:00"
+    },
+    "3168930009887": {
+      "barcode": "3168930009887",
+      "product_name": "Doritos Sweet chilli pepper maxi format",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/316/893/000/9887/front_fr.32.400.jpg",
+      "ingredients_text": "Maïs (61%),huiles végétales (tournesol, colza, maïs en proportion variable),base aromatisante piment doux [sucre, arôme (contient BLÉ et SOJA), protéines de SOJA hydrolysées, correcteur d'acidité (diacétate de sodium), exhausteurs de goût (glutamate monosodique, 5'ribonucléotide disodique), extrait de piment doux, oignon en poudre, ail en poudre, acidifiants (acide citrique et malique), chlorure de potassium, SOJA, BLÉ, colorant (extrait de paprika)],sel",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.840676+00:00"
+    },
+    "3168930010609": {
+      "barcode": "3168930010609",
+      "product_name": "Lay's Recette méditerranéenne aux herbes de Provence",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/316/893/001/0609/front_fr.75.400.jpg",
+      "ingredients_text": "Pommes de terre,huile d'olive (13%),huile de tournesol,plantes aromatiques (sarriette, romarin, thym, basilic, marjolaine, origan),sel",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.841174+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "542",
-  "count": 1,
-  "updated_at": "2026-11-21T00:53:30.262399+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T01:05:50.892635+00:00",
   "products": {
     "5425001800414": {
       "barcode": "5425001800414",
@@ -23,7 +23,30 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T00:53:30.228261+00:00"
+      "updated_at": "2026-11-21T01:05:50.830945+00:00"
+    },
+    "5420027312309": {
+      "barcode": "5420027312309",
+      "product_name": "apero tapas",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/542/002/731/2309/front_fr.4.400.jpg",
+      "ingredients_text": "viande de porc, sel, dextrose, hydrolysat de protéine végétale (HVP), sirop de glucose sec, exhausteur de goût : E621, antioxydants : E301 en E300, conservateur : E250, stabilisateur E452, extrait de levure, betterave rouge, arôme, caramel, ferments.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T01:05:50.843175+00:00"
     }
   }
 }

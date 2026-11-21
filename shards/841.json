@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "841",
-  "count": 4,
-  "updated_at": "2026-11-21T00:53:30.269024+00:00",
+  "count": 5,
+  "updated_at": "2026-11-21T01:05:50.901495+00:00",
   "products": {
     "8410065630586": {
       "barcode": "8410065630586",
@@ -34,7 +34,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:53:30.136386+00:00"
+      "updated_at": "2026-11-21T01:05:50.719816+00:00"
     },
     "8410066139231": {
       "barcode": "8410066139231",
@@ -64,7 +64,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:53:30.155286+00:00"
+      "updated_at": "2026-11-21T01:05:50.739596+00:00"
     },
     "8410702054065": {
       "barcode": "8410702054065",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:53:30.162243+00:00"
+      "updated_at": "2026-11-21T01:05:50.746824+00:00"
     },
     "8410010877592": {
       "barcode": "8410010877592",
@@ -124,7 +124,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:53:30.172844+00:00"
+      "updated_at": "2026-11-21T01:05:50.757782+00:00"
+    },
+    "8410525232060": {
+      "barcode": "8410525232060",
+      "product_name": "Cinema mix",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/841/052/523/2060/front_fr.4.400.jpg",
+      "ingredients_text": "Halal",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.839265+00:00"
     }
   }
 }

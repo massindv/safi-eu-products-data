@@ -1,0 +1,71 @@
+{
+  "version": "1.0",
+  "prefix": "318",
+  "count": 3,
+  "updated_at": "2026-11-21T01:05:50.864574+00:00",
+  "products": {
+    "3181550000454": {
+      "barcode": "3181550000454",
+      "product_name": "CACOLAC CHOCO-NOISETTE Pack de 4 Boîtes 15 cl",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/318/155/000/0454/front_fr.10.400.jpg",
+      "ingredients_text": "Lait origine France à 8 g MG/L (95%), chocolat en poudre (sucre, cacao)(4.6%), arômes naturels, stabilisant: carbonate acide de sodium.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.837463+00:00"
+    },
+    "3181550000447": {
+      "barcode": "3181550000447",
+      "product_name": "CACOLAC MINI CHOCO NOISETTE",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/318/155/000/0447/front_fr.3.400.jpg",
+      "ingredients_text": "Lait origine France à 8 g MG/L (95%), chocolat en poudre (sucre, cacao) (4,6%), arômes naturels, stabilisants : carbonate acide de sodium.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.837596+00:00"
+    },
+    "3181550000409": {
+      "barcode": "3181550000409",
+      "product_name": "CACOLAC CHOCO CARAMEL Boîte",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/318/155/000/0409/front_fr.27.400.jpg",
+      "ingredients_text": "LAIT origine France à 8 g MG/L (95%), chocolat en poudre (sucre, cacao) (4,6%), arômes naturels, stabilisants: carbonate acide de sodium",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.837891+00:00"
+    }
+  }
+}

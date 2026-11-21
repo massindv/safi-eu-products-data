@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "731",
-  "count": 1,
-  "updated_at": "2026-11-21T00:53:30.264534+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T01:05:50.896182+00:00",
   "products": {
     "7311312010957": {
       "barcode": "7311312010957",
@@ -32,7 +32,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:53:30.138929+00:00"
+      "updated_at": "2026-11-21T01:05:50.722533+00:00"
+    },
+    "7311310038236": {
+      "barcode": "7311310038236",
+      "product_name": "Mini Taco Tubs",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/731/131/003/8236/front_nb.15.400.jpg",
+      "ingredients_text": "Maismel (80%), solsikkeolje, salt.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:05:50.844506+00:00"
     }
   }
 }

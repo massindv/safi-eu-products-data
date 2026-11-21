@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "762",
-  "count": 5,
-  "updated_at": "2026-11-21T00:53:30.266247+00:00",
+  "count": 6,
+  "updated_at": "2026-11-21T01:05:50.898074+00:00",
   "products": {
     "7622202283994": {
       "barcode": "7622202283994",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:53:30.132902+00:00"
+      "updated_at": "2026-11-21T01:05:50.716286+00:00"
     },
     "7622300348786": {
       "barcode": "7622300348786",
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:53:30.146004+00:00"
+      "updated_at": "2026-11-21T01:05:50.729855+00:00"
     },
     "7622210475183": {
       "barcode": "7622210475183",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:53:30.152534+00:00"
+      "updated_at": "2026-11-21T01:05:50.736740+00:00"
     },
     "7622210993656": {
       "barcode": "7622210993656",
@@ -122,7 +122,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:53:30.154644+00:00"
+      "updated_at": "2026-11-21T01:05:50.738949+00:00"
     },
     "7622210462534": {
       "barcode": "7622210462534",
@@ -143,7 +143,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.216792+00:00"
+      "updated_at": "2026-11-21T01:05:50.818131+00:00"
+    },
+    "7622210043504": {
+      "barcode": "7622210043504",
+      "product_name": "Chewing gum",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/762/221/004/3504/front_fr.4.400.jpg",
+      "ingredients_text": "Édulcorants (sorbitol, isomalt, maltitol, sirop de maltitol, aspartame, acésulfame-K, sucralose) gomme base, agent  de charge (E170), arômes, épaississant (E414), humectant (E422),émulsifiants (E472a, lécithine de tournesol), colorants (E171, E141), agent d'enrobage (E903), anti-oxydant (E321).",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:05:50.844687+00:00"
     }
   }
 }

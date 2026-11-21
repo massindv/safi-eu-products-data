@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "807",
-  "count": 2,
-  "updated_at": "2026-11-21T00:53:30.268399+00:00",
+  "count": 3,
+  "updated_at": "2026-11-21T01:05:50.900778+00:00",
   "products": {
     "8076800195057": {
       "barcode": "8076800195057",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:53:30.153375+00:00"
+      "updated_at": "2026-11-21T01:05:50.737630+00:00"
     },
     "8076800195019": {
       "barcode": "8076800195019",
@@ -62,7 +62,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:53:30.153489+00:00"
+      "updated_at": "2026-11-21T01:05:50.737749+00:00"
+    },
+    "8076809540643": {
+      "barcode": "8076809540643",
+      "product_name": "Cornetti Albicocca",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/807/680/954/0643/front_it.66.400.jpg",
+      "ingredients_text": "farina di _frumento_, confettura di albicocche 24,6% (zucchero, purea di albicocca 8,6%, sciroppo di glucosio-fruttosio, gelificante: pectina, correttore di acidità: acido citrico), _uova_ fresche 13%, margarina vegetale (burro di cacao, olio di girasole, olio di cocco, acqua), lievito madre 9,2% (_grano_), zucchero, acqua, lievito, emulsionanti: mono e digliceridi degli acidi grassi, _burro_, aromi (latte), olio di girasole, sale, tuorlo d'uovo 0,2%.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.839215+00:00"
     }
   }
 }

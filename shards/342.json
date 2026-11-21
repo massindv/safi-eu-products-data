@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "prefix": "342",
+  "count": 2,
+  "updated_at": "2026-11-21T01:05:50.875263+00:00",
+  "products": {
+    "3426327624007": {
+      "barcode": "3426327624007",
+      "product_name": "Yaourt abricot",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/342/632/762/4007/front_fr.34.400.jpg",
+      "ingredients_text": "Lait entier, Préparation bio abricot (15%) (abricots 52%, sucre de canne, gélifiant : agar-agar), Lait écrémé en poudre, Sucre, Ferments lactiques du yaourt",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.837230+00:00"
+    },
+    "3426327624106": {
+      "barcode": "3426327624106",
+      "product_name": "Yaourt au citron",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/342/632/762/4106/front_fr.41.400.jpg",
+      "ingredients_text": "LAIT entier, Préparation bio citron (15%) [citrons de Sicile, sucre de canne, gélifiant : agar-agar],\nSucre, Poudre de LAIT écrémé, Ferments lactiques du yaourt.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.837751+00:00"
+    }
+  }
+}

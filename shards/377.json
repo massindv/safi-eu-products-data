@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "377",
+  "count": 1,
+  "updated_at": "2026-11-21T01:05:50.880139+00:00",
+  "products": {
+    "3770025799117": {
+      "barcode": "3770025799117",
+      "product_name": "Chips de pomme de terre",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/377/002/579/9117/front_fr.7.400.jpg",
+      "ingredients_text": "pommes de terre (68,85%), huile de tournesol (25,5 %), tomate, thym, ail (5,25%), sel de l'île de Ré (0,4%)",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.840164+00:00"
+    }
+  }
+}

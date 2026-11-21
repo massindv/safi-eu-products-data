@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "044",
+  "count": 1,
+  "updated_at": "2026-11-21T01:05:50.853075+00:00",
+  "products": {
+    "0444100206953": {
+      "barcode": "0444100206953",
+      "product_name": "Halfvolle melk",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/044/410/020/6953/front_nl.3.400.jpg",
+      "ingredients_text": "HALFVOLLE MELK (U.H.T. BEHANDELD), BRON VAN CALCIUM - 100% halfvolle melk.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T01:05:50.838384+00:00"
+    }
+  }
+}

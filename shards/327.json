@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "327",
-  "count": 4,
-  "updated_at": "2026-11-21T00:53:30.246144+00:00",
+  "count": 5,
+  "updated_at": "2026-11-21T01:05:50.873294+00:00",
   "products": {
     "3270190119586": {
       "barcode": "3270190119586",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.221239+00:00"
+      "updated_at": "2026-11-21T01:05:50.823018+00:00"
     },
     "3270190007074": {
       "barcode": "3270190007074",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.224197+00:00"
+      "updated_at": "2026-11-21T01:05:50.826396+00:00"
     },
     "3270190129622": {
       "barcode": "3270190129622",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.226185+00:00"
+      "updated_at": "2026-11-21T01:05:50.828592+00:00"
     },
     "3270190129615": {
       "barcode": "3270190129615",
@@ -86,7 +86,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.226340+00:00"
+      "updated_at": "2026-11-21T01:05:50.828769+00:00"
+    },
+    "3270190178859": {
+      "barcode": "3270190178859",
+      "product_name": "Cigarettes",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/327/019/017/8859/front_fr.44.400.jpg",
+      "ingredients_text": "Suiker, _tarwe_bloem, plantaardige vetten en oliën (palm, kopra, koolzaad), _ei_wit, magere_melk_poeder, zout, natuurlijk aroma. \r\nKan sporen bevatten van noten.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.841302+00:00"
     }
   }
 }

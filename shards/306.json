@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "306",
-  "count": 2,
-  "updated_at": "2026-11-21T00:53:30.242169+00:00",
+  "count": 3,
+  "updated_at": "2026-11-21T01:05:50.860900+00:00",
   "products": {
     "3068320120256": {
       "barcode": "3068320120256",
@@ -33,7 +33,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:53:30.156627+00:00"
+      "updated_at": "2026-11-21T01:05:50.740992+00:00"
     },
     "3061990126948": {
       "barcode": "3061990126948",
@@ -54,7 +54,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T00:53:30.217588+00:00"
+      "updated_at": "2026-11-21T01:05:50.818987+00:00"
+    },
+    "3061990139801": {
+      "barcode": "3061990139801",
+      "product_name": "BN FRAMBOISE 295 G",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/306/199/013/9801/front_fr.34.400.jpg",
+      "ingredients_text": "Céréales [farine de froment (33%), céréales complètes (15,1%) (farine complète de froment (15%), farine complète de seigle, farine complète d'orge)], sirop de glucose-fructose, sucre - matière grasse végétale (palme) - stabilisant : glycérol, sirop de glucose, pulpe de framboise concentrée (équivalent framboise 5%) - amidon - lactose et protéines de lait - poudres à lever : carbonates d'ammonium et de sodium - sel - lait écrémé en poudre - acidifiants : acide citrique, citrate de sodium - colorant : rouge de betterave - gélifiant : pectine - arôme.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:05:50.841033+00:00"
     }
   }
 }

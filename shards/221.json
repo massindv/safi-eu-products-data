@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "prefix": "221",
+  "count": 3,
+  "updated_at": "2026-11-21T01:05:50.855397+00:00",
+  "products": {
+    "2219210003253": {
+      "barcode": "2219210003253",
+      "product_name": "Taleggio",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/221/921/000/3253/front_fr.3.400.jpg",
+      "ingredients_text": "Lait de vache pasteurisé, sel de mer, présure animale, culture starter.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:05:50.836888+00:00"
+    },
+    "2219110002974": {
+      "barcode": "2219110002974",
+      "product_name": "Cambozola",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/221/911/000/2974/front_fr.3.400.jpg",
+      "ingredients_text": "Lait de vache pasteurisé, crème, sel, présure microbiologique, levains lactiques, ferments d'affinage. Contient: lait.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:05:50.836982+00:00"
+    },
+    "2215520001729": {
+      "barcode": "2215520001729",
+      "product_name": "Affiné chèvre",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/221/552/000/1729/front_fr.3.400.jpg",
+      "ingredients_text": "Lait de chèvre pasteurisé, sel, levains lactiques, présure microbienne, culture de moisissures. Contient lait.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:05:50.837076+00:00"
+    }
+  }
+}
