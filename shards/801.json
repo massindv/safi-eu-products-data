@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "801",
-  "count": 1,
-  "updated_at": "2026-11-21T02:19:07.297546+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T02:29:26.970454+00:00",
   "products": {
     "8019873924100": {
       "barcode": "8019873924100",
@@ -32,7 +32,31 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:19:07.106067+00:00"
+      "updated_at": "2026-11-21T02:29:26.713762+00:00"
+    },
+    "8013399180323": {
+      "barcode": "8013399180323",
+      "product_name": "pastilles",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/801/339/918/0323/front_en.6.400.jpg",
+      "ingredients_text": "Pastilles au goút des fruits, avec édulcorants\nIngrédients édulcorants (sirop de maltitol, sorbitol,\naspartame, acésulfame K), épaississant (gomme\narabique, acidifiant (acide citrique, acide malique\narômes, colorant (E120), huiles végétales (coco, palme,\nagent d'enrobage (cire de carnauba).",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "carmine",
+        "insect_derived"
+      ],
+      "reason": "Contains carmine / E120 / karmijnzuur insect colorant",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T02:29:26.877332+00:00"
     }
   }
 }

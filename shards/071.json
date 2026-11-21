@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "071",
+  "count": 1,
+  "updated_at": "2026-11-21T02:29:26.899457+00:00",
+  "products": {
+    "07111143": {
+      "barcode": "07111143",
+      "product_name": "Yes",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/000/711/1143/front_fr.4.400.jpg",
+      "ingredients_text": "_Amandes_ (42%), arachides grillées (18%), chocolat noir de couverture (16%) (pâte de cacao, sucre, cacao maigre, _beurre concentré_ (_lait_), émulsifiant (lécithine de tournesol)), fibres de chicorée, pépites croustillantes (protéines de soja, féculr denioc, sel), miel, sirop de glucose, pâte de cacao, sel de mer (0,79%), émulsifiant (lécithine de tournesol).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T02:29:26.878080+00:00"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "570",
+  "count": 1,
+  "updated_at": "2026-11-21T02:29:26.961905+00:00",
+  "products": {
+    "57022741": {
+      "barcode": "57022741",
+      "product_name": "Stimorol Max",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/005/702/2741/front_en.20.400.jpg",
+      "ingredients_text": "zoetstoffen (xylitol,sorbitol,ismalt,maltitolstroop, aspartaam,acesulfaan-k, gom, stabilisator(E414), aroma's,voedingszuur (E330), emulator (zonnebloemlecithine) , bevochtingsmiddel (E1518), kleurstoffen (E160a, E141) .\nbevat bron van fenylalanine.",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T02:29:26.877696+00:00"
+    }
+  }
+}
