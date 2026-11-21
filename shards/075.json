@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "075",
   "count": 2,
-  "updated_at": "2026-11-21T07:33:18.660969+00:00",
+  "updated_at": "2026-11-21T07:51:39.848432+00:00",
   "products": {
     "0758961632661": {
       "barcode": "0758961632661",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-21T07:33:18.638856+00:00"
+      "updated_at": "2026-11-21T07:51:39.816242+00:00"
     },
     "0758547633112": {
       "barcode": "0758547633112",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-21T07:33:18.639221+00:00"
+      "updated_at": "2026-11-21T07:51:39.816625+00:00"
     }
   }
 }
