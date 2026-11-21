@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "328",
+  "count": 1,
+  "updated_at": "2026-11-21T03:25:47.324893+00:00",
+  "products": {
+    "3280221911140": {
+      "barcode": "3280221911140",
+      "product_name": "Champignons de Paris émincés",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/328/022/191/1140/front_fr.20.400.jpg",
+      "ingredients_text": "Champignons de Paris.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T03:25:47.291583+00:00"
+    }
+  }
+}

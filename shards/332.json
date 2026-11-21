@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "332",
-  "count": 1,
-  "updated_at": "2026-11-21T03:20:31.780397+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T03:25:47.326068+00:00",
   "products": {
     "3327271206861": {
       "barcode": "3327271206861",
@@ -23,7 +23,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T03:20:31.709239+00:00"
+      "updated_at": "2026-11-21T03:25:47.246516+00:00"
+    },
+    "3328400866000": {
+      "barcode": "3328400866000",
+      "product_name": "Pruneaux d’Agen dénoyautés",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/332/840/086/6000/front_fr.14.400.jpg",
+      "ingredients_text": "Pruneaux d'Agen 95%, eau",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T03:25:47.293288+00:00"
     }
   }
 }

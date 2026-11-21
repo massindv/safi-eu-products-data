@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "306",
-  "count": 3,
-  "updated_at": "2026-11-21T03:20:31.773114+00:00",
+  "count": 4,
+  "updated_at": "2026-11-21T03:25:47.317842+00:00",
   "products": {
     "3068320120256": {
       "barcode": "3068320120256",
@@ -33,7 +33,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T03:20:31.588929+00:00"
+      "updated_at": "2026-11-21T03:25:47.127986+00:00"
     },
     "3061990126948": {
       "barcode": "3061990126948",
@@ -54,7 +54,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T03:20:31.682804+00:00"
+      "updated_at": "2026-11-21T03:25:47.220639+00:00"
     },
     "3061990139801": {
       "barcode": "3061990139801",
@@ -75,7 +75,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T03:20:31.702006+00:00"
+      "updated_at": "2026-11-21T03:25:47.239403+00:00"
+    },
+    "3068230015567": {
+      "barcode": "3068230015567",
+      "product_name": "Noix bio au naturel",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/306/823/001/5567/front_fr.4.400.jpg",
+      "ingredients_text": "cerneaux de noix",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T03:25:47.292773+00:00"
     }
   }
 }

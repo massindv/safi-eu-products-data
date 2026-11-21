@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "307",
+  "count": 1,
+  "updated_at": "2026-11-21T03:25:47.318261+00:00",
+  "products": {
+    "3073781155532": {
+      "barcode": "3073781155532",
+      "product_name": "Râpé Classique",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/307/378/115/5532/front_nl.13.400.jpg",
+      "ingredients_text": "Water, gemodificeerd zetmeel, kokosolie, Zuurteregelaar (citroenzuur), zout, calciumcarbonaat, natuurlijke aroma's, verdikkingsmiddel (taragom), olijvenextract, kleurstof (natuurlijke beta-caroteen), vitamine B12. Valeurs Nutritionnelles/ Gemiddelde",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T03:25:47.295963+00:00"
+    }
+  }
+}

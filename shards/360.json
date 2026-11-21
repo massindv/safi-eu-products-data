@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "360",
-  "count": 1,
-  "updated_at": "2026-11-21T03:20:31.788090+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T03:25:47.335174+00:00",
   "products": {
     "3608330033612": {
       "barcode": "3608330033612",
@@ -23,7 +23,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T03:20:31.706528+00:00"
+      "updated_at": "2026-11-21T03:25:47.243772+00:00"
+    },
+    "3608580905349": {
+      "barcode": "3608580905349",
+      "product_name": "Dessert fruitier Pomme Fraise",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/360/858/090/5349/front_fr.28.400.jpg",
+      "ingredients_text": "Pommes 64,6% , fraises 26,2%, sucre, cassis, antioxydant : acide ascorbique.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T03:25:47.292358+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "370",
-  "count": 1,
-  "updated_at": "2026-11-21T03:20:31.789202+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T03:25:47.336494+00:00",
   "products": {
     "3700656403657": {
       "barcode": "3700656403657",
@@ -25,7 +25,28 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T03:20:31.683101+00:00"
+      "updated_at": "2026-11-21T03:25:47.220943+00:00"
+    },
+    "3700477660680": {
+      "barcode": "3700477660680",
+      "product_name": "Salade gourmande Détox",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/370/047/766/0680/front_fr.26.400.jpg",
+      "ingredients_text": "carottes* 26%, petits pois*23%, choux* rouge 22%, vinaigrette (huile de tournesol, eau, vinaigre d'alcool*, moutarde* (vinaigre d'alcool*, graines de moutarde*, eau, sel), sel, épaississants gomme xanthane - gomme guar*), vinaigre de riz* (eau, riz* complet, sel marin, ferments dont Koji), graines de courge* 3%, basilic* 2,5%, graines de tournesol* 2,5%, graines de lin* 1% , sel, ail* *Ingrédients issus de l'Agriculture Biologique.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T03:25:47.294463+00:00"
     }
   }
 }

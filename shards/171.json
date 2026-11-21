@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "171",
+  "count": 1,
+  "updated_at": "2026-11-21T03:25:47.310901+00:00",
+  "products": {
+    "17104692": {
+      "barcode": "17104692",
+      "product_name": "Demi-poires au jus",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/001/710/4692/front_fr.4.400.jpg",
+      "ingredients_text": "Poires, jus de raisin à base de concentré, correcteur d'acidité (E330).",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T03:25:47.294749+00:00"
+    }
+  }
+}

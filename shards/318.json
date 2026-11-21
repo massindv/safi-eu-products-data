@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "318",
-  "count": 6,
-  "updated_at": "2026-11-21T03:20:31.775836+00:00",
+  "count": 8,
+  "updated_at": "2026-11-21T03:25:47.321445+00:00",
   "products": {
     "3181550000454": {
       "barcode": "3181550000454",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T03:20:31.699070+00:00"
+      "updated_at": "2026-11-21T03:25:47.236390+00:00"
     },
     "3181550000447": {
       "barcode": "3181550000447",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T03:20:31.699178+00:00"
+      "updated_at": "2026-11-21T03:25:47.236503+00:00"
     },
     "3181550000409": {
       "barcode": "3181550000409",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T03:20:31.699418+00:00"
+      "updated_at": "2026-11-21T03:25:47.236751+00:00"
     },
     "3180840008224": {
       "barcode": "3180840008224",
@@ -86,7 +86,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T03:20:31.708744+00:00"
+      "updated_at": "2026-11-21T03:25:47.246019+00:00"
     },
     "3182650038804": {
       "barcode": "3182650038804",
@@ -107,7 +107,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T03:20:31.716297+00:00"
+      "updated_at": "2026-11-21T03:25:47.253430+00:00"
     },
     "3180840005865": {
       "barcode": "3180840005865",
@@ -128,7 +128,51 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T03:20:31.726908+00:00"
+      "updated_at": "2026-11-21T03:25:47.264512+00:00"
+    },
+    "3184260100247": {
+      "barcode": "3184260100247",
+      "product_name": "tomates entières pelées",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/318/426/010/0247/front_fr.3.400.jpg",
+      "ingredients_text": "Tomates entières pelées (tomates origine Italie), jus de tomates, correcteur d'acidité: acide citrique.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T03:25:47.292246+00:00"
+    },
+    "3181232138635": {
+      "barcode": "3181232138635",
+      "product_name": "Kebab au bœuf",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/318/123/213/8635/front_fr.39.400.jpg",
+      "ingredients_text": "Pain spécial kebab 48,5% : farine de blé, eau, levure, sel, gluten de blé, farine de blé malté. Préparation à base de viande reconstituée cuite 28%: viande de bœuf 70% (soit 20% sur produit total), eau, composition aromatique (épices et plantes aromatiques [paprika, poivron, poivre, coriandre, cumin, persil déshydraté], arômes, maltodextrine de pomme de terre, tomate en poudre, sel, fibres de riz), fibres de pois et de bambou, amidon de pois, dextrose, protéines végétales de soja 1% (soit 0,3% sur produit total), sel, stabilisant : E451, conservateur : E262, antioxydants : E300-E330, extrait de romarin, lécithine de soja. Sauce 15% : eau, huile de colza, amidon transformé de maïs, sucre, vinaigre d'alcool, lait écrémé en poudre, moutarde (eau, vinaigre, graines de moutarde, sel, acidifiant : E330), sucre, épices, antioxydant : disulfite de potassium, arômes), fibres de chicorée, de bambou et de riz, sel, arômes, oignons déshydratés, ail et tomate en poudre, plantes aromatiques, caramel, épices et extraits d'épices, conservateurs : E262-E202, antioxydants : E300-E330, épaississants : E415, E412. Préparation de tomates mi-séchées aux herbes 8,5% : tomates mi-séchées, huile de colza, sel, ail, origan.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T03:25:47.294182+00:00"
     }
   }
 }

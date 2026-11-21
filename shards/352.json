@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "352",
-  "count": 1,
-  "updated_at": "2026-11-21T03:20:31.784439+00:00",
+  "count": 3,
+  "updated_at": "2026-11-21T03:25:47.331440+00:00",
   "products": {
     "3523680468016": {
       "barcode": "3523680468016",
@@ -23,7 +23,49 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T03:20:31.744227+00:00"
+      "updated_at": "2026-11-21T03:25:47.280744+00:00"
+    },
+    "3523680482258": {
+      "barcode": "3523680482258",
+      "product_name": "Oignon jaune",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/352/368/048/2258/front_fr.26.400.jpg",
+      "ingredients_text": "oignons jaune",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T03:25:47.293182+00:00"
+    },
+    "3523680240001": {
+      "barcode": "3523680240001",
+      "product_name": "Butternut",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/352/368/024/0001/front_fr.27.400.jpg",
+      "ingredients_text": "Butternut Issu de l'agriculture biologique",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T03:25:47.293562+00:00"
     }
   }
 }

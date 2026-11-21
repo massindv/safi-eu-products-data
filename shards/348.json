@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "348",
+  "count": 1,
+  "updated_at": "2026-11-21T03:25:47.329816+00:00",
+  "products": {
+    "3486063023601": {
+      "barcode": "3486063023601",
+      "product_name": "Compotes Astérix Pomme sans sucres ajoutés",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/348/606/302/3601/front_fr.8.400.jpg",
+      "ingredients_text": "Purée de pommes 99,9%, antioxydant (acide ascorbique).",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T03:25:47.291740+00:00"
+    }
+  }
+}
