@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "000",
   "count": 9,
-  "updated_at": "2026-11-21T05:49:58.258494+00:00",
+  "updated_at": "2026-11-21T06:04:19.413633+00:00",
   "products": {
     "0000096067345": {
       "barcode": "0000096067345",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T05:49:58.072997+00:00"
+      "updated_at": "2026-11-21T06:04:19.227421+00:00"
     },
     "0000076222276": {
       "barcode": "0000076222276",
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T05:49:58.103944+00:00"
+      "updated_at": "2026-11-21T06:04:19.258349+00:00"
     },
     "0000080042556": {
       "barcode": "0000080042556",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T05:49:58.106109+00:00"
+      "updated_at": "2026-11-21T06:04:19.260595+00:00"
     },
     "0000054025271": {
       "barcode": "0000054025271",
@@ -125,7 +125,7 @@
       ],
       "reason": "Contains carmine / E120 / karmijnzuur insect colorant",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T05:49:58.111554+00:00"
+      "updated_at": "2026-11-21T06:04:19.266042+00:00"
     },
     "0000080035343": {
       "barcode": "0000080035343",
@@ -155,7 +155,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T05:49:58.126948+00:00"
+      "updated_at": "2026-11-21T06:04:19.281760+00:00"
     },
     "0000080023418": {
       "barcode": "0000080023418",
@@ -185,7 +185,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T05:49:58.127120+00:00"
+      "updated_at": "2026-11-21T06:04:19.281945+00:00"
     },
     "0000080023401": {
       "barcode": "0000080023401",
@@ -215,7 +215,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T05:49:58.127289+00:00"
+      "updated_at": "2026-11-21T06:04:19.282219+00:00"
     },
     "0000112407464": {
       "barcode": "0000112407464",
@@ -236,7 +236,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-21T05:49:58.192360+00:00"
+      "updated_at": "2026-11-21T06:04:19.345646+00:00"
     },
     "0005450362111": {
       "barcode": "0005450362111",
@@ -257,7 +257,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_AH_NL",
-      "updated_at": "2026-11-21T05:49:58.224812+00:00"
+      "updated_at": "2026-11-21T06:04:19.378705+00:00"
     }
   }
 }
