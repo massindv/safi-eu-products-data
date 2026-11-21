@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "900",
-  "count": 1,
-  "updated_at": "2026-11-21T01:19:43.288499+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T01:32:19.612615+00:00",
   "products": {
     "9001810011546": {
       "barcode": "9001810011546",
@@ -32,7 +32,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:19:43.153919+00:00"
+      "updated_at": "2026-11-21T01:32:19.441472+00:00"
+    },
+    "9002490236762": {
+      "barcode": "9002490236762",
+      "product_name": "Redbull Energy Drink",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/900/249/023/6762/front_fr.10.400.jpg",
+      "ingredients_text": "des Energy Drink - teneur éle ée en cafe deconseillé aux enfants et aux femne enceintes ou allaitantes (32 mg/0m A consommer avec modération. Ingredients: eau gazéifiée, saccharose, glucoce ociditfiant (acide citrique), taurine (0,4%), comee d'acidite (carbonates de sodium, carbonates de cy nesium), caféine (0,03%), vitamines (niacine, ac paniorihenique, B6, B12) arômes, coloranis (care ordinaire, ribotlavines).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:32:19.536705+00:00"
     }
   }
 }

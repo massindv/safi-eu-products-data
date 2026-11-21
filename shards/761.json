@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "761",
-  "count": 3,
-  "updated_at": "2026-11-21T01:19:43.271616+00:00",
+  "count": 4,
+  "updated_at": "2026-11-21T01:32:19.593259+00:00",
   "products": {
     "7613036394109": {
       "barcode": "7613036394109",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:19:43.163567+00:00"
+      "updated_at": "2026-11-21T01:32:19.451654+00:00"
     },
     "76145940": {
       "barcode": "76145940",
@@ -53,7 +53,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T01:19:43.217061+00:00"
+      "updated_at": "2026-11-21T01:32:19.509269+00:00"
     },
     "7613037398083": {
       "barcode": "7613037398083",
@@ -74,7 +74,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:19:43.228400+00:00"
+      "updated_at": "2026-11-21T01:32:19.520609+00:00"
+    },
+    "7613036410212": {
+      "barcode": "7613036410212",
+      "product_name": "Nestlé Pure Life",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/761/303/641/0212/front_fr.9.400.jpg",
+      "ingredients_text": "Calcium 78, magnesium 1,7, sodium 2,07, potassium 0,27, sulfates 12, hydrogenocarbonate 217, chlorure 3,3, résidu sec à 180C 211",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:32:19.536891+00:00"
     }
   }
 }

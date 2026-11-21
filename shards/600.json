@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "600",
-  "count": 1,
-  "updated_at": "2026-11-21T01:19:43.270248+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T01:32:19.590269+00:00",
   "products": {
     "6009706974442": {
       "barcode": "6009706974442",
@@ -32,7 +32,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:19:43.131505+00:00"
+      "updated_at": "2026-11-21T01:32:19.426317+00:00"
+    },
+    "6009880500796": {
+      "barcode": "6009880500796",
+      "product_name": "Ice Rooibos Green Rooibos & Yuzu",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/600/988/050/0796/front_en.4.400.jpg",
+      "ingredients_text": "Eau, sucre de canne*, acidifiant : acide citrique, extrait de rooibos vert* (0,11%), extrait naturel de yuzu & pomelo\r\n* organic ingredients / ingrédients bio",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:32:19.535481+00:00"
     }
   }
 }

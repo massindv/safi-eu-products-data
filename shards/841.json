@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "841",
   "count": 5,
-  "updated_at": "2026-11-21T01:19:43.274100+00:00",
+  "updated_at": "2026-11-21T01:32:19.596916+00:00",
   "products": {
     "8410065630586": {
       "barcode": "8410065630586",
@@ -34,7 +34,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:19:43.129922+00:00"
+      "updated_at": "2026-11-21T01:32:19.424739+00:00"
     },
     "8410066139231": {
       "barcode": "8410066139231",
@@ -64,7 +64,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:19:43.157280+00:00"
+      "updated_at": "2026-11-21T01:32:19.444990+00:00"
     },
     "8410702054065": {
       "barcode": "8410702054065",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:19:43.164509+00:00"
+      "updated_at": "2026-11-21T01:32:19.452669+00:00"
     },
     "8410010877592": {
       "barcode": "8410010877592",
@@ -124,7 +124,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:19:43.175297+00:00"
+      "updated_at": "2026-11-21T01:32:19.464399+00:00"
     },
     "8410525232060": {
       "barcode": "8410525232060",
@@ -145,7 +145,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:19:43.238226+00:00"
+      "updated_at": "2026-11-21T01:32:19.530228+00:00"
     }
   }
 }

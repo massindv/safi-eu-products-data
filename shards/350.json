@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "350",
-  "count": 1,
-  "updated_at": "2026-11-21T01:19:43.258740+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T01:32:19.571469+00:00",
   "products": {
     "3502110009845": {
       "barcode": "3502110009845",
@@ -23,7 +23,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:19:43.223642+00:00"
+      "updated_at": "2026-11-21T01:32:19.515867+00:00"
+    },
+    "3502110006813": {
+      "barcode": "3502110006813",
+      "product_name": "Tropicana orange sans pulpe pet format familial lot de 2x1,5l",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/350/211/000/6813/front_fr.19.400.jpg",
+      "ingredients_text": "Jus d'orange",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:32:19.535874+00:00"
     }
   }
 }

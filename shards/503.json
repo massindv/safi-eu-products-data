@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "503",
+  "count": 1,
+  "updated_at": "2026-11-21T01:32:19.580224+00:00",
+  "products": {
+    "5038862132503": {
+      "barcode": "5038862132503",
+      "product_name": "apple juice",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/503/886/213/2503/front_fr.11.400.jpg",
+      "ingredients_text": "ents/ingrediënten Ingredienser/Ainesosat/ingre E 13 Dressade äpplen och antioxidationsmedel: askorbinsyra DK: 13 pressede aebler og antioxidant: ascorbinsyre R:13 puristettua omenaa ja hapettumisenestoaine: askorbilinihango FR: 13 pommes pressées et antioxydant: acide ascorbique. NL: 13 geperste appels en antioxidant: ascorbinezuur. Näringsvärde/Neringsindhold/Ravintosisältö",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:32:19.537053+00:00"
+    }
+  }
+}

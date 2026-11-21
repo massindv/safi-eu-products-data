@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "377",
-  "count": 1,
-  "updated_at": "2026-11-21T01:19:43.260651+00:00",
+  "count": 3,
+  "updated_at": "2026-11-21T01:32:19.575343+00:00",
   "products": {
     "3770025799117": {
       "barcode": "3770025799117",
@@ -23,7 +23,49 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:19:43.239003+00:00"
+      "updated_at": "2026-11-21T01:32:19.530972+00:00"
+    },
+    "3770002675113": {
+      "barcode": "3770002675113",
+      "product_name": "Espry Drink",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/377/000/267/5113/front_fr.17.400.jpg",
+      "ingredients_text": "Eau; dioxyde de carbone; sucre; base pour boisson énergisante : taurine (0,025%), caféine(0,02% ), aromatisant, colorant : caramel (d'ammonium), mélange de vitamines : niacine, acide pantothénique, vitamine B6, riboflavine, vitamine B12; acide : acide citrique; conservateurs : sorbate de potassium, benzoate de sodium; régulateur d'acidité : citrate desodium; édulcorant : sucralose.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:32:19.535681+00:00"
+    },
+    "3770002475119": {
+      "barcode": "3770002475119",
+      "product_name": "Energy drink",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/377/000/247/5119/front_fr.20.400.jpg",
+      "ingredients_text": "Eau; dioxyde de carbone; sucre; base pour boisson énergisante: taurine (0,025%), caféine(0,02% ), aromatisant, colorant: caramel (d ammonium), mélange de vitamines: niacine, acide pantothénique, vitamine B6, riboflavine, vitamine B12; acide: acide citrique; conservateurs: sorbate de potassium, benzoate de sodium; régulateur d'acidité: citrate de sodium; édulcorant: sucralose",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:32:19.536220+00:00"
     }
   }
 }

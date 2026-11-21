@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "080",
+  "count": 1,
+  "updated_at": "2026-11-21T01:32:19.551900+00:00",
+  "products": {
+    "08001290": {
+      "barcode": "08001290",
+      "product_name": "joker le fruit",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/000/800/1290/front_fr.14.400.jpg",
+      "ingredients_text": "VNR**/NRV**/ : 56% *Comme tous les jus de fruits. de servir d orange a base de jus concentré:uitamine C. Bien a pres ouverture et consommé dans les 5 jours. Produit fabrique en France gredients: orange Juice from concentrate: uitamin C. Shake uel befon pur une saueur optimale,Joker Le Fruit doit être consiterauant r consommer",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:32:19.536401+00:00"
+    }
+  }
+}
