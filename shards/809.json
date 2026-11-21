@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "809",
+  "count": 1,
+  "updated_at": "2026-11-21T02:59:20.942128+00:00",
+  "products": {
+    "80986393": {
+      "barcode": "80986393",
+      "product_name": "EU Product",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/008/098/6393/front_nl.15.400.jpg",
+      "ingredients_text": "Zoetstoffen (isomalt, acesulfaam-K, sucralose), vulstof (polydextrose), voedingszuren (melkzuur, appelzuur, citroenzuur), vitamine C (L-ascorbinezuur), vruchtensapconcentraten (framboos, aardbei) (0,37%), natuurlijke aroma's, concentraten (vlierbes, appelbes), *Komt overeen met 3% vruchtensap,",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T02:59:20.750788+00:00"
+    }
+  }
+}

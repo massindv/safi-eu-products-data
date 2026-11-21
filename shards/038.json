@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "038",
+  "count": 1,
+  "updated_at": "2026-11-21T02:59:20.825343+00:00",
+  "products": {
+    "03812167": {
+      "barcode": "03812167",
+      "product_name": "EU Product",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/000/381/2167/front_fr.8.400.jpg",
+      "ingredients_text": "pâte de cacao ,sucre,beurre de cacao,cacao en poudre fortement de graisse,beurre concentré,emulsifiant(lecithine de soja),arôme naturel de vanille lait écrémé en poudre cacao:70%minimum.peut contenir fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:59:20.748696+00:00"
+    }
+  }
+}

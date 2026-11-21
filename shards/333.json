@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "333",
-  "count": 2,
-  "updated_at": "2026-11-21T02:51:27.179115+00:00",
+  "count": 3,
+  "updated_at": "2026-11-21T02:59:20.866748+00:00",
   "products": {
     "3331890003510": {
       "barcode": "3331890003510",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:51:27.110724+00:00"
+      "updated_at": "2026-11-21T02:59:20.705824+00:00"
     },
     "3330720251497": {
       "barcode": "3330720251497",
@@ -44,7 +44,30 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:51:27.123704+00:00"
+      "updated_at": "2026-11-21T02:59:20.721645+00:00"
+    },
+    "3336772444641": {
+      "barcode": "3336772444641",
+      "product_name": "chocolatines",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/333/677/244/4641/front_fr.4.400.jpg",
+      "ingredients_text": "farine de blé (45%) _beurre_, eau, chocolat (7% sucre cacao beurre de cacao, émulsifiant (_lecithine de soja_), arôme vanille), huie de colza, poudre de lat entier sucre, sirop de sucre inverti, _gluten de blé_, oeuf en poudre, émulsifiants (mono et diglycerides dacides gras, _lécithine de soja_, lactylates de sodium), levure, sel, levain de seigle dévitalisé, épaississant (gomme de tara), correcteur d'acidité (acide acétique), conservateurs (propionate de calcium, acide sorbique), farine de fèves, colorant (bêta carotène), farine de blé malté, agent de traitement de la farine (acide ascorbique) Ce produit contient:gluten, _soja_,_lait_, oeuf Traces éventuelles de: sésame, _fruits à coque_",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:59:20.749021+00:00"
     }
   }
 }

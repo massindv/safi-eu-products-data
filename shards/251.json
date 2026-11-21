@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "251",
+  "count": 1,
+  "updated_at": "2026-11-21T02:59:20.842432+00:00",
+  "products": {
+    "25168242": {
+      "barcode": "25168242",
+      "product_name": "barres noisettes et chocolat equitable",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/002/516/8242/front_fr.4.400.jpg",
+      "ingredients_text": "Céréales* (40%) (riz*, blé*; avoine*, sucre de canne blond*, sirop de malte d'orge*, sel de mer); chocolat équitable* (14.5%) (sucre de canne blanc* pâte de cacao*, beurre de cacao*); noisettes* (14.5%); sirop de blé*; miel*; huile de tournesol oléique désodo - risée* (antioxydant : extrait de romarin*); corn flakes glacés* (maïs*, sirop de maïs*, sel de mer non raffiné, lé - cithine de soja*); cacao*; gomme d'acacia*; lécithine de soja*. *Ingrédients agricoles issus de l'agriculture biologique Certifié par Ecocert France SAS Allergènes gluten, noisette, soja - Peut contenir des traces de lait, œuf, sésame, autres fruits à coque, arachide.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:59:20.748565+00:00"
+    }
+  }
+}
