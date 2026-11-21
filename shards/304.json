@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "304",
-  "count": 3,
-  "updated_at": "2026-11-21T02:11:35.615084+00:00",
+  "count": 4,
+  "updated_at": "2026-11-21T02:19:07.267164+00:00",
   "products": {
     "3045320082586": {
       "barcode": "3045320082586",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:11:35.458776+00:00"
+      "updated_at": "2026-11-21T02:19:07.122246+00:00"
     },
     "3041090063114": {
       "barcode": "3041090063114",
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:11:35.461596+00:00"
+      "updated_at": "2026-11-21T02:19:07.124680+00:00"
     },
     "3046920057745": {
       "barcode": "3046920057745",
@@ -83,7 +83,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.591188+00:00"
+      "updated_at": "2026-11-21T02:19:07.236630+00:00"
+    },
+    "3046920045926": {
+      "barcode": "3046920045926",
+      "product_name": "La tarte chocolat",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/304/692/004/5926/front_fr.6.400.jpg",
+      "ingredients_text": "Sucre, pâte de cacao, beurre laitier concentré, beurre cacao, éclats de biscuits (farine de blé, matière grasse végétale (coco, tournesol), sucre, sirop de glucose, protéines de lait poudre à lever (carbonates d‘ammonium et de sodium), sel) 3%, cacao maigre, sucre inverti, sirop de glucose, amandes, stabilisant (sorbitol), émulsifiant (lécithine de soja), poudre de lait écrémé arôme.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.249546+00:00"
     }
   }
 }

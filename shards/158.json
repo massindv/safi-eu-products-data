@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "158",
+  "count": 1,
+  "updated_at": "2026-11-21T02:19:07.263064+00:00",
+  "products": {
+    "15848758": {
+      "barcode": "15848758",
+      "product_name": "Tartines craquantes châtaigne",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/001/584/8758/front_fr.27.400.jpg",
+      "ingredients_text": "farine de riz*, farine de châtaigne* 25 %, sel marin. *Produits issus de l'agriculture biologique.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.254985+00:00"
+    }
+  }
+}

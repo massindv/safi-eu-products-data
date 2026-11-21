@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "376",
-  "count": 7,
-  "updated_at": "2026-11-21T02:11:35.627953+00:00",
+  "count": 8,
+  "updated_at": "2026-11-21T02:19:07.280041+00:00",
   "products": {
     "3760211111144": {
       "barcode": "3760211111144",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.548243+00:00"
+      "updated_at": "2026-11-21T02:19:07.199605+00:00"
     },
     "3760023970069": {
       "barcode": "3760023970069",
@@ -47,7 +47,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.553589+00:00"
+      "updated_at": "2026-11-21T02:19:07.204252+00:00"
     },
     "3760257091332": {
       "barcode": "3760257091332",
@@ -68,7 +68,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.556107+00:00"
+      "updated_at": "2026-11-21T02:19:07.206457+00:00"
     },
     "3760091720436": {
       "barcode": "3760091720436",
@@ -89,7 +89,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.556838+00:00"
+      "updated_at": "2026-11-21T02:19:07.207089+00:00"
     },
     "3760307950084": {
       "barcode": "3760307950084",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.574180+00:00"
+      "updated_at": "2026-11-21T02:19:07.221767+00:00"
     },
     "3760009540064": {
       "barcode": "3760009540064",
@@ -131,7 +131,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.586405+00:00"
+      "updated_at": "2026-11-21T02:19:07.232441+00:00"
     },
     "3760130560498": {
       "barcode": "3760130560498",
@@ -152,7 +152,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.599142+00:00"
+      "updated_at": "2026-11-21T02:19:07.243550+00:00"
+    },
+    "3760122968882": {
+      "barcode": "3760122968882",
+      "product_name": "Cookies chocolat origine Mexique",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/376/012/296/8882/front_fr.13.400.jpg",
+      "ingredients_text": "du bon chocolat noir du Mexique 30 % (pâte de cacao du Mexique, sucre, émulsifiant: lécithines de tournesol; poudre de vanille naturelle), une cuillère à soupe de farine de blé, une petite cuillère de sucre, une noix de beurre frais, du chocolat noir en poudre 5%(pâte de cacao, poudre de lait écrémé, sucre, poudre de cacao maigre, émulsifiant : lécithine soja); arôme naturel de vanille), de la poudre de cacao maigre, de la poudre de lait écrémé, une pincée de sel et un soupcon de poudre à lever (carbonate de sodium). Gourmand et allergique ? Contient: gluten, lait, soja. Peut contenir: oeuf et fruits à coque",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.254889+00:00"
     }
   }
 }

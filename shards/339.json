@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "339",
+  "count": 1,
+  "updated_at": "2026-11-21T02:19:07.274780+00:00",
+  "products": {
+    "3395250203408": {
+      "barcode": "3395250203408",
+      "product_name": "mini tablette noir sans sucre",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/339/525/020/3408/front_fr.4.400.jpg",
+      "ingredients_text": "[Pate de cacao, edylcorant: maltitol, beurte de cacao, emulsifiant lecithine de SOJA, arome naiurel de vanille. Couverture noir 65% mjn. de cacao Traces possibles de fruits a coque, lait et sesame.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.250070+00:00"
+    }
+  }
+}

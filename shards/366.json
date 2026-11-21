@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "366",
-  "count": 5,
-  "updated_at": "2026-11-21T02:11:35.627227+00:00",
+  "count": 6,
+  "updated_at": "2026-11-21T02:19:07.279195+00:00",
   "products": {
     "3660140929257": {
       "barcode": "3660140929257",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.588189+00:00"
+      "updated_at": "2026-11-21T02:19:07.233981+00:00"
     },
     "3660140808750": {
       "barcode": "3660140808750",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.588535+00:00"
+      "updated_at": "2026-11-21T02:19:07.234292+00:00"
     },
     "3660140824156": {
       "barcode": "3660140824156",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.589139+00:00"
+      "updated_at": "2026-11-21T02:19:07.234886+00:00"
     },
     "3660140869850": {
       "barcode": "3660140869850",
@@ -86,7 +86,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.590268+00:00"
+      "updated_at": "2026-11-21T02:19:07.235842+00:00"
     },
     "3660140806855": {
       "barcode": "3660140806855",
@@ -107,7 +107,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.590829+00:00"
+      "updated_at": "2026-11-21T02:19:07.236323+00:00"
+    },
+    "3660140825054": {
+      "barcode": "3660140825054",
+      "product_name": "Savane Pocket x 14 Chocolat",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/366/014/082/5054/front_fr.54.400.jpg",
+      "ingredients_text": "Farine de blé 23%, oeufs frais, sucre, huile de colza, chocolat 7,0% (sucre, pâte de cacao, beurre de cacao, émulsifiant : lécithine de soja, arôme naturel de vanille), stabilisant : glycérol, sirop de sucre inverti cristallisé, amidon de blé, poudres à lever : diphosphates - carbonates de sodium, émulsifiant : mono - et diglycérides d'acides gras, conservateur : sorbate de potassium, sel, arôme.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.248947+00:00"
     }
   }
 }

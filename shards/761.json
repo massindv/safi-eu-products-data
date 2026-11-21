@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "761",
-  "count": 5,
-  "updated_at": "2026-11-21T02:11:35.645088+00:00",
+  "count": 6,
+  "updated_at": "2026-11-21T02:19:07.294996+00:00",
   "products": {
     "7613036394109": {
       "barcode": "7613036394109",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:11:35.469681+00:00"
+      "updated_at": "2026-11-21T02:19:07.131756+00:00"
     },
     "76145940": {
       "barcode": "76145940",
@@ -53,7 +53,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T02:11:35.543374+00:00"
+      "updated_at": "2026-11-21T02:19:07.195399+00:00"
     },
     "7613037398083": {
       "barcode": "7613037398083",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.556381+00:00"
+      "updated_at": "2026-11-21T02:19:07.206691+00:00"
     },
     "7613036410212": {
       "barcode": "7613036410212",
@@ -95,7 +95,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T02:11:35.575417+00:00"
+      "updated_at": "2026-11-21T02:19:07.222866+00:00"
     },
     "7613039945117": {
       "barcode": "7613039945117",
@@ -116,7 +116,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T02:11:35.582621+00:00"
+      "updated_at": "2026-11-21T02:19:07.229222+00:00"
+    },
+    "7613038805559": {
+      "barcode": "7613038805559",
+      "product_name": "Veggie Nuggets tomate poivron",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/761/303/880/5559/front_fr.23.400.jpg",
+      "ingredients_text": "Groenten 64% (21% wortel, 14% tomaat (pulp en sap), 13% maïs, 12% rode paprika, 4% ui), droog krokant laagje 11% (4,5% maïs, 4,2% rijst, 2,2% rode biet, zonnebloemolie), plantaardige oliën in wisselende verhoudingen (koolzaad, zonnebloem), KIPPENEI-eiwitpoeder, TARWEmeel, paneermeel (TARWEmeel, water, zout, gist, koolzaadolie, paprika-extract), citroenvezels, azijn, braaduien gedroogd (uien, zonnebloemolie), TARWE-eiwitten, maïszetmeel, zout, natuurlijk aroma, knoflook, paprika-extract, zwarte peper. Bevat mogelijk: SOJA, SESAM, SELDERIJ en MOSTERD.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T02:19:07.248053+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "311",
-  "count": 1,
-  "updated_at": "2026-11-21T02:11:35.616952+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T02:19:07.268876+00:00",
   "products": {
     "3119070034017": {
       "barcode": "3119070034017",
@@ -23,7 +23,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T02:11:35.552217+00:00"
+      "updated_at": "2026-11-21T02:19:07.202972+00:00"
+    },
+    "3116430215468": {
+      "barcode": "3116430215468",
+      "product_name": "Biscuits étoiles",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/311/643/021/5468/front_fr.3.400.jpg",
+      "ingredients_text": "Farine de _blé_ - sucre - chocolat (19%)(sucre, pâte de cacao, beurre de cacao, _beurre_ pâtissier, émulsifiant: lécithine de _soja_, arôme) - graisse végétale (palme, palmiste, colza) - _beurre_ pâtissier - _lactose_ et protéines de _lait_ - _oeuf_ entier en poudre - sel - noix de coco (0,2%) - cacao maigre en poudre (0,2%) - blanc d'_oeuf_ en poudre - arômes - émulsifiant: lécithine de _soja_ - poudres à lever: carbonates de sodium, carbonates d'ammonium. Peut contenir des _amandes_, des _noisettes_ et d'autres _fruits à coques_. Fabriqué en UE ( Belgique/France) - farine de blé origine UE",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.253123+00:00"
     }
   }
 }

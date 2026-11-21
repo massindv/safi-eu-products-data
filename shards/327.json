@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "327",
-  "count": 10,
-  "updated_at": "2026-11-21T02:11:35.620628+00:00",
+  "count": 11,
+  "updated_at": "2026-11-21T02:19:07.272687+00:00",
   "products": {
     "3270190119586": {
       "barcode": "3270190119586",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.551222+00:00"
+      "updated_at": "2026-11-21T02:19:07.202152+00:00"
     },
     "3270190007074": {
       "barcode": "3270190007074",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.554593+00:00"
+      "updated_at": "2026-11-21T02:19:07.205111+00:00"
     },
     "3270190129622": {
       "barcode": "3270190129622",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.556782+00:00"
+      "updated_at": "2026-11-21T02:19:07.207040+00:00"
     },
     "3270190129615": {
       "barcode": "3270190129615",
@@ -86,7 +86,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.556956+00:00"
+      "updated_at": "2026-11-21T02:19:07.207190+00:00"
     },
     "3270190178859": {
       "barcode": "3270190178859",
@@ -107,7 +107,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.569804+00:00"
+      "updated_at": "2026-11-21T02:19:07.217835+00:00"
     },
     "3270190007081": {
       "barcode": "3270190007081",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.576704+00:00"
+      "updated_at": "2026-11-21T02:19:07.224001+00:00"
     },
     "3270720812505": {
       "barcode": "3270720812505",
@@ -149,7 +149,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.576765+00:00"
+      "updated_at": "2026-11-21T02:19:07.224054+00:00"
     },
     "3270190112266": {
       "barcode": "3270190112266",
@@ -170,7 +170,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.590530+00:00"
+      "updated_at": "2026-11-21T02:19:07.236067+00:00"
     },
     "3276559424773": {
       "barcode": "3276559424773",
@@ -191,7 +191,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.596548+00:00"
+      "updated_at": "2026-11-21T02:19:07.241274+00:00"
     },
     "3276650013050": {
       "barcode": "3276650013050",
@@ -212,7 +212,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.599521+00:00"
+      "updated_at": "2026-11-21T02:19:07.243886+00:00"
+    },
+    "3270190190660": {
+      "barcode": "3270190190660",
+      "product_name": "Mini-choux",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/327/019/019/0660/front_fr.35.400.jpg",
+      "ingredients_text": "Plantaardige oliën (geheel geharde kopraolie, kopraolie, koolzaadolie, zonnebloemolie), gepasteuriseerde hele _eieren_, rijstzetmeel, gedehydrateerde geraspte _kazen_, _wei_poeder, gesmolten geiten_kaas_ in poedervorm 3,3%, rijstbloem, _tarwe_bloem, natuurlijk aroma (bevat _melk_), stabilisator: sorbitolen, _kaas_specialiteit in poedervorm, _tarwe_zetmeel, zout, zwarte peper 0,4%, aardappelzetmeel, maanzaad, rijsmiddelen: glucono-delta-lacton en natriumcarbonaten, verdikkingsmiddel: xanthaangom, kleurstoffen: annatto norbixine en curcumine.\r\nKan sporen bevatten van vis.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.251200+00:00"
     }
   }
 }

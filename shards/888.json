@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "prefix": "888",
+  "count": 1,
+  "updated_at": "2026-11-21T02:19:07.315921+00:00",
+  "products": {
+    "8886467100369": {
+      "barcode": "8886467100369",
+      "product_name": "Pringles Sour Cream And Onion",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/888/646/710/0369/front_fr.4.400.jpg",
+      "ingredients_text": "Flocons de pommes de terre, huile végétale (oléine de palme (du fruit du palmier), antioxydant (BHQT/E319)), farine de maïs, amidon de blé, (gluten), arôme crème aigre et oignon (5,5 %) [sel, lactosérum (lait de vache), exhausteurs de goût (glutamate monosodique E621, E631, E627), dextrose, oignon en poudre, maltodextrine (blé(gluten)), sucre, arômes (lait de vache), huile de coco, poudre de lait écrémé (lait de vache), poudre de crème aigre (lait de vache) (crème, lait écrémé, culture d'acide lactique), régulateurs d'acidité (E330, E270, E296), lait fermenté (lait de vache), extrait de levure, agents antiagglomérants (E551, E341iii)], émulsifiant (E471), maltodextrine, régulateurs d'acidité (E330).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.252252+00:00"
+    }
+  }
+}

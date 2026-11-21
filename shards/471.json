@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "471",
+  "count": 1,
+  "updated_at": "2026-11-21T02:19:07.281708+00:00",
+  "products": {
+    "4710042178907": {
+      "barcode": "4710042178907",
+      "product_name": "Gebroken lijnzaad",
+      "store": "ah.nl",
+      "stores": [
+        "ah.nl"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/471/004/217/8907/front_nl.3.400.jpg",
+      "ingredients_text": "Lijnzaad",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-21T02:19:07.246971+00:00"
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "310",
-  "count": 1,
-  "updated_at": "2026-11-21T02:11:35.616650+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T02:19:07.268597+00:00",
   "products": {
     "3104544071568": {
       "barcode": "3104544071568",
@@ -25,7 +25,28 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.552719+00:00"
+      "updated_at": "2026-11-21T02:19:07.203505+00:00"
+    },
+    "3100080001427": {
+      "barcode": "3100080001427",
+      "product_name": "Mini quenelles fraîches Tomates séchées & pointe d'espelette",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/310/008/000/1427/front_fr.20.400.jpg",
+      "ingredients_text": "OEUFS - FRAIS, SEMOULE DE - BLE - DUR, BEURRE, - LAIT - FRAIS ÉCRÉMÉ, HUILE D'OLIVE, EAU, TOMATES SÉCHÉES (5 %: TOMATES, SEL), SEL, AIL, PIMENT D'ESPELETTE (0,2% ).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.253263+00:00"
     }
   }
 }

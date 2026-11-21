@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "000",
-  "count": 8,
-  "updated_at": "2026-11-21T02:11:35.603810+00:00",
+  "count": 9,
+  "updated_at": "2026-11-21T02:19:07.258792+00:00",
   "products": {
     "0000096067345": {
       "barcode": "0000096067345",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:11:35.420196+00:00"
+      "updated_at": "2026-11-21T02:19:07.088347+00:00"
     },
     "0000076222276": {
       "barcode": "0000076222276",
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:11:35.455609+00:00"
+      "updated_at": "2026-11-21T02:19:07.119547+00:00"
     },
     "0000080042556": {
       "barcode": "0000080042556",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:11:35.458303+00:00"
+      "updated_at": "2026-11-21T02:19:07.121836+00:00"
     },
     "0000054025271": {
       "barcode": "0000054025271",
@@ -125,7 +125,7 @@
       ],
       "reason": "Contains carmine / E120 / karmijnzuur insect colorant",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:11:35.464812+00:00"
+      "updated_at": "2026-11-21T02:19:07.127482+00:00"
     },
     "0000080035343": {
       "barcode": "0000080035343",
@@ -155,7 +155,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:11:35.483618+00:00"
+      "updated_at": "2026-11-21T02:19:07.143721+00:00"
     },
     "0000080023418": {
       "barcode": "0000080023418",
@@ -185,7 +185,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:11:35.483825+00:00"
+      "updated_at": "2026-11-21T02:19:07.143896+00:00"
     },
     "0000080023401": {
       "barcode": "0000080023401",
@@ -215,7 +215,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:11:35.484025+00:00"
+      "updated_at": "2026-11-21T02:19:07.144066+00:00"
     },
     "0000112407464": {
       "barcode": "0000112407464",
@@ -236,7 +236,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_BE",
-      "updated_at": "2026-11-21T02:11:35.564991+00:00"
+      "updated_at": "2026-11-21T02:19:07.214012+00:00"
+    },
+    "0005450362111": {
+      "barcode": "0005450362111",
+      "product_name": "Sunflower",
+      "store": "ah.nl",
+      "stores": [
+        "ah.nl"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/545/036/2111/front_nl.3.400.jpg",
+      "ingredients_text": "zonnebloemolie",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-21T02:19:07.246650+00:00"
     }
   }
 }

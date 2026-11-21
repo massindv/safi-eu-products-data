@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "325",
-  "count": 2,
-  "updated_at": "2026-11-21T02:11:35.620006+00:00",
+  "count": 4,
+  "updated_at": "2026-11-21T02:19:07.272105+00:00",
   "products": {
     "3255290252791": {
       "barcode": "3255290252791",
@@ -25,7 +25,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.545892+00:00"
+      "updated_at": "2026-11-21T02:19:07.197556+00:00"
     },
     "3255290253514": {
       "barcode": "3255290253514",
@@ -46,7 +46,53 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.546002+00:00"
+      "updated_at": "2026-11-21T02:19:07.197654+00:00"
+    },
+    "3256540031074": {
+      "barcode": "3256540031074",
+      "product_name": "briochettes au levain pasquier",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/325/654/003/1074/front_fr.6.400.jpg",
+      "ingredients_text": "Farine de blé 40% - levain 17% (farine de blé 9%, eau, sel) - œufs frais 13% - sucre - huile de colza - beurre concentré (lait) - levure - émulsifiant : mono et diglycérides d'acides gras - sel - rhum - gluten de blé - fibres de psyliium - arôme - colorant : caroténoïdes - antioxydant : acide ascorbique - protéines de lait.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.252505+00:00"
+    },
+    "3256540035676": {
+      "barcode": "3256540035676",
+      "product_name": "Brioche en tranches au levain",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/325/654/003/5676/front_fr.29.400.jpg",
+      "ingredients_text": "Farine de _blé_ 46 %, _oeufs_ frais 12,5 %, levain 7,5 % (farine de _blé_ 4 %, eau, sel), sucre, sirop de fructose-glucose, huile de colza, _beurre_ concentré (_lait_), levure, rhum, sel, émulsifiant : mono - et diglycérides d'acides gras, épaississant : farine de graines de caroube, arômes - Gluten de blé - protéines de _blé_, colorant : caroténoïdes, antioxydant : acide ascorbique.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.252686+00:00"
     }
   }
 }

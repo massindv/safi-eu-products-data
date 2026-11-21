@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "200",
-  "count": 1,
-  "updated_at": "2026-11-21T02:11:35.610967+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T02:19:07.263332+00:00",
   "products": {
     "2000000113874": {
       "barcode": "2000000113874",
@@ -23,7 +23,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_JUMBO_COM",
-      "updated_at": "2026-11-21T02:11:35.580245+00:00"
+      "updated_at": "2026-11-21T02:19:07.227143+00:00"
+    },
+    "2000000083518": {
+      "barcode": "2000000083518",
+      "product_name": "Lindt a cuisiner 70% cacao intense",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/full/000/008/3518/front_fr.4.400.jpg",
+      "ingredients_text": "pate de cacao, sucre, cacao maigre, beurre de caco, émulsifiant (lecithine de soja), arome naturel de vanille, peut contenir du lait et des fruits à coques.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.252797+00:00"
     }
   }
 }

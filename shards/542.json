@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "542",
-  "count": 2,
-  "updated_at": "2026-11-21T02:11:35.640908+00:00",
+  "count": 3,
+  "updated_at": "2026-11-21T02:19:07.291550+00:00",
   "products": {
     "5425001800414": {
       "barcode": "5425001800414",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T02:11:35.559151+00:00"
+      "updated_at": "2026-11-21T02:19:07.209031+00:00"
     },
     "5420027312309": {
       "barcode": "5420027312309",
@@ -46,7 +46,28 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_COLRUYT_BE",
-      "updated_at": "2026-11-21T02:11:35.571679+00:00"
+      "updated_at": "2026-11-21T02:19:07.219470+00:00"
+    },
+    "5425007881790": {
+      "barcode": "5425007881790",
+      "product_name": "Bel &bio Thins Milk Almond - Coconut 6X120G",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/542/500/788/1790/front_fr.17.400.jpg",
+      "ingredients_text": "Cane sugar. Cocoa butter. Whole milk powder , Sliced almonds I (17%). Sea salt (04%). Cocoa nbs. (04%). oOrganically-grown product. Production controlled by Certisys BE-BIO-01. ICocoa, Cane sugar: traded in compliance with Fairtrade standards, total 77% Visit www.info.fairtrade.net. May contain hazelnuts, pistachios and Zutaten: Rohrzucker Kakaobutter, Vollmilchpulver Cocoa mass&quot;, Coconut® (3.4%), Cocoa ) Kakaoma Mandeln° (17%). ökologischer Lan (3.4%), (0,4%), Kakaopulver&quot; geschälte er(0.4%),*Aus osnusse Meersatz Kakaospım t. Produktion kontrolliert durch Certisys kdo, Rohrzuckerl: nach Fairtrade-Standards samtanteil 77% wwwinfo.faîtrade.net. Kann Spuren gehandelt. Ge von Haseinüssen. Pistazien und Soja enthalten.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.250764+00:00"
     }
   }
 }

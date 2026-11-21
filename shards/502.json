@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "502",
-  "count": 2,
-  "updated_at": "2026-11-21T02:11:35.631008+00:00",
+  "count": 3,
+  "updated_at": "2026-11-21T02:19:07.283496+00:00",
   "products": {
     "5021991938917": {
       "barcode": "5021991938917",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:11:35.448222+00:00"
+      "updated_at": "2026-11-21T02:19:07.113118+00:00"
     },
     "5029396738767": {
       "barcode": "5029396738767",
@@ -62,7 +62,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:11:35.462730+00:00"
+      "updated_at": "2026-11-21T02:19:07.125646+00:00"
+    },
+    "5024157994321": {
+      "barcode": "5024157994321",
+      "product_name": "Brown basmati",
+      "store": "ah.nl",
+      "stores": [
+        "ah.nl"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/502/415/799/4321/front_en.3.400.jpg",
+      "ingredients_text": "wholegrain brown basmati",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_AH_NL",
+      "updated_at": "2026-11-21T02:19:07.247094+00:00"
     }
   }
 }

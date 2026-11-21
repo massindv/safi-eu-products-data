@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "324",
-  "count": 4,
-  "updated_at": "2026-11-21T02:11:35.619626+00:00",
+  "count": 5,
+  "updated_at": "2026-11-21T02:19:07.271748+00:00",
   "products": {
     "3245412718694": {
       "barcode": "3245412718694",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.554909+00:00"
+      "updated_at": "2026-11-21T02:19:07.205382+00:00"
     },
     "3245412730924": {
       "barcode": "3245412730924",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.557052+00:00"
+      "updated_at": "2026-11-21T02:19:07.207273+00:00"
     },
     "3245413157522": {
       "barcode": "3245413157522",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.557219+00:00"
+      "updated_at": "2026-11-21T02:19:07.207406+00:00"
     },
     "3245413152527": {
       "barcode": "3245413152527",
@@ -86,7 +86,30 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.599230+00:00"
+      "updated_at": "2026-11-21T02:19:07.243628+00:00"
+    },
+    "3245413553300": {
+      "barcode": "3245413553300",
+      "product_name": "Galette des Rois Frangipane",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/324/541/355/3300/front_fr.63.400.jpg",
+      "ingredients_text": "_Tarwe_bloem 41%, _boter_concentraat 23%, water, suiker, _amandel_poeder 5%, verse _eieren_, _lactose_ en _melk_eiwitten, zout, rum, magere_melk_poeder, rijsmiddelen: natriumcarbonaten, natriumcitraten, aroma, _tarwe_gluten, meelverbeteraar: L-Cysteïne. Kan sporen bevatten van andere noten.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.249680+00:00"
     }
   }
 }

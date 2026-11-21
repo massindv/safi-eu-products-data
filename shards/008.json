@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "008",
-  "count": 7,
-  "updated_at": "2026-11-21T02:11:35.605799+00:00",
+  "count": 8,
+  "updated_at": "2026-11-21T02:19:07.260717+00:00",
   "products": {
     "0088009740219": {
       "barcode": "0088009740219",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.551965+00:00"
+      "updated_at": "2026-11-21T02:19:07.202775+00:00"
     },
     "0089686170726": {
       "barcode": "0089686170726",
@@ -46,7 +46,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.555583+00:00"
+      "updated_at": "2026-11-21T02:19:07.205964+00:00"
     },
     "0088009901016": {
       "barcode": "0088009901016",
@@ -67,7 +67,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.575301+00:00"
+      "updated_at": "2026-11-21T02:19:07.222762+00:00"
     },
     "0088009390728": {
       "barcode": "0088009390728",
@@ -88,7 +88,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.594552+00:00"
+      "updated_at": "2026-11-21T02:19:07.239563+00:00"
     },
     "0088009680720": {
       "barcode": "0088009680720",
@@ -109,7 +109,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.594677+00:00"
+      "updated_at": "2026-11-21T02:19:07.239669+00:00"
     },
     "0088009770728": {
       "barcode": "0088009770728",
@@ -130,7 +130,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.594784+00:00"
+      "updated_at": "2026-11-21T02:19:07.239761+00:00"
     },
     "0088009900095": {
       "barcode": "0088009900095",
@@ -151,7 +151,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:11:35.594915+00:00"
+      "updated_at": "2026-11-21T02:19:07.239867+00:00"
+    },
+    "0088702526790": {
+      "barcode": "0088702526790",
+      "product_name": "Caramel spread product of france",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/008/870/252/6790/front_fr.15.400.jpg",
+      "ingredients_text": "Lait condensé sucré, sirop de glucose, sucre, eau, citrate de sodium, sel, pectine de fruits",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:19:07.253358+00:00"
     }
   }
 }
