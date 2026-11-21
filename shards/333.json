@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "333",
   "count": 3,
-  "updated_at": "2026-11-21T04:57:31.108014+00:00",
+  "updated_at": "2026-11-21T05:13:16.360285+00:00",
   "products": {
     "3331890003510": {
       "barcode": "3331890003510",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T04:57:31.033350+00:00"
+      "updated_at": "2026-11-21T05:13:16.291291+00:00"
     },
     "3330720251497": {
       "barcode": "3330720251497",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T04:57:31.046299+00:00"
+      "updated_at": "2026-11-21T05:13:16.306035+00:00"
     },
     "3336772444641": {
       "barcode": "3336772444641",
@@ -67,7 +67,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T04:57:31.069844+00:00"
+      "updated_at": "2026-11-21T05:13:16.330634+00:00"
     }
   }
 }
