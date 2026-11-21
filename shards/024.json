@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "024",
   "count": 1,
-  "updated_at": "2026-11-21T08:32:44.547252+00:00",
+  "updated_at": "2026-11-21T08:53:20.382904+00:00",
   "products": {
     "02441665": {
       "barcode": "02441665",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T08:32:44.536103+00:00"
+      "updated_at": "2026-11-21T08:53:20.373526+00:00"
     }
   }
 }
