@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "316",
-  "count": 6,
-  "updated_at": "2026-11-21T02:02:28.421994+00:00",
+  "count": 7,
+  "updated_at": "2026-11-21T02:11:35.617600+00:00",
   "products": {
     "3166291465007": {
       "barcode": "3166291465007",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.366215+00:00"
+      "updated_at": "2026-11-21T02:11:35.555134+00:00"
     },
     "3166291495608": {
       "barcode": "3166291495608",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.366259+00:00"
+      "updated_at": "2026-11-21T02:11:35.555182+00:00"
     },
     "3168930005681": {
       "barcode": "3168930005681",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.377092+00:00"
+      "updated_at": "2026-11-21T02:11:35.567678+00:00"
     },
     "3168930009887": {
       "barcode": "3168930009887",
@@ -86,7 +86,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.378162+00:00"
+      "updated_at": "2026-11-21T02:11:35.568972+00:00"
     },
     "3168930010609": {
       "barcode": "3168930010609",
@@ -107,7 +107,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.378581+00:00"
+      "updated_at": "2026-11-21T02:11:35.569634+00:00"
     },
     "3168930160441": {
       "barcode": "3168930160441",
@@ -128,7 +128,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.395244+00:00"
+      "updated_at": "2026-11-21T02:11:35.588343+00:00"
+    },
+    "3166296205516": {
+      "barcode": "3166296205516",
+      "product_name": "Curry balti médium",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/316/629/620/5516/front_fr.25.400.jpg",
+      "ingredients_text": "Graine de coriandre 32%, cumin (14,5%), fenugrec, graine de moutarde, ail déshydraté, gingembre (7%), sel, curcuma, laurier, piment de Cayenne, poivre noir, cannelle, muscade, girofle.",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:11:35.598027+00:00"
     }
   }
 }

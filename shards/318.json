@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "318",
-  "count": 5,
-  "updated_at": "2026-11-21T02:02:28.423047+00:00",
+  "count": 6,
+  "updated_at": "2026-11-21T02:11:35.618458+00:00",
   "products": {
     "3181550000454": {
       "barcode": "3181550000454",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.375405+00:00"
+      "updated_at": "2026-11-21T02:11:35.565671+00:00"
     },
     "3181550000447": {
       "barcode": "3181550000447",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.375518+00:00"
+      "updated_at": "2026-11-21T02:11:35.565803+00:00"
     },
     "3181550000409": {
       "barcode": "3181550000409",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.375770+00:00"
+      "updated_at": "2026-11-21T02:11:35.566103+00:00"
     },
     "3180840008224": {
       "barcode": "3180840008224",
@@ -86,7 +86,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.385171+00:00"
+      "updated_at": "2026-11-21T02:11:35.577010+00:00"
     },
     "3182650038804": {
       "barcode": "3182650038804",
@@ -107,7 +107,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.393050+00:00"
+      "updated_at": "2026-11-21T02:11:35.585806+00:00"
+    },
+    "3180840005865": {
+      "barcode": "3180840005865",
+      "product_name": "Figues sèches Lérida",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/318/084/000/5865/front_fr.84.400.jpg",
+      "ingredients_text": "Figues sèches de Turquie. Catégorie 1.Type Lerida.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:11:35.597530+00:00"
     }
   }
 }

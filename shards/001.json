@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "001",
+  "count": 1,
+  "updated_at": "2026-11-21T02:11:35.604574+00:00",
+  "products": {
+    "0014113230018": {
+      "barcode": "0014113230018",
+      "product_name": "Almonds - Natural",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/001/411/323/0018/front_fr.47.400.jpg",
+      "ingredients_text": "Amandes (100%)",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:11:35.599086+00:00"
+    }
+  }
+}

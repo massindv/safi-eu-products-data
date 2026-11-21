@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "322",
-  "count": 1,
-  "updated_at": "2026-11-21T02:02:28.424038+00:00",
+  "count": 3,
+  "updated_at": "2026-11-21T02:11:35.619256+00:00",
   "products": {
     "3228020232028": {
       "barcode": "3228020232028",
@@ -34,7 +34,49 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:02:28.281924+00:00"
+      "updated_at": "2026-11-21T02:11:35.447353+00:00"
+    },
+    "3229820794754": {
+      "barcode": "3229820794754",
+      "product_name": "Galettes maïs, amarante, lin bio Sans gluten",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/322/982/079/4754/front_fr.43.400.jpg",
+      "ingredients_text": "Maïs 91,7%,amarante 4%, graines de lin 4%, sel,\nPeut contenir des traces de graines de sésames",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:11:35.597892+00:00"
+    },
+    "3229820794761": {
+      "barcode": "3229820794761",
+      "product_name": "Galette, mais , amarante",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/322/982/079/4761/front_fr.31.400.jpg",
+      "ingredients_text": "Galette de Maïs soufflé  95,7%, amarante soufflé 4%, sel,",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:11:35.598228+00:00"
     }
   }
 }

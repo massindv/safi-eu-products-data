@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "324",
-  "count": 3,
-  "updated_at": "2026-11-21T02:02:28.424333+00:00",
+  "count": 4,
+  "updated_at": "2026-11-21T02:11:35.619626+00:00",
   "products": {
     "3245412718694": {
       "barcode": "3245412718694",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.366015+00:00"
+      "updated_at": "2026-11-21T02:11:35.554909+00:00"
     },
     "3245412730924": {
       "barcode": "3245412730924",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.367880+00:00"
+      "updated_at": "2026-11-21T02:11:35.557052+00:00"
     },
     "3245413157522": {
       "barcode": "3245413157522",
@@ -65,7 +65,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.368016+00:00"
+      "updated_at": "2026-11-21T02:11:35.557219+00:00"
+    },
+    "3245413152527": {
+      "barcode": "3245413152527",
+      "product_name": "Salade prête à consommer Iceberg",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/324/541/315/2527/front_fr.85.400.jpg",
+      "ingredients_text": "Laitue Iceberg.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:11:35.599230+00:00"
     }
   }
 }

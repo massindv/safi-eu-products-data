@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "803",
+  "count": 1,
+  "updated_at": "2026-11-21T02:11:35.648232+00:00",
+  "products": {
+    "8032804430471": {
+      "barcode": "8032804430471",
+      "product_name": "Linea legumi sedanini lenticchie rosse bio",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/803/280/443/0471/front_fr.36.400.jpg",
+      "ingredients_text": "100% meel van biologische rode linzen.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:11:35.599765+00:00"
+    }
+  }
+}

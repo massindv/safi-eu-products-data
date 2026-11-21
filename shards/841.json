@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "841",
   "count": 6,
-  "updated_at": "2026-11-21T02:02:28.452804+00:00",
+  "updated_at": "2026-11-21T02:11:35.648937+00:00",
   "products": {
     "8410065630586": {
       "barcode": "8410065630586",
@@ -34,7 +34,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:02:28.275839+00:00"
+      "updated_at": "2026-11-21T02:11:35.440258+00:00"
     },
     "8410066139231": {
       "barcode": "8410066139231",
@@ -64,7 +64,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:02:28.294805+00:00"
+      "updated_at": "2026-11-21T02:11:35.462530+00:00"
     },
     "8410702054065": {
       "barcode": "8410702054065",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:02:28.301893+00:00"
+      "updated_at": "2026-11-21T02:11:35.470756+00:00"
     },
     "8410010877592": {
       "barcode": "8410010877592",
@@ -124,7 +124,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:02:28.313159+00:00"
+      "updated_at": "2026-11-21T02:11:35.483368+00:00"
     },
     "8410525232060": {
       "barcode": "8410525232060",
@@ -145,7 +145,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.376965+00:00"
+      "updated_at": "2026-11-21T02:11:35.567526+00:00"
     },
     "8410148500591": {
       "barcode": "8410148500591",
@@ -166,7 +166,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.396963+00:00"
+      "updated_at": "2026-11-21T02:11:35.590331+00:00"
     }
   }
 }

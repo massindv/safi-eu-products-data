@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "377",
-  "count": 6,
-  "updated_at": "2026-11-21T02:02:28.433315+00:00",
+  "count": 7,
+  "updated_at": "2026-11-21T02:11:35.628439+00:00",
   "products": {
     "3770025799117": {
       "barcode": "3770025799117",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.377725+00:00"
+      "updated_at": "2026-11-21T02:11:35.568466+00:00"
     },
     "3770002675113": {
       "barcode": "3770002675113",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.382504+00:00"
+      "updated_at": "2026-11-21T02:11:35.574058+00:00"
     },
     "3770002475119": {
       "barcode": "3770002475119",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.383054+00:00"
+      "updated_at": "2026-11-21T02:11:35.574668+00:00"
     },
     "3770003961116": {
       "barcode": "3770003961116",
@@ -86,7 +86,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.384626+00:00"
+      "updated_at": "2026-11-21T02:11:35.576400+00:00"
     },
     "3770003864004": {
       "barcode": "3770003864004",
@@ -110,7 +110,7 @@
       ],
       "reason": "Contains carmine / E120 / karmijnzuur insect colorant",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.393162+00:00"
+      "updated_at": "2026-11-21T02:11:35.585931+00:00"
     },
     "3770002165072": {
       "barcode": "3770002165072",
@@ -131,7 +131,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.401699+00:00"
+      "updated_at": "2026-11-21T02:11:35.595760+00:00"
+    },
+    "3770003961000": {
+      "barcode": "3770003961000",
+      "product_name": "Tofu nature",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/377/000/396/1000/front_fr.39.400.jpg",
+      "ingredients_text": "Eau filtrée, graines de soja* 25%, nigari. *Ingrédients issus de l'agriculture biologique.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:11:35.596270+00:00"
     }
   }
 }

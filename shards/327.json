@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "327",
-  "count": 8,
-  "updated_at": "2026-11-21T02:02:28.425541+00:00",
+  "count": 10,
+  "updated_at": "2026-11-21T02:11:35.620628+00:00",
   "products": {
     "3270190119586": {
       "barcode": "3270190119586",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.362904+00:00"
+      "updated_at": "2026-11-21T02:11:35.551222+00:00"
     },
     "3270190007074": {
       "barcode": "3270190007074",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.365739+00:00"
+      "updated_at": "2026-11-21T02:11:35.554593+00:00"
     },
     "3270190129622": {
       "barcode": "3270190129622",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.367643+00:00"
+      "updated_at": "2026-11-21T02:11:35.556782+00:00"
     },
     "3270190129615": {
       "barcode": "3270190129615",
@@ -86,7 +86,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.367794+00:00"
+      "updated_at": "2026-11-21T02:11:35.556956+00:00"
     },
     "3270190178859": {
       "barcode": "3270190178859",
@@ -107,7 +107,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.378694+00:00"
+      "updated_at": "2026-11-21T02:11:35.569804+00:00"
     },
     "3270190007081": {
       "barcode": "3270190007081",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.384894+00:00"
+      "updated_at": "2026-11-21T02:11:35.576704+00:00"
     },
     "3270720812505": {
       "barcode": "3270720812505",
@@ -149,7 +149,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.384950+00:00"
+      "updated_at": "2026-11-21T02:11:35.576765+00:00"
     },
     "3270190112266": {
       "barcode": "3270190112266",
@@ -170,7 +170,49 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T02:02:28.397139+00:00"
+      "updated_at": "2026-11-21T02:11:35.590530+00:00"
+    },
+    "3276559424773": {
+      "barcode": "3276559424773",
+      "product_name": "KIWIS bio",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/327/655/942/4773/front_fr.28.400.jpg",
+      "ingredients_text": "Hayward calibre 36 (80-85 g).",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:11:35.596548+00:00"
+    },
+    "3276650013050": {
+      "barcode": "3276650013050",
+      "product_name": "Riz long parfumé Dragon",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/327/665/001/3050/front_fr.32.400.jpg",
+      "ingredients_text": "Riz long parfumé",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:11:35.599521+00:00"
     }
   }
 }

@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "221",
   "count": 3,
-  "updated_at": "2026-11-21T02:02:28.414485+00:00",
+  "updated_at": "2026-11-21T02:11:35.611791+00:00",
   "products": {
     "2219210003253": {
       "barcode": "2219210003253",
@@ -25,7 +25,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T02:02:28.374908+00:00"
+      "updated_at": "2026-11-21T02:11:35.565077+00:00"
     },
     "2219110002974": {
       "barcode": "2219110002974",
@@ -48,7 +48,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T02:02:28.374989+00:00"
+      "updated_at": "2026-11-21T02:11:35.565183+00:00"
     },
     "2215520001729": {
       "barcode": "2215520001729",
@@ -71,7 +71,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T02:02:28.375071+00:00"
+      "updated_at": "2026-11-21T02:11:35.565276+00:00"
     }
   }
 }
