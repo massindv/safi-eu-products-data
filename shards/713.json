@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "713",
+  "count": 1,
+  "updated_at": "2026-11-21T02:39:47.292374+00:00",
+  "products": {
+    "7131613678706": {
+      "barcode": "7131613678706",
+      "product_name": "sanpellegrino aranciata rossa",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/713/161/367/8706/front_fr.5.400.jpg",
+      "ingredients_text": "water, sinaasappelsap op basis van concentraat (17%), suiker, bloedsinaasappelsap op basis van concentraat (3%), koolzuurgas, sinaasappel extract, natuurlijk sinaasappel aroma met andere natuurlijke aroma's, kleuren: anthocyaninen, paprika-extract, voedingszuur: citroenzuur; stabilisator: pectine",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:39:47.253005+00:00"
+    }
+  }
+}

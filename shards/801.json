@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "801",
   "count": 2,
-  "updated_at": "2026-11-21T02:29:26.970454+00:00",
+  "updated_at": "2026-11-21T02:39:47.295717+00:00",
   "products": {
     "8019873924100": {
       "barcode": "8019873924100",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T02:29:26.713762+00:00"
+      "updated_at": "2026-11-21T02:39:47.102832+00:00"
     },
     "8013399180323": {
       "barcode": "8013399180323",
@@ -56,7 +56,7 @@
       ],
       "reason": "Contains carmine / E120 / karmijnzuur insect colorant",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T02:29:26.877332+00:00"
+      "updated_at": "2026-11-21T02:39:47.251512+00:00"
     }
   }
 }
