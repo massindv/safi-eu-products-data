@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "500",
   "count": 6,
-  "updated_at": "2026-11-21T05:13:16.370161+00:00",
+  "updated_at": "2026-11-21T05:33:29.240729+00:00",
   "products": {
     "5000232957283": {
       "barcode": "5000232957283",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T05:13:16.159115+00:00"
+      "updated_at": "2026-11-21T05:33:29.017860+00:00"
     },
     "5000232957306": {
       "barcode": "5000232957306",
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T05:13:16.159251+00:00"
+      "updated_at": "2026-11-21T05:33:29.017947+00:00"
     },
     "5000159560979": {
       "barcode": "5000159560979",
@@ -94,7 +94,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T05:13:16.171427+00:00"
+      "updated_at": "2026-11-21T05:33:29.029148+00:00"
     },
     "5000111041010": {
       "barcode": "5000111041010",
@@ -124,7 +124,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T05:13:16.204427+00:00"
+      "updated_at": "2026-11-21T05:33:29.060863+00:00"
     },
     "5000168199221": {
       "barcode": "5000168199221",
@@ -145,7 +145,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T05:13:16.299870+00:00"
+      "updated_at": "2026-11-21T05:33:29.156762+00:00"
     },
     "5000168199269": {
       "barcode": "5000168199269",
@@ -166,7 +166,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T05:13:16.300172+00:00"
+      "updated_at": "2026-11-21T05:33:29.157043+00:00"
     }
   }
 }
