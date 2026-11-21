@@ -1,0 +1,92 @@
+{
+  "version": "1.0",
+  "prefix": "302",
+  "count": 4,
+  "updated_at": "2026-11-21T00:34:03.145476+00:00",
+  "products": {
+    "3020640010884": {
+      "barcode": "3020640010884",
+      "product_name": "Fruity & Refreshing - Guava",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/302/064/001/0884/front_fr.4.400.jpg",
+      "ingredients_text": "Eau; purée de goyave (17%); sucre; jus de pomme à base de concentré (12%) ; acidifiant : acide citrique ; vitamine C.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:34:03.132117+00:00"
+    },
+    "3020640100738": {
+      "barcode": "3020640100738",
+      "product_name": "Réa Orange passion",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/302/064/010/0738/front_fr.25.400.jpg",
+      "ingredients_text": "Eau, jus à base de concentrés de : orange (26%), passion (4%), sucre, arôme naturel de fruit de la passion, acidifiant : acide citrique : vitamine c",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:34:03.132462+00:00"
+    },
+    "3020648106459": {
+      "barcode": "3020648106459",
+      "product_name": "Tropical",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/302/064/810/6459/front_fr.4.400.jpg",
+      "ingredients_text": "Eau, jus à base de jus concentrés et purée de : orange, mangue, citron vert et litchi, sucre, vitamine C, arômes naturels",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:34:03.132683+00:00"
+    },
+    "3020640010464": {
+      "barcode": "3020640010464",
+      "product_name": "Jus orange banane",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/302/064/001/0464/front_fr.17.400.jpg",
+      "ingredients_text": "Eau, jus de concentrés et purées de : orange (22%), banane (13%), sucre, acidifiant : acide citrique : Vitamine C",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:34:03.133324+00:00"
+    }
+  }
+}

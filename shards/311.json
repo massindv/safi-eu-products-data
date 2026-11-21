@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "311",
+  "count": 1,
+  "updated_at": "2026-11-21T00:34:03.148098+00:00",
+  "products": {
+    "3119070034017": {
+      "barcode": "3119070034017",
+      "product_name": "Eau minérale naturelle",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/311/907/003/4017/front_fr.13.400.jpg",
+      "ingredients_text": "Eau minérale naturelle renforcée au gaz de la source",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:34:03.133396+00:00"
+    }
+  }
+}

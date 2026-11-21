@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "611",
+  "count": 1,
+  "updated_at": "2026-11-21T00:34:03.159944+00:00",
+  "products": {
+    "6111018600039": {
+      "barcode": "6111018600039",
+      "product_name": "MAGGI Soupe déshydratée Halal Chorba 110g en boite",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/611/101/860/0039/front_fr.40.400.jpg",
+      "ingredients_text": "Pâtes 35% (semoule de BLE dur), légumes 24,8% (tomate 13,3%, oignon 11,5%), farine de BLE, sel de cuisine, sucre, fécules, extrait de levure, huile d'olive vierge extra, arômes (ŒUFS, BLE), persil, graines de coriandre, poivre blanc, paprika. Peut contenir : céleri, lait, moutarde.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:34:03.132890+00:00"
+    }
+  }
+}

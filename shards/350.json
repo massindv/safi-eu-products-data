@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "350",
+  "count": 1,
+  "updated_at": "2026-11-21T00:34:03.150681+00:00",
+  "products": {
+    "3502110009845": {
+      "barcode": "3502110009845",
+      "product_name": "Lipton Ice Tea pocket saveur pêche 20 cl",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/350/211/000/9845/front_fr.27.400.jpg",
+      "ingredients_text": "Eau,sucre,fructose,extrait de thé noir⁽¹⁾ (1,2 g/l),acidifiants (acide citrique, acide malique),jus de pêche à base de concentré (0,1%),correcteur d'acidité (citrate trisodique),arômes,antioxydant (acide ascorbique),édulcorant (glycosides de stéviol),⁽¹⁾Vérifié Rainforest Alliance.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:34:03.132313+00:00"
+    }
+  }
+}

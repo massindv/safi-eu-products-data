@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "327",
+  "count": 1,
+  "updated_at": "2026-11-21T00:34:03.150133+00:00",
+  "products": {
+    "3270190119586": {
+      "barcode": "3270190119586",
+      "product_name": "Mini fruity",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/327/019/011/9586/front_fr.54.400.jpg",
+      "ingredients_text": "Water, vruchtensap uit sapconcentraten 12% (appel 10%, sinaasappel 1%, ananas 0,84%, mango 0,08%, passievrucht 0,08%), suiker, voedingszuur: citroenzuur, natuurlijke aroma's, extract van paprika, \nantioxidant: ascorbinezuur.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:34:03.132588+00:00"
+    }
+  }
+}

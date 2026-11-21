@@ -2,7 +2,7 @@
   "version": "1.0",
   "prefix": "872",
   "count": 6,
-  "updated_at": "2026-11-21T00:25:50.603217+00:00",
+  "updated_at": "2026-11-21T00:34:03.184445+00:00",
   "products": {
     "8727500033094": {
       "barcode": "8727500033094",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:25:50.447443+00:00"
+      "updated_at": "2026-11-21T00:34:03.028246+00:00"
     },
     "8721800408880": {
       "barcode": "8721800408880",
@@ -64,7 +64,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:25:50.462836+00:00"
+      "updated_at": "2026-11-21T00:34:03.044509+00:00"
     },
     "8721800408866": {
       "barcode": "8721800408866",
@@ -96,7 +96,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:25:50.462927+00:00"
+      "updated_at": "2026-11-21T00:34:03.044602+00:00"
     },
     "8722700255642": {
       "barcode": "8722700255642",
@@ -128,7 +128,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:25:50.472742+00:00"
+      "updated_at": "2026-11-21T00:34:03.054428+00:00"
     },
     "8720182103406": {
       "barcode": "8720182103406",
@@ -158,7 +158,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T00:25:50.481934+00:00"
+      "updated_at": "2026-11-21T00:34:03.063672+00:00"
     },
     "8723400780748": {
       "barcode": "8723400780748",
@@ -181,7 +181,7 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T00:25:50.526733+00:00"
+      "updated_at": "2026-11-21T00:34:03.123690+00:00"
     }
   }
 }

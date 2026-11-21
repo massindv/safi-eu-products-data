@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "779",
+  "count": 1,
+  "updated_at": "2026-11-21T00:34:03.161892+00:00",
+  "products": {
+    "7790387014327": {
+      "barcode": "7790387014327",
+      "product_name": "Original",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/779/038/701/4327/front_fr.6.400.jpg",
+      "ingredients_text": "YERBA MATE ELABORADA CON PALO LIBRE DE GLUTEN - SIN T.A.C.C.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:34:03.132984+00:00"
+    }
+  }
+}

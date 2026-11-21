@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "008",
+  "count": 1,
+  "updated_at": "2026-11-21T00:34:03.144639+00:00",
+  "products": {
+    "0088009740219": {
+      "barcode": "0088009740219",
+      "product_name": "Top Kid mangue orange",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/008/800/974/0219/front_fr.4.400.jpg",
+      "ingredients_text": "Jus concentré de pomme (72%), purée de mangue (16%), jus concentré de multifruits (12% - orange, pomme, mangue, goyave), antioxydant : acide ascorbique",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:34:03.133200+00:00"
+    }
+  }
+}
