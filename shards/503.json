@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "503",
-  "count": 1,
-  "updated_at": "2026-11-21T01:52:41.883925+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T02:02:28.436665+00:00",
   "products": {
     "5038862132503": {
       "barcode": "5038862132503",
@@ -23,7 +23,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T01:52:41.838607+00:00"
+      "updated_at": "2026-11-21T02:02:28.383906+00:00"
+    },
+    "5038862137317": {
+      "barcode": "5038862137317",
+      "product_name": "Super Vert",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/503/886/213/7317/front_fr.28.400.jpg",
+      "ingredients_text": "5 pommes pressées (80 %), 3/4 de poire mixée (13 %), 1/4 de concombre mixé (6 %), une lichette de jus de citron vert, un peu d'extrait de Spiruline, un peu d'extrait de gingembre (0,12 %), un peu d'extrait de carthame, une once d'infusion de réglisse et des vitamines (B1, B2, B3, B6 et E).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:02:28.401899+00:00"
     }
   }
 }

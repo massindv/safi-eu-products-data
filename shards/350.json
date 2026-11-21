@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "350",
-  "count": 3,
-  "updated_at": "2026-11-21T01:52:41.876560+00:00",
+  "count": 4,
+  "updated_at": "2026-11-21T02:02:28.429238+00:00",
   "products": {
     "3502110009845": {
       "barcode": "3502110009845",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:52:41.815658+00:00"
+      "updated_at": "2026-11-21T02:02:28.362630+00:00"
     },
     "3502110006813": {
       "barcode": "3502110006813",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:52:41.837363+00:00"
+      "updated_at": "2026-11-21T02:02:28.382699+00:00"
     },
     "3501270009511": {
       "barcode": "3501270009511",
@@ -65,7 +65,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:52:41.853003+00:00"
+      "updated_at": "2026-11-21T02:02:28.397865+00:00"
+    },
+    "3502110007810": {
+      "barcode": "3502110007810",
+      "product_name": "Ice tea saveur pêche",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/350/211/000/7810/front_en.19.400.jpg",
+      "ingredients_text": "Eau, sucre, acidifiant (acide citrique), extrait de thé noir (1,4g/l), jus de pêche à base de concentré (0,1%), arômes, antioxydant (acide ascorbique)",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:02:28.401242+00:00"
     }
   }
 }

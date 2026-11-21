@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "303",
-  "count": 1,
-  "updated_at": "2026-11-21T01:52:41.867396+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T02:02:28.418349+00:00",
   "products": {
     "3033491024481": {
       "barcode": "3033491024481",
@@ -23,7 +23,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T01:52:41.829580+00:00"
+      "updated_at": "2026-11-21T02:02:28.376293+00:00"
+    },
+    "3033710007288": {
+      "barcode": "3033710007288",
+      "product_name": "P'tite Boisson pomme peche 4/6 mois",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/303/371/000/7288/front_fr.9.400.jpg",
+      "ingredients_text": "jus de pommes à base de concentré 83%, pulpe de pêches 16.6%,vitamine C.",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:02:28.401063+00:00"
     }
   }
 }

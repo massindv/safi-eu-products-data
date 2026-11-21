@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "008",
-  "count": 3,
-  "updated_at": "2026-11-21T01:52:41.858683+00:00",
+  "count": 7,
+  "updated_at": "2026-11-21T02:02:28.406795+00:00",
   "products": {
     "0088009740219": {
       "barcode": "0088009740219",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:52:41.816569+00:00"
+      "updated_at": "2026-11-21T02:02:28.363519+00:00"
     },
     "0089686170726": {
       "barcode": "0089686170726",
@@ -46,7 +46,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:52:41.819714+00:00"
+      "updated_at": "2026-11-21T02:02:28.366603+00:00"
     },
     "0088009901016": {
       "barcode": "0088009901016",
@@ -67,7 +67,91 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:52:41.838331+00:00"
+      "updated_at": "2026-11-21T02:02:28.383634+00:00"
+    },
+    "0088009390728": {
+      "barcode": "0088009390728",
+      "product_name": "Rotui mangue",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/008/800/939/0728/front_fr.17.400.jpg",
+      "ingredients_text": "Eau, purée de mangue (22%), sucre, acidifiant : acide citrique, antioxydant : vitamine C",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:02:28.400644+00:00"
+    },
+    "0088009680720": {
+      "barcode": "0088009680720",
+      "product_name": "Pomme-pêche",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/008/800/968/0720/front_fr.4.400.jpg",
+      "ingredients_text": "eau (64,3%), jus concentré de pomme (16%), sucre, purée de pêche à base de concentré (11%), acidifiant : E330, E331, vitamine C : E300, arôme.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:02:28.400753+00:00"
+    },
+    "0088009770728": {
+      "barcode": "0088009770728",
+      "product_name": "Coca cola zero sucre",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/008/800/977/0728/front_fr.4.400.jpg",
+      "ingredients_text": "Eau gazéifiée, colorant (E150d). Acidifiants (E338, E331). Arôme édulcorants (E951, E950). Conservateur (E211). Caféine, PHÉNYLALANINE",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:02:28.400847+00:00"
+    },
+    "0088009900095": {
+      "barcode": "0088009900095",
+      "product_name": "Multifruit",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/008/800/990/0095/front_fr.4.400.jpg",
+      "ingredients_text": "jus concentré de multifruits (orange, pomme, mangue, goyave) jus concentré d'ananas, purée de noni, antioxydant : vitamine C",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:02:28.400955+00:00"
     }
   }
 }

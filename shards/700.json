@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "700",
+  "count": 1,
+  "updated_at": "2026-11-21T02:02:28.447243+00:00",
+  "products": {
+    "7006864030064": {
+      "barcode": "7006864030064",
+      "product_name": "Ice Rooibos Lemon",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "beverages",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/700/686/403/0064/front_fr.17.400.jpg",
+      "ingredients_text": "Eau, sucre de canne, acidifiant: acide citrique, extrait de rooibos, extrait naturel de citron.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T02:02:28.401981+00:00"
+    }
+  }
+}
