@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "841",
-  "count": 5,
-  "updated_at": "2026-11-21T01:44:31.003186+00:00",
+  "count": 6,
+  "updated_at": "2026-11-21T01:52:41.898106+00:00",
   "products": {
     "8410065630586": {
       "barcode": "8410065630586",
@@ -34,7 +34,7 @@
       ],
       "reason": "Contains alcoholic ingredients or spirits",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:44:30.801035+00:00"
+      "updated_at": "2026-11-21T01:52:41.727961+00:00"
     },
     "8410066139231": {
       "barcode": "8410066139231",
@@ -64,7 +64,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:44:30.820074+00:00"
+      "updated_at": "2026-11-21T01:52:41.748336+00:00"
     },
     "8410702054065": {
       "barcode": "8410702054065",
@@ -94,7 +94,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:44:30.827097+00:00"
+      "updated_at": "2026-11-21T01:52:41.755604+00:00"
     },
     "8410010877592": {
       "barcode": "8410010877592",
@@ -124,7 +124,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:44:30.838262+00:00"
+      "updated_at": "2026-11-21T01:52:41.766383+00:00"
     },
     "8410525232060": {
       "barcode": "8410525232060",
@@ -145,7 +145,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.919111+00:00"
+      "updated_at": "2026-11-21T01:52:41.830269+00:00"
+    },
+    "8410148500591": {
+      "barcode": "8410148500591",
+      "product_name": "Popitas zero",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/841/014/850/0591/front_fr.31.400.jpg",
+      "ingredients_text": "maíz, sal, maltodextrina",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:52:41.852087+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "377",
-  "count": 4,
-  "updated_at": "2026-11-21T01:44:30.980620+00:00",
+  "count": 5,
+  "updated_at": "2026-11-21T01:52:41.880992+00:00",
   "products": {
     "3770025799117": {
       "barcode": "3770025799117",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.919970+00:00"
+      "updated_at": "2026-11-21T01:52:41.831041+00:00"
     },
     "3770002675113": {
       "barcode": "3770002675113",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.924939+00:00"
+      "updated_at": "2026-11-21T01:52:41.837154+00:00"
     },
     "3770002475119": {
       "barcode": "3770002475119",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.925736+00:00"
+      "updated_at": "2026-11-21T01:52:41.837736+00:00"
     },
     "3770003961116": {
       "barcode": "3770003961116",
@@ -86,7 +86,31 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.927368+00:00"
+      "updated_at": "2026-11-21T01:52:41.839346+00:00"
+    },
+    "3770003864004": {
+      "barcode": "3770003864004",
+      "product_name": "Chewing-gum energisant",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/377/000/386/4004/front_fr.78.400.jpg",
+      "ingredients_text": "édulcorants (xylitol, sorbitol, sucralose, acésulfame-K), gomme base, arômes, caféine, stabilisant (E466), niacine (vitamine B3), chlorohydrate de pyridoxine (vitamine B6), colorants (carmin d’indigo), cyanocobalamine (vitamine B12), antioxydant (E321)",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "carmine",
+        "insect_derived"
+      ],
+      "reason": "Contains carmine / E120 / karmijnzuur insect colorant",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:52:41.848193+00:00"
     }
   }
 }

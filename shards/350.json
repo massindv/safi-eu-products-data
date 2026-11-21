@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "350",
-  "count": 2,
-  "updated_at": "2026-11-21T01:44:30.975894+00:00",
+  "count": 3,
+  "updated_at": "2026-11-21T01:52:41.876560+00:00",
   "products": {
     "3502110009845": {
       "barcode": "3502110009845",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.900963+00:00"
+      "updated_at": "2026-11-21T01:52:41.815658+00:00"
     },
     "3502110006813": {
       "barcode": "3502110006813",
@@ -44,7 +44,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.925133+00:00"
+      "updated_at": "2026-11-21T01:52:41.837363+00:00"
+    },
+    "3501270009511": {
+      "barcode": "3501270009511",
+      "product_name": "250G Pastille Mineur Verquin",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/350/127/000/9511/front_fr.13.400.jpg",
+      "ingredients_text": "Sirop de glucose, sucre, extraits de plantes, arôme naturel, colorant : charbon végétal médicinal, agent d'enrobage : cire de carnauba. Peut contenir des traces de lait et de fruits coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:52:41.853003+00:00"
     }
   }
 }

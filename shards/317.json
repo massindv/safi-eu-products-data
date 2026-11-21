@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "317",
-  "count": 1,
-  "updated_at": "2026-11-21T01:44:30.967276+00:00",
+  "count": 3,
+  "updated_at": "2026-11-21T01:52:41.870618+00:00",
   "products": {
     "3175460000017": {
       "barcode": "3175460000017",
@@ -32,7 +32,49 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:44:30.806674+00:00"
+      "updated_at": "2026-11-21T01:52:41.734490+00:00"
+    },
+    "3173281048508": {
+      "barcode": "3173281048508",
+      "product_name": "Chocolat noir patissier",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/317/328/104/8508/front_fr.31.400.jpg",
+      "ingredients_text": "pâte de cacao, sucre, beurre de cacao, émulsifiant : lécithines (tournesol), arôme vanille. Cacao: 52% minimum.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:52:41.851136+00:00"
+    },
+    "3175681212626": {
+      "barcode": "3175681212626",
+      "product_name": "Croc' Graines Sésame & Tournesol Chocolat",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/317/568/121/2626/front_fr.37.400.jpg",
+      "ingredients_text": "farine de blé 38,6%, chocolat noir 23,3% (cacao, sucre, beurre de cacao), sucre de canne roux, beurre,  huile de tournesol, graines de tournesol 4,8%, graines de sésame 4,8%, œufs, sel de mer, poudre à lever (carbonates de sodium, acide critique ), antioxydant : extrait de romarin.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:52:41.851382+00:00"
     }
   }
 }

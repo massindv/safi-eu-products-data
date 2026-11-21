@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "327",
-  "count": 7,
-  "updated_at": "2026-11-21T01:44:30.971078+00:00",
+  "count": 8,
+  "updated_at": "2026-11-21T01:52:41.873789+00:00",
   "products": {
     "3270190119586": {
       "barcode": "3270190119586",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.901270+00:00"
+      "updated_at": "2026-11-21T01:52:41.815941+00:00"
     },
     "3270190007074": {
       "barcode": "3270190007074",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.904393+00:00"
+      "updated_at": "2026-11-21T01:52:41.818832+00:00"
     },
     "3270190129622": {
       "barcode": "3270190129622",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.906554+00:00"
+      "updated_at": "2026-11-21T01:52:41.820785+00:00"
     },
     "3270190129615": {
       "barcode": "3270190129615",
@@ -86,7 +86,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.906711+00:00"
+      "updated_at": "2026-11-21T01:52:41.820940+00:00"
     },
     "3270190178859": {
       "barcode": "3270190178859",
@@ -107,7 +107,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.921024+00:00"
+      "updated_at": "2026-11-21T01:52:41.832030+00:00"
     },
     "3270190007081": {
       "barcode": "3270190007081",
@@ -128,7 +128,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.927635+00:00"
+      "updated_at": "2026-11-21T01:52:41.839622+00:00"
     },
     "3270720812505": {
       "barcode": "3270720812505",
@@ -149,7 +149,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.927688+00:00"
+      "updated_at": "2026-11-21T01:52:41.839678+00:00"
+    },
+    "3270190112266": {
+      "barcode": "3270190112266",
+      "product_name": "Sablés croquants",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/327/019/011/2266/front_fr.44.400.jpg",
+      "ingredients_text": "_Tarwe_bloem 38,5%, suiker, _boter_, stukjes _hazelnoot_ 5,5%, zonnebloemolie, _hazelnoot_pasta 3%, magerecacaopoeder, _eieren_, magere_melk_poeder, chocolade (suiker, cacaomassa), _boter_concentraat, rijsmiddelen: natriumcarbonaat en citroenzuur, natuurlijk _hazelnoot_aroma, emulgator: zonnebloemlecithinen, natuurlijk vanillearoma.\r\nKan sporen bevatten van andere noten en sesamzaad.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:52:41.852262+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "308",
-  "count": 3,
-  "updated_at": "2026-11-21T01:44:30.964806+00:00",
+  "count": 4,
+  "updated_at": "2026-11-21T01:52:41.868804+00:00",
   "products": {
     "3083681025484": {
       "barcode": "3083681025484",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:44:30.833560+00:00"
+      "updated_at": "2026-11-21T01:52:41.761854+00:00"
     },
     "3083681006964": {
       "barcode": "3083681006964",
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:44:30.833908+00:00"
+      "updated_at": "2026-11-21T01:52:41.762198+00:00"
     },
     "3083680600965": {
       "barcode": "3083680600965",
@@ -92,7 +92,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:44:30.834017+00:00"
+      "updated_at": "2026-11-21T01:52:41.762304+00:00"
+    },
+    "3088865205256": {
+      "barcode": "3088865205256",
+      "product_name": "SAVANE CHOCOLAT",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/308/886/520/5256/front_fr.131.400.jpg",
+      "ingredients_text": "Farine de blé 26,5%, sucre, œufs frais, huile de colza, chocolat 5,7% (sucre, pâte de cacao, beurre de cacao, émulsifiant : lécithine de soja, arôme naturel de vanille), jaune d’œufs, sirop de glucose-fructose, poudres à lever : diphosphates - carbonates de sodium, cacao en poudre, sel, amidon de maïs, farine de blé malté, arôme.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:52:41.849914+00:00"
     }
   }
 }

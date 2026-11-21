@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "304",
-  "count": 2,
-  "updated_at": "2026-11-21T01:44:30.961774+00:00",
+  "count": 3,
+  "updated_at": "2026-11-21T01:52:41.867739+00:00",
   "products": {
     "3045320082586": {
       "barcode": "3045320082586",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:44:30.816985+00:00"
+      "updated_at": "2026-11-21T01:52:41.745121+00:00"
     },
     "3041090063114": {
       "barcode": "3041090063114",
@@ -62,7 +62,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:44:30.819311+00:00"
+      "updated_at": "2026-11-21T01:52:41.747516+00:00"
+    },
+    "3046920057745": {
+      "barcode": "3046920057745",
+      "product_name": "Chocolat noir aux cristaux de Fleur de Sel",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/304/692/005/7745/front_fr.26.400.jpg",
+      "ingredients_text": "sucre, pâte de cacao, beurre de cacao, beurre _laitier_ concentré, émulsifiant (lécithine _soja_), fleur de sel 0,3%, arôme.\r\ncacao : 47% minimum.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:52:41.852842+00:00"
     }
   }
 }

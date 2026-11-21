@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "prefix": "211",
+  "count": 1,
+  "updated_at": "2026-11-21T01:52:41.860918+00:00",
+  "products": {
+    "2116640977003": {
+      "barcode": "2116640977003",
+      "product_name": "Gouda mi-vieux",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/211/664/097/7003/front_fr.4.400.jpg",
+      "ingredients_text": "_Lait_* de vache pasteurisé, sel, levains lactiques, présure animale. *Label de qualité pâturage: vaches paissant au minimum 120 jours par an et 6 heures par jour.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:52:41.847612+00:00"
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "376",
-  "count": 5,
-  "updated_at": "2026-11-21T01:44:30.980036+00:00",
+  "count": 6,
+  "updated_at": "2026-11-21T01:52:41.880572+00:00",
   "products": {
     "3760211111144": {
       "barcode": "3760211111144",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.898434+00:00"
+      "updated_at": "2026-11-21T01:52:41.813354+00:00"
     },
     "3760023970069": {
       "barcode": "3760023970069",
@@ -47,7 +47,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat; Contains alcoholic ingredients or spirits",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.903452+00:00"
+      "updated_at": "2026-11-21T01:52:41.817953+00:00"
     },
     "3760257091332": {
       "barcode": "3760257091332",
@@ -68,7 +68,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.905843+00:00"
+      "updated_at": "2026-11-21T01:52:41.820186+00:00"
     },
     "3760091720436": {
       "barcode": "3760091720436",
@@ -89,7 +89,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.906604+00:00"
+      "updated_at": "2026-11-21T01:52:41.820835+00:00"
     },
     "3760307950084": {
       "barcode": "3760307950084",
@@ -110,7 +110,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:44:30.925053+00:00"
+      "updated_at": "2026-11-21T01:52:41.837282+00:00"
+    },
+    "3760009540064": {
+      "barcode": "3760009540064",
+      "product_name": "Croquants tendres aux amandes",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/376/000/954/0064/front_fr.36.400.jpg",
+      "ingredients_text": "Farine de blé, sucre, amandes (12,77 %), œuf entier de poules élevées en plein air, beurre, eau, huile de tournesol, arôme, poudre à lever : pyrophosphates et carbonate acides de sodium, amidon de maïs",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:52:41.848610+00:00"
     }
   }
 }

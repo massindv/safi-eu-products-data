@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "355",
+  "count": 1,
+  "updated_at": "2026-11-21T01:52:41.877125+00:00",
+  "products": {
+    "3556940811802": {
+      "barcode": "3556940811802",
+      "product_name": "Délice Mandarine",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/355/694/081/1802/front_fr.4.400.jpg",
+      "ingredients_text": "farine de blé, chocolat noir 29%, (pâte de cacao, sucre, beurre de cacao, lactose, lait écrémé en poudre, matière grasse de lait, émulsifiant : lécithine, arôme), sucre, matière grasse végétale (palme), mandarines séchées 2,5%, oeufs, poudre à lever : carbonate acide de sodium-carbonate acide d'ammonium-orthophosphate monocyclique, sirop de sucre inverti, arôme naturel de mandarine, sel,",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:52:41.848449+00:00"
+    }
+  }
+}

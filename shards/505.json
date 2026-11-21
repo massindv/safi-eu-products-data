@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "prefix": "505",
+  "count": 1,
+  "updated_at": "2026-11-21T01:52:41.884191+00:00",
+  "products": {
+    "5053990110261": {
+      "barcode": "5053990110261",
+      "product_name": "Tortilla El Nacho Cheese",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/505/399/011/0261/front_fr.30.400.jpg",
+      "ingredients_text": "Farine de maïs (54%), huiles végétales (tournesol, maïs), assaisonnement fromage (farine de blé, exhausteurs de goût (glutamate monosodique,5'-ribonucléotide disodique), fromage en poudre (lait), crème en poudre (lait), oignon en poudre, ail en poudre, acidifiants (acide lactique, acide malique), arômes, colorants (extrait de paprika), épices, lactose (lait), protéines de lait), maltodextrine, émulsifiant (E471), sucre, haricots noirs en poudre, sel, correcteur d'acidité (bicarbonate de sodium), dextrose de blé.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:52:41.853255+00:00"
+    }
+  }
+}
