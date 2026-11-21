@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "342",
-  "count": 2,
-  "updated_at": "2026-11-21T01:32:19.570917+00:00",
+  "count": 4,
+  "updated_at": "2026-11-21T01:44:30.973810+00:00",
   "products": {
     "3426327624007": {
       "barcode": "3426327624007",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.528407+00:00"
+      "updated_at": "2026-11-21T01:44:30.916796+00:00"
     },
     "3426327624106": {
       "barcode": "3426327624106",
@@ -44,7 +44,49 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.528844+00:00"
+      "updated_at": "2026-11-21T01:44:30.917380+00:00"
+    },
+    "3426327634211": {
+      "barcode": "3426327634211",
+      "product_name": "Yaourt au lait entier bi-couche fraise",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/342/632/763/4211/front_fr.21.400.jpg",
+      "ingredients_text": "_Lait_ entier, Préparation bio fraise (15%) fraises, sucre de canne, gélifiant : agar-agar), Sucre, Poudre de _lait_ écrémé, Ferments lactiques du yaourt.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.934014+00:00"
+    },
+    "3426327733334": {
+      "barcode": "3426327733334",
+      "product_name": "Yaourt brassé citron gingembre",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/342/632/773/3334/front_fr.33.400.jpg",
+      "ingredients_text": "LAIT entier, Préparation bio citron (11%) [citrons, sucre de canne, gélifiant :\nagar-agar], Sucre, Poudre de LAIT écrémé, Huile essentielle de gingembre,\nFerments lactiques du yaourt",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.934653+00:00"
     }
   }
 }

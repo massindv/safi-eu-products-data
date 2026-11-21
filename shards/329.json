@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "prefix": "329",
+  "count": 1,
+  "updated_at": "2026-11-21T01:44:30.971530+00:00",
+  "products": {
+    "3291330010266": {
+      "barcode": "3291330010266",
+      "product_name": "yaourt à la pulpe de fruit",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/329/133/001/0266/front_fr.4.400.jpg",
+      "ingredients_text": "2 TROPICAL 2 LETCHI - 4 ANANAS-coco Yaourt à la pulpe de fruit, sucré Liste d'ingrédients : Lait reconstitué à 3,4% de matière | .asse, sucre (teneur moyenne : 1 1,2%), pulpe de letchi : 7,2%, upe d'ananas : 6,8%, pulpe de fruits tropicaux (mangue : 2,6%, goyave : 2,1%, ananas : 1,5%, fruit de la passion : 1,0%) arômes, épaississants: amidons transformés de mais-caroube, lait de coco : 0,4%, ferments lactiques, conservateurs des fruits : sorbate de potassium, colorants: extraits de paprika et de curcuma-carmin. Origine du lait: France.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "carmine",
+        "insect_derived"
+      ],
+      "reason": "Contains carmine / E120 / karmijnzuur insect colorant",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.934214+00:00"
+    }
+  }
+}

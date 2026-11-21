@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "302",
-  "count": 5,
-  "updated_at": "2026-11-21T01:32:19.556585+00:00",
+  "count": 7,
+  "updated_at": "2026-11-21T01:44:30.961007+00:00",
   "products": {
     "3020640010884": {
       "barcode": "3020640010884",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.515670+00:00"
+      "updated_at": "2026-11-21T01:44:30.900748+00:00"
     },
     "3020640100738": {
       "barcode": "3020640100738",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.516016+00:00"
+      "updated_at": "2026-11-21T01:44:30.901130+00:00"
     },
     "3020648106459": {
       "barcode": "3020648106459",
@@ -65,7 +65,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.516241+00:00"
+      "updated_at": "2026-11-21T01:44:30.901378+00:00"
     },
     "3020640010464": {
       "barcode": "3020640010464",
@@ -86,7 +86,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.516882+00:00"
+      "updated_at": "2026-11-21T01:44:30.902092+00:00"
     },
     "3023290030813": {
       "barcode": "3023290030813",
@@ -107,7 +107,49 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.528482+00:00"
+      "updated_at": "2026-11-21T01:44:30.916946+00:00"
+    },
+    "3021760291528": {
+      "barcode": "3021760291528",
+      "product_name": "MATERNE Compotes Coupelles P. Pêche Ab 16x100g Format Familial",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/302/176/029/1528/front_fr.93.400.jpg",
+      "ingredients_text": "Pomme : pomme origine France (purée ; purée concentrée) 99,7 % ; arôme naturel de pomme ; jus de citron concentré (si nécessaire pour réguler l'acidité) ; antioxydant : acide ascorbique. \r\nPomme Pêche Abricot : pomme origine France 74,7 % ; pêche origine France 15,0 % ; abricot origine France 10,0 % ; arôme naturel ; jus de citron concentré (si nécessaire pour réguler l'acidité) ; antioxydant : acide ascorbique.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.928335+00:00"
+    },
+    "3021760403686": {
+      "barcode": "3021760403686",
+      "product_name": "Pom’Potes Pomme Reine-Claude sans sucres ajoutés",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/302/176/040/3686/front_fr.67.400.jpg",
+      "ingredients_text": "pomme 84,6 % (purée et puree concentrée), reine-claude 15,0 %, arôme naturel, jus de citron concentré, antioxydant : acide ascorbique.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.929662+00:00"
     }
   }
 }

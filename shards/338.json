@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "prefix": "338",
+  "count": 2,
+  "updated_at": "2026-11-21T01:44:30.973237+00:00",
+  "products": {
+    "3382510019084": {
+      "barcode": "3382510019084",
+      "product_name": "OLIVE VERTE DENOYAUTEE A LA MEDITERRANEENNE",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/338/251/001/9084/front_fr.29.400.jpg",
+      "ingredients_text": "Olive origine UE (Grèce ou Maroc) 81%, huile de colza, ail(gousse confite et haché réhydraté) 5,1%, oignon confit, sel, menthe et basilic déshydratés, acidifiants (vinaigre, acide citrique) / traces éventuelles : amande,",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.927534+00:00"
+    },
+    "3382510019046": {
+      "barcode": "3382510019046",
+      "product_name": "olives à la provençale",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/338/251/001/9046/front_fr.25.400.jpg",
+      "ingredients_text": "Olive du Maroc 81%, poivron confit, huile de colza, sel, herbes de Provence 0,1%, laurier, acidifiants (acide citrique, vinaigre)",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.927785+00:00"
+    }
+  }
+}

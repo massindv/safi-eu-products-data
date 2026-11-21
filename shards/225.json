@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "225",
-  "count": 3,
-  "updated_at": "2026-11-21T01:32:19.553998+00:00",
+  "count": 7,
+  "updated_at": "2026-11-21T01:44:30.953591+00:00",
   "products": {
     "2252642002777": {
       "barcode": "2252642002777",
@@ -25,7 +25,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T01:32:19.518312+00:00"
+      "updated_at": "2026-11-21T01:44:30.903661+00:00"
     },
     "2259670002915": {
       "barcode": "2259670002915",
@@ -48,7 +48,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T01:32:19.518765+00:00"
+      "updated_at": "2026-11-21T01:44:30.904149+00:00"
     },
     "2251150003610": {
       "barcode": "2251150003610",
@@ -69,7 +69,95 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T01:32:19.518845+00:00"
+      "updated_at": "2026-11-21T01:44:30.904235+00:00"
+    },
+    "2254461005373": {
+      "barcode": "2254461005373",
+      "product_name": "Viande épice poulet Bio",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/225/446/100/5373/front_fr.4.400.jpg",
+      "ingredients_text": "98% viande de poulet (*), sel, amidon de pomme de terre (*), épices (*), amidon de mais (*), arôme nature!, antioxydant (acide ascorbique). (*) d'origine biologique. Peut contenir des traces de gluten, soja, lait, céleri, moutarde",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:44:30.926796+00:00"
+    },
+    "2258120002949": {
+      "barcode": "2258120002949",
+      "product_name": "Jambon dégraissé",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/225/812/000/2949/front_fr.4.400.jpg",
+      "ingredients_text": "viande de porc 97%, sel iodé, sucre, sirop de glucose, dextrose, épices, extrait de levure, épaississants (E407a, E415, E410), correcteur d'acidité (E500), antioxydants (E300, E301, E392), conservateur (E250). Fabriqué dans un atelier qui utilise lait, oeuf, fruits à coque, moutarde, céleri.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork"
+      ],
+      "reason": "Contains pork derivatives / pork fat",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:44:30.926941+00:00"
+    },
+    "2253330002475": {
+      "barcode": "2253330002475",
+      "product_name": "Steak pelé",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/225/333/000/2475/front_fr.8.400.jpg",
+      "ingredients_text": "Boeuf",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:44:30.926982+00:00"
+    },
+    "2254270001627": {
+      "barcode": "2254270001627",
+      "product_name": "Américain nature",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/225/427/000/1627/front_fr.3.400.jpg",
+      "ingredients_text": "boeuf 99%, dextrose, correcteur d'acidité (E262i). antioxygènes (E301, E331, E300), acidifiant (E330), antiagglomérats (E551), huile de colza",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:44:30.927095+00:00"
     }
   }
 }

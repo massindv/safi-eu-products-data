@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "prefix": "911",
+  "count": 1,
+  "updated_at": "2026-11-21T01:44:31.032282+00:00",
+  "products": {
+    "9117932987772": {
+      "barcode": "9117932987772",
+      "product_name": "Smeerproduct",
+      "store": "jumbo.com",
+      "stores": [
+        "jumbo.com"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/911/793/298/7772/front_nl.5.400.jpg",
+      "ingredients_text": "water, plantaardige oliën (zonnebloem 15,2%, raapzaad 6%, lijnzaad 4,8%, palm, palmpit, geheel geharde palmpit, geheel geharde palm), mineraal: calciumzouten van orthofosforzuur, gemodificeerd maïszetmeel, palmstearine, emulgatoren: E471 (niet dierlijk) en zonnebloemlecithine, zout 0,2%, conserveermiddel: E202, voedingszuur: citroenzuur, antioxidant: E385, aroma, vitaminen: A, thiamine (B1), riboflavine (B2), B6, foliumzuur (B11), B12 en D2, kleurstof: carotenen.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-21T01:44:30.931681+00:00"
+    }
+  }
+}

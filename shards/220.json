@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "prefix": "220",
+  "count": 1,
+  "updated_at": "2026-11-21T01:44:30.949228+00:00",
+  "products": {
+    "2208721003982": {
+      "barcode": "2208721003982",
+      "product_name": "Gatenkas Fromage A Trous",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "cheeses",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/220/872/100/3982/front_en.3.400.jpg",
+      "ingredients_text": "gepasteuriseerde koemelk, zout, zuursel, microbieel stremsel, conserveermiddel (natrium - nitraat), kleurstof (carotenen)",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:44:30.933872+00:00"
+    }
+  }
+}

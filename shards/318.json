@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "318",
-  "count": 3,
-  "updated_at": "2026-11-21T01:32:19.563627+00:00",
+  "count": 4,
+  "updated_at": "2026-11-21T01:44:30.967539+00:00",
   "products": {
     "3181550000454": {
       "barcode": "3181550000454",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.528606+00:00"
+      "updated_at": "2026-11-21T01:44:30.917079+00:00"
     },
     "3181550000447": {
       "barcode": "3181550000447",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.528715+00:00"
+      "updated_at": "2026-11-21T01:44:30.917208+00:00"
     },
     "3181550000409": {
       "barcode": "3181550000409",
@@ -65,7 +65,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.528961+00:00"
+      "updated_at": "2026-11-21T01:44:30.917499+00:00"
+    },
+    "3180840008224": {
+      "barcode": "3180840008224",
+      "product_name": "Bananes séchées",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/318/084/000/8224/front_fr.40.400.jpg",
+      "ingredients_text": "Bananes séchées.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.927900+00:00"
     }
   }
 }

@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "243",
+  "count": 1,
+  "updated_at": "2026-11-21T01:44:30.954643+00:00",
+  "products": {
+    "2430617018699": {
+      "barcode": "2430617018699",
+      "product_name": "emmental de Savoie pointe percée",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/243/061/701/8699/front_fr.4.400.jpg",
+      "ingredients_text": "lait, sel, ferment, pressure animale",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.934434+00:00"
+    }
+  }
+}

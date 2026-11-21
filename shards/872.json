@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "872",
-  "count": 6,
-  "updated_at": "2026-11-21T01:32:19.611806+00:00",
+  "count": 7,
+  "updated_at": "2026-11-21T01:44:31.024947+00:00",
   "products": {
     "8727500033094": {
       "barcode": "8727500033094",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:32:19.422128+00:00"
+      "updated_at": "2026-11-21T01:44:30.792245+00:00"
     },
     "8721800408880": {
       "barcode": "8721800408880",
@@ -64,7 +64,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:32:19.438374+00:00"
+      "updated_at": "2026-11-21T01:44:30.814089+00:00"
     },
     "8721800408866": {
       "barcode": "8721800408866",
@@ -96,7 +96,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:32:19.438473+00:00"
+      "updated_at": "2026-11-21T01:44:30.814197+00:00"
     },
     "8722700255642": {
       "barcode": "8722700255642",
@@ -128,7 +128,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:32:19.449127+00:00"
+      "updated_at": "2026-11-21T01:44:30.823830+00:00"
     },
     "8720182103406": {
       "barcode": "8720182103406",
@@ -158,7 +158,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:32:19.459385+00:00"
+      "updated_at": "2026-11-21T01:44:30.833488+00:00"
     },
     "8723400780748": {
       "barcode": "8723400780748",
@@ -181,7 +181,28 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T01:32:19.507143+00:00"
+      "updated_at": "2026-11-21T01:44:30.891509+00:00"
+    },
+    "8722100046949": {
+      "barcode": "8722100046949",
+      "product_name": "Vloeibaar frituurvet - perfect voor extra krokante friet",
+      "store": "jumbo.com",
+      "stores": [
+        "jumbo.com"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/872/210/004/6949/front_nl.7.400.jpg",
+      "ingredients_text": "Plantaardige oliën en vetten (high oleic zonnebloem; palm; zonnebloem; in wisselende verhoudingen); natuurlijk aroma; aroma's; antischuimmiddel: E900. Totaal vetgehalte: 100%.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-21T01:44:30.930237+00:00"
     }
   }
 }

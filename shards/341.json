@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "341",
+  "count": 1,
+  "updated_at": "2026-11-21T01:44:30.973541+00:00",
+  "products": {
+    "3412290009415": {
+      "barcode": "3412290009415",
+      "product_name": "Fromage blanc battu au lait entier",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/341/229/000/9415/front_fr.14.400.jpg",
+      "ingredients_text": "_lait_ frais écrémé pasteurisé (origine : Bretagne, France), _crème_ pasteurisée (origine : Bretagne, France), ferments _lactiques",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.934531+00:00"
+    }
+  }
+}

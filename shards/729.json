@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "729",
+  "count": 1,
+  "updated_at": "2026-11-21T01:44:30.995163+00:00",
+  "products": {
+    "7290111569593": {
+      "barcode": "7290111569593",
+      "product_name": "Burger Japaleño",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/729/011/156/9593/front_fr.17.400.jpg",
+      "ingredients_text": "Gerehydrateerde SOJA-eiwitten 42,1% (water, SOJA-eiwitten 13,0%), groenten (groene paprika 12,2%, ui), gerehydrateerde TARWE-eiwitten 14,1% (water, TARWE-eiwitten 4,7%), plantaardige oliën (koolzaad, zonnebloem), water, KIPPENEI-eiwitpoeder, gedroogde ui, alcoholazijn, paneermeel (TARWEmeel, water, koolzaadolie, gist, zout, paprika-extract), aroma's (bevat TARWE), specerijen (bevat jalapeñopeper), kruiden, kruidenextracten, zetmelen, gistextract, citroenvezel, MOSTERD (water, azijn, MOSTERDzaad, suiker, zout, kurkuma, kruidenextracten), knoflook, GERSTEmoutextract, suiker, zuurteregelaar (kaliumhydroxide). Bevat mogelijk: SESAM, SELDERIJ.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:44:30.933009+00:00"
+    }
+  }
+}

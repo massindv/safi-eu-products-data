@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "332",
+  "count": 1,
+  "updated_at": "2026-11-21T01:44:30.972402+00:00",
+  "products": {
+    "3327271206861": {
+      "barcode": "3327271206861",
+      "product_name": "Menguy's cacahuetes grillees salees 410 g",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/332/727/120/6861/front_fr.22.400.jpg",
+      "ingredients_text": "CACAHUETES 96%, huile de tournesol, sel",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.928410+00:00"
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "761",
-  "count": 4,
-  "updated_at": "2026-11-21T01:32:19.593259+00:00",
+  "count": 5,
+  "updated_at": "2026-11-21T01:44:30.999125+00:00",
   "products": {
     "7613036394109": {
       "barcode": "7613036394109",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-21T01:32:19.451654+00:00"
+      "updated_at": "2026-11-21T01:44:30.826129+00:00"
     },
     "76145940": {
       "barcode": "76145940",
@@ -53,7 +53,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T01:32:19.509269+00:00"
+      "updated_at": "2026-11-21T01:44:30.893773+00:00"
     },
     "7613037398083": {
       "barcode": "7613037398083",
@@ -74,7 +74,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.520609+00:00"
+      "updated_at": "2026-11-21T01:44:30.906180+00:00"
     },
     "7613036410212": {
       "barcode": "7613036410212",
@@ -95,7 +95,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_DELHAIZE_BE",
-      "updated_at": "2026-11-21T01:32:19.536891+00:00"
+      "updated_at": "2026-11-21T01:44:30.926437+00:00"
+    },
+    "7613039945117": {
+      "barcode": "7613039945117",
+      "product_name": "Boulettes",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/761/303/994/5117/front_fr.11.400.jpg",
+      "ingredients_text": "Gerehydrateerde SOJA-eiwitten 54,8% (water, SOJA-eiwitten 14,9%), gerehydrateerde TARWE-eiwitten 17,4% (water, TARWE-eiwitten 7,4%), mayonaise (zonnebloemolie, alcoholazijn, KIPPENEI-eigeel, MOSTERD, gejodeerd zout, suiker), plantaardige oliën (koolzaad, zonnebloem), KIPPENEI-eiwitpoeder, alcoholazijn, gistextract, paneermeel (TARWEmeel, zout, gist, koolzaadolie, paprika-extract), maïszetmeel, zout, uienpoeder, citroenvezels, specerijen, GERSTEmoutextract, rode bietenpoeder, specerij-extracten, rozemarijn, zuurteregelaar (kaliumhydroxide). Bevat mogelijk: SESAM, SELDERIJ.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:44:30.933258+00:00"
     }
   }
 }

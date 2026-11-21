@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "356",
-  "count": 15,
-  "updated_at": "2026-11-21T01:32:19.572033+00:00",
+  "count": 28,
+  "updated_at": "2026-11-21T01:44:30.976474+00:00",
   "products": {
     "3560071567354": {
       "barcode": "3560071567354",
@@ -23,7 +23,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.514024+00:00"
+      "updated_at": "2026-11-21T01:44:30.898927+00:00"
     },
     "3560071564902": {
       "barcode": "3560071564902",
@@ -44,7 +44,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.514220+00:00"
+      "updated_at": "2026-11-21T01:44:30.899132+00:00"
     },
     "3560071589660": {
       "barcode": "3560071589660",
@@ -68,7 +68,7 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter; Contains unverified gelatin source",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.514635+00:00"
+      "updated_at": "2026-11-21T01:44:30.899574+00:00"
     },
     "3560070134533": {
       "barcode": "3560070134533",
@@ -89,7 +89,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.518908+00:00"
+      "updated_at": "2026-11-21T01:44:30.904303+00:00"
     },
     "3560070874637": {
       "barcode": "3560070874637",
@@ -110,7 +110,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.519095+00:00"
+      "updated_at": "2026-11-21T01:44:30.904510+00:00"
     },
     "3560071493714": {
       "barcode": "3560071493714",
@@ -131,7 +131,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.520736+00:00"
+      "updated_at": "2026-11-21T01:44:30.906318+00:00"
     },
     "3560071370039": {
       "barcode": "3560071370039",
@@ -152,7 +152,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.520869+00:00"
+      "updated_at": "2026-11-21T01:44:30.906465+00:00"
     },
     "3560070657636": {
       "barcode": "3560070657636",
@@ -173,7 +173,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.521256+00:00"
+      "updated_at": "2026-11-21T01:44:30.906892+00:00"
     },
     "3560071463595": {
       "barcode": "3560071463595",
@@ -194,7 +194,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.521484+00:00"
+      "updated_at": "2026-11-21T01:44:30.907135+00:00"
     },
     "3560070105908": {
       "barcode": "3560070105908",
@@ -215,7 +215,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.521717+00:00"
+      "updated_at": "2026-11-21T01:44:30.907384+00:00"
     },
     "3560070853175": {
       "barcode": "3560070853175",
@@ -236,7 +236,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.529911+00:00"
+      "updated_at": "2026-11-21T01:44:30.918755+00:00"
     },
     "3560070698356": {
       "barcode": "3560070698356",
@@ -257,7 +257,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.530678+00:00"
+      "updated_at": "2026-11-21T01:44:30.919564+00:00"
     },
     "3560071080365": {
       "barcode": "3560071080365",
@@ -278,7 +278,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.531169+00:00"
+      "updated_at": "2026-11-21T01:44:30.920177+00:00"
     },
     "3560070686544": {
       "barcode": "3560070686544",
@@ -299,7 +299,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.532111+00:00"
+      "updated_at": "2026-11-21T01:44:30.921199+00:00"
     },
     "3560071007638": {
       "barcode": "3560071007638",
@@ -320,7 +320,282 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.536479+00:00"
+      "updated_at": "2026-11-21T01:44:30.926006+00:00"
+    },
+    "3560071478278": {
+      "barcode": "3560071478278",
+      "product_name": "Graines de Tournesol",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/147/8278/front_fr.54.400.jpg",
+      "ingredients_text": "Graine de tournesol",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.927854+00:00"
+    },
+    "3560070762101": {
+      "barcode": "3560070762101",
+      "product_name": "Poivre Noir Moulu",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/076/2101/front_fr.59.400.jpg",
+      "ingredients_text": "Kan selderij, mosterd en sesamzaad bevatten.",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.927942+00:00"
+    },
+    "3560070701490": {
+      "barcode": "3560070701490",
+      "product_name": "Confiture Mirabelles",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/070/1490/front_fr.42.400.jpg",
+      "ingredients_text": "Mirabelles*, sucre, sucre roux de canne, jus de citrons concentré, gélifiant : pectines de fruits. \nPréparée avec 50 g de fruits pour 100 g de produit fini.\nTeneur totale en sucres : 60 g pour 100 g.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.928077+00:00"
+    },
+    "3560070688852": {
+      "barcode": "3560070688852",
+      "product_name": "Cornichon aigre doux",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/068/8852/front_fr.38.400.jpg",
+      "ingredients_text": "Augurken, water, alcoholazijn, suiker, zout, _mosterd_zaad, verstevigingsmiddel: calciumchloride, aroma.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.928518+00:00"
+    },
+    "3560071490379": {
+      "barcode": "3560071490379",
+      "product_name": "Purée",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/149/0379/front_fr.25.400.jpg",
+      "ingredients_text": "Pommes de terre 89%, _lait_ entier en poudre 10%, émulsifiant : mono-et diglycérides d'acides gras, curcuma en poudre, antioxydant : extraits de romarin.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.928640+00:00"
+    },
+    "3560070107049": {
+      "barcode": "3560070107049",
+      "product_name": "Oignons extra-fins",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/010/7049/front_fr.24.400.jpg",
+      "ingredients_text": "Zilveruitjes 56%, water, alcoholazijn, zout, verstevigingsmiddel: calciumchloride, conserveermiddel: natriumdi_sulfiet_, voedingszuur: citroenzuur, natuurlijk uiaroma.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.928806+00:00"
+    },
+    "3560071485405": {
+      "barcode": "3560071485405",
+      "product_name": "4 fruits rouges",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/148/5405/front_fr.16.400.jpg",
+      "ingredients_text": "Suiker, aalbessensap uit sapconcentraat 12,8%, aardbeien 11,2%, frambozensap uit sapconcentraat 5,2%, kersen 3%, frambozen 2,8%, water, voedingszuur: citroenzuur, geleermiddel: pectinen. Bereid met 35 g vruchten per 100 g. Totaal gehalte aan suikers 60 g per 100 g.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.928960+00:00"
+    },
+    "3560070454044": {
+      "barcode": "3560070454044",
+      "product_name": "Torti au surimi à la ciboulette",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/045/4044/front_fr.57.400.jpg",
+      "ingredients_text": "Pâtes alimentaires torsades cuites 42% (eau, semoule de _blé_), eau, surimi 15% [eau, chair de _poisson_, amidon (contient _blé_), huile de colza, sucre, sel, arôme naturel (contient _crustacé_), colorant : extrait de paprika], huile de colza, poivrons 3,6%, vinaigre d'alcool, sel, amidon modifié de pomme de terre, _moutarde_ (eau, graines de _moutarde_, vinaigre d'alcool, sel), jaune d'_œuf_ en poudre, paprika, conservateur : sorbate de potassium, ciboulette déshydratée 0,1%, épaississant : gomme xanthane, poivre.\nPeut contenir des traces de céleri, autres céréales contenant du gluten, fruits à coque, graines de sésame, lait et soja.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.929471+00:00"
+    },
+    "3560070755288": {
+      "barcode": "3560070755288",
+      "product_name": "Pomme",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/075/5288/front_fr.47.400.jpg",
+      "ingredients_text": "Purée de pommes 99,8%, jus concentré d'acérola.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.929736+00:00"
+    },
+    "3560070543403": {
+      "barcode": "3560070543403",
+      "product_name": "Betteraves rouges",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/054/3403/front_fr.91.400.jpg",
+      "ingredients_text": "Rode bieten, water, alcoholazijn 1,5%, suiker, zout.",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.929800+00:00"
+    },
+    "3560071577933": {
+      "barcode": "3560071577933",
+      "product_name": "Tablette de Chocolat Lait Dessert",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/157/7933/front_fr.26.400.jpg",
+      "ingredients_text": "Suiker, cacaomassa (cacaobonen* oorsprong Ivoorkust), cacaoboter, magere_melk_poeder, _wei_poeder, watervrij _melk_vet, emulgator: lecithinen, vanillearoma. Ten minste 39% cacaobestanddelen. Kan noten en glutenbevattende granen bevatten.\n*Cacaobonen afkomstig uit het programma Transparence Cacao.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.934797+00:00"
+    },
+    "3560071581886": {
+      "barcode": "3560071581886",
+      "product_name": "skyr vanille 0%",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/158/1886/front_fr.12.400.jpg",
+      "ingredients_text": "Magere _melk_, suiker, maïszetmeel, natuurlijk vanillearoma, concentraten van wortel en pompoen, verdikkingsmiddel: guarpitmeel, geëxtraheerd vanillestokje, melkfermenten (bevat _melk_). Melk oorsprong Frankrijk.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.934934+00:00"
+    },
+    "3560071591908": {
+      "barcode": "3560071591908",
+      "product_name": "Skyr bifudus",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/159/1908/front_fr.18.400.jpg",
+      "ingredients_text": "_Lait_ écrémé, _lait_ écrémé concentré ou en poudre, vitamine D (contient _lait_), ferments lactiques (contient _lait_), Bifidobactérium *(contient _lait_).\nLait origine France.\n* Ferment qui apporte au produit son caractère sensoriel unique",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.935064+00:00"
     }
   }
 }

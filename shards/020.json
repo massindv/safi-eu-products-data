@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "020",
-  "count": 2,
-  "updated_at": "2026-11-21T01:32:19.549365+00:00",
+  "count": 3,
+  "updated_at": "2026-11-21T01:44:30.945279+00:00",
   "products": {
     "0202336019682": {
       "barcode": "0202336019682",
@@ -25,7 +25,7 @@
       ],
       "reason": "Contains unverified gelatin source",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.511207+00:00"
+      "updated_at": "2026-11-21T01:44:30.895859+00:00"
     },
     "0202297019356": {
       "barcode": "0202297019356",
@@ -46,7 +46,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.512348+00:00"
+      "updated_at": "2026-11-21T01:44:30.897090+00:00"
+    },
+    "0200112023557": {
+      "barcode": "0200112023557",
+      "product_name": "mimolette vieille",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "dairies",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/020/011/202/3557/front_fr.4.400.jpg",
+      "ingredients_text": "lait de vache pasteurisé. sel. coagulant.  ferments lactiques chlorure de calcium colorant e160b conservateur (lysozyme d oeuf)",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.934361+00:00"
     }
   }
 }

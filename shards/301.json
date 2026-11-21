@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "301",
+  "count": 1,
+  "updated_at": "2026-11-21T01:44:30.960334+00:00",
+  "products": {
+    "3017800230718": {
+      "barcode": "3017800230718",
+      "product_name": "Duo haricots verts et beurre extra fins coupés d'aucy 455g",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/301/780/023/0718/front_fr.97.400.jpg",
+      "ingredients_text": "Légumes en proportion variable (haricots verts extra fins coupés, haricots beurre extra fins coupés), eau, sel. Ces haricots verts et haricots beurre sont cultivés en France.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T01:44:30.927237+00:00"
+    }
+  }
+}

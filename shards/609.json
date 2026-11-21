@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "609",
+  "count": 1,
+  "updated_at": "2026-11-21T01:44:30.993969+00:00",
+  "products": {
+    "6095524099054": {
+      "barcode": "6095524099054",
+      "product_name": "Pompoen slices",
+      "store": "jumbo.com",
+      "stores": [
+        "jumbo.com"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/609/552/409/9054/front_nl.5.400.jpg",
+      "ingredients_text": "pompoen 87%, zonnebloemolie 8%, suiker 4%, zout 1%",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-21T01:44:30.932079+00:00"
+    }
+  }
+}

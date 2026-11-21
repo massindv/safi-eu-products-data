@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "200",
+  "count": 1,
+  "updated_at": "2026-11-21T01:44:30.948926+00:00",
+  "products": {
+    "2000000113874": {
+      "barcode": "2000000113874",
+      "product_name": "Biologisch Glutenvrij Amandelmaal",
+      "store": "jumbo.com",
+      "stores": [
+        "jumbo.com"
+      ],
+      "category": "plant-based-foods",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/full/000/011/3874/front_nl.5.400.jpg",
+      "ingredients_text": "Amandelen",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_JUMBO_COM",
+      "updated_at": "2026-11-21T01:44:30.931114+00:00"
+    }
+  }
+}

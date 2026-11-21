@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "222",
-  "count": 1,
-  "updated_at": "2026-11-21T01:32:19.553348+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T01:44:30.952775+00:00",
   "products": {
     "2227365054587": {
       "barcode": "2227365054587",
@@ -25,7 +25,30 @@
       ],
       "reason": "Contains meat from animal source without verified Halal slaughter",
       "source": "ROUND_ROBIN_CARREFOUR_FR",
-      "updated_at": "2026-11-21T01:32:19.518173+00:00"
+      "updated_at": "2026-11-21T01:44:30.903509+00:00"
+    },
+    "2227171006138": {
+      "barcode": "2227171006138",
+      "product_name": "Filet poulet",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "meats",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/222/717/100/6138/front_fr.4.400.jpg",
+      "ingredients_text": "100% viande de poulet.",
+      "nutrition": {},
+      "nutriscore_grade": "a",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T01:44:30.926845+00:00"
     }
   }
 }
