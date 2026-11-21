@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "prefix": "931",
+  "count": 2,
+  "updated_at": "2026-11-21T00:25:50.604367+00:00",
+  "products": {
+    "9310072001371": {
+      "barcode": "9310072001371",
+      "product_name": "Arnott's Assorted Creams Pack 500G",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/931/007/full/1371/front_fr.4.400.jpg",
+      "ingredients_text": "Farine de blé, sucre, huile végétale, chocolat composé (contient du lait, soja), noix de coco desséchée, garniture aromatisée aux framboises (contient: Gélifiant (E440), Acides alimentaires (E330, E331), Couleurs (E129, E132)), Œufs, Flocons d'Avoine, Cacao, Lait Massif, Sirop Doré, Sel, Agents Raising (E500, E450), Antioxydant (E307), Émulsifiant (E322 (de Soja)), Couleurs (E150c (de Blé), E110, E102), Miel, Huile d'orange, saveur.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:25:50.532945+00:00"
+    },
+    "9310072002095": {
+      "barcode": "9310072002095",
+      "product_name": "Arnott's Kingston Biscuits 200G",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/931/007/full/2095/front_en.21.400.jpg",
+      "ingredients_text": "sucre, chocolat composé (23 0%) (sucre, matière sèche du lait, huile végétale, cacao en poudre, pâte de cacao, émulsifiants (lécithine de soja, e492, e476), arôme naturel), farine de blé, huile végétale, noix de coco séchée, flocons d'avoine, mélasse claire, levure chimique, sel, lait écrémé en poudre, émulsifiant (lécithine de soja), arôme, antioxydant (e307b de soja),",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:25:50.533452+00:00"
+    }
+  }
+}

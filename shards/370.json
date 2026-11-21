@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "prefix": "370",
+  "count": 1,
+  "updated_at": "2026-11-21T00:25:50.556882+00:00",
+  "products": {
+    "3700656403657": {
+      "barcode": "3700656403657",
+      "product_name": "Tiramisu",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/370/065/640/3657/front_fr.10.400.jpg",
+      "ingredients_text": "Boisson à base de noix de coco (noix de coco, eau), préparation à base de _soja_ (extrait de _soja_ (eau, graines de _soja_ décortiquées) ferments), eau, sucre brune, boisson à base de _soja_ (eau, graines de _soja_ décortiquées), huile de noix de coco, farine de riz, huile de tournesol, amidon de riz, fécule de pomme de terre, arôme naturel, sirop de riz, café 1%, rhum (distillat de sucre brun), cacao maigre en poudre (fèves de cacao, carbonate de potassium), agents levants (mono-potassium tartrate, bicarbonate de soude, anti-agglomérat : carbonate de calcium), inuline d'agave, épaississants (agar agar, farine de caroube, gomme de xanthane, café instantané 0,1%).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:25:50.532528+00:00"
+    }
+  }
+}

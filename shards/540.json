@@ -1,0 +1,746 @@
+{
+  "version": "1.0",
+  "prefix": "540",
+  "count": 34,
+  "updated_at": "2026-11-21T00:25:50.564373+00:00",
+  "products": {
+    "5400141139365": {
+      "barcode": "5400141139365",
+      "product_name": "Bonbons extra acidules",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/113/9365/front_fr.4.400.jpg",
+      "ingredients_text": "Cornn-t—-, extra ü)cidu'KS• différents Sucre, sirop de glucose, modifié, gélatine de pon acidifiants (E296, E334), (pomme, pêche,framboi citron, orange), colorant El 20, E133, E141).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "gelatin"
+      ],
+      "reason": "Contains unverified gelatin source",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:25:50.522800+00:00"
+    },
+    "5400141193336": {
+      "barcode": "5400141193336",
+      "product_name": "Massepain déorées garniture en sucre",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/119/3336/front_fr.4.400.jpg",
+      "ingredients_text": "96%massepain [53% sucre, 38% amandes, stabilisant (E420i), sirop de glucose, sirop de sucre inverti, conservateur (E200), stabilisant (E1103), colorant (E120), extrait de carthame, arôme], 4% garniture en sucre (sucre, blancs d'oeufs (plein air), eau, épaississant (E414), arôme (vanille), stabilisant (E336), extrait de carthame, colorants (E120, E132,E133).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "carmine",
+        "insect_derived"
+      ],
+      "reason": "Contains carmine / E120 / karmijnzuur insect colorant",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:25:50.522975+00:00"
+    },
+    "5400141197068": {
+      "barcode": "5400141197068",
+      "product_name": "Pépites de chocolat",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/119/7068/front_fr.4.400.jpg",
+      "ingredients_text": "Pépites de chocolat noir Sucre, pâte de cacao. beurre de cacao, émulsifient (E322, contient du soja). a(ôme (vanille). Cacao: 45,5 % minimum. Contient du soja. Peut contenir des traces de glutenp de lait et de fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:25:50.523146+00:00"
+    },
+    "5400141214550": {
+      "barcode": "5400141214550",
+      "product_name": "Chocolat blanc",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/121/4550/front_fr.8.400.jpg",
+      "ingredients_text": "Sucre, beurre de cacao, lait entier en poudre, matière grasse lactique anhydre, émulsifiant (E322, contient du soja), arôme (vanille). Contient du soja et du lait. Peut contenir des traces de fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:25:50.523284+00:00"
+    },
+    "5400141224269": {
+      "barcode": "5400141224269",
+      "product_name": "Chocolat noir",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/122/4269/front_fr.7.400.jpg",
+      "ingredients_text": "IAnPA90 Uaiou uA VIAUL UPA UAJ0dS UPV Chocolat noir - Sucre, pâte de cacao, beurre de cacao, émulsifiant (E322), arôme (vanille), Cacao: 50% minimum, Peut contenir des traces de lait et de fruits à coque,",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:25:50.523469+00:00"
+    },
+    "5400141224887": {
+      "barcode": "5400141224887",
+      "product_name": "Chocolat au lait",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/122/4887/front_fr.12.400.jpg",
+      "ingredients_text": "Chocolat au lait - Sucre de canne*, beurre de cacao*, lait entier en poudre*, pâte de cacao*, émulsifiant (E322, contient du soja). Cacao: 38,1 % minimum. Contient du soja et du lait. Peut contenir des traces de gluten, d'œufs et de fruits à coque. *d'origine biologique",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:25:50.523656+00:00"
+    },
+    "5400141262421": {
+      "barcode": "5400141262421",
+      "product_name": "Panichoc",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/126/2421/front_fr.4.400.jpg",
+      "ingredients_text": "Petits pains briochés aux pépites de chocolat Farine de blé, sucre. 8,5 % pépites de chocolat noir [sucre, pâte de cacao, beurre de cacao. émulsifiant (E322, contient du soja), arôme (vanille)). eau. huile de colza. oeufs (au sol), crème fraîche. 'l % pépites de chocolat au lait [sucre, lait entier en poudre. beurre de cacao, pâte de cacao, arôme (vanille), émulsifiant (E32? contient du soja)). gluten de blé, tait entie( en poudre, levure, sel. émulsifiants (E471. Elé81e E472e). arômes, protéines du lait. épaississant (E410), levure désactivée. colorant (E160a). Contient du gluten, des oeufs, du soja et du lait.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:25:50.523956+00:00"
+    },
+    "5400141407471": {
+      "barcode": "5400141407471",
+      "product_name": "Muesli Repen Met Chocolade - Barres Au Chocolat",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/140/7471/front_fr.4.400.jpg",
+      "ingredients_text": "Barre de muesli croquant aux pépites de chocolat noir 54% muesli [muesli croquant (flocons d'avoine, flocons de blé, sucre, huile de tournesol, miel, noix de coco), croustillant au riz (farine de riz, farine de blé, sucre, blé malté en poudre), flocons d'avoine, noix de coco, cornflakes (maïs, malt d'orge, sel, émulsifiant (E322)), 2,6% noisettes], 11 % chocolat [pâte de cacao, sucre, beurre de cacao, émulsifiant (E322, contient du soja), arôme], sirop de glucose, sucre, maltodextrine, sirop de sucre inverti, stabilisants (E422, E420), huiles végétales (palme, navette). émulsifiant (E322, contient du soja), sel, sirop de caramel. Contient du gluten, du soja et des fruits à coque. Peut contenir des traces de lait.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:25:50.524344+00:00"
+    },
+    "5400141382617": {
+      "barcode": "5400141382617",
+      "product_name": "Chocolat Noir 72% Cacao",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/138/2617/front_fr.15.400.jpg",
+      "ingredients_text": "Pâte de cacao. sucre, beurre de cacao, émulsifiant (E322, contient du _soja_), arôme (vanille).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:25:50.524450+00:00"
+    },
+    "5400141398083": {
+      "barcode": "5400141398083",
+      "product_name": "Assortiment de pralines fourrées à la liqueur",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/139/8083/front_fr.4.400.jpg",
+      "ingredients_text": "Sucre, pâte de cacao, sucre inverti, beurre de cacao, 2,8 % alcool, 2% eaux de vie (Poire Williams Framboise), 1,3% Whisky Label 5 0,9 % Cointreau, 0,9 % Rémy Martin Fine Champagne Cognac, émulsifiant (E322, contient du soja), arômes, extrait de vanille. Cacao: 51 % minimum dans le chocolat noir. Contient du soja. Peut contenir des traces de lait et de fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "alcohol"
+      ],
+      "reason": "Contains alcoholic ingredients or spirits",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:25:50.524630+00:00"
+    },
+    "5400141403213": {
+      "barcode": "5400141403213",
+      "product_name": "Pièce en chocolat au lait",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/140/3213/front_fr.3.400.jpg",
+      "ingredients_text": "Sucre, beurre de cacao, lait entier en poudre, pâte de cacao, lactosérum en poudre (contient du lait). émulsifiant (E322, contient du soja), arôme.",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:25:50.524735+00:00"
+    },
+    "5400141663044": {
+      "barcode": "5400141663044",
+      "product_name": "Gommes parisiennes",
+      "store": "colruyt.be",
+      "stores": [
+        "colruyt.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/014/166/3044/front_fr.9.400.jpg",
+      "ingredients_text": "Sucre, sirop de glucose, eau, gélatine de porc, acidifiant (E330), maltodextrine, arômes (poire, citron, fraise, pomme, orange), colorants (E100, E120, E141, El60e).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "pork",
+        "carmine",
+        "insect_derived"
+      ],
+      "reason": "Contains pork derivatives / pork fat; Contains carmine / E120 / karmijnzuur insect colorant",
+      "source": "ROUND_ROBIN_COLRUYT_BE",
+      "updated_at": "2026-11-21T00:25:50.524829+00:00"
+    },
+    "5400113689553": {
+      "barcode": "5400113689553",
+      "product_name": "75% Cocoa Sea Salt",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/368/9553/front_fr.24.400.jpg",
+      "ingredients_text": "Cacaomassa&quot;, suiker, cacaopoeder&quot;, zeezout 0,6%, emulgator (sojalecithine).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.525654+00:00"
+    },
+    "5400113696063": {
+      "barcode": "5400113696063",
+      "product_name": "Milk praliné",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/369/6063/front_fr.15.400.jpg",
+      "ingredients_text": "Suiker, vollemelkpoeder, cacaoboter, plantaardig vet (gecertificeerd duurzaam palm, shea), cacaomassa*, hazelnoten, amandelen, cashewnoten, weipoeder (melk), lactose (melk), mageremelkpoeder, emulgator (zonnebloem - lecithine), natuurlijke aroma's.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.525782+00:00"
+    },
+    "5400111050683": {
+      "barcode": "5400111050683",
+      "product_name": "Biscuits moelleux cerise",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/105/0683/front_sr.6.400.jpg",
+      "ingredients_text": "šečer, glukozno-fruktozni sirup, koncentrovani sok od višnje 10%, _pšenično_ brašno, kakao maslac, cela _jaja_ 6%, obrano _mleko_ u prahu, biljno ulje (palmino), stabilizator (sorbitol sirup), kakao masa, _maslac_, _pšenični_ skrob, sredstvo za želiranje (pektin), regulator kiselosti (limunska kiselina), emulgator (_sojin_ lecitin), sredstvo za dizanje testa (amonijum-hidrogenkarbonat, natrijum-hidrogenkarbonat, mononatrijum-citrat), tapioka skrob, arome, kuhinjska so.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.526055+00:00"
+    },
+    "5400112368862": {
+      "barcode": "5400112368862",
+      "product_name": "Raw Cake Citron Vert et Mangue",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/236/8862/front_fr.4.400.jpg",
+      "ingredients_text": "_Noix de cajou_, datte, lait de coco, sirop d'agave, _amandes_, huile de coco non hydrogénée, mangue 7,9 %, citron vert 4,8 %, citron.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.526180+00:00"
+    },
+    "5400112369050": {
+      "barcode": "5400112369050",
+      "product_name": "Raw Cake Framboise et Myrtille",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/236/9050/front_fr.4.400.jpg",
+      "ingredients_text": "noix de cajou, datte, lait de coco, sirop d'agave, amandes, huile de coco non hydrogénée, myrtille 7%, framboise 7%, citron.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.526290+00:00"
+    },
+    "5400113622499": {
+      "barcode": "5400113622499",
+      "product_name": "Fruits de mer chocolat",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/362/2499/front_fr.3.400.jpg",
+      "ingredients_text": "Sucre, noisettes 22,9%, beurre de cacao, lait entier en poudre, pâte de cacao, poudre de cacao maigre, lait écrémé en poudre, émulsifiant (lécithine de tournesol), matières grasses laitières anhydres, arôme naturel de vanille. Contient: lait, fruits à coque. Fabriqué dans un atelier qui utilise aussi: gluten et soja.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.527126+00:00"
+    },
+    "5400113643449": {
+      "barcode": "5400113643449",
+      "product_name": "Chocolat au lait aux noisettes",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/364/3449/front_fr.20.400.jpg",
+      "ingredients_text": "Suiker*, cacaoboter*, vollemelkpoeder*, hazelnoten 15%* cacaomassa* emulgator [lecithinen (soja)*], vanillearoma*. Cacao: 35% minimum. *Biologisch landbouwproduct.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.527237+00:00"
+    },
+    "5400113638865": {
+      "barcode": "5400113638865",
+      "product_name": "Noir pure mousse",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/363/8865/front_fr.28.400.jpg",
+      "ingredients_text": "sucre, pâte de cacao, matières grasses _laitières_ anhydres, matières grasses végétales non hydrogénées (palme certifiée durable, karité), _lait_ écrémé en poudre, _noisettes_, poudre de cacao maigre, beurre de cacao, lactose (_lait_), émulsifiant (lécithine de _soja_), arôme, Cacao: 43% minimum,",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.527407+00:00"
+    },
+    "5400113620648": {
+      "barcode": "5400113620648",
+      "product_name": "Figurines creuses chocolat noir",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/362/0648/front_fr.5.400.jpg",
+      "ingredients_text": "3710 DELHANE DEL 5400113620648 5400113563631 130G DLL EITJES DELHAIZE 28901 - NC",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.527484+00:00"
+    },
+    "5400113637837": {
+      "barcode": "5400113637837",
+      "product_name": "Candy’s",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/363/7837/front_fr.3.400.jpg",
+      "ingredients_text": "core fantasie-gommes dients sucre, sirop de glucose ctrique, malate de sodium), ardmes atulles obrant acufants (acide lactique, acide mode alimentaire (concentré de spiruled carthamel concentrés (us de carotte noire, il colorants (curcumine, extrait de paprika) zuckerware-soure weiche fruchtgummis zutaten: zucker, glucosesirup, wasser, gelatine (milchsäure, apfelsäure, citronensäure, natrium malate), aromen lebensmittelfarbe (spiruli und safforkonzentrat), konzentrate (schwarzer karottensaft,  trauben), farbstoffe (kurkumin paprikoextrakt), gemiddelde voedingswaarde per valeur nutritive moyenne par durchschnittlicher nahrwerto energie vetten/matières grasses/fett - waarvan verzadigde vetzuren/ dont acides gras saturés/ dovon gesättigte fettsäuren 1009 141240/332 kal وکه koolhydraten/glucides/kohlenhydrate waarvan suikers/dont sucres/davon? 634 vezels/fibres alimentaires/ballaststoffe bwitten/protéines/bluet 549 zout/sel/salz &lt;0,01g deze verpakking bevat ongeveer 12,5 parties 20g lt 241928 a1/01/2006 verpo 104 open op een droge plaats slutten na gebru ouverrature ambian refermantonserver dans quet opres mertemper offnen on ewahre packung fest vouch vergewe n'oublie de vo info fois por versen sie nicht tog ihre zahne z delhaize le lion/dew brusselsesteenweg 347 b-1730 asse wwwww, delhaize,be nettogewicht poids net 250ge cet emballage contient environ 12,5 portions de 20g diese packung enthält ca, 125 portionen von 20g",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "gelatin"
+      ],
+      "reason": "Contains unverified gelatin source",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.528149+00:00"
+    },
+    "5400113642282": {
+      "barcode": "5400113642282",
+      "product_name": "Carrés au goût frangipane",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/364/2282/front_fr.17.400.jpg",
+      "ingredients_text": "Suiker, tarwebloem, sojabonen, ongeharde plantaardige oliën (palm, koolzaad, kokos), gemodificeerd aardappelzetmeel, dextrose (bevat tarwe), amandelen 1%, stabilisator (sorbitol), verdikkingsmiddelen (guargum, pectinen), abrikozenpitten, emulgatoren (sojalecithi - ne), zout, glucosestroop, rijsmiddelen (dinatriumdifosfaat, natriumwaterstofcarbo - naat), invertsuikerstroop, melkeiwit, aroma's (bevat melk), conserveermiddelen (kaliumsorbaat, natriumpropionaat), lactose, zuurteregelaar (citroenzuur), tarwezeimeel.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.528357+00:00"
+    },
+    "5400113696001": {
+      "barcode": "5400113696001",
+      "product_name": "Chocolat au lait aux noisettes entières",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/369/6001/front_fr.24.400.jpg",
+      "ingredients_text": "Suiker, hele hazelnoten 25%, cacaoboter*, vollemelkpoeder, cacaomassa*, botervet (melk), emulgator (zonnebloemlecithine), karamel (glucose-fructosestroop, zoete geconcentreerde melk, suiker, water), natuurlijk vanille-extract. *Rainforest Alliance gecertificeerd.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.528665+00:00"
+    },
+    "5400119560702": {
+      "barcode": "5400119560702",
+      "product_name": "Gegrilde courgette hummus",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/956/0702/front_fr.13.400.jpg",
+      "ingredients_text": "Gegrilde courgette 45%, kikkererwten, ongeharde raap - zaadolie, amandelen 4,7%, wilde knoflook, kruidenmix [gemodificeerd zetmeel, zout, antioxidant (E330), conserveermiddel (E202), komijn, rode chili, stabilisator (E415)], tahini (sesamzaad), venkel 0,56%, zout, verdikkingsmiddelen (E412, E415), voedingszuur (E330).",
+      "nutrition": {},
+      "nutriscore_grade": "b",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.529080+00:00"
+    },
+    "5400119560825": {
+      "barcode": "5400119560825",
+      "product_name": "Dip haricot blanc au chutney à l'oignon",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/956/0825/front_fr.11.400.jpg",
+      "ingredients_text": "Witte bonen 68%, ongeharde zonnebloemolie, ui 8,6%, sesampasta, voedingsvezel (inuline), suiker, water, knoflook, ge - bufferd azijnpoeder (conserveermiddel), niet-gejodeerd zout, wittewijnazijn, voedingszuur (citroenzuur), witte peper, conserveermiddel (kaliumsorbaat), zwart sesqmzaad, azijn, natuurlijk aroma, verdikkingsmiddel (xanthaangom), citrusvezel.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.529265+00:00"
+    },
+    "5400119564410": {
+      "barcode": "5400119564410",
+      "product_name": "Pesto Rouge",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/956/4410/front_fr.3.400.jpg",
+      "ingredients_text": "huile de colza nop hydrogénée, tomates séchées au soleil 27 % [tomates séchées au soleil, sel, glucose, acidifiant (acide citrique]), pulpe de tomate (tomate, jus de tomate, acidifiant (acide citrique)), concentré de tomate (tomate, sel), copeaux de Grana Padano 5,4 % (lait, sel, présure, conservateur (lysozyme d'oeuf), graines de tournesol, Pecorino (lait de brebis, sel, présure de brebis), eau, ail, basilic, conservateur (sorbate de potassium), acidifiant (acide citrique), poivre noir. Peut contenir. gluten, graines de sésame, soja, fruits à coque, moutarde, poisson, céleri, crustacés.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.529553+00:00"
+    },
+    "5400119567855": {
+      "barcode": "5400119567855",
+      "product_name": "Chou-fleur-châtaigne dips",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/956/7855/front_fr.3.400.jpg",
+      "ingredients_text": "Châtaigne 24%, chou-fleur 23%, huile de colza non hydrogénée, eau, graines de sésame, fèves, graines de soja, assaisonnement [amidon modifié, sel, antioxydant (E330), conservateur (E202), cumin en poudre, piment en poudre, stabilisant (E415), fromage à pâte dure (lait, sel, présure microbienne), basılic, persil, flocons de pomme de terre (pomme de terre séchée, émulsifiant (E471), antioxydants (E304, E300), acidifiant (E330), curcuma, arôme de carotte], ail, noisettes, flocons de Grana Padano AOP [lait, sel, présure de veau, conservateur (E1105 [œuf), sel, livèche, acidifiants (E260, E270, E330), antioxydant (E300), extrait de levure, poivre noir, pâte de piment (piment rouge, sel, vinaigre, eau, fibres d'agrumes). Peut contenir céréales contenant du gluten, d'autres fruits à coque, moutarde, poisson, céleri, crustacés.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat",
+        "other_haram"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter; Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.529956+00:00"
+    },
+    "5400119567824": {
+      "barcode": "5400119567824",
+      "product_name": "Maïs dips",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/956/7824/front_fr.13.400.jpg",
+      "ingredients_text": "Gegrilde maïs 44%, incapepers 20%, ongeharde koolzaadolie, water, sesamzaad, kruidenmix [gemodificeerd maïszetmeel, zout, antioxidant (citroenzuur), conserveermiddel (kaliumsorbaat), komijn, chilipeper, stabilisator (xanthaangom)], kikkererwten, knoflook, tabascosaus (azijn, rode pepers, zout), zout, voedingszuren (azijnzuur, melkzuur), kleurstof (carotenen).",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.530126+00:00"
+    },
+    "5400119573405": {
+      "barcode": "5400119573405",
+      "product_name": "Feta épicée",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/957/3405/front_fr.23.400.jpg",
+      "ingredients_text": "Roomkaas 41% [magere melk, room (melk), mageremelk - poeder, tapiocazetmeel, zout, rijpingscultuur, conserveermiddel E202)], fetakaas 36% (schapenmelk, geitenmelk, microbieel stremsel, rijpingscultuur, zout), ongeharde raapolie, geroosterde paprika 10% (paprika 98%, ongeharde zonnebloemolie), sambal 0,2% [chilipeper, zout, voedingszuur (E330)], rode ui, kruiden, knoflook, witte peper, voedingszuur (E330), conserveermiddel (E202), water, natuurlijk capsicumaroma.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.530367+00:00"
+    },
+    "5400119578165": {
+      "barcode": "5400119578165",
+      "product_name": "Tzatziki",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "sauces",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/957/8165/front_fr.3.400.jpg",
+      "ingredients_text": "Yaourt à la grecque (lait) 43%, fromage à la crème 40% [lait, crème (lait), amidon non modifié de tapioca, sel, conservateur (E202), levain lactique], concombre 12%, mélange tzatziki [concombre, eau, sucre, vinaigre, sel, conservateur (E211), arômes naturels], huile de tournesol non hydrogénée, ail, sel de mer, aneth, conservateur (E202), acidifiant (E330).",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.530564+00:00"
+    },
+    "5400113761150": {
+      "barcode": "5400113761150",
+      "product_name": "Moelleux spéculoos",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/376/1150/front_fr.5.400.jpg",
+      "ingredients_text": "Pâte au spéculoos 30% [farine de blé, sucre, huile de palmé non hydrogénée, huile de colza raffinée, sirop de sucre candi, poudre à lever (carbonate acide de sodium), sel, cannelle, arôme naturel de caramel, émulsifiant (lécithines), acidifiant (acide citrique)], œuf de poule élevée au sol, sucre, eau, farine de blé, beurre (lait), margarine [huile de palme non hydrogénée, huiles végétales raffinées (colza, coprah), eau, émulsifiant (mono - et diglycérides d'acides gras), acidifiant (acide citrique)], poudre d'amande, jaune d'œuf [jaune d'oeuf de poule élevée au sol, acidifiant (acide citrique), conservateur (sorbate de potassium)], colorant (caramel), sel. ! Peut contenir: soja, autres fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.534652+00:00"
+    },
+    "5400113743255": {
+      "barcode": "5400113743255",
+      "product_name": "Gaufres vanille glaçage cacao",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/374/3255/front_fr.7.400.jpg",
+      "ingredients_text": "Farine de blé, couverture de cacao 20% [sucre, graisses végétales non hydrogénées (coco, palmiste certifié durable, palme certifiée durable), poudre de cacao maigre, émulsifiants (tristéarate de sorbitane, lecithines (contient: soja)), arôme naturel de vanille], margarine [graisse de palme non hydrogénée certifiée durable, eau, huiles végétales non hydrogénées (colza, palme certifiée durable), sel, émulsifiants (lécithines (contient: soja), mono - et diglycérides d'acides gras), correcteur d'acidité (acide citrique), colorant (caroténoïdes), arôme nature]], sucre, œuf de poule élevée au sol, sirop de sucre inverti, farine de soja, stabilisant (sorbitols), poudre à lever (carbonates d'ammonium), émulsifiant [lécithines (contient: soja)], arôme. Peut contenir: lait.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.535033+00:00"
+    },
+    "5400113743989": {
+      "barcode": "5400113743989",
+      "product_name": "Craquelins",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/540/011/374/3989/front_fr.5.400.jpg",
+      "ingredients_text": "Farine de blé, graisse de palme non hydrogénée, sucre 15%, eau, huile de colza non hydrogénée, sel, poudre à lever (carbonates de sodium), arôme naturel, colorant (carotenoides), émulsifiant (mono-et diglycérides d'acides gras), correcteur d'acidité (acide lactique). Peut contenir: lait, fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.535220+00:00"
+    }
+  }
+}

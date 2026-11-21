@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "872",
-  "count": 5,
-  "updated_at": "2026-11-20T23:36:27.370663+00:00",
+  "count": 6,
+  "updated_at": "2026-11-21T00:25:50.603217+00:00",
   "products": {
     "8727500033094": {
       "barcode": "8727500033094",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T23:36:27.264248+00:00"
+      "updated_at": "2026-11-21T00:25:50.447443+00:00"
     },
     "8721800408880": {
       "barcode": "8721800408880",
@@ -64,7 +64,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T23:36:27.279989+00:00"
+      "updated_at": "2026-11-21T00:25:50.462836+00:00"
     },
     "8721800408866": {
       "barcode": "8721800408866",
@@ -96,7 +96,7 @@
       ],
       "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T23:36:27.280081+00:00"
+      "updated_at": "2026-11-21T00:25:50.462927+00:00"
     },
     "8722700255642": {
       "barcode": "8722700255642",
@@ -128,7 +128,7 @@
       ],
       "reason": "Contains pork derivatives / pork fat",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T23:36:27.290065+00:00"
+      "updated_at": "2026-11-21T00:25:50.472742+00:00"
     },
     "8720182103406": {
       "barcode": "8720182103406",
@@ -158,7 +158,30 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T23:36:27.299510+00:00"
+      "updated_at": "2026-11-21T00:25:50.481934+00:00"
+    },
+    "8723400780748": {
+      "barcode": "8723400780748",
+      "product_name": "Summer fruits",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/872/340/078/0748/front_fr.19.400.jpg",
+      "ingredients_text": "Sirop de glucose, sucre inuline, humectants (sorbitol, glycérol), jus de fruits (orange, fraise, citron) (6%), huile de noix de coco totalement hydrogénée, acidifiant (acide citriquel gélatine, fécule, maltodextrine, arômes naturels concentrés (carotte, carotte violette, baie de sure gélifiant (gomme arabique), émulsifiant (sucroeste d'acides gras), dextrine",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "gelatin"
+      ],
+      "reason": "Contains unverified gelatin source",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.526733+00:00"
     }
   }
 }

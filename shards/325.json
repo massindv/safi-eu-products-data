@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "prefix": "325",
+  "count": 2,
+  "updated_at": "2026-11-21T00:25:50.555573+00:00",
+  "products": {
+    "3255290252791": {
+      "barcode": "3255290252791",
+      "product_name": "Madeleines Longues au Chocolat",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/325/529/025/2791/front_fr.8.400.jpg",
+      "ingredients_text": "Farine de blé, huile de colza, oeufs frais 16%, sucre, chocolat 10 %(sucre, pâte de cacao, beurre de cacao, cacao maigre en poudre, émulsifiant : lécithine de soia, arôme naturel de vanille strop de glucose-fructose, stabilisant : glycérol, cacao maigre en poudre, lait écrémé en poudre, amidon, poudres à lever : diphosphatest carbonates de sodium, émulsifiant : E471 , sel, arômes naturels, épaississants : gomme xanthane-gomme guar. Peut contenir des traces de fruits à coque.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "other_haram"
+      ],
+      "reason": "Contains doubtful emulsifiers (E471) or animal rennet",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:25:50.531117+00:00"
+    },
+    "3255290253514": {
+      "barcode": "3255290253514",
+      "product_name": "moelleux au chocolat",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/325/529/025/3514/front_fr.4.400.jpg",
+      "ingredients_text": "farine de blé, huile de colza, sucre, oeufs frais, chocolat 11°/, sucre incertitudes, poudre à lever, sel",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:25:50.531217+00:00"
+    }
+  }
+}

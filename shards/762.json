@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "762",
-  "count": 4,
-  "updated_at": "2026-11-20T23:36:27.354808+00:00",
+  "count": 5,
+  "updated_at": "2026-11-21T00:25:50.581821+00:00",
   "products": {
     "7622202283994": {
       "barcode": "7622202283994",
@@ -32,7 +32,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T23:36:27.263376+00:00"
+      "updated_at": "2026-11-21T00:25:50.446602+00:00"
     },
     "7622300348786": {
       "barcode": "7622300348786",
@@ -62,7 +62,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T23:36:27.276638+00:00"
+      "updated_at": "2026-11-21T00:25:50.459582+00:00"
     },
     "7622210475183": {
       "barcode": "7622210475183",
@@ -92,7 +92,7 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T23:36:27.283317+00:00"
+      "updated_at": "2026-11-21T00:25:50.466087+00:00"
     },
     "7622210993656": {
       "barcode": "7622210993656",
@@ -122,7 +122,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T23:36:27.285533+00:00"
+      "updated_at": "2026-11-21T00:25:50.468200+00:00"
+    },
+    "7622210462534": {
+      "barcode": "7622210462534",
+      "product_name": "Oreo Mini Strawberry Biscuit",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/762/221/046/2534/front_fr.16.400.jpg",
+      "ingredients_text": "Farine de blé , sucre, huiles végétales (palme, palmiste), cacao maigre en poudre 4,7%, amidon de blé , sirop de glucose-fructose, poudre à lever (carbonate acide de potassium, carbonate acide d'ammonium, carbonate acide de sodium), sel, émulsifiants (lécithine de soja , lécithine de tournesol), jus concentré de betterave rouge, arômes.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:25:50.531414+00:00"
     }
   }
 }

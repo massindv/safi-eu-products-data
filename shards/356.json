@@ -1,0 +1,74 @@
+{
+  "version": "1.0",
+  "prefix": "356",
+  "count": 3,
+  "updated_at": "2026-11-21T00:25:50.556512+00:00",
+  "products": {
+    "3560071567354": {
+      "barcode": "3560071567354",
+      "product_name": "Petit déjeuner",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/156/7354/front_fr.13.400.jpg",
+      "ingredients_text": "Vol_tarwe_meel 54%, granola 33,7% (_haver_vlokken 15,3%, suiker, pompoenpitten 5%, zonnebloempitten 5%, kaneel, antioxidant: tocoferolrijk extract), rozijnen 10,8%, zonnebloemolie, gist, honing 2,7%, rietsuiker, _tarwe_bloem, zeezout.\nKan melk, andere glutenbevattende granen, sesamzaad en noten bevatten.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:25:50.533647+00:00"
+    },
+    "3560071564902": {
+      "barcode": "3560071564902",
+      "product_name": "Biscuits avoine complète",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/156/4902/front_fr.19.400.jpg",
+      "ingredients_text": "Volkoren _haver_vlokken* 41,7% (oorsprong Frankrijk), _tarwe_bloem* 20,5% (oorsprong Frankrijk), ruwe rietsuiker*, koolzaadolie*, geroosterde _tarwe_kiemen* 9,7% (oorsprong Frankrijk), gepofte rijstbolletjes*, acaciavezel*, _ei_geelpoeder*, rijsmiddelen: ammoniumcarbonaten en citroenzuur, zout, magere _melk_poeder*, antioxidant: extracten van rozemarijn*. *biologisch. Kan soja, noten, mosterd en sesamzaad bevatten.",
+      "nutrition": {},
+      "nutriscore_grade": "c",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:25:50.533839+00:00"
+    },
+    "3560071589660": {
+      "barcode": "3560071589660",
+      "product_name": "Charlotte aux fruits exotiques",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/356/007/158/9660/front_fr.5.400.jpg",
+      "ingredients_text": "Eau, sucre, bande de biscuits aux _œufs_ 14,2% (sucre, farine de _blé_, _œuf_ 4,7%, jaune d'_œuf_ 0,1%, sirop de glucose, sel, épaississant : gomme xanthane, blanc d'_œuf_ en poudre, _gluten de blé_, fibres végétales), purée de mangue 8%, jus de fruit de la passion 6%, graisse de coprah, _œuf_, sirop de glucose, farine de _blé_, _beurre_ pâtissier, _lait_ écrémé en poudre, jus de citron, gélatine de bœuf, _amande_ en poudre 0,8%, inuline, gélifiant : pectines, amidon de maïs, jaune d'_œuf_, noix de coco râpée, émulsifiant : mono - et diglycérides d'acides gras, concentré (potiron, pomme), arôme naturel de vanille, colorant : caroténoïdes. Peut contenir des traces d'autres fruits à coque, de soja, de graines de sésame et de moutarde.",
+      "nutrition": {},
+      "nutriscore_grade": "d",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "non_halal_meat",
+        "gelatin"
+      ],
+      "reason": "Contains meat from animal source without verified Halal slaughter; Contains unverified gelatin source",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:25:50.534260+00:00"
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "306",
-  "count": 1,
-  "updated_at": "2026-11-20T23:36:27.343297+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T00:25:50.551517+00:00",
   "products": {
     "3068320120256": {
       "barcode": "3068320120256",
@@ -33,7 +33,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T23:36:27.287572+00:00"
+      "updated_at": "2026-11-21T00:25:50.470161+00:00"
+    },
+    "3061990126948": {
+      "barcode": "3061990126948",
+      "product_name": "Mini BN Goût chocolat",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/306/199/012/6948/front_fr.4.400.jpg",
+      "ingredients_text": "Céréales [farine de froment (28%), céréales complètes (18.6%)(farine complète de froment (18,5%), farine complète de seigle, farine complète d'orge)] - sucre - graisses végétales - cacao maigre (4.6%) - lactose et protéines de lait - amidon de blé - sel - poudres à lever : carbonate acide d'ammonium, carbonate acide de sodium - émulsifiants : E472c, E472e - arôme naturel - lait entier en poudre.",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:25:50.532198+00:00"
     }
   }
 }

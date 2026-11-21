@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "prefix": "020",
+  "count": 2,
+  "updated_at": "2026-11-21T00:25:50.548462+00:00",
+  "products": {
+    "0202336019682": {
+      "barcode": "0202336019682",
+      "product_name": "Millefeuille",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/020/233/601/9682/front_fr.12.400.jpg",
+      "ingredients_text": "eau, farine de blé, sucre, beurre, huiles et graisses végétales non hydrogénées (palmiste, coprah, tournesol), lait entier en poudre, amidon modifié, sirop de sel, stabilisants : glucose, fructose, lait écrémé en E263 ? E450 ? E339, émulsifiants : E47f - E472c - E472a, gélatine, cacao maigre en poudr arômes (lait, blé), colorant : El 60a, agent de traitement de la farine : E920. Présence éventuelle d'œuf, de soja et de fruitS?à-000JJ0",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "gelatin"
+      ],
+      "reason": "Contains unverified gelatin source",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:25:50.530820+00:00"
+    },
+    "0202297019356": {
+      "barcode": "0202297019356",
+      "product_name": "Bûchette pâtissière chocolat décongelé X 2",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/020/229/701/9356/front_fr.4.400.jpg",
+      "ingredients_text": "Crème au beurre parfum chocolat 45,6%: _BEURRE_ 16%, sucre, blanc d'_ŒUFS_ (dont stabilisant: E415). pâte de cacao 4%, poudre de cacao 2.7%, eau, sirop de glucose. \nGénoise goût chocolat 30.4%: préparation pour génoise (farine de _BLÉ_, sucre, poudre de cacao 0.8%, sirop de glucose déshydraté, amidon de _BLÉ_, émulsifiants E472b et E472a, poudre de _LAIT_ écrémé, poudres à lever: E450 et E500, sel), _ŒUFS_ entiers. \nSirop d'imbibage 20.7%: sirop de sucre inverti, eau, arôme. \nDécor 3.3%: crème au beurre (_BEURRE_ 0.9%, sucre, blanc d'_ŒUFS_ ( dont stabilisant E415), eau, sirop de glucose), éclats de _NOISETTES_ caramélisés (sucre, _NOISETTES_).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:25:50.531965+00:00"
+    }
+  }
+}

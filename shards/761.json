@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "prefix": "761",
-  "count": 1,
-  "updated_at": "2026-11-20T23:36:27.354227+00:00",
+  "count": 2,
+  "updated_at": "2026-11-21T00:25:50.580720+00:00",
   "products": {
     "7613036394109": {
       "barcode": "7613036394109",
@@ -32,7 +32,28 @@
       "triggers": [],
       "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
       "source": "AH_BE",
-      "updated_at": "2026-11-20T23:36:27.292409+00:00"
+      "updated_at": "2026-11-21T00:25:50.475030+00:00"
+    },
+    "76145940": {
+      "barcode": "76145940",
+      "product_name": "Senses",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/007/614/5940/front_en.24.400.jpg",
+      "ingredients_text": "Edulcorants (sorbitol, sirop de maltinal, xylital, aspartame, acesulfame-K, sucralose), gomme base, agent de charge (E170), artmes, humectant (EAZ2), antierytant (E321), émulitiant (lecithine de tournesol), colorant (E141). Une consommation excessive peut avir des effets laxas, Contient une souce de phénylalanine. A concerver à labri de la chaleur et de l'humidité.",
+      "nutrition": {},
+      "nutriscore_grade": "not-applicable",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.528871+00:00"
     }
   }
 }

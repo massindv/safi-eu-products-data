@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "401",
+  "count": 1,
+  "updated_at": "2026-11-21T00:25:50.557992+00:00",
+  "products": {
+    "4017100134005": {
+      "barcode": "4017100134005",
+      "product_name": "Nuss-dessert Hazelnut",
+      "store": "delhaize.be",
+      "stores": [
+        "delhaize.be"
+      ],
+      "category": "snacks",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/401/710/013/4005/front_fr.13.400.jpg",
+      "ingredients_text": "Tarwemeel, plantaardig vet (palm), suiker, hazelnoten 7,8 %, weipro - duct, dextrose, volle melkpoeder, zetmeel (tarwe), eigeelpoeder, appelextrakt, rijsmiddel: natriumcarbonaat, difosfaat; sinaasappelschillen, glucose - en fructosestroop, magere melkpoeder, zout, aroma (melk), glucosestroop, kippenei, specerij, emulgator: lecithine (soja).",
+      "nutrition": {},
+      "nutriscore_grade": "e",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_DELHAIZE_BE",
+      "updated_at": "2026-11-21T00:25:50.526897+00:00"
+    }
+  }
+}

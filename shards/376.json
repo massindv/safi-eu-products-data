@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "prefix": "376",
+  "count": 1,
+  "updated_at": "2026-11-21T00:25:50.557164+00:00",
+  "products": {
+    "3760211111144": {
+      "barcode": "3760211111144",
+      "product_name": "amaretti alle mandorle",
+      "store": "carrefour.fr",
+      "stores": [
+        "carrefour.fr"
+      ],
+      "category": "biscuits-and-cakes",
+      "country": "EU",
+      "image_url": "https://images.openfoodfacts.org/images/products/376/021/111/1144/front_en.8.400.jpg",
+      "ingredients_text": "amande, arachide, oeufs, beurre (crème fraîche, ferments lactiques) sucre, arôme amande",
+      "nutrition": {},
+      "nutriscore_grade": "unknown",
+      "nutriscore_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Permissible plant, dairy, or fish ingredients with zero prohibited items",
+      "source": "ROUND_ROBIN_CARREFOUR_FR",
+      "updated_at": "2026-11-21T00:25:50.533214+00:00"
+    }
+  }
+}
