@@ -1,0 +1,378 @@
+{
+  "version": "2.0.0",
+  "prefix": "500",
+  "generated_at": "2026-11-24T23:16:38.681211+00:00",
+  "product_count": 2,
+  "products": {
+    "5000232957283": {
+      "barcode": "5000232957283",
+      "domain": "food",
+      "names": {
+        "nl": "Statesman Tonijn stukken in zonnebloemolie",
+        "fr": "Statesman Tonijn stukken in zonnebloemolie",
+        "de": "Statesman Tonijn stukken in zonnebloemolie",
+        "en": "Statesman Tonijn stukken in zonnebloemolie",
+        "ar": "Statesman Tonijn stukken in zonnebloemolie"
+      },
+      "brand": "Statesman",
+      "net_weight": "Standard Pack",
+      "allergens": [
+        "Fish"
+      ],
+      "description": "Op zoek naar Statesman Tonijn stukken in zonnebloemolie? Dit product vind je in het gamma van Albert Heijn. Reserveer online!",
+      "descriptions": {
+        "nl": "Op zoek naar Statesman Tonijn stukken in zonnebloemolie? Dit product vind je in het gamma van Albert Heijn. Reserveer online!",
+        "fr": "Statesman Tonijn stukken in zonnebloemolie par Statesman.",
+        "de": "Statesman Tonijn stukken in zonnebloemolie von Statesman.",
+        "en": "Statesman Tonijn stukken in zonnebloemolie by Statesman.",
+        "ar": "منتج Statesman Tonijn stukken in zonnebloemolie من Statesman."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Skipjack tonijn (VIS) (65%), zonnebloemolie, zout Allergie-informatie Bevat: Vis, Tonijn",
+        "fr": "Ingrediënten: Skipjack tonijn (VIS) (65%), zonnebloemolie, zout Allergie-informatie Bevat: Vis, Tonijn",
+        "de": "Ingrediënten: Skipjack tonijn (VIS) (65%), zonnebloemolie, zout Allergie-informatie Bevat: Vis, Tonijn",
+        "en": "Ingrediënten: Skipjack tonijn (VIS) (65%), zonnebloemolie, zout Allergie-informatie Bevat: Vis, Tonijn",
+        "ar": "Ingrediënten: Skipjack tonijn (VIS) (65%), zonnebloemolie, zout Allergie-informatie Bevat: Vis, Tonijn"
+      },
+      "image": "images/5000232957283.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5000232957283.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_2d663563425a64355476474467496952375a6d475851?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "supermarket",
+      "origin_country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "flag": "🇬🇧",
+        "inferred_from": "GS1_500"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 751.0,
+        "calories_100g": 180.0,
+        "fat_100g": 9.5,
+        "saturated_fat_100g": 1.6,
+        "carbohydrates_100g": 0.1,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 24.0,
+        "salt_100g": 0.9,
+        "sodium_100g": 360.0
+      },
+      "nutriscore_grade": "b",
+      "nutriscore_score": 1,
+      "health_score": 75,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Food product verified HALAL — all declared ingredients are permissible plant, mineral, or marine origin.",
+      "explanations": {
+        "ar": "منتج غذائي حلال — جميع المكونات المعلنة نباتية أو معدنية أو بحرية مباحة ولا تحتوي على مكونات محرمة.",
+        "en": "Food product verified HALAL — all declared ingredients are permissible plant, mineral, or marine origin.",
+        "fr": "Produit alimentaire HALAL — tous les ingrédients déclarés sont d'origine végétale, minérale ou marine licite.",
+        "nl": "Voedingsproduct is HALAL — alle vermelde ingrediënten zijn van toegestane plantaardige, minerale of mariene oorsprong.",
+        "de": "Lebensmittel als HALAL verifiziert — alle deklarierten Zutaten sind pflanzlichen, mineralischen oder maritimen Ursprungs."
+      },
+      "stores": [
+        "delhaize.be",
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.61,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.delhaize.be/search?q=5000232957283",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.colruyt.be/search?q=5000232957283",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.be/producten/product/wi420788/statesman-tonijn-stukken-in-zonnebloemolie",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.58,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.carrefour.be/search?q=5000232957283",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.75,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.lidl.de/search?q=5000232957283",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.88,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.carrefour.fr/search?q=5000232957283",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.9,
+          "promo_price": 1.95,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "product_url": "https://www.jumbo.com/search?q=5000232957283",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.45,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.nl/search?q=5000232957283",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        }
+      ],
+      "updated_at": "2026-11-24T23:16:38.681211+00:00"
+    },
+    "5000232957306": {
+      "barcode": "5000232957306",
+      "domain": "food",
+      "names": {
+        "nl": "Statesman Tonijn stukken in water",
+        "fr": "Statesman Tonijn stukken in water",
+        "de": "Statesman Tonijn stukken in water",
+        "en": "Statesman Tonijn stukken in water",
+        "ar": "Statesman Tonijn stukken in water"
+      },
+      "brand": "Statesman",
+      "net_weight": "Standard Pack",
+      "allergens": [
+        "Fish"
+      ],
+      "description": "Op zoek naar Statesman Tonijn stukken in water? Dit product vind je in het gamma van Albert Heijn. Reserveer online!",
+      "descriptions": {
+        "nl": "Op zoek naar Statesman Tonijn stukken in water? Dit product vind je in het gamma van Albert Heijn. Reserveer online!",
+        "fr": "Statesman Tonijn stukken in water par Statesman.",
+        "de": "Statesman Tonijn stukken in water von Statesman.",
+        "en": "Statesman Tonijn stukken in water by Statesman.",
+        "ar": "منتج Statesman Tonijn stukken in water من Statesman."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Skipjack tonijn (VIS), water, zout Allergie-informatie Bevat: Vis, Tonijn",
+        "fr": "Ingrediënten: Skipjack tonijn (VIS), water, zout Allergie-informatie Bevat: Vis, Tonijn",
+        "de": "Ingrediënten: Skipjack tonijn (VIS), water, zout Allergie-informatie Bevat: Vis, Tonijn",
+        "en": "Ingrediënten: Skipjack tonijn (VIS), water, zout Allergie-informatie Bevat: Vis, Tonijn",
+        "ar": "Ingrediënten: Skipjack tonijn (VIS), water, zout Allergie-informatie Bevat: Vis, Tonijn"
+      },
+      "image": "images/5000232957306.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5000232957306.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_646f6c744c6f4a6b5164617a48514630756936356577?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "supermarket",
+      "origin_country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "flag": "🇬🇧",
+        "inferred_from": "GS1_500"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 418.0,
+        "calories_100g": 99.0,
+        "fat_100g": 0.5,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 0.1,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 24.0,
+        "salt_100g": 0.9,
+        "sodium_100g": 360.0
+      },
+      "nutriscore_grade": "a",
+      "nutriscore_score": -1,
+      "health_score": 80,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "Food product verified HALAL — all declared ingredients are permissible plant, mineral, or marine origin.",
+      "explanations": {
+        "ar": "منتج غذائي حلال — جميع المكونات المعلنة نباتية أو معدنية أو بحرية مباحة ولا تحتوي على مكونات محرمة.",
+        "en": "Food product verified HALAL — all declared ingredients are permissible plant, mineral, or marine origin.",
+        "fr": "Produit alimentaire HALAL — tous les ingrédients déclarés sont d'origine végétale, minérale ou marine licite.",
+        "nl": "Voedingsproduct is HALAL — alle vermelde ingrediënten zijn van toegestane plantaardige, minerale of mariene oorsprong.",
+        "de": "Lebensmittel als HALAL verifiziert — alle deklarierten Zutaten sind pflanzlichen, mineralischen oder maritimen Ursprungs."
+      },
+      "stores": [
+        "colruyt.be",
+        "carrefour.be",
+        "delhaize.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.46,
+          "promo_price": 1.97,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "product_url": "https://www.colruyt.be/search?q=5000232957306",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.82,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.carrefour.be/search?q=5000232957306",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.85,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.delhaize.be/search?q=5000232957306",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.17,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.be/producten/product/wi420789/statesman-tonijn-stukken-in-water",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.8,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.lidl.de/search?q=5000232957306",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.19,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.carrefour.fr/search?q=5000232957306",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.05,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.jumbo.com/search?q=5000232957306",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.12,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.nl/search?q=5000232957306",
+          "updated_at": "2026-11-24T23:16:38.681211+00:00"
+        }
+      ],
+      "updated_at": "2026-11-24T23:16:38.681211+00:00"
+    }
+  }
+}

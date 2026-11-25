@@ -1,0 +1,376 @@
+{
+  "version": "2.0.0",
+  "prefix": "315",
+  "generated_at": "2026-11-25T01:18:24.045362+00:00",
+  "product_count": 2,
+  "products": {
+    "3154230814085": {
+      "barcode": "3154230814085",
+      "domain": "food",
+      "names": {
+        "nl": "Herta Spekreepjes gerookt bel",
+        "fr": "Herta Spekreepjes gerookt bel",
+        "de": "Herta Spekreepjes gerookt bel",
+        "en": "Herta Spekreepjes gerookt bel",
+        "ar": "Herta Spekreepjes gerookt bel"
+      },
+      "brand": "Herta",
+      "net_weight": "Standard Pack",
+      "allergens": [],
+      "description": "Op zoek naar Herta Spekreepjes gerookt bel? Dit product vind je in het gamma van Albert Heijn. Reserveer online!",
+      "descriptions": {
+        "nl": "Op zoek naar Herta Spekreepjes gerookt bel? Dit product vind je in het gamma van Albert Heijn. Reserveer online!",
+        "fr": "Herta Spekreepjes gerookt bel par Herta.",
+        "de": "Herta Spekreepjes gerookt bel von Herta.",
+        "en": "Herta Spekreepjes gerookt bel by Herta.",
+        "ar": "منتج Herta Spekreepjes gerookt bel من Herta."
+      },
+      "ingredients": {
+        "nl": "Varkensvlees 93%, conserveermiddelen: kaliumlactaat, natriumacetaat, natriumnitriet, zout, dextrose, antioxidant: natriumisoascorbaat.",
+        "fr": "Varkensvlees 93%, conserveermiddelen: kaliumlactaat, natriumacetaat, natriumnitriet, zout, dextrose, antioxidant: natriumisoascorbaat.",
+        "de": "Varkensvlees 93%, conserveermiddelen: kaliumlactaat, natriumacetaat, natriumnitriet, zout, dextrose, antioxidant: natriumisoascorbaat.",
+        "en": "Varkensvlees 93%, conserveermiddelen: kaliumlactaat, natriumacetaat, natriumnitriet, zout, dextrose, antioxidant: natriumisoascorbaat.",
+        "ar": "Varkensvlees 93%, conserveermiddelen: kaliumlactaat, natriumacetaat, natriumnitriet, zout, dextrose, antioxidant: natriumisoascorbaat."
+      },
+      "image": "images/3154230814085.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3154230814085.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130303135393831?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "supermarket",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_315"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1.029,
+        "calories_100g": 248.0,
+        "fat_100g": 20.0,
+        "saturated_fat_100g": 7.8,
+        "carbohydrates_100g": 0.4,
+        "sugars_100g": 0.4,
+        "fiber_100g": 0.5,
+        "proteins_100g": 17.0,
+        "salt_100g": 2.0,
+        "sodium_100g": 800.0
+      },
+      "nutriscore_grade": "c",
+      "nutriscore_score": 10,
+      "health_score": 55,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "varkensvlees"
+      ],
+      "reason": "Contains prohibited ingredient: varkensvlees",
+      "explanations": {
+        "ar": "يحتوي على مكون محظور: varkensvlees",
+        "en": "Contains prohibited ingredient: varkensvlees",
+        "fr": "Contient un ingrédient interdit : varkensvlees",
+        "nl": "Bevat verboden ingrediënt: varkensvlees",
+        "de": "Enthält verbotene Zutat: varkensvlees"
+      },
+      "stores": [
+        "colruyt.be",
+        "carrefour.be",
+        "delhaize.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.69,
+          "promo_price": 2.35,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "product_url": "https://www.colruyt.be/search?q=3154230814085",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 5.08,
+          "promo_price": 4.06,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "product_url": "https://www.carrefour.be/search?q=3154230814085",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.47,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.delhaize.be/search?q=3154230814085",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.99,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.be/producten/product/wi226425/herta-spekreepjes-gerookt-bel",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.15,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.lidl.de/search?q=3154230814085",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 5.4,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.carrefour.fr/search?q=3154230814085",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.86,
+          "promo_price": 3.89,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "product_url": "https://www.ah.nl/search?q=3154230814085",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.52,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.jumbo.com/search?q=3154230814085",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T01:17:59.700093+00:00"
+    },
+    "3154230813965": {
+      "barcode": "3154230813965",
+      "domain": "food",
+      "names": {
+        "nl": "Herta Gerookte spekblokjes BEL",
+        "fr": "Herta Gerookte spekblokjes BEL",
+        "de": "Herta Gerookte spekblokjes BEL",
+        "en": "Herta Gerookte spekblokjes BEL",
+        "ar": "Herta Gerookte spekblokjes BEL"
+      },
+      "brand": "Herta",
+      "net_weight": "Standard Pack",
+      "allergens": [],
+      "description": "Op zoek naar Herta Gerookte spekblokjes BEL? Dit product vind je in het gamma van Albert Heijn. Reserveer online!",
+      "descriptions": {
+        "nl": "Op zoek naar Herta Gerookte spekblokjes BEL? Dit product vind je in het gamma van Albert Heijn. Reserveer online!",
+        "fr": "Herta Gerookte spekblokjes BEL par Herta.",
+        "de": "Herta Gerookte spekblokjes BEL von Herta.",
+        "en": "Herta Gerookte spekblokjes BEL by Herta.",
+        "ar": "منتج Herta Gerookte spekblokjes BEL من Herta."
+      },
+      "ingredients": {
+        "nl": "Varkensborst, conserveermiddelen : natriumnitriet, natriumacetaat, kaliumlactaat, zout, dextrose, antioxidant: natriumerythorbaat, rook",
+        "fr": "Varkensborst, conserveermiddelen : natriumnitriet, natriumacetaat, kaliumlactaat, zout, dextrose, antioxidant: natriumerythorbaat, rook",
+        "de": "Varkensborst, conserveermiddelen : natriumnitriet, natriumacetaat, kaliumlactaat, zout, dextrose, antioxidant: natriumerythorbaat, rook",
+        "en": "Varkensborst, conserveermiddelen : natriumnitriet, natriumacetaat, kaliumlactaat, zout, dextrose, antioxidant: natriumerythorbaat, rook",
+        "ar": "Varkensborst, conserveermiddelen : natriumnitriet, natriumacetaat, kaliumlactaat, zout, dextrose, antioxidant: natriumerythorbaat, rook"
+      },
+      "image": "images/3154230813965.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3154230813965.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313937313435?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "supermarket",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_315"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1.029,
+        "calories_100g": 248.0,
+        "fat_100g": 20.0,
+        "saturated_fat_100g": 7.8,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": 0.0,
+        "proteins_100g": 17.0,
+        "salt_100g": 2.2,
+        "sodium_100g": 880.0
+      },
+      "nutriscore_grade": "d",
+      "nutriscore_score": 11,
+      "health_score": 53,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "carrefour.be",
+        "delhaize.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.58,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.colruyt.be/search?q=3154230813965",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.86,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.carrefour.be/search?q=3154230813965",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 5.45,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.delhaize.be/search?q=3154230813965",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 5.54,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.be/producten/product/wi409819/herta-gerookte-spekblokjes-bel",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.68,
+          "promo_price": 3.74,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "product_url": "https://www.lidl.de/search?q=3154230813965",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 5.38,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.carrefour.fr/search?q=3154230813965",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 5.13,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.nl/search?q=3154230813965",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 5.17,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.jumbo.com/search?q=3154230813965",
+          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T01:17:59.700093+00:00"
+    }
+  }
+}

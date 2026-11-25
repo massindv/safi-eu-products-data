@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "domain": "oral_care",
+  "catalog_name": "SAFI Production Unified Catalog (oral_care)",
+  "generated_at": "2026-11-25T01:18:24.045362+00:00",
+  "image_base_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/",
+  "product_count": 0,
+  "unknown_count": 0,
+  "zero_openfoodfacts_verified": true,
+  "stores_covered": [
+    "colruyt.be",
+    "delhaize.be",
+    "ah.be",
+    "carrefour.be",
+    "ah.nl",
+    "jumbo.com",
+    "carrefour.fr",
+    "lidl.de"
+  ],
+  "products": {}
+}
