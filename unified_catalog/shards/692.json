@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "692",
-  "generated_at": "2026-11-25T14:44:57.503205+00:00",
-  "product_count": 1,
+  "generated_at": "2026-11-25T15:30:32.371159+00:00",
+  "product_count": 2,
   "products": {
     "6921180820025": {
       "barcode": "6921180820025",
@@ -208,6 +208,212 @@
         }
       ],
       "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    },
+    "6921665714436": {
+      "barcode": "6921665714436",
+      "domain": "food",
+      "names": {
+        "nl": "Synear Pancake scallion flavor",
+        "fr": "Synear Pancake scallion flavor",
+        "de": "Synear Pancake scallion flavor",
+        "en": "Synear Pancake scallion flavor",
+        "ar": "Synear Pancake scallion flavor"
+      },
+      "brand": "Synear",
+      "net_weight": "450 g",
+      "allergens": [
+        "Gluten"
+      ],
+      "description": "Knapperige pannenkoeken gevuld met verse lente-ui. Ideaal als bijgerecht, snack of basis voor wraps en eenvoudig op te warmen in een pan..",
+      "descriptions": {
+        "nl": "Knapperige pannenkoeken gevuld met verse lente-ui. Ideaal als bijgerecht, snack of basis voor wraps en eenvoudig op te warmen in een pan..",
+        "fr": "Synear Pancake scallion flavor par Synear.",
+        "de": "Synear Pancake scallion flavor von Synear.",
+        "en": "Synear Pancake scallion flavor by Synear.",
+        "ar": "منتج Synear Pancake scallion flavor من Synear."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEbloem, water, palmolie, lente ui 5%, zout, aroma, smaakversterker E621.",
+        "fr": "Ingrediënten: TARWEbloem, water, palmolie, lente ui 5%, zout, aroma, smaakversterker E621.",
+        "de": "Ingrediënten: TARWEbloem, water, palmolie, lente ui 5%, zout, aroma, smaakversterker E621.",
+        "en": "Ingrediënten: TARWEbloem, water, palmolie, lente ui 5%, zout, aroma, smaakversterker E621.",
+        "ar": "Ingrediënten: TARWEbloem, water, palmolie, lente ui 5%, zout, aroma, smaakversterker E621."
+      },
+      "image": "images/6921665714436.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/6921665714436.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130303635333434?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "cake",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "STORE_FALLBACK"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1398.0,
+        "calories_100g": 355.0,
+        "fat_100g": 20.0,
+        "saturated_fat_100g": 7.0,
+        "carbohydrates_100g": 33.0,
+        "sugars_100g": 2.2,
+        "fiber_100g": null,
+        "proteins_100g": 5.3,
+        "salt_100g": 1.1,
+        "sodium_100g": 440.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 11,
+      "health_score": 42,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.47,
+          "promo_price": 1.18,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=6921665714436",
+          "updated_at": "2026-11-25T14:52:07.077216+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.38,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi575395/synear-pancake-scallion-flavor",
+          "updated_at": "2026-11-25T14:52:07.077216+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.69,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=6921665714436",
+          "updated_at": "2026-11-25T14:52:07.077216+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.08,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=6921665714436",
+          "updated_at": "2026-11-25T14:52:07.077216+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.36,
+          "promo_price": 1.89,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=6921665714436",
+          "updated_at": "2026-11-25T14:52:07.077216+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.16,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=6921665714436",
+          "updated_at": "2026-11-25T14:52:07.077216+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.5,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=6921665714436",
+          "updated_at": "2026-11-25T14:52:07.077216+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 1.85,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=6921665714436",
+          "updated_at": "2026-11-25T14:52:07.077216+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:52:07.077216+00:00"
     }
   }
 }

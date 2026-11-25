@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "762",
-  "generated_at": "2026-11-25T14:44:57.503205+00:00",
-  "product_count": 61,
+  "generated_at": "2026-11-25T15:30:32.371159+00:00",
+  "product_count": 62,
   "products": {
     "7622202283994": {
       "barcode": "7622202283994",
@@ -12716,6 +12716,216 @@
         }
       ],
       "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    },
+    "7622210396334": {
+      "barcode": "7622210396334",
+      "domain": "food",
+      "names": {
+        "nl": "Milka Choc & choc cakejes met chocolade",
+        "fr": "Milka Choc & choc cakejes met chocolade",
+        "de": "Milka Choc & choc cakejes met chocolade",
+        "en": "Milka Choc & choc cakejes met chocolade",
+        "ar": "Milka Choc & choc cakejes met chocolade"
+      },
+      "brand": "Milka",
+      "net_weight": "175 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk",
+        "Eggs",
+        "Tree Nuts"
+      ],
+      "description": "Heerlijk zachte cakejes gevuld met stukjes Milka chocolade en omhuld met een royale laag Milka alpenmelkchocolade.",
+      "descriptions": {
+        "nl": "Heerlijk zachte cakejes gevuld met stukjes Milka chocolade en omhuld met een royale laag Milka alpenmelkchocolade.",
+        "fr": "Milka Choc & choc cakejes met chocolade par Milka.",
+        "de": "Milka Choc & choc cakejes met chocolade von Milka.",
+        "en": "Milka Choc & choc cakejes met chocolade by Milka.",
+        "ar": "منتج Milka Choc & choc cakejes met chocolade من Milka."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Suiker, TARWEBLOEM, glucose-fructosestroop, EIEREN, koolzaadolie, cacaoboter, magere MELKPOEDER, weipoeder (van MELK), cacaomassa, stabilisator (glycerol), aardappelzetmeel, magere cacaopoeder (1,5 %), MELKVET, sheavet, emulgatoren (SOJALECITHINEN, E475, E471, E476), rijsmiddelen (difosfaten, natriumcarbonaten), zout, HAZELNOOTPASTA, gemodificeerd zetmeel, verdikkingsmiddel (xanthaangom), aroma's.",
+        "fr": "Ingrediënten: Suiker, TARWEBLOEM, glucose-fructosestroop, EIEREN, koolzaadolie, cacaoboter, magere MELKPOEDER, weipoeder (van MELK), cacaomassa, stabilisator (glycerol), aardappelzetmeel, magere cacaopoeder (1,5 %), MELKVET, sheavet, emulgatoren (SOJALECITHINEN, E475, E471, E476), rijsmiddelen (difosfaten, natriumcarbonaten), zout, HAZELNOOTPASTA, gemodificeerd zetmeel, verdikkingsmiddel (xanthaangom), aroma's.",
+        "de": "Ingrediënten: Suiker, TARWEBLOEM, glucose-fructosestroop, EIEREN, koolzaadolie, cacaoboter, magere MELKPOEDER, weipoeder (van MELK), cacaomassa, stabilisator (glycerol), aardappelzetmeel, magere cacaopoeder (1,5 %), MELKVET, sheavet, emulgatoren (SOJALECITHINEN, E475, E471, E476), rijsmiddelen (difosfaten, natriumcarbonaten), zout, HAZELNOOTPASTA, gemodificeerd zetmeel, verdikkingsmiddel (xanthaangom), aroma's.",
+        "en": "Ingrediënten: Suiker, TARWEBLOEM, glucose-fructosestroop, EIEREN, koolzaadolie, cacaoboter, magere MELKPOEDER, weipoeder (van MELK), cacaomassa, stabilisator (glycerol), aardappelzetmeel, magere cacaopoeder (1,5 %), MELKVET, sheavet, emulgatoren (SOJALECITHINEN, E475, E471, E476), rijsmiddelen (difosfaten, natriumcarbonaten), zout, HAZELNOOTPASTA, gemodificeerd zetmeel, verdikkingsmiddel (xanthaangom), aroma's.",
+        "ar": "Ingrediënten: Suiker, TARWEBLOEM, glucose-fructosestroop, EIEREN, koolzaadolie, cacaoboter, magere MELKPOEDER, weipoeder (van MELK), cacaomassa, stabilisator (glycerol), aardappelzetmeel, magere cacaopoeder (1,5 %), MELKVET, sheavet, emulgatoren (SOJALECITHINEN, E475, E471, E476), rijsmiddelen (difosfaten, natriumcarbonaten), zout, HAZELNOOTPASTA, gemodificeerd zetmeel, verdikkingsmiddel (xanthaangom), aroma's."
+      },
+      "image": "images/7622210396334.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7622210396334.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_584b764463362d5551587562593133364e6c36547967?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "cake",
+      "origin_country": {
+        "name": "Switzerland",
+        "code": "CH",
+        "flag": "🇨🇭",
+        "inferred_from": "GS1_762"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1901.0,
+        "calories_100g": 454.0,
+        "fat_100g": 22.0,
+        "saturated_fat_100g": 7.9,
+        "carbohydrates_100g": 58.0,
+        "sugars_100g": 40.0,
+        "fiber_100g": 1.6,
+        "proteins_100g": 5.6,
+        "salt_100g": 0.58,
+        "sodium_100g": 232.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 18,
+      "health_score": 19,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "weipoeder"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: weipoeder",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: weipoeder",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: weipoeder",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : weipoeder",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: weipoeder",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: weipoeder"
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.7,
+          "promo_price": 2.96,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi368687/milka-choc-en-choc-cakejes-met-chocolade",
+          "updated_at": "2026-11-25T14:50:45.159446+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.74,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=7622210396334",
+          "updated_at": "2026-11-25T14:50:45.159446+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.3,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=7622210396334",
+          "updated_at": "2026-11-25T14:50:45.159446+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.74,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=7622210396334",
+          "updated_at": "2026-11-25T14:50:45.159446+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.59,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=7622210396334",
+          "updated_at": "2026-11-25T14:50:45.159446+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.37,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=7622210396334",
+          "updated_at": "2026-11-25T14:50:45.159446+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.74,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=7622210396334",
+          "updated_at": "2026-11-25T14:50:45.159446+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.28,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=7622210396334",
+          "updated_at": "2026-11-25T14:50:45.159446+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:50:45.159446+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "401",
-  "generated_at": "2026-11-25T14:44:57.503205+00:00",
-  "product_count": 13,
+  "generated_at": "2026-11-25T15:30:32.371159+00:00",
+  "product_count": 14,
   "products": {
     "4014400400007": {
       "barcode": "4014400400007",
@@ -2716,6 +2716,214 @@
         }
       ],
       "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    },
+    "4014400925319": {
+      "barcode": "4014400925319",
+      "domain": "food",
+      "names": {
+        "nl": "Werther's Original Popcorn Classic Caramel",
+        "fr": "Werther's Original Popcorn Classic Caramel",
+        "de": "Werther's Original Popcorn Classic Caramel",
+        "en": "Werther's Original Popcorn Classic Caramel",
+        "ar": "Werther's Original Popcorn Classic Caramel"
+      },
+      "brand": "Werther's Original",
+      "net_weight": "140 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Tree Nuts"
+      ],
+      "description": "Nieuw! Werthers original popcorn caramel: knappigere popcorn, volledig omhuld met heerlijke werthers caramel.",
+      "descriptions": {
+        "nl": "Nieuw! Werthers original popcorn caramel: knappigere popcorn, volledig omhuld met heerlijke werthers caramel.",
+        "fr": "Werther's Original Popcorn Classic Caramel par Werther's Original.",
+        "de": "Werther's Original Popcorn Classic Caramel von Werther's Original.",
+        "en": "Werther's Original Popcorn Classic Caramel by Werther's Original.",
+        "ar": "منتج Werther's Original Popcorn Classic Caramel من Werther's Original."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: suiker, maïs, glucosestroop, BOTERVET, ROOM (6,7%), gecondenseerde WEI, BOTER, zout, rietsuikerstroop, zonnebloemolie, emulgator: lecithinen (SOJA), aroma. KAN OOK SPOREN VAN HAZELNOOT, AMANDEL, ANDERE NOTEN EN TARWE BEVATTEN.",
+        "fr": "Ingrediënten: suiker, maïs, glucosestroop, BOTERVET, ROOM (6,7%), gecondenseerde WEI, BOTER, zout, rietsuikerstroop, zonnebloemolie, emulgator: lecithinen (SOJA), aroma. KAN OOK SPOREN VAN HAZELNOOT, AMANDEL, ANDERE NOTEN EN TARWE BEVATTEN.",
+        "de": "Ingrediënten: suiker, maïs, glucosestroop, BOTERVET, ROOM (6,7%), gecondenseerde WEI, BOTER, zout, rietsuikerstroop, zonnebloemolie, emulgator: lecithinen (SOJA), aroma. KAN OOK SPOREN VAN HAZELNOOT, AMANDEL, ANDERE NOTEN EN TARWE BEVATTEN.",
+        "en": "Ingrediënten: suiker, maïs, glucosestroop, BOTERVET, ROOM (6,7%), gecondenseerde WEI, BOTER, zout, rietsuikerstroop, zonnebloemolie, emulgator: lecithinen (SOJA), aroma. KAN OOK SPOREN VAN HAZELNOOT, AMANDEL, ANDERE NOTEN EN TARWE BEVATTEN.",
+        "ar": "Ingrediënten: suiker, maïs, glucosestroop, BOTERVET, ROOM (6,7%), gecondenseerde WEI, BOTER, zout, rietsuikerstroop, zonnebloemolie, emulgator: lecithinen (SOJA), aroma. KAN OOK SPOREN VAN HAZELNOOT, AMANDEL, ANDERE NOTEN EN TARWE BEVATTEN."
+      },
+      "image": "images/4014400925319.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4014400925319.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4e545865576a383252783271473569337a474b367267?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "popcorn",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_401"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1914.0,
+        "calories_100g": 456.0,
+        "fat_100g": 16.1,
+        "saturated_fat_100g": 10.2,
+        "carbohydrates_100g": 72.9,
+        "sugars_100g": 53.2,
+        "fiber_100g": null,
+        "proteins_100g": 2.9,
+        "salt_100g": 1.3,
+        "sodium_100g": 520.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 29,
+      "health_score": 16,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "gecondenseerde wei"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: gecondenseerde wei",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: gecondenseerde wei",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: gecondenseerde wei",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : gecondenseerde wei",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: gecondenseerde wei",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: gecondenseerde wei"
+      },
+      "stores": [
+        "delhaize.be",
+        "colruyt.be",
+        "carrefour.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.44,
+          "promo_price": 3.55,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=4014400925319",
+          "updated_at": "2026-11-25T15:17:25.396260+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.88,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4014400925319",
+          "updated_at": "2026-11-25T15:17:25.396260+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.6,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4014400925319",
+          "updated_at": "2026-11-25T15:17:25.396260+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.66,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi486388/werther-s-original-popcorn-classic-caramel",
+          "updated_at": "2026-11-25T15:17:25.396260+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4014400925319",
+          "updated_at": "2026-11-25T15:17:25.396260+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.39,
+          "promo_price": 3.51,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=4014400925319",
+          "updated_at": "2026-11-25T15:17:25.396260+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.19,
+          "promo_price": 2.1,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=4014400925319",
+          "updated_at": "2026-11-25T15:17:25.396260+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.55,
+          "promo_price": 3.64,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=4014400925319",
+          "updated_at": "2026-11-25T15:17:25.396260+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T15:17:25.396260+00:00"
     }
   }
 }
