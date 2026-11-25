@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "571",
-  "generated_at": "2026-11-25T13:24:02.241723+00:00",
-  "product_count": 12,
+  "generated_at": "2026-11-25T13:42:35.422712+00:00",
+  "product_count": 13,
   "products": {
     "5711953023972": {
       "barcode": "5711953023972",
@@ -2455,6 +2455,214 @@
         }
       ],
       "updated_at": "2026-11-25T12:59:17.970288+00:00"
+    },
+    "5711953202872": {
+      "barcode": "5711953202872",
+      "domain": "food",
+      "names": {
+        "nl": "Milka Chocolademelk",
+        "fr": "Milka Chocolademelk",
+        "de": "Milka Chocolademelk",
+        "en": "Milka Chocolademelk",
+        "ar": "Milka Chocolademelk"
+      },
+      "brand": "Milka",
+      "net_weight": "0,75 l",
+      "allergens": [
+        "Soy",
+        "Milk",
+        "Tree Nuts"
+      ],
+      "description": "Geniet van Milka Chocolademelk met de rijke smaak van echte gesmolten Milka chocolade, vol krachtige cacaotonen en romige melk. Milka Choocolademelk is heerlijk om warm of koud van te genieten.",
+      "descriptions": {
+        "nl": "Geniet van Milka Chocolademelk met de rijke smaak van echte gesmolten Milka chocolade, vol krachtige cacaotonen en romige melk. Milka Choocolademelk is heerlijk om warm of koud van te genieten.",
+        "fr": "Milka Chocolademelk par Milka.",
+        "de": "Milka Chocolademelk von Milka.",
+        "en": "Milka Chocolademelk by Milka.",
+        "ar": "منتج Milka Chocolademelk من Milka."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: 83% MELK (2,2% vet), suiker, 2% melkchocolade (suiker, cacaoboter, magere MELKpoeder, cacaomassa, weipoeder (van MELK), MELKvet, emulgator: SOJAlecithine, HAZELNOOTpasta, aroma), 0,9% magere cacaopoeder, stabilisatoren: carrageen en gellangom, aroma's.",
+        "fr": "Ingrediënten: 83% MELK (2,2% vet), suiker, 2% melkchocolade (suiker, cacaoboter, magere MELKpoeder, cacaomassa, weipoeder (van MELK), MELKvet, emulgator: SOJAlecithine, HAZELNOOTpasta, aroma), 0,9% magere cacaopoeder, stabilisatoren: carrageen en gellangom, aroma's.",
+        "de": "Ingrediënten: 83% MELK (2,2% vet), suiker, 2% melkchocolade (suiker, cacaoboter, magere MELKpoeder, cacaomassa, weipoeder (van MELK), MELKvet, emulgator: SOJAlecithine, HAZELNOOTpasta, aroma), 0,9% magere cacaopoeder, stabilisatoren: carrageen en gellangom, aroma's.",
+        "en": "Ingrediënten: 83% MELK (2,2% vet), suiker, 2% melkchocolade (suiker, cacaoboter, magere MELKpoeder, cacaomassa, weipoeder (van MELK), MELKvet, emulgator: SOJAlecithine, HAZELNOOTpasta, aroma), 0,9% magere cacaopoeder, stabilisatoren: carrageen en gellangom, aroma's.",
+        "ar": "Ingrediënten: 83% MELK (2,2% vet), suiker, 2% melkchocolade (suiker, cacaoboter, magere MELKpoeder, cacaomassa, weipoeder (van MELK), MELKvet, emulgator: SOJAlecithine, HAZELNOOTpasta, aroma), 0,9% magere cacaopoeder, stabilisatoren: carrageen en gellangom, aroma's."
+      },
+      "image": "images/5711953202872.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5711953202872.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130323037393433?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "chocolade",
+      "origin_country": {
+        "name": "Denmark",
+        "code": "DK",
+        "flag": "🇩🇰",
+        "inferred_from": "GS1_571"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 339.0,
+        "calories_100g": 81.0,
+        "fat_100g": 2.3,
+        "saturated_fat_100g": 1.5,
+        "carbohydrates_100g": 11.0,
+        "sugars_100g": 11.0,
+        "fiber_100g": null,
+        "proteins_100g": 3.5,
+        "salt_100g": 0.12,
+        "sodium_100g": 48.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 2,
+      "health_score": 24,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "weipoeder"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: weipoeder",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: weipoeder",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: weipoeder",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : weipoeder",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: weipoeder",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: weipoeder"
+      },
+      "stores": [
+        "ah.be",
+        "delhaize.be",
+        "colruyt.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.82,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi599706/milka-chocolademelk",
+          "updated_at": "2026-11-25T13:39:54.036887+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.97,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5711953202872",
+          "updated_at": "2026-11-25T13:39:54.036887+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.28,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5711953202872",
+          "updated_at": "2026-11-25T13:39:54.036887+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.32,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5711953202872",
+          "updated_at": "2026-11-25T13:39:54.036887+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.87,
+          "promo_price": 3.1,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=5711953202872",
+          "updated_at": "2026-11-25T13:39:54.036887+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.98,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5711953202872",
+          "updated_at": "2026-11-25T13:39:54.036887+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.75,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5711953202872",
+          "updated_at": "2026-11-25T13:39:54.036887+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.84,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5711953202872",
+          "updated_at": "2026-11-25T13:39:54.036887+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T13:39:54.036887+00:00"
     }
   }
 }

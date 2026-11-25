@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "000",
-  "generated_at": "2026-11-25T13:24:02.241723+00:00",
-  "product_count": 49,
+  "generated_at": "2026-11-25T13:42:35.422712+00:00",
+  "product_count": 50,
   "products": {
     "0000096067345": {
       "barcode": "0000096067345",
@@ -10081,6 +10081,216 @@
         }
       ],
       "updated_at": "2026-11-25T13:10:26.361347+00:00"
+    },
+    "0000040144665": {
+      "barcode": "0000040144665",
+      "domain": "food",
+      "names": {
+        "nl": "Knoppers Yoghurt wafels 5-pack",
+        "fr": "Knoppers Yoghurt wafels 5-pack",
+        "de": "Knoppers Yoghurt wafels 5-pack",
+        "en": "Knoppers Yoghurt wafels 5-pack",
+        "ar": "Knoppers Yoghurt wafels 5-pack"
+      },
+      "brand": "Knoppers",
+      "net_weight": "125 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Eggs",
+        "Peanuts",
+        "Tree Nuts"
+      ],
+      "description": "Knoppers yoghurt is een knapperig gebakken wafel met een heerlijke zachte yoghurtcreme en verfijnd met stukjes geroosterde hazelnoten.",
+      "descriptions": {
+        "nl": "Knoppers yoghurt is een knapperig gebakken wafel met een heerlijke zachte yoghurtcreme en verfijnd met stukjes geroosterde hazelnoten.",
+        "fr": "Knoppers Yoghurt wafels 5-pack par Knoppers.",
+        "de": "Knoppers Yoghurt wafels 5-pack von Knoppers.",
+        "en": "Knoppers Yoghurt wafels 5-pack by Knoppers.",
+        "ar": "منتج Knoppers Yoghurt wafels 5-pack من Knoppers."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: suiker, plantaardige vetten (palm, shea), TARWEMEEL (12,5 %), MAGEREMELKPOEDER (8 %), VOLKORENTARWEMEEL (6,7 %), YOGHURTPOEDER (3,5 %), HAZELNOTEN (2,2 %), BOTERVET (2,1 %), ROOMPOEDER (2 %), magere cacao, glucosestroop, MAGEREMELK-YOGHURTPOEDER (0,4 %), emulgator: lecithinen (SOJA), zout, natuurlijke aroma's, WEIPOEDER, TARWEZETMEEL, gemodificeerd zetmeel, rijsmiddel: natriumwaterstofcarbonaat, voedingszuur: citroenzuur, gemalen AARDNOTEN/PINDA'S. Kan ook AMANDEL, andere NOTEN en EI bevatten.",
+        "fr": "Ingrediënten: suiker, plantaardige vetten (palm, shea), TARWEMEEL (12,5 %), MAGEREMELKPOEDER (8 %), VOLKORENTARWEMEEL (6,7 %), YOGHURTPOEDER (3,5 %), HAZELNOTEN (2,2 %), BOTERVET (2,1 %), ROOMPOEDER (2 %), magere cacao, glucosestroop, MAGEREMELK-YOGHURTPOEDER (0,4 %), emulgator: lecithinen (SOJA), zout, natuurlijke aroma's, WEIPOEDER, TARWEZETMEEL, gemodificeerd zetmeel, rijsmiddel: natriumwaterstofcarbonaat, voedingszuur: citroenzuur, gemalen AARDNOTEN/PINDA'S. Kan ook AMANDEL, andere NOTEN en EI bevatten.",
+        "de": "Ingrediënten: suiker, plantaardige vetten (palm, shea), TARWEMEEL (12,5 %), MAGEREMELKPOEDER (8 %), VOLKORENTARWEMEEL (6,7 %), YOGHURTPOEDER (3,5 %), HAZELNOTEN (2,2 %), BOTERVET (2,1 %), ROOMPOEDER (2 %), magere cacao, glucosestroop, MAGEREMELK-YOGHURTPOEDER (0,4 %), emulgator: lecithinen (SOJA), zout, natuurlijke aroma's, WEIPOEDER, TARWEZETMEEL, gemodificeerd zetmeel, rijsmiddel: natriumwaterstofcarbonaat, voedingszuur: citroenzuur, gemalen AARDNOTEN/PINDA'S. Kan ook AMANDEL, andere NOTEN en EI bevatten.",
+        "en": "Ingrediënten: suiker, plantaardige vetten (palm, shea), TARWEMEEL (12,5 %), MAGEREMELKPOEDER (8 %), VOLKORENTARWEMEEL (6,7 %), YOGHURTPOEDER (3,5 %), HAZELNOTEN (2,2 %), BOTERVET (2,1 %), ROOMPOEDER (2 %), magere cacao, glucosestroop, MAGEREMELK-YOGHURTPOEDER (0,4 %), emulgator: lecithinen (SOJA), zout, natuurlijke aroma's, WEIPOEDER, TARWEZETMEEL, gemodificeerd zetmeel, rijsmiddel: natriumwaterstofcarbonaat, voedingszuur: citroenzuur, gemalen AARDNOTEN/PINDA'S. Kan ook AMANDEL, andere NOTEN en EI bevatten.",
+        "ar": "Ingrediënten: suiker, plantaardige vetten (palm, shea), TARWEMEEL (12,5 %), MAGEREMELKPOEDER (8 %), VOLKORENTARWEMEEL (6,7 %), YOGHURTPOEDER (3,5 %), HAZELNOTEN (2,2 %), BOTERVET (2,1 %), ROOMPOEDER (2 %), magere cacao, glucosestroop, MAGEREMELK-YOGHURTPOEDER (0,4 %), emulgator: lecithinen (SOJA), zout, natuurlijke aroma's, WEIPOEDER, TARWEZETMEEL, gemodificeerd zetmeel, rijsmiddel: natriumwaterstofcarbonaat, voedingszuur: citroenzuur, gemalen AARDNOTEN/PINDA'S. Kan ook AMANDEL, andere NOTEN en EI bevatten."
+      },
+      "image": "images/0000040144665.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/0000040144665.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_50767a38375a6244544a794d4d57487470416f425241?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "koek",
+      "origin_country": {
+        "name": "United States",
+        "code": "US",
+        "flag": "🇺🇸",
+        "inferred_from": "GS1_000"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2328.0,
+        "calories_100g": 558.0,
+        "fat_100g": 34.8,
+        "saturated_fat_100g": 21.1,
+        "carbohydrates_100g": 53.0,
+        "sugars_100g": 37.4,
+        "fiber_100g": null,
+        "proteins_100g": 7.2,
+        "salt_100g": 0.47,
+        "sodium_100g": 188.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "e",
+      "nutriscore_score": 22,
+      "health_score": 28,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "weipoeder"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: weipoeder",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: weipoeder",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: weipoeder",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : weipoeder",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: weipoeder",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: weipoeder"
+      },
+      "stores": [
+        "ah.be",
+        "colruyt.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.5,
+          "promo_price": 2.8,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi605752/knoppers-yoghurt-wafels-5-pack",
+          "updated_at": "2026-11-25T13:25:29.079458+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=0000040144665",
+          "updated_at": "2026-11-25T13:25:29.079458+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.04,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=0000040144665",
+          "updated_at": "2026-11-25T13:25:29.079458+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.19,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=0000040144665",
+          "updated_at": "2026-11-25T13:25:29.079458+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.65,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=0000040144665",
+          "updated_at": "2026-11-25T13:25:29.079458+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.4,
+          "promo_price": 1.7,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=0000040144665",
+          "updated_at": "2026-11-25T13:25:29.079458+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.24,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=0000040144665",
+          "updated_at": "2026-11-25T13:25:29.079458+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.29,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=0000040144665",
+          "updated_at": "2026-11-25T13:25:29.079458+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T13:25:29.079458+00:00"
     }
   }
 }
