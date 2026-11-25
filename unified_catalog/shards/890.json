@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "890",
-  "generated_at": "2026-11-25T12:55:04.466998+00:00",
-  "product_count": 1,
+  "generated_at": "2026-11-25T13:11:47.605227+00:00",
+  "product_count": 2,
   "products": {
     "8901529084620": {
       "barcode": "8901529084620",
@@ -211,6 +211,203 @@
       "official_nutriscore": "e",
       "halal_certified": false,
       "halal_certification_source": null
+    },
+    "8901529080851": {
+      "barcode": "8901529080851",
+      "domain": "food",
+      "names": {
+        "nl": "Badhu Roti kip masala",
+        "fr": "Badhu Roti kip masala",
+        "de": "Badhu Roti kip masala",
+        "en": "Badhu Roti kip masala",
+        "ar": "Badhu Roti kip masala"
+      },
+      "brand": "Badhu",
+      "net_weight": "80 g",
+      "allergens": [
+        "Sesame",
+        "Mustard",
+        "Celery"
+      ],
+      "description": "Een mengsel van gemalen specerijen voor een typisch en authentiek Surinaamse roti kipgerecht.",
+      "descriptions": {
+        "nl": "Een mengsel van gemalen specerijen voor een typisch en authentiek Surinaamse roti kipgerecht.",
+        "fr": "Badhu Roti kip masala par Badhu.",
+        "de": "Badhu Roti kip masala von Badhu.",
+        "en": "Badhu Roti kip masala by Badhu.",
+        "ar": "منتج Badhu Roti kip masala من Badhu."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: koriander, kurkuma, komijn, MOSTERDZAAD, fenegriek, zwart uienzaad, zwarte peper, gember, venkelzaad, chilipoeder, knoflookpoeder, tomatenpoeder. Kan selderij en sesam bevatten.",
+        "fr": "Ingrediënten: koriander, kurkuma, komijn, MOSTERDZAAD, fenegriek, zwart uienzaad, zwarte peper, gember, venkelzaad, chilipoeder, knoflookpoeder, tomatenpoeder. Kan selderij en sesam bevatten.",
+        "de": "Ingrediënten: koriander, kurkuma, komijn, MOSTERDZAAD, fenegriek, zwart uienzaad, zwarte peper, gember, venkelzaad, chilipoeder, knoflookpoeder, tomatenpoeder. Kan selderij en sesam bevatten.",
+        "en": "Ingrediënten: koriander, kurkuma, komijn, MOSTERDZAAD, fenegriek, zwart uienzaad, zwarte peper, gember, venkelzaad, chilipoeder, knoflookpoeder, tomatenpoeder. Kan selderij en sesam bevatten.",
+        "ar": "Ingrediënten: koriander, kurkuma, komijn, MOSTERDZAAD, fenegriek, zwart uienzaad, zwarte peper, gember, venkelzaad, chilipoeder, knoflookpoeder, tomatenpoeder. Kan selderij en sesam bevatten."
+      },
+      "image": "images/8901529080851.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8901529080851.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_3345517633524e3952393236387366654b5270647377?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "kruiden",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "STORE_FALLBACK"
+      },
+      "nutrition_per_100g": {},
+      "official_nutriscore": null,
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "health_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "badhu roti kip masala"
+      ],
+      "reason": "Uncertified Meat / لحم غير مذبوح حلال (badhu roti kip masala)",
+      "explanations": {
+        "ar": "لحوم أو دواجن غير حاصلة على شهادة ذبح حلال (badhu roti kip masala)",
+        "en": "Uncertified Meat / لحم غير مذبوح حلال (badhu roti kip masala)",
+        "fr": "Viande ou volaille non certifiée Halal (badhu roti kip masala)",
+        "nl": "Niet-gecertificeerd vlees of gevogelte zonder Halal-certificaat (badhu roti kip masala)",
+        "de": "Nicht zertifiziertes Fleisch oder Geflügel ohne Halal-Zertifikat (badhu roti kip masala)"
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.29,
+          "promo_price": 1.15,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi626676/badhu-roti-kip-masala",
+          "updated_at": "2026-11-25T12:59:17.970288+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.16,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8901529080851",
+          "updated_at": "2026-11-25T12:59:17.970288+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.2,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8901529080851",
+          "updated_at": "2026-11-25T12:59:17.970288+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.92,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8901529080851",
+          "updated_at": "2026-11-25T12:59:17.970288+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.51,
+          "promo_price": 2.01,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=8901529080851",
+          "updated_at": "2026-11-25T12:59:17.970288+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.76,
+          "promo_price": 2.21,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=8901529080851",
+          "updated_at": "2026-11-25T12:59:17.970288+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.96,
+          "promo_price": 2.37,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=8901529080851",
+          "updated_at": "2026-11-25T12:59:17.970288+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.88,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8901529080851",
+          "updated_at": "2026-11-25T12:59:17.970288+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:59:17.970288+00:00"
     }
   }
 }

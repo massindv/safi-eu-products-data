@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "543",
-  "generated_at": "2026-11-25T12:55:04.466998+00:00",
-  "product_count": 1,
+  "generated_at": "2026-11-25T13:11:47.605227+00:00",
+  "product_count": 2,
   "products": {
     "5430000423427": {
       "barcode": "5430000423427",
@@ -208,6 +208,211 @@
       "official_nutriscore": "a",
       "halal_certified": false,
       "halal_certification_source": null
+    },
+    "5430000423236": {
+      "barcode": "5430000423236",
+      "domain": "food",
+      "names": {
+        "nl": "Fundo Blanke kalfsfond",
+        "fr": "Fundo Blanke kalfsfond",
+        "de": "Fundo Blanke kalfsfond",
+        "en": "Fundo Blanke kalfsfond",
+        "ar": "Fundo Blanke kalfsfond"
+      },
+      "brand": "Fundo",
+      "net_weight": "200 ml",
+      "allergens": [],
+      "description": "Fundo artisanale fond: 100% natuurlijke ingredi&#x00EB;nten. Traag gegaard dus rijk aan smaak . Fundo maakt van jou de chef voor al je sauzen, stoofpotjes en soepen. Bijkruiden volgens eigen smaak.",
+      "descriptions": {
+        "nl": "Fundo artisanale fond: 100% natuurlijke ingredi&#x00EB;nten. Traag gegaard dus rijk aan smaak . Fundo maakt van jou de chef voor al je sauzen, stoofpotjes en soepen. Bijkruiden volgens eigen smaak.",
+        "fr": "Fundo Blanke kalfsfond par Fundo.",
+        "de": "Fundo Blanke kalfsfond von Fundo.",
+        "en": "Fundo Blanke kalfsfond by Fundo.",
+        "ar": "منتج Fundo Blanke kalfsfond من Fundo."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: water, kalfsbeenderen, wortel, uien, SELDER, kruiden, zout.",
+        "fr": "Ingrediënten: water, kalfsbeenderen, wortel, uien, SELDER, kruiden, zout.",
+        "de": "Ingrediënten: water, kalfsbeenderen, wortel, uien, SELDER, kruiden, zout.",
+        "en": "Ingrediënten: water, kalfsbeenderen, wortel, uien, SELDER, kruiden, zout.",
+        "ar": "Ingrediënten: water, kalfsbeenderen, wortel, uien, SELDER, kruiden, zout."
+      },
+      "image": "images/5430000423236.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5430000423236.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_43545239383535393633?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "bouillon",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "GS1_543"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 108.0,
+        "calories_100g": 25.0,
+        "fat_100g": 0.5,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 0.5,
+        "sugars_100g": 0.5,
+        "fiber_100g": null,
+        "proteins_100g": 6.4,
+        "salt_100g": 0.3,
+        "sodium_100g": 120.0
+      },
+      "official_nutriscore": "a",
+      "nutriscore_grade": "a",
+      "nutriscore_score": -2,
+      "health_score": 93,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "kalfsbeenderen",
+        "fundo blanke kalfsfond"
+      ],
+      "reason": "Uncertified Meat / لحم غير مذبوح حلال (kalfsbeenderen, fundo blanke kalfsfond)",
+      "explanations": {
+        "ar": "لحوم أو دواجن غير حاصلة على شهادة ذبح حلال (kalfsbeenderen, fundo blanke kalfsfond)",
+        "en": "Uncertified Meat / لحم غير مذبوح حلال (kalfsbeenderen, fundo blanke kalfsfond)",
+        "fr": "Viande ou volaille non certifiée Halal (kalfsbeenderen, fundo blanke kalfsfond)",
+        "nl": "Niet-gecertificeerd vlees of gevogelte zonder Halal-certificaat (kalfsbeenderen, fundo blanke kalfsfond)",
+        "de": "Nicht zertifiziertes Fleisch oder Geflügel ohne Halal-Zertifikat (kalfsbeenderen, fundo blanke kalfsfond)"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.02,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5430000423236",
+          "updated_at": "2026-11-25T13:05:14.184024+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.27,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi421472/fundo-blanke-kalfsfond",
+          "updated_at": "2026-11-25T13:05:14.184024+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5430000423236",
+          "updated_at": "2026-11-25T13:05:14.184024+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5430000423236",
+          "updated_at": "2026-11-25T13:05:14.184024+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.88,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5430000423236",
+          "updated_at": "2026-11-25T13:05:14.184024+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5430000423236",
+          "updated_at": "2026-11-25T13:05:14.184024+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.01,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5430000423236",
+          "updated_at": "2026-11-25T13:05:14.184024+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5430000423236",
+          "updated_at": "2026-11-25T13:05:14.184024+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T13:05:14.184024+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "000",
-  "generated_at": "2026-11-25T12:55:04.466998+00:00",
-  "product_count": 48,
+  "generated_at": "2026-11-25T13:11:47.605227+00:00",
+  "product_count": 49,
   "products": {
     "0000096067345": {
       "barcode": "0000096067345",
@@ -9873,6 +9873,214 @@
         }
       ],
       "updated_at": "2026-11-25T12:55:04.466998+00:00"
+    },
+    "0000087187526": {
+      "barcode": "0000087187526",
+      "domain": "food",
+      "names": {
+        "nl": "Eru Goudkuipje sambal",
+        "fr": "Eru Goudkuipje sambal",
+        "de": "Eru Goudkuipje sambal",
+        "en": "Eru Goudkuipje sambal",
+        "ar": "Eru Goudkuipje sambal"
+      },
+      "brand": "Eru",
+      "net_weight": "100 g",
+      "allergens": [
+        "Milk",
+        "Crustaceans"
+      ],
+      "description": "ERU Goudkuipje sambal is een pittige smeerkaas met sambal en gemaakt van goudse kazen. Ideaal op een boterham, maar ook heerlijk op een cracker met plakjes komkommer.",
+      "descriptions": {
+        "nl": "ERU Goudkuipje sambal is een pittige smeerkaas met sambal en gemaakt van goudse kazen. Ideaal op een boterham, maar ook heerlijk op een cracker met plakjes komkommer.",
+        "fr": "Eru Goudkuipje sambal par Eru.",
+        "de": "Eru Goudkuipje sambal von Eru.",
+        "en": "Eru Goudkuipje sambal by Eru.",
+        "ar": "منتج Eru Goudkuipje sambal من Eru."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: kaas (MELK), water, boter (MELK), 3% sambal trassie (chilipepers, zout, trassie (garnalen (SCHAALDIEREN), zout, water), voedingszuur (azijnzuur), conserveermiddel (E202)), MELKeiwitten, weipoeder (MELK), smeltzouten (E452, E339, E451), gistextract",
+        "fr": "Ingrediënten: kaas (MELK), water, boter (MELK), 3% sambal trassie (chilipepers, zout, trassie (garnalen (SCHAALDIEREN), zout, water), voedingszuur (azijnzuur), conserveermiddel (E202)), MELKeiwitten, weipoeder (MELK), smeltzouten (E452, E339, E451), gistextract",
+        "de": "Ingrediënten: kaas (MELK), water, boter (MELK), 3% sambal trassie (chilipepers, zout, trassie (garnalen (SCHAALDIEREN), zout, water), voedingszuur (azijnzuur), conserveermiddel (E202)), MELKeiwitten, weipoeder (MELK), smeltzouten (E452, E339, E451), gistextract",
+        "en": "Ingrediënten: kaas (MELK), water, boter (MELK), 3% sambal trassie (chilipepers, zout, trassie (garnalen (SCHAALDIEREN), zout, water), voedingszuur (azijnzuur), conserveermiddel (E202)), MELKeiwitten, weipoeder (MELK), smeltzouten (E452, E339, E451), gistextract",
+        "ar": "Ingrediënten: kaas (MELK), water, boter (MELK), 3% sambal trassie (chilipepers, zout, trassie (garnalen (SCHAALDIEREN), zout, water), voedingszuur (azijnzuur), conserveermiddel (E202)), MELKeiwitten, weipoeder (MELK), smeltzouten (E452, E339, E451), gistextract"
+      },
+      "image": "images/0000087187526.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/0000087187526.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_656f675934635169515743757a30464e5a6e4c695a77?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "sambal",
+      "origin_country": {
+        "name": "United States",
+        "code": "US",
+        "flag": "🇺🇸",
+        "inferred_from": "GS1_000"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1027.0,
+        "calories_100g": 248.0,
+        "fat_100g": 20.0,
+        "saturated_fat_100g": 14.0,
+        "carbohydrates_100g": 1.9,
+        "sugars_100g": 1.9,
+        "fiber_100g": null,
+        "proteins_100g": 15.0,
+        "salt_100g": 2.6,
+        "sodium_100g": 1040.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 18,
+      "health_score": 19,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "kaas",
+        "weipoeder"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: kaas, weipoeder",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: kaas, weipoeder",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: kaas, weipoeder",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : kaas, weipoeder",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: kaas, weipoeder",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: kaas, weipoeder"
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.87,
+          "promo_price": 3.9,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=0000087187526",
+          "updated_at": "2026-11-25T13:10:26.361347+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.23,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi223450/eru-goudkuipje-sambal",
+          "updated_at": "2026-11-25T13:10:26.361347+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.25,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=0000087187526",
+          "updated_at": "2026-11-25T13:10:26.361347+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.33,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=0000087187526",
+          "updated_at": "2026-11-25T13:10:26.361347+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.13,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=0000087187526",
+          "updated_at": "2026-11-25T13:10:26.361347+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.49,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=0000087187526",
+          "updated_at": "2026-11-25T13:10:26.361347+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.14,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=0000087187526",
+          "updated_at": "2026-11-25T13:10:26.361347+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.21,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=0000087187526",
+          "updated_at": "2026-11-25T13:10:26.361347+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T13:10:26.361347+00:00"
     }
   }
 }
