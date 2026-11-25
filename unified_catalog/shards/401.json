@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "401",
-  "generated_at": "2026-11-25T13:42:35.422712+00:00",
-  "product_count": 10,
+  "generated_at": "2026-11-25T14:44:57.503205+00:00",
+  "product_count": 13,
   "products": {
     "4014400400007": {
       "barcode": "4014400400007",
@@ -205,7 +205,7 @@
           "promo_end_date": "2026-11-29"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
       "halal_certification_source": null
@@ -414,7 +414,7 @@
           "updated_at": "2026-11-25T09:09:22.673665+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "4016337917665": {
       "barcode": "4016337917665",
@@ -628,7 +628,7 @@
           "updated_at": "2026-11-25T09:13:28.111265+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "4016337917641": {
       "barcode": "4016337917641",
@@ -842,7 +842,7 @@
           "updated_at": "2026-11-25T09:14:46.247875+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "4014400901405": {
       "barcode": "4014400901405",
@@ -1052,7 +1052,7 @@
           "updated_at": "2026-11-25T09:35:49.326907+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "4016241051219": {
       "barcode": "4016241051219",
@@ -1256,7 +1256,7 @@
           "updated_at": "2026-11-25T09:35:49.326907+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "4016241031440": {
       "barcode": "4016241031440",
@@ -1462,7 +1462,7 @@
           "updated_at": "2026-11-25T09:37:19.146444+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "4017979013005": {
       "barcode": "4017979013005",
@@ -1672,7 +1672,7 @@
           "updated_at": "2026-11-25T09:55:31.393049+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "4014400929010": {
       "barcode": "4014400929010",
@@ -1883,7 +1883,7 @@
           "updated_at": "2026-11-25T09:57:04.831446+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "4012200046654": {
       "barcode": "4012200046654",
@@ -2089,7 +2089,633 @@
           "updated_at": "2026-11-25T12:53:40.900115+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:53:40.900115+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    },
+    "4014400907636": {
+      "barcode": "4014400907636",
+      "domain": "food",
+      "names": {
+        "nl": "Werther's Original Classic suikervrij",
+        "fr": "Werther's Original Classic suikervrij",
+        "de": "Werther's Original Classic suikervrij",
+        "en": "Werther's Original Classic suikervrij",
+        "ar": "Werther's Original Classic suikervrij"
+      },
+      "brand": "Werther's Original",
+      "net_weight": "70 g",
+      "allergens": [
+        "Soy"
+      ],
+      "description": "Zoet, romig en overheerlijk: de suikervrije variant van het klassieke roomsnoepje.",
+      "descriptions": {
+        "nl": "Zoet, romig en overheerlijk: de suikervrije variant van het klassieke roomsnoepje.",
+        "fr": "Werther's Original Classic suikervrij par Werther's Original.",
+        "de": "Werther's Original Classic suikervrij von Werther's Original.",
+        "en": "Werther's Original Classic suikervrij by Werther's Original.",
+        "ar": "منتج Werther's Original Classic suikervrij من Werther's Original."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: zoetstof isomalt, BOTER (7,9%), ROOM (7%), zout, aroma's, emulgator: lecithinen (SOJA), zoetstof acesulfaam K.",
+        "fr": "Ingrediënten: zoetstof isomalt, BOTER (7,9%), ROOM (7%), zout, aroma's, emulgator: lecithinen (SOJA), zoetstof acesulfaam K.",
+        "de": "Ingrediënten: zoetstof isomalt, BOTER (7,9%), ROOM (7%), zout, aroma's, emulgator: lecithinen (SOJA), zoetstof acesulfaam K.",
+        "en": "Ingrediënten: zoetstof isomalt, BOTER (7,9%), ROOM (7%), zout, aroma's, emulgator: lecithinen (SOJA), zoetstof acesulfaam K.",
+        "ar": "Ingrediënten: zoetstof isomalt, BOTER (7,9%), ROOM (7%), zout, aroma's, emulgator: lecithinen (SOJA), zoetstof acesulfaam K."
+      },
+      "image": "images/4014400907636.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4014400907636.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_52335358494a6d71534e696354437a47474a32366741?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "snoep",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_401"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1203.0,
+        "calories_100g": 290.0,
+        "fat_100g": 8.8,
+        "saturated_fat_100g": 5.7,
+        "carbohydrates_100g": 87.0,
+        "sugars_100g": 0.5,
+        "fiber_100g": null,
+        "proteins_100g": 0.2,
+        "salt_100g": 1.2,
+        "sodium_100g": 480.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 13,
+      "health_score": 41,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma's"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma's",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma's",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma's",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma's",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma's",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma's"
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.91,
+          "promo_price": 0.95,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi451281/werther-s-original-classic-suikervrij",
+          "updated_at": "2026-11-25T14:06:58.691229+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.31,
+          "promo_price": 1.05,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=4014400907636",
+          "updated_at": "2026-11-25T14:06:58.691229+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.08,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4014400907636",
+          "updated_at": "2026-11-25T14:06:58.691229+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.17,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4014400907636",
+          "updated_at": "2026-11-25T14:06:58.691229+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.7,
+          "promo_price": 1.36,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=4014400907636",
+          "updated_at": "2026-11-25T14:06:58.691229+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.35,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4014400907636",
+          "updated_at": "2026-11-25T14:06:58.691229+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 1.52,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4014400907636",
+          "updated_at": "2026-11-25T14:06:58.691229+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.25,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4014400907636",
+          "updated_at": "2026-11-25T14:06:58.691229+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    },
+    "4014400932959": {
+      "barcode": "4014400932959",
+      "domain": "food",
+      "names": {
+        "nl": "Toffifee White chocolate",
+        "fr": "Toffifee White chocolate",
+        "de": "Toffifee White chocolate",
+        "en": "Toffifee White chocolate",
+        "ar": "Toffifee White chocolate"
+      },
+      "brand": "Toffifee",
+      "net_weight": "125 g",
+      "allergens": [
+        "Soy",
+        "Milk",
+        "Peanuts",
+        "Tree Nuts"
+      ],
+      "description": "Toffifee met witte chocolade. Een krokante hazelnoot in het kenmerkende karamel kuipje, een lichte creme vulling en een druppel witte chocolade. Een combinatie die bij iedereen in de smaak valt!",
+      "descriptions": {
+        "nl": "Toffifee met witte chocolade. Een krokante hazelnoot in het kenmerkende karamel kuipje, een lichte creme vulling en een druppel witte chocolade. Een combinatie die bij iedereen in de smaak valt!",
+        "fr": "Toffifee White chocolate par Toffifee.",
+        "de": "Toffifee White chocolate von Toffifee.",
+        "en": "Toffifee White chocolate by Toffifee.",
+        "ar": "منتج Toffifee White chocolate من Toffifee."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: suiker, plantaardige vetten (palm, shea), HAZELNOTEN, glucosestroop, MAGEREMELKPOEDER (8,1%), LACTOSE, bevochtigingsmiddel: sorbitolstroop, cacaoboter, gecondenseerde magere MELK, gecondenseerde WEI, VOLLEMELKPOEDER, ROOMPOEDER, rietsuikerstroop, WEIPOEDER, emulgator: lecithinen (SOJA), aroma's (bevat AARDNOOT/PINDA), KARNEMELKPOEDER, zout. KAN OOK AMANDEL EN ANDERE NOTEN BEVATTEN.",
+        "fr": "Ingrediënten: suiker, plantaardige vetten (palm, shea), HAZELNOTEN, glucosestroop, MAGEREMELKPOEDER (8,1%), LACTOSE, bevochtigingsmiddel: sorbitolstroop, cacaoboter, gecondenseerde magere MELK, gecondenseerde WEI, VOLLEMELKPOEDER, ROOMPOEDER, rietsuikerstroop, WEIPOEDER, emulgator: lecithinen (SOJA), aroma's (bevat AARDNOOT/PINDA), KARNEMELKPOEDER, zout. KAN OOK AMANDEL EN ANDERE NOTEN BEVATTEN.",
+        "de": "Ingrediënten: suiker, plantaardige vetten (palm, shea), HAZELNOTEN, glucosestroop, MAGEREMELKPOEDER (8,1%), LACTOSE, bevochtigingsmiddel: sorbitolstroop, cacaoboter, gecondenseerde magere MELK, gecondenseerde WEI, VOLLEMELKPOEDER, ROOMPOEDER, rietsuikerstroop, WEIPOEDER, emulgator: lecithinen (SOJA), aroma's (bevat AARDNOOT/PINDA), KARNEMELKPOEDER, zout. KAN OOK AMANDEL EN ANDERE NOTEN BEVATTEN.",
+        "en": "Ingrediënten: suiker, plantaardige vetten (palm, shea), HAZELNOTEN, glucosestroop, MAGEREMELKPOEDER (8,1%), LACTOSE, bevochtigingsmiddel: sorbitolstroop, cacaoboter, gecondenseerde magere MELK, gecondenseerde WEI, VOLLEMELKPOEDER, ROOMPOEDER, rietsuikerstroop, WEIPOEDER, emulgator: lecithinen (SOJA), aroma's (bevat AARDNOOT/PINDA), KARNEMELKPOEDER, zout. KAN OOK AMANDEL EN ANDERE NOTEN BEVATTEN.",
+        "ar": "Ingrediënten: suiker, plantaardige vetten (palm, shea), HAZELNOTEN, glucosestroop, MAGEREMELKPOEDER (8,1%), LACTOSE, bevochtigingsmiddel: sorbitolstroop, cacaoboter, gecondenseerde magere MELK, gecondenseerde WEI, VOLLEMELKPOEDER, ROOMPOEDER, rietsuikerstroop, WEIPOEDER, emulgator: lecithinen (SOJA), aroma's (bevat AARDNOOT/PINDA), KARNEMELKPOEDER, zout. KAN OOK AMANDEL EN ANDERE NOTEN BEVATTEN."
+      },
+      "image": "images/4014400932959.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4014400932959.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_636a4233636c384454456d74717a7a724b5871574467?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "snoep",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_401"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2267.0,
+        "calories_100g": 543.0,
+        "fat_100g": 32.8,
+        "saturated_fat_100g": 15.0,
+        "carbohydrates_100g": 56.0,
+        "sugars_100g": 46.5,
+        "fiber_100g": null,
+        "proteins_100g": 6.3,
+        "salt_100g": 0.26,
+        "sodium_100g": 104.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 24,
+      "health_score": 18,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "gecondenseerde wei",
+        "weipoeder"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: gecondenseerde wei, weipoeder",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: gecondenseerde wei, weipoeder",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: gecondenseerde wei, weipoeder",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : gecondenseerde wei, weipoeder",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: gecondenseerde wei, weipoeder",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: gecondenseerde wei, weipoeder"
+      },
+      "stores": [
+        "delhaize.be",
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.0,
+          "promo_price": 3.2,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=4014400932959",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.87,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4014400932959",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.2,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi538391/toffifee-white-chocolate",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.25,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4014400932959",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.04,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4014400932959",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.66,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4014400932959",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.86,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4014400932959",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4014400932959",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    },
+    "4014400938913": {
+      "barcode": "4014400938913",
+      "domain": "food",
+      "names": {
+        "nl": "Werther's Original Soft chocolate toffees",
+        "fr": "Werther's Original Soft chocolate toffees",
+        "de": "Werther's Original Soft chocolate toffees",
+        "en": "Werther's Original Soft chocolate toffees",
+        "ar": "Werther's Original Soft chocolate toffees"
+      },
+      "brand": "Werther's Original",
+      "net_weight": "150 g",
+      "allergens": [
+        "Soy",
+        "Milk",
+        "Peanuts",
+        "Tree Nuts"
+      ],
+      "description": "Soft chocolate caramel: zachte caramel omhuld met heerlijke melkchocolade. Een heerlijk, onbezorgd genietmomentje voor jezelf, en om te delen.",
+      "descriptions": {
+        "nl": "Soft chocolate caramel: zachte caramel omhuld met heerlijke melkchocolade. Een heerlijk, onbezorgd genietmomentje voor jezelf, en om te delen.",
+        "fr": "Werther's Original Soft chocolate toffees par Werther's Original.",
+        "de": "Werther's Original Soft chocolate toffees von Werther's Original.",
+        "en": "Werther's Original Soft chocolate toffees by Werther's Original.",
+        "ar": "منتج Werther's Original Soft chocolate toffees من Werther's Original."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: glucosestroop, suiker, gecondenseerde WEI, gecondenseerde magere MELK, VOLLEMELKPOEDER, cacaoboter, BOTERVET, palmvet, cacaomassa, bevochtigingsmiddel: sorbitolstroop, KARNEMELKPOEDER, LACTOSE, WEIPOEDER, aroma's, karamelsuikerstroop, zout, emulgator: lecithinen (SOJA). KAN OOK HAZELNOOT, AMANDEL, AARDNOOT/PINDA EN ANDERE NOTEN BEVATTEN.",
+        "fr": "Ingrediënten: glucosestroop, suiker, gecondenseerde WEI, gecondenseerde magere MELK, VOLLEMELKPOEDER, cacaoboter, BOTERVET, palmvet, cacaomassa, bevochtigingsmiddel: sorbitolstroop, KARNEMELKPOEDER, LACTOSE, WEIPOEDER, aroma's, karamelsuikerstroop, zout, emulgator: lecithinen (SOJA). KAN OOK HAZELNOOT, AMANDEL, AARDNOOT/PINDA EN ANDERE NOTEN BEVATTEN.",
+        "de": "Ingrediënten: glucosestroop, suiker, gecondenseerde WEI, gecondenseerde magere MELK, VOLLEMELKPOEDER, cacaoboter, BOTERVET, palmvet, cacaomassa, bevochtigingsmiddel: sorbitolstroop, KARNEMELKPOEDER, LACTOSE, WEIPOEDER, aroma's, karamelsuikerstroop, zout, emulgator: lecithinen (SOJA). KAN OOK HAZELNOOT, AMANDEL, AARDNOOT/PINDA EN ANDERE NOTEN BEVATTEN.",
+        "en": "Ingrediënten: glucosestroop, suiker, gecondenseerde WEI, gecondenseerde magere MELK, VOLLEMELKPOEDER, cacaoboter, BOTERVET, palmvet, cacaomassa, bevochtigingsmiddel: sorbitolstroop, KARNEMELKPOEDER, LACTOSE, WEIPOEDER, aroma's, karamelsuikerstroop, zout, emulgator: lecithinen (SOJA). KAN OOK HAZELNOOT, AMANDEL, AARDNOOT/PINDA EN ANDERE NOTEN BEVATTEN.",
+        "ar": "Ingrediënten: glucosestroop, suiker, gecondenseerde WEI, gecondenseerde magere MELK, VOLLEMELKPOEDER, cacaoboter, BOTERVET, palmvet, cacaomassa, bevochtigingsmiddel: sorbitolstroop, KARNEMELKPOEDER, LACTOSE, WEIPOEDER, aroma's, karamelsuikerstroop, zout, emulgator: lecithinen (SOJA). KAN OOK HAZELNOOT, AMANDEL, AARDNOOT/PINDA EN ANDERE NOTEN BEVATTEN."
+      },
+      "image": "images/4014400938913.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4014400938913.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_484a625a69754a545153654c37614e4a646544622d41?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "snoep",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_401"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1944.0,
+        "calories_100g": 464.0,
+        "fat_100g": 20.7,
+        "saturated_fat_100g": 12.9,
+        "carbohydrates_100g": 65.6,
+        "sugars_100g": 45.9,
+        "fiber_100g": null,
+        "proteins_100g": 4.2,
+        "salt_100g": 0.33,
+        "sodium_100g": 132.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 24,
+      "health_score": 18,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "gecondenseerde wei",
+        "weipoeder"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: gecondenseerde wei, weipoeder",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: gecondenseerde wei, weipoeder",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: gecondenseerde wei, weipoeder",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : gecondenseerde wei, weipoeder",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: gecondenseerde wei, weipoeder",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: gecondenseerde wei, weipoeder"
+      },
+      "stores": [
+        "ah.be",
+        "colruyt.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.07,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi627568/werther-s-original-soft-chocolate-toffees",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4014400938913",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.51,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4014400938913",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.16,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4014400938913",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.42,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4014400938913",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4014400938913",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.1,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4014400938913",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.78,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4014400938913",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     }
   }
 }

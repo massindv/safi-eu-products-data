@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "842",
-  "generated_at": "2026-11-25T13:42:35.422712+00:00",
-  "product_count": 3,
+  "generated_at": "2026-11-25T14:44:57.503205+00:00",
+  "product_count": 5,
   "products": {
     "8423453914571": {
       "barcode": "8423453914571",
@@ -207,7 +207,7 @@
           "updated_at": "2026-11-25T08:46:06.330781+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "8425408220416": {
       "barcode": "8425408220416",
@@ -412,7 +412,7 @@
           "updated_at": "2026-11-25T08:58:30.202051+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "8425408210219": {
       "barcode": "8425408210219",
@@ -618,7 +618,421 @@
           "updated_at": "2026-11-25T08:59:55.592035+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    },
+    "8426617004989": {
+      "barcode": "8426617004989",
+      "domain": "food",
+      "names": {
+        "nl": "Haribo Stixx strawberry",
+        "fr": "Haribo Stixx strawberry",
+        "de": "Haribo Stixx strawberry",
+        "en": "Haribo Stixx strawberry",
+        "ar": "Haribo Stixx strawberry"
+      },
+      "brand": "Haribo",
+      "net_weight": "160 g",
+      "allergens": [
+        "Gluten",
+        "Milk"
+      ],
+      "description": "Heerlijk lang snoep met een zachte vulling. Genieten van begin tot eind, met een unieke bite. Lekker lang, extra lekker!",
+      "descriptions": {
+        "nl": "Heerlijk lang snoep met een zachte vulling. Genieten van begin tot eind, met een unieke bite. Lekker lang, extra lekker!",
+        "fr": "Haribo Stixx strawberry par Haribo.",
+        "de": "Haribo Stixx strawberry von Haribo.",
+        "en": "Haribo Stixx strawberry by Haribo.",
+        "ar": "منتج Haribo Stixx strawberry من Haribo."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Suiker; glucosestroop; TARWEMEEL, water; TARWEZETMEEL; palmvet; emulgatoren: mono- en diglyceriden van vetzuren, mono- en diglyceriden van vetzuren veresterd met citroenzuur; dextrose; voedingszuur: citroenzuur; zuurteregelaar: trinatriumcitraat; geleermiddel: carageen; zonnebloemolie; aroma; vruchten- en plantenconcentraten: ramenas, appel, zwarte bes, wortel; glansmiddel: bijenwas wit en geel. Kan MELK bevatten.",
+        "fr": "Ingrediënten: Suiker; glucosestroop; TARWEMEEL, water; TARWEZETMEEL; palmvet; emulgatoren: mono- en diglyceriden van vetzuren, mono- en diglyceriden van vetzuren veresterd met citroenzuur; dextrose; voedingszuur: citroenzuur; zuurteregelaar: trinatriumcitraat; geleermiddel: carageen; zonnebloemolie; aroma; vruchten- en plantenconcentraten: ramenas, appel, zwarte bes, wortel; glansmiddel: bijenwas wit en geel. Kan MELK bevatten.",
+        "de": "Ingrediënten: Suiker; glucosestroop; TARWEMEEL, water; TARWEZETMEEL; palmvet; emulgatoren: mono- en diglyceriden van vetzuren, mono- en diglyceriden van vetzuren veresterd met citroenzuur; dextrose; voedingszuur: citroenzuur; zuurteregelaar: trinatriumcitraat; geleermiddel: carageen; zonnebloemolie; aroma; vruchten- en plantenconcentraten: ramenas, appel, zwarte bes, wortel; glansmiddel: bijenwas wit en geel. Kan MELK bevatten.",
+        "en": "Ingrediënten: Suiker; glucosestroop; TARWEMEEL, water; TARWEZETMEEL; palmvet; emulgatoren: mono- en diglyceriden van vetzuren, mono- en diglyceriden van vetzuren veresterd met citroenzuur; dextrose; voedingszuur: citroenzuur; zuurteregelaar: trinatriumcitraat; geleermiddel: carageen; zonnebloemolie; aroma; vruchten- en plantenconcentraten: ramenas, appel, zwarte bes, wortel; glansmiddel: bijenwas wit en geel. Kan MELK bevatten.",
+        "ar": "Ingrediënten: Suiker; glucosestroop; TARWEMEEL, water; TARWEZETMEEL; palmvet; emulgatoren: mono- en diglyceriden van vetzuren, mono- en diglyceriden van vetzuren veresterd met citroenzuur; dextrose; voedingszuur: citroenzuur; zuurteregelaar: trinatriumcitraat; geleermiddel: carageen; zonnebloemolie; aroma; vruchten- en plantenconcentraten: ramenas, appel, zwarte bes, wortel; glansmiddel: bijenwas wit en geel. Kan MELK bevatten."
+      },
+      "image": "images/8426617004989.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8426617004989.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_456e6d5673547874516c714d4b51726f565351326951?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "snoep",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_842"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1605.0,
+        "calories_100g": 379.0,
+        "fat_100g": 4.7,
+        "saturated_fat_100g": 3.1,
+        "carbohydrates_100g": 81.0,
+        "sugars_100g": 59.0,
+        "fiber_100g": null,
+        "proteins_100g": 2.0,
+        "salt_100g": 0.13,
+        "sodium_100g": 52.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 16,
+      "health_score": 20,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "emulgatoren: mono- en diglyceriden van vetzuren"
+      ],
+      "reason": "Emulsifier with unspecified plant/animal origin requires source verification: emulgatoren: mono- en diglyceriden van vetzuren",
+      "explanations": {
+        "ar": "مستحلب ثنائي المصدر يتطلب التحقق من المصدر: emulgatoren: mono- en diglyceriden van vetzuren",
+        "en": "Emulsifier with unspecified plant/animal origin requires source verification: emulgatoren: mono- en diglyceriden van vetzuren",
+        "fr": "Émulsifiant d'origine végétale/animale non spécifiée nécessitant une vérification : emulgatoren: mono- en diglyceriden van vetzuren",
+        "nl": "Emulgator met ongespecificeerde plantaardige/dierlijke oorsprong vereist controle: emulgatoren: mono- en diglyceriden van vetzuren",
+        "de": "Emulgator mit unbestimmter pflanzlicher/tierischer Herkunft erfordert Prüfung: emulgatoren: mono- en diglyceriden van vetzuren"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.55,
+          "promo_price": 2.84,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=8426617004989",
+          "updated_at": "2026-11-25T14:01:16.172053+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.64,
+          "promo_price": 3.71,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi605971/haribo-stixx-strawberry",
+          "updated_at": "2026-11-25T14:01:16.172053+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.99,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8426617004989",
+          "updated_at": "2026-11-25T14:01:16.172053+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8426617004989",
+          "updated_at": "2026-11-25T14:01:16.172053+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.6,
+          "promo_price": 2.88,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=8426617004989",
+          "updated_at": "2026-11-25T14:01:16.172053+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=8426617004989",
+          "updated_at": "2026-11-25T14:01:16.172053+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.07,
+          "promo_price": 3.26,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=8426617004989",
+          "updated_at": "2026-11-25T14:01:16.172053+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.92,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8426617004989",
+          "updated_at": "2026-11-25T14:01:16.172053+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    },
+    "8426617005207": {
+      "barcode": "8426617005207",
+      "domain": "food",
+      "names": {
+        "nl": "Haribo Stixx rainbow",
+        "fr": "Haribo Stixx rainbow",
+        "de": "Haribo Stixx rainbow",
+        "en": "Haribo Stixx rainbow",
+        "ar": "Haribo Stixx rainbow"
+      },
+      "brand": "Haribo",
+      "net_weight": "160 g",
+      "allergens": [
+        "Gluten",
+        "Milk"
+      ],
+      "description": "Heerlijk lang snoep met een zachte vulling. Genieten van begin tot eind, met een unieke bite. Lekker lang, extra lekker!",
+      "descriptions": {
+        "nl": "Heerlijk lang snoep met een zachte vulling. Genieten van begin tot eind, met een unieke bite. Lekker lang, extra lekker!",
+        "fr": "Haribo Stixx rainbow par Haribo.",
+        "de": "Haribo Stixx rainbow von Haribo.",
+        "en": "Haribo Stixx rainbow by Haribo.",
+        "ar": "منتج Haribo Stixx rainbow من Haribo."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Suiker; glucosestroop; TARWEMEEL; TARWEZETMEEL; palmvet; voedingszuur: citroenzuur; dextrose; emulgatoren: mono- en diglyceriden van vetzuren, mono- en diglyceriden van vetzuren veresterd met citroenzuur; geleermiddel: carrageen; zonnebloemolie; zuurteregelaar: trinatriumcitraat; aroma; vlierbesextract; vruchten- en plantenconcentraten: spirulina, zwarte bes, vlierbes, aronia, druif; glansmiddel: bijenwas wit en geel; kleurstof: curcumine. Kan MELK bevatten.",
+        "fr": "Ingrediënten: Suiker; glucosestroop; TARWEMEEL; TARWEZETMEEL; palmvet; voedingszuur: citroenzuur; dextrose; emulgatoren: mono- en diglyceriden van vetzuren, mono- en diglyceriden van vetzuren veresterd met citroenzuur; geleermiddel: carrageen; zonnebloemolie; zuurteregelaar: trinatriumcitraat; aroma; vlierbesextract; vruchten- en plantenconcentraten: spirulina, zwarte bes, vlierbes, aronia, druif; glansmiddel: bijenwas wit en geel; kleurstof: curcumine. Kan MELK bevatten.",
+        "de": "Ingrediënten: Suiker; glucosestroop; TARWEMEEL; TARWEZETMEEL; palmvet; voedingszuur: citroenzuur; dextrose; emulgatoren: mono- en diglyceriden van vetzuren, mono- en diglyceriden van vetzuren veresterd met citroenzuur; geleermiddel: carrageen; zonnebloemolie; zuurteregelaar: trinatriumcitraat; aroma; vlierbesextract; vruchten- en plantenconcentraten: spirulina, zwarte bes, vlierbes, aronia, druif; glansmiddel: bijenwas wit en geel; kleurstof: curcumine. Kan MELK bevatten.",
+        "en": "Ingrediënten: Suiker; glucosestroop; TARWEMEEL; TARWEZETMEEL; palmvet; voedingszuur: citroenzuur; dextrose; emulgatoren: mono- en diglyceriden van vetzuren, mono- en diglyceriden van vetzuren veresterd met citroenzuur; geleermiddel: carrageen; zonnebloemolie; zuurteregelaar: trinatriumcitraat; aroma; vlierbesextract; vruchten- en plantenconcentraten: spirulina, zwarte bes, vlierbes, aronia, druif; glansmiddel: bijenwas wit en geel; kleurstof: curcumine. Kan MELK bevatten.",
+        "ar": "Ingrediënten: Suiker; glucosestroop; TARWEMEEL; TARWEZETMEEL; palmvet; voedingszuur: citroenzuur; dextrose; emulgatoren: mono- en diglyceriden van vetzuren, mono- en diglyceriden van vetzuren veresterd met citroenzuur; geleermiddel: carrageen; zonnebloemolie; zuurteregelaar: trinatriumcitraat; aroma; vlierbesextract; vruchten- en plantenconcentraten: spirulina, zwarte bes, vlierbes, aronia, druif; glansmiddel: bijenwas wit en geel; kleurstof: curcumine. Kan MELK bevatten."
+      },
+      "image": "images/8426617005207.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8426617005207.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_6e463561657048505238756850755769326a366e3741?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "snoep",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_842"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1585.0,
+        "calories_100g": 374.0,
+        "fat_100g": 3.8,
+        "saturated_fat_100g": 2.3,
+        "carbohydrates_100g": 82.0,
+        "sugars_100g": 62.0,
+        "fiber_100g": null,
+        "proteins_100g": 1.6,
+        "salt_100g": 0.1,
+        "sodium_100g": 40.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 16,
+      "health_score": 20,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "emulgatoren: mono- en diglyceriden van vetzuren"
+      ],
+      "reason": "Emulsifier with unspecified plant/animal origin requires source verification: emulgatoren: mono- en diglyceriden van vetzuren",
+      "explanations": {
+        "ar": "مستحلب ثنائي المصدر يتطلب التحقق من المصدر: emulgatoren: mono- en diglyceriden van vetzuren",
+        "en": "Emulsifier with unspecified plant/animal origin requires source verification: emulgatoren: mono- en diglyceriden van vetzuren",
+        "fr": "Émulsifiant d'origine végétale/animale non spécifiée nécessitant une vérification : emulgatoren: mono- en diglyceriden van vetzuren",
+        "nl": "Emulgator met ongespecificeerde plantaardige/dierlijke oorsprong vereist controle: emulgatoren: mono- en diglyceriden van vetzuren",
+        "de": "Emulgator mit unbestimmter pflanzlicher/tierischer Herkunft erfordert Prüfung: emulgatoren: mono- en diglyceriden van vetzuren"
+      },
+      "stores": [
+        "carrefour.be",
+        "delhaize.be",
+        "ah.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.1,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8426617005207",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.2,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8426617005207",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.25,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi627566/haribo-stixx-rainbow",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.27,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8426617005207",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.17,
+          "promo_price": 1.74,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=8426617005207",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.59,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=8426617005207",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.47,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8426617005207",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.52,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8426617005207",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     }
   }
 }

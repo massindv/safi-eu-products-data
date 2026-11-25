@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "304",
-  "generated_at": "2026-11-25T13:42:35.422712+00:00",
-  "product_count": 12,
+  "generated_at": "2026-11-25T14:44:57.503205+00:00",
+  "product_count": 14,
   "products": {
     "3045320082586": {
       "barcode": "3045320082586",
@@ -201,7 +201,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
       "halal_certification_source": null
@@ -406,7 +406,7 @@
           "promo_end_date": "2026-11-29"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
       "halal_certification_source": null
@@ -614,7 +614,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
       "halal_certification_source": null
@@ -821,7 +821,7 @@
           "promo_end_date": "2026-11-29"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
       "halal_certification_source": null
@@ -1026,7 +1026,7 @@
           "updated_at": "2026-11-25T09:12:06.226505+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "3045320082630": {
       "barcode": "3045320082630",
@@ -1228,7 +1228,7 @@
           "updated_at": "2026-11-25T09:12:06.226505+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "3045320082593": {
       "barcode": "3045320082593",
@@ -1430,7 +1430,7 @@
           "updated_at": "2026-11-25T09:12:06.226505+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "3045320086225": {
       "barcode": "3045320086225",
@@ -1632,7 +1632,7 @@
           "updated_at": "2026-11-25T09:12:06.226505+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "3046920011013": {
       "barcode": "3046920011013",
@@ -1841,7 +1841,7 @@
           "updated_at": "2026-11-25T09:40:20.487486+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "3046920028370": {
       "barcode": "3046920028370",
@@ -2050,7 +2050,7 @@
           "updated_at": "2026-11-25T10:02:52.086052+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "3046920010047": {
       "barcode": "3046920010047",
@@ -2256,7 +2256,7 @@
           "updated_at": "2026-11-25T10:04:19.847665+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "3046920029674": {
       "barcode": "3046920029674",
@@ -2464,7 +2464,424 @@
           "updated_at": "2026-11-25T10:08:46.960191+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    },
+    "3046920022071": {
+      "barcode": "3046920022071",
+      "domain": "food",
+      "names": {
+        "nl": "Lindt Excellence reep pure chocolade pistache",
+        "fr": "Lindt Excellence reep pure chocolade pistache",
+        "de": "Lindt Excellence reep pure chocolade pistache",
+        "en": "Lindt Excellence reep pure chocolade pistache",
+        "ar": "Lindt Excellence reep pure chocolade pistache"
+      },
+      "brand": "Lindt",
+      "net_weight": "100 g",
+      "allergens": [
+        "Soy",
+        "Milk",
+        "Tree Nuts",
+        "Sesame"
+      ],
+      "description": "Deze Premium chocoladereep combineert de rijke, volle smaak van fijne pure chocolade met de subtiele, knapperige textuur van zorgvuldig geselecteerde pistachenoten.",
+      "descriptions": {
+        "nl": "Deze Premium chocoladereep combineert de rijke, volle smaak van fijne pure chocolade met de subtiele, knapperige textuur van zorgvuldig geselecteerde pistachenoten.",
+        "fr": "Lindt Excellence reep pure chocolade pistache par Lindt.",
+        "de": "Lindt Excellence reep pure chocolade pistache von Lindt.",
+        "en": "Lindt Excellence reep pure chocolade pistache by Lindt.",
+        "ar": "منتج Lindt Excellence reep pure chocolade pistache من Lindt."
+      },
+      "ingredients": {
+        "nl": "Ingredienten: suiker, cacaomassa, gekarameliseerde PISTACHENOTEN 10% (PISTACHE, suiker, zout), cacaoboter, watervrij MELKvet, emulgator (SOJAlecithine), natuurlijk aroma, sea salt (fleur de sel) 0,15%. Kan AMANDELEN, HAZELNOTEN, andere NOTEN en SESAMZAAD bevatten.",
+        "fr": "Ingredienten: suiker, cacaomassa, gekarameliseerde PISTACHENOTEN 10% (PISTACHE, suiker, zout), cacaoboter, watervrij MELKvet, emulgator (SOJAlecithine), natuurlijk aroma, sea salt (fleur de sel) 0,15%. Kan AMANDELEN, HAZELNOTEN, andere NOTEN en SESAMZAAD bevatten.",
+        "de": "Ingredienten: suiker, cacaomassa, gekarameliseerde PISTACHENOTEN 10% (PISTACHE, suiker, zout), cacaoboter, watervrij MELKvet, emulgator (SOJAlecithine), natuurlijk aroma, sea salt (fleur de sel) 0,15%. Kan AMANDELEN, HAZELNOTEN, andere NOTEN en SESAMZAAD bevatten.",
+        "en": "Ingredienten: suiker, cacaomassa, gekarameliseerde PISTACHENOTEN 10% (PISTACHE, suiker, zout), cacaoboter, watervrij MELKvet, emulgator (SOJAlecithine), natuurlijk aroma, sea salt (fleur de sel) 0,15%. Kan AMANDELEN, HAZELNOTEN, andere NOTEN en SESAMZAAD bevatten.",
+        "ar": "Ingredienten: suiker, cacaomassa, gekarameliseerde PISTACHENOTEN 10% (PISTACHE, suiker, zout), cacaoboter, watervrij MELKvet, emulgator (SOJAlecithine), natuurlijk aroma, sea salt (fleur de sel) 0,15%. Kan AMANDELEN, HAZELNOTEN, andere NOTEN en SESAMZAAD bevatten."
+      },
+      "image": "images/3046920022071.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3046920022071.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313234323836?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "chocolade",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_304"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2235.0,
+        "calories_100g": 536.0,
+        "fat_100g": 32.0,
+        "saturated_fat_100g": 17.0,
+        "carbohydrates_100g": 52.0,
+        "sugars_100g": 47.0,
+        "fiber_100g": null,
+        "proteins_100g": 6.4,
+        "salt_100g": 0.22,
+        "sodium_100g": 88.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 23,
+      "health_score": 18,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijk aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk aroma"
+      },
+      "stores": [
+        "carrefour.be",
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.26,
+          "promo_price": 1.63,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=3046920022071",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.05,
+          "promo_price": 2.44,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=3046920022071",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3046920022071",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.79,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi582792/lindt-excellence-reep-pure-chocolade-pistache",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3046920022071",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.28,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3046920022071",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.67,
+          "promo_price": 1.83,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=3046920022071",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3046920022071",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    },
+    "3046920042888": {
+      "barcode": "3046920042888",
+      "domain": "food",
+      "names": {
+        "nl": "Lindt Creation milk hazelnut",
+        "fr": "Lindt Creation milk hazelnut",
+        "de": "Lindt Creation milk hazelnut",
+        "en": "Lindt Creation milk hazelnut",
+        "ar": "Lindt Creation milk hazelnut"
+      },
+      "brand": "Lindt",
+      "net_weight": "150 g",
+      "allergens": [
+        "Soy",
+        "Milk",
+        "Tree Nuts"
+      ],
+      "description": "Zachte melkchocolade reep met knapperige hazelnoot stukjes en pralinevulling, met passie gemaakt door de Lindt meester chocolatiers.",
+      "descriptions": {
+        "nl": "Zachte melkchocolade reep met knapperige hazelnoot stukjes en pralinevulling, met passie gemaakt door de Lindt meester chocolatiers.",
+        "fr": "Lindt Creation milk hazelnut par Lindt.",
+        "de": "Lindt Creation milk hazelnut von Lindt.",
+        "en": "Lindt Creation milk hazelnut by Lindt.",
+        "ar": "منتج Lindt Creation milk hazelnut من Lindt."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: suiker, cacaoboter, MELKpoeder, AMANDEL-HAZELNOOTpraliné (suiker, AMANDELEN, HAZELNOTEN) 11%, cacaomassa, palmvet, HAZELNOTEN 5%, LACTOSE, magere MELKpoeder, emulgator (SOJAlecithine), GERSTEmoutextract, watervrij MELKvet, aroma. KanTARWE en andere NOTEN bevatten.",
+        "fr": "Ingrediënten: suiker, cacaoboter, MELKpoeder, AMANDEL-HAZELNOOTpraliné (suiker, AMANDELEN, HAZELNOTEN) 11%, cacaomassa, palmvet, HAZELNOTEN 5%, LACTOSE, magere MELKpoeder, emulgator (SOJAlecithine), GERSTEmoutextract, watervrij MELKvet, aroma. KanTARWE en andere NOTEN bevatten.",
+        "de": "Ingrediënten: suiker, cacaoboter, MELKpoeder, AMANDEL-HAZELNOOTpraliné (suiker, AMANDELEN, HAZELNOTEN) 11%, cacaomassa, palmvet, HAZELNOTEN 5%, LACTOSE, magere MELKpoeder, emulgator (SOJAlecithine), GERSTEmoutextract, watervrij MELKvet, aroma. KanTARWE en andere NOTEN bevatten.",
+        "en": "Ingrediënten: suiker, cacaoboter, MELKpoeder, AMANDEL-HAZELNOOTpraliné (suiker, AMANDELEN, HAZELNOTEN) 11%, cacaomassa, palmvet, HAZELNOTEN 5%, LACTOSE, magere MELKpoeder, emulgator (SOJAlecithine), GERSTEmoutextract, watervrij MELKvet, aroma. KanTARWE en andere NOTEN bevatten.",
+        "ar": "Ingrediënten: suiker, cacaoboter, MELKpoeder, AMANDEL-HAZELNOOTpraliné (suiker, AMANDELEN, HAZELNOTEN) 11%, cacaomassa, palmvet, HAZELNOTEN 5%, LACTOSE, magere MELKpoeder, emulgator (SOJAlecithine), GERSTEmoutextract, watervrij MELKvet, aroma. KanTARWE en andere NOTEN bevatten."
+      },
+      "image": "images/3046920042888.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3046920042888.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_6f7a515146786966543261767874323946594e496677?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "chocoladereep",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_304"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2398.0,
+        "calories_100g": 575.0,
+        "fat_100g": 37.0,
+        "saturated_fat_100g": 18.0,
+        "carbohydrates_100g": 52.0,
+        "sugars_100g": 50.0,
+        "fiber_100g": null,
+        "proteins_100g": 7.1,
+        "salt_100g": 0.23,
+        "sodium_100g": 92.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 24,
+      "health_score": 18,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma"
+      },
+      "stores": [
+        "delhaize.be",
+        "carrefour.be",
+        "colruyt.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.41,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3046920042888",
+          "updated_at": "2026-11-25T13:58:36.462388+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.47,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3046920042888",
+          "updated_at": "2026-11-25T13:58:36.462388+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.64,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3046920042888",
+          "updated_at": "2026-11-25T13:58:36.462388+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.81,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi599807/lindt-creation-milk-hazelnut",
+          "updated_at": "2026-11-25T13:58:36.462388+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.59,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3046920042888",
+          "updated_at": "2026-11-25T13:58:36.462388+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3046920042888",
+          "updated_at": "2026-11-25T13:58:36.462388+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.81,
+          "promo_price": 1.45,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=3046920042888",
+          "updated_at": "2026-11-25T13:58:36.462388+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.43,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=3046920042888",
+          "updated_at": "2026-11-25T13:58:36.462388+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     }
   }
 }

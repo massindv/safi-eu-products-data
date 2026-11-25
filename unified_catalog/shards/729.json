@@ -1,0 +1,212 @@
+{
+  "version": "2.0.0",
+  "prefix": "729",
+  "generated_at": "2026-11-25T14:44:57.503205+00:00",
+  "product_count": 1,
+  "products": {
+    "7290113768789": {
+      "barcode": "7290113768789",
+      "domain": "food",
+      "names": {
+        "nl": "Sodastream Red berry no sugar soda mix siroop",
+        "fr": "Sodastream Red berry no sugar soda mix siroop",
+        "de": "Sodastream Red berry no sugar soda mix siroop",
+        "en": "Sodastream Red berry no sugar soda mix siroop",
+        "ar": "Sodastream Red berry no sugar soda mix siroop"
+      },
+      "brand": "Sodastream",
+      "net_weight": "440 ml",
+      "allergens": [],
+      "description": "Maak met sodastream van gewoon kraanwater een bruisende frisdrank met de volle, fruitige smaak van rode bessen. Zonder suiker, met extra vitaminen en goed voor tot 9 liter frisdrank per fles.",
+      "descriptions": {
+        "nl": "Maak met sodastream van gewoon kraanwater een bruisende frisdrank met de volle, fruitige smaak van rode bessen. Zonder suiker, met extra vitaminen en goed voor tot 9 liter frisdrank per fles.",
+        "fr": "Sodastream Red berry no sugar soda mix siroop par Sodastream.",
+        "de": "Sodastream Red berry no sugar soda mix siroop von Sodastream.",
+        "en": "Sodastream Red berry no sugar soda mix siroop by Sodastream.",
+        "ar": "منتج Sodastream Red berry no sugar soda mix siroop من Sodastream."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Water, passievruchtsapconcentraat 3%, voedingszuur (citroenzuur), natuurlijke aroma's,zuurteregelaar (natriumcitraten), zoetstoffen (sucralose, acesulfaam-K), stabilisatoren (Arabische gom,glycerolesters van houtrosin), sequestreermiddel (polyfosfaten), zink, conserveermiddel (kaliumsorbaat),antioxidant (ascorbinezuur), vitaminen (niacine, B6), kleurstoffen (carotenen).",
+        "fr": "Ingrediënten: Water, passievruchtsapconcentraat 3%, voedingszuur (citroenzuur), natuurlijke aroma's,zuurteregelaar (natriumcitraten), zoetstoffen (sucralose, acesulfaam-K), stabilisatoren (Arabische gom,glycerolesters van houtrosin), sequestreermiddel (polyfosfaten), zink, conserveermiddel (kaliumsorbaat),antioxidant (ascorbinezuur), vitaminen (niacine, B6), kleurstoffen (carotenen).",
+        "de": "Ingrediënten: Water, passievruchtsapconcentraat 3%, voedingszuur (citroenzuur), natuurlijke aroma's,zuurteregelaar (natriumcitraten), zoetstoffen (sucralose, acesulfaam-K), stabilisatoren (Arabische gom,glycerolesters van houtrosin), sequestreermiddel (polyfosfaten), zink, conserveermiddel (kaliumsorbaat),antioxidant (ascorbinezuur), vitaminen (niacine, B6), kleurstoffen (carotenen).",
+        "en": "Ingrediënten: Water, passievruchtsapconcentraat 3%, voedingszuur (citroenzuur), natuurlijke aroma's,zuurteregelaar (natriumcitraten), zoetstoffen (sucralose, acesulfaam-K), stabilisatoren (Arabische gom,glycerolesters van houtrosin), sequestreermiddel (polyfosfaten), zink, conserveermiddel (kaliumsorbaat),antioxidant (ascorbinezuur), vitaminen (niacine, B6), kleurstoffen (carotenen).",
+        "ar": "Ingrediënten: Water, passievruchtsapconcentraat 3%, voedingszuur (citroenzuur), natuurlijke aroma's,zuurteregelaar (natriumcitraten), zoetstoffen (sucralose, acesulfaam-K), stabilisatoren (Arabische gom,glycerolesters van houtrosin), sequestreermiddel (polyfosfaten), zink, conserveermiddel (kaliumsorbaat),antioxidant (ascorbinezuur), vitaminen (niacine, B6), kleurstoffen (carotenen)."
+      },
+      "image": "images/7290113768789.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7290113768789.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_474e647536596972536b47534b73446c2d6a31545941?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "stroop",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "STORE_FALLBACK"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 4.0,
+        "calories_100g": 0.8,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.04,
+        "sodium_100g": 16.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 0,
+      "health_score": 65,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijke aroma's"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijke aroma's",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijke aroma's",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijke aroma's",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijke aroma's"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.5,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=7290113768789",
+          "updated_at": "2026-11-25T14:42:17.820335+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.61,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi615374/sodastream-red-berry-no-sugar-soda-mix-siroop",
+          "updated_at": "2026-11-25T14:42:17.820335+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.02,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=7290113768789",
+          "updated_at": "2026-11-25T14:42:17.820335+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.03,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=7290113768789",
+          "updated_at": "2026-11-25T14:42:17.820335+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.36,
+          "promo_price": 3.49,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=7290113768789",
+          "updated_at": "2026-11-25T14:42:17.820335+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.54,
+          "promo_price": 2.83,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=7290113768789",
+          "updated_at": "2026-11-25T14:42:17.820335+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.77,
+          "promo_price": 1.89,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=7290113768789",
+          "updated_at": "2026-11-25T14:42:17.820335+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.04,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=7290113768789",
+          "updated_at": "2026-11-25T14:42:17.820335+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:42:17.820335+00:00"
+    }
+  }
+}

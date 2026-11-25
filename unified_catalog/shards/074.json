@@ -1,0 +1,212 @@
+{
+  "version": "2.0.0",
+  "prefix": "074",
+  "generated_at": "2026-11-25T14:44:57.503205+00:00",
+  "product_count": 1,
+  "products": {
+    "0745092000933": {
+      "barcode": "0745092000933",
+      "domain": "food",
+      "names": {
+        "nl": "Jelly Bean Factory 36 Huge flavours",
+        "fr": "Jelly Bean Factory 36 Huge flavours",
+        "de": "Jelly Bean Factory 36 Huge flavours",
+        "en": "Jelly Bean Factory 36 Huge flavours",
+        "ar": "Jelly Bean Factory 36 Huge flavours"
+      },
+      "brand": "Jelly Bean Factory",
+      "net_weight": "200 g",
+      "allergens": [],
+      "description": "De 36 verschillende smaken in deze jelly beans beker zorgen voor een continue smaakexplosie! Iedere jelly bean heeft een unieke smaak die je proeft vanuit de zachte kern tot aan de Crispy buitenkant.",
+      "descriptions": {
+        "nl": "De 36 verschillende smaken in deze jelly beans beker zorgen voor een continue smaakexplosie! Iedere jelly bean heeft een unieke smaak die je proeft vanuit de zachte kern tot aan de Crispy buitenkant.",
+        "fr": "Jelly Bean Factory 36 Huge flavours par Jelly Bean Factory.",
+        "de": "Jelly Bean Factory 36 Huge flavours von Jelly Bean Factory.",
+        "en": "Jelly Bean Factory 36 Huge flavours by Jelly Bean Factory.",
+        "ar": "منتج Jelly Bean Factory 36 Huge flavours من Jelly Bean Factory."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Suiker, glucosestroop, maiszetmeel, fruitsap concentraten (ananas, sinaasappel, appel), natuurlijke aroma's, voedingszuren (citroenzuur, fumaarzuur), concentraat van (wortel, pompoen, spirulina, radijs, appel, zwarte bes, hibiscus), glansmiddelen (schellak, carnaubawas, bijenwas), zuurteregelaar (trinatriumcitraat), gekaramelliseerde suiker, zout, kokosolie",
+        "fr": "Ingrediënten: Suiker, glucosestroop, maiszetmeel, fruitsap concentraten (ananas, sinaasappel, appel), natuurlijke aroma's, voedingszuren (citroenzuur, fumaarzuur), concentraat van (wortel, pompoen, spirulina, radijs, appel, zwarte bes, hibiscus), glansmiddelen (schellak, carnaubawas, bijenwas), zuurteregelaar (trinatriumcitraat), gekaramelliseerde suiker, zout, kokosolie",
+        "de": "Ingrediënten: Suiker, glucosestroop, maiszetmeel, fruitsap concentraten (ananas, sinaasappel, appel), natuurlijke aroma's, voedingszuren (citroenzuur, fumaarzuur), concentraat van (wortel, pompoen, spirulina, radijs, appel, zwarte bes, hibiscus), glansmiddelen (schellak, carnaubawas, bijenwas), zuurteregelaar (trinatriumcitraat), gekaramelliseerde suiker, zout, kokosolie",
+        "en": "Ingrediënten: Suiker, glucosestroop, maiszetmeel, fruitsap concentraten (ananas, sinaasappel, appel), natuurlijke aroma's, voedingszuren (citroenzuur, fumaarzuur), concentraat van (wortel, pompoen, spirulina, radijs, appel, zwarte bes, hibiscus), glansmiddelen (schellak, carnaubawas, bijenwas), zuurteregelaar (trinatriumcitraat), gekaramelliseerde suiker, zout, kokosolie",
+        "ar": "Ingrediënten: Suiker, glucosestroop, maiszetmeel, fruitsap concentraten (ananas, sinaasappel, appel), natuurlijke aroma's, voedingszuren (citroenzuur, fumaarzuur), concentraat van (wortel, pompoen, spirulina, radijs, appel, zwarte bes, hibiscus), glansmiddelen (schellak, carnaubawas, bijenwas), zuurteregelaar (trinatriumcitraat), gekaramelliseerde suiker, zout, kokosolie"
+      },
+      "image": "images/0745092000933.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/0745092000933.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_5575766f3075655854716946525a735a3762575f6a51?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "snoep",
+      "origin_country": {
+        "name": "United States",
+        "code": "US",
+        "flag": "🇺🇸",
+        "inferred_from": "GS1_074"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1591.0,
+        "calories_100g": 375.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 92.0,
+        "sugars_100g": 76.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.06,
+        "sodium_100g": 24.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 14,
+      "health_score": 41,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "schellak"
+      ],
+      "reason": "Contains prohibited ingredient: schellak",
+      "explanations": {
+        "ar": "يحتوي على مكون محظور: schellak",
+        "en": "Contains prohibited ingredient: schellak",
+        "fr": "Contient un ingrédient interdit : schellak",
+        "nl": "Bevat verboden ingrediënt: schellak",
+        "de": "Enthält verbotene Zutat: schellak"
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.61,
+          "promo_price": 0.81,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=0745092000933",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.72,
+          "promo_price": 1.38,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi236703/jelly-bean-factory-36-huge-flavours",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.0,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=0745092000933",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.17,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=0745092000933",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.91,
+          "promo_price": 0.95,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=0745092000933",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.4,
+          "promo_price": 1.12,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=0745092000933",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 1.46,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=0745092000933",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.52,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=0745092000933",
+          "updated_at": "2026-11-25T14:12:43.298608+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    }
+  }
+}

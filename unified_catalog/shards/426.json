@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "426",
-  "generated_at": "2026-11-25T13:42:35.422712+00:00",
-  "product_count": 8,
+  "generated_at": "2026-11-25T14:44:57.503205+00:00",
+  "product_count": 10,
   "products": {
     "4260462987059": {
       "barcode": "4260462987059",
@@ -204,7 +204,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
       "halal_certification_source": null
@@ -411,7 +411,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
       "halal_certification_source": null
@@ -618,7 +618,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
       "halal_certification_source": null
@@ -827,7 +827,7 @@
           "updated_at": "2026-11-25T08:46:06.330781+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "4260370660730": {
       "barcode": "4260370660730",
@@ -1029,7 +1029,7 @@
           "updated_at": "2026-11-25T08:46:06.330781+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "4260629556098": {
       "barcode": "4260629556098",
@@ -1235,7 +1235,7 @@
           "updated_at": "2026-11-25T08:46:06.330781+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "4260189213011": {
       "barcode": "4260189213011",
@@ -1441,7 +1441,7 @@
           "updated_at": "2026-11-25T08:48:48.393117+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "4260629556371": {
       "barcode": "4260629556371",
@@ -1643,7 +1643,418 @@
           "updated_at": "2026-11-25T08:50:08.172346+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    },
+    "4262456580246": {
+      "barcode": "4262456580246",
+      "domain": "food",
+      "names": {
+        "nl": "Nutriluv Protein gummy candy",
+        "fr": "Nutriluv Protein gummy candy",
+        "de": "Nutriluv Protein gummy candy",
+        "en": "Nutriluv Protein gummy candy",
+        "ar": "Nutriluv Protein gummy candy"
+      },
+      "brand": "Nutriluv",
+      "net_weight": "75 g",
+      "allergens": [],
+      "description": "Fruitige gummies met 22% eiwit per zakje. Ideaal als snack tussen de maaltijden door of na een training.",
+      "descriptions": {
+        "nl": "Fruitige gummies met 22% eiwit per zakje. Ideaal als snack tussen de maaltijden door of na een training.",
+        "fr": "Nutriluv Protein gummy candy par Nutriluv.",
+        "de": "Nutriluv Protein gummy candy von Nutriluv.",
+        "en": "Nutriluv Protein gummy candy by Nutriluv.",
+        "ar": "منتج Nutriluv Protein gummy candy من Nutriluv."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Glucosestroop, suiker, gehydrolyseerd collageen, gelatine, resistente dextrines, voedingszuur: citroenzuur; kleurende levensmiddelen (concentraat van wortel, pompoen, spirulina), natuurlijke aroma’s, glansmiddelen: carnaubawas, bijenwas, wit en geel.",
+        "fr": "Ingrediënten: Glucosestroop, suiker, gehydrolyseerd collageen, gelatine, resistente dextrines, voedingszuur: citroenzuur; kleurende levensmiddelen (concentraat van wortel, pompoen, spirulina), natuurlijke aroma’s, glansmiddelen: carnaubawas, bijenwas, wit en geel.",
+        "de": "Ingrediënten: Glucosestroop, suiker, gehydrolyseerd collageen, gelatine, resistente dextrines, voedingszuur: citroenzuur; kleurende levensmiddelen (concentraat van wortel, pompoen, spirulina), natuurlijke aroma’s, glansmiddelen: carnaubawas, bijenwas, wit en geel.",
+        "en": "Ingrediënten: Glucosestroop, suiker, gehydrolyseerd collageen, gelatine, resistente dextrines, voedingszuur: citroenzuur; kleurende levensmiddelen (concentraat van wortel, pompoen, spirulina), natuurlijke aroma’s, glansmiddelen: carnaubawas, bijenwas, wit en geel.",
+        "ar": "Ingrediënten: Glucosestroop, suiker, gehydrolyseerd collageen, gelatine, resistente dextrines, voedingszuur: citroenzuur; kleurende levensmiddelen (concentraat van wortel, pompoen, spirulina), natuurlijke aroma’s, glansmiddelen: carnaubawas, bijenwas, wit en geel."
+      },
+      "image": "images/4262456580246.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4262456580246.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4b6c675866665873516953595a354742776742685877?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "snoep",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_426"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1248.0,
+        "calories_100g": 294.0,
+        "fat_100g": 0.5,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 48.0,
+        "sugars_100g": 34.0,
+        "fiber_100g": null,
+        "proteins_100g": 22.0,
+        "salt_100g": 0.29,
+        "sodium_100g": 116.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 6,
+      "health_score": 43,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "gehydrolyseerd collageen",
+        "gelatine"
+      ],
+      "reason": "Contains animal-derived ingredient requiring Halal verification: gehydrolyseerd collageen, gelatine",
+      "explanations": {
+        "ar": "يحتوي على مشتق حيواني يتطلب التحقق من مصدره الحلال: gehydrolyseerd collageen, gelatine",
+        "en": "Contains animal-derived ingredient requiring Halal verification: gehydrolyseerd collageen, gelatine",
+        "fr": "Contient un dérivé animal nécessitant une vérification Halal : gehydrolyseerd collageen, gelatine",
+        "nl": "Bevat dierlijk ingrediënt dat Halal-verificatie vereist: gehydrolyseerd collageen, gelatine",
+        "de": "Enthält tierische Zutat, die eine Halal-Prüfung erfordert: gehydrolyseerd collageen, gelatine"
+      },
+      "stores": [
+        "ah.be",
+        "colruyt.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.67,
+          "promo_price": 2.14,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi613550/nutriluv-protein-gummy-candy",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.0,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4262456580246",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.18,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4262456580246",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.51,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4262456580246",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.16,
+          "promo_price": 1.58,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=4262456580246",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.69,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4262456580246",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.1,
+          "promo_price": 2.48,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=4262456580246",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.69,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4262456580246",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    },
+    "4262456580253": {
+      "barcode": "4262456580253",
+      "domain": "food",
+      "names": {
+        "nl": "Nutriluv Collagen gummy candy",
+        "fr": "Nutriluv Collagen gummy candy",
+        "de": "Nutriluv Collagen gummy candy",
+        "en": "Nutriluv Collagen gummy candy",
+        "ar": "Nutriluv Collagen gummy candy"
+      },
+      "brand": "Nutriluv",
+      "net_weight": "75 g",
+      "allergens": [],
+      "description": "Fruitige gummies met 7 gram collageen per zakje.",
+      "descriptions": {
+        "nl": "Fruitige gummies met 7 gram collageen per zakje.",
+        "fr": "Nutriluv Collagen gummy candy par Nutriluv.",
+        "de": "Nutriluv Collagen gummy candy von Nutriluv.",
+        "en": "Nutriluv Collagen gummy candy by Nutriluv.",
+        "ar": "منتج Nutriluv Collagen gummy candy من Nutriluv."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Glucosestroop, suiker, gehydrolyseerd collageen (11%), gelatine, resistente dextrines, voedingszuur: citroenzuur; kleurende levensmiddelen (concentraat van wortel, pompoen, spirulina), natuurlijke aroma’s, co-enzym Q10 (0.015%), glansmiddelen: carnaubawas, bijenwas, wit en geel; aloëverapoeder (0.015%), D-biotine.",
+        "fr": "Ingrediënten: Glucosestroop, suiker, gehydrolyseerd collageen (11%), gelatine, resistente dextrines, voedingszuur: citroenzuur; kleurende levensmiddelen (concentraat van wortel, pompoen, spirulina), natuurlijke aroma’s, co-enzym Q10 (0.015%), glansmiddelen: carnaubawas, bijenwas, wit en geel; aloëverapoeder (0.015%), D-biotine.",
+        "de": "Ingrediënten: Glucosestroop, suiker, gehydrolyseerd collageen (11%), gelatine, resistente dextrines, voedingszuur: citroenzuur; kleurende levensmiddelen (concentraat van wortel, pompoen, spirulina), natuurlijke aroma’s, co-enzym Q10 (0.015%), glansmiddelen: carnaubawas, bijenwas, wit en geel; aloëverapoeder (0.015%), D-biotine.",
+        "en": "Ingrediënten: Glucosestroop, suiker, gehydrolyseerd collageen (11%), gelatine, resistente dextrines, voedingszuur: citroenzuur; kleurende levensmiddelen (concentraat van wortel, pompoen, spirulina), natuurlijke aroma’s, co-enzym Q10 (0.015%), glansmiddelen: carnaubawas, bijenwas, wit en geel; aloëverapoeder (0.015%), D-biotine.",
+        "ar": "Ingrediënten: Glucosestroop, suiker, gehydrolyseerd collageen (11%), gelatine, resistente dextrines, voedingszuur: citroenzuur; kleurende levensmiddelen (concentraat van wortel, pompoen, spirulina), natuurlijke aroma’s, co-enzym Q10 (0.015%), glansmiddelen: carnaubawas, bijenwas, wit en geel; aloëverapoeder (0.015%), D-biotine."
+      },
+      "image": "images/4262456580253.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4262456580253.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_5a72763063436c4352662d33707757506c3358655877?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "snoep",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_426"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1220.0,
+        "calories_100g": 288.0,
+        "fat_100g": 0.5,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 54.0,
+        "sugars_100g": 29.0,
+        "fiber_100g": null,
+        "proteins_100g": 14.0,
+        "salt_100g": 0.17,
+        "sodium_100g": 68.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 4,
+      "health_score": 64,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "gehydrolyseerd collageen",
+        "gelatine",
+        "nutriluv collagen gummy candy"
+      ],
+      "reason": "Contains animal-derived ingredient requiring Halal verification: gehydrolyseerd collageen, gelatine, nutriluv collagen gummy candy",
+      "explanations": {
+        "ar": "يحتوي على مشتق حيواني يتطلب التحقق من مصدره الحلال: gehydrolyseerd collageen, gelatine, nutriluv collagen gummy candy",
+        "en": "Contains animal-derived ingredient requiring Halal verification: gehydrolyseerd collageen, gelatine, nutriluv collagen gummy candy",
+        "fr": "Contient un dérivé animal nécessitant une vérification Halal : gehydrolyseerd collageen, gelatine, nutriluv collagen gummy candy",
+        "nl": "Bevat dierlijk ingrediënt dat Halal-verificatie vereist: gehydrolyseerd collageen, gelatine, nutriluv collagen gummy candy",
+        "de": "Enthält tierische Zutat, die eine Halal-Prüfung erfordert: gehydrolyseerd collageen, gelatine, nutriluv collagen gummy candy"
+      },
+      "stores": [
+        "ah.be",
+        "delhaize.be",
+        "colruyt.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.56,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi613551/nutriluv-collagen-gummy-candy",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.65,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4262456580253",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.35,
+          "promo_price": 1.88,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=4262456580253",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4262456580253",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.64,
+          "promo_price": 1.31,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=4262456580253",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.59,
+          "promo_price": 1.27,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=4262456580253",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.15,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4262456580253",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4262456580253",
+          "updated_at": "2026-11-25T14:14:10.066309+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     }
   }
 }

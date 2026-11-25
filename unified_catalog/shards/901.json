@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "901",
-  "generated_at": "2026-11-25T13:42:35.422712+00:00",
-  "product_count": 1,
+  "generated_at": "2026-11-25T14:44:57.503205+00:00",
+  "product_count": 2,
   "products": {
     "9015160108450": {
       "barcode": "9015160108450",
@@ -203,9 +203,219 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "halal_certified": false,
       "halal_certification_source": null
+    },
+    "9012200872739": {
+      "barcode": "9012200872739",
+      "domain": "food",
+      "names": {
+        "nl": "Milka Mmmax chocoladereep choco-swing biscuit",
+        "fr": "Milka Mmmax chocoladereep choco-swing biscuit",
+        "de": "Milka Mmmax chocoladereep choco-swing biscuit",
+        "en": "Milka Mmmax chocoladereep choco-swing biscuit",
+        "ar": "Milka Mmmax chocoladereep choco-swing biscuit"
+      },
+      "brand": "Milka",
+      "net_weight": "300 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk",
+        "Eggs",
+        "Tree Nuts"
+      ],
+      "description": "Milka mmmax choco-swing is een chocoladereep van knapperig biscuit met een laagje melkcreme omhuld door heerlijke Milka chocola.",
+      "descriptions": {
+        "nl": "Milka mmmax choco-swing is een chocoladereep van knapperig biscuit met een laagje melkcreme omhuld door heerlijke Milka chocola.",
+        "fr": "Milka Mmmax chocoladereep choco-swing biscuit par Milka.",
+        "de": "Milka Mmmax chocoladereep choco-swing biscuit von Milka.",
+        "en": "Milka Mmmax chocoladereep choco-swing biscuit by Milka.",
+        "ar": "منتج Milka Mmmax chocoladereep choco-swing biscuit من Milka."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Suiker, palmolie, TARWEBLOEM, cacaomassa, cacaoboter, magere MELKPOEDER, weipoeder (van MELK), MELKVET, emulgator (SOJALECITHINEN), glucosestroop, HAZELNOOTPASTA, zout, rijsmiddelen (E500, E503), aroma's (bevat MELK). KAN BEVATTEN: EI EN ANDERE NOTEN.",
+        "fr": "Ingrediënten: Suiker, palmolie, TARWEBLOEM, cacaomassa, cacaoboter, magere MELKPOEDER, weipoeder (van MELK), MELKVET, emulgator (SOJALECITHINEN), glucosestroop, HAZELNOOTPASTA, zout, rijsmiddelen (E500, E503), aroma's (bevat MELK). KAN BEVATTEN: EI EN ANDERE NOTEN.",
+        "de": "Ingrediënten: Suiker, palmolie, TARWEBLOEM, cacaomassa, cacaoboter, magere MELKPOEDER, weipoeder (van MELK), MELKVET, emulgator (SOJALECITHINEN), glucosestroop, HAZELNOOTPASTA, zout, rijsmiddelen (E500, E503), aroma's (bevat MELK). KAN BEVATTEN: EI EN ANDERE NOTEN.",
+        "en": "Ingrediënten: Suiker, palmolie, TARWEBLOEM, cacaomassa, cacaoboter, magere MELKPOEDER, weipoeder (van MELK), MELKVET, emulgator (SOJALECITHINEN), glucosestroop, HAZELNOOTPASTA, zout, rijsmiddelen (E500, E503), aroma's (bevat MELK). KAN BEVATTEN: EI EN ANDERE NOTEN.",
+        "ar": "Ingrediënten: Suiker, palmolie, TARWEBLOEM, cacaomassa, cacaoboter, magere MELKPOEDER, weipoeder (van MELK), MELKVET, emulgator (SOJALECITHINEN), glucosestroop, HAZELNOOTPASTA, zout, rijsmiddelen (E500, E503), aroma's (bevat MELK). KAN BEVATTEN: EI EN ANDERE NOTEN."
+      },
+      "image": "images/9012200872739.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/9012200872739.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_54545265694b466a5264576670416d6858655f6b7277?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "chocoladereep",
+      "origin_country": {
+        "name": "Austria",
+        "code": "AT",
+        "flag": "🇦🇹",
+        "inferred_from": "GS1_901"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2348.0,
+        "calories_100g": 563.0,
+        "fat_100g": 35.0,
+        "saturated_fat_100g": 20.0,
+        "carbohydrates_100g": 56.0,
+        "sugars_100g": 48.0,
+        "fiber_100g": 1.7,
+        "proteins_100g": 4.7,
+        "salt_100g": 0.28,
+        "sodium_100g": 112.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 25,
+      "health_score": 17,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "weipoeder"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: weipoeder",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: weipoeder",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: weipoeder",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : weipoeder",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: weipoeder",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: weipoeder"
+      },
+      "stores": [
+        "delhaize.be",
+        "colruyt.be",
+        "carrefour.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.03,
+          "promo_price": 1.62,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=9012200872739",
+          "updated_at": "2026-11-25T13:54:28.945179+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.22,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=9012200872739",
+          "updated_at": "2026-11-25T13:54:28.945179+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.64,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=9012200872739",
+          "updated_at": "2026-11-25T13:54:28.945179+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.68,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi46545/milka-mmmax-chocoladereep-choco-swing-biscuit",
+          "updated_at": "2026-11-25T13:54:28.945179+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.41,
+          "promo_price": 1.93,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=9012200872739",
+          "updated_at": "2026-11-25T13:54:28.945179+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.79,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=9012200872739",
+          "updated_at": "2026-11-25T13:54:28.945179+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.04,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=9012200872739",
+          "updated_at": "2026-11-25T13:54:28.945179+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.64,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=9012200872739",
+          "updated_at": "2026-11-25T13:54:28.945179+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     }
   }
 }

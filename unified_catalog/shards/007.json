@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "prefix": "007",
-  "generated_at": "2026-11-25T13:42:35.422712+00:00",
+  "generated_at": "2026-11-25T14:44:57.503205+00:00",
   "product_count": 13,
   "products": {
     "0071475740012": {
@@ -209,7 +209,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
       "halal_certification_source": null
@@ -411,7 +411,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "b",
       "halal_certified": false,
       "halal_certification_source": null
@@ -613,7 +613,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "b",
       "halal_certified": false,
       "halal_certification_source": null
@@ -804,7 +804,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "b",
       "halal_certified": false,
       "halal_certification_source": null
@@ -995,7 +995,7 @@
           "promo_end_date": "2026-11-29"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "b",
       "halal_certified": false,
       "halal_certification_source": null
@@ -1188,7 +1188,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "halal_certified": false,
       "halal_certification_source": null
     },
@@ -1399,7 +1399,7 @@
           "updated_at": "2026-11-25T08:32:58.826082+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "0077101010313": {
       "barcode": "0077101010313",
@@ -1604,7 +1604,7 @@
           "updated_at": "2026-11-25T08:32:58.826082+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "0078895147087": {
       "barcode": "0078895147087",
@@ -1809,7 +1809,7 @@
           "updated_at": "2026-11-25T12:31:14.670144+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:31:14.670144+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "0077101010252": {
       "barcode": "0077101010252",
@@ -2014,7 +2014,7 @@
           "updated_at": "2026-11-25T12:31:14.670144+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:31:14.670144+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "0078895147070": {
       "barcode": "0078895147070",
@@ -2219,7 +2219,7 @@
           "updated_at": "2026-11-25T12:31:14.670144+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:31:14.670144+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "0070734000034": {
       "barcode": "0070734000034",
@@ -2421,7 +2421,7 @@
           "updated_at": "2026-11-25T12:56:23.263113+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:56:23.263113+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "0070734000317": {
       "barcode": "0070734000317",
@@ -2625,7 +2625,7 @@
           "updated_at": "2026-11-25T12:59:17.970288+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:59:17.970288+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     }
   }
 }

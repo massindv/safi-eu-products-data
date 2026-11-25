@@ -1,0 +1,215 @@
+{
+  "version": "2.0.0",
+  "prefix": "310",
+  "generated_at": "2026-11-25T14:44:57.503205+00:00",
+  "product_count": 1,
+  "products": {
+    "3103220043325": {
+      "barcode": "3103220043325",
+      "domain": "food",
+      "names": {
+        "nl": "Haribo Soda straws f!zz zuur",
+        "fr": "Haribo Soda straws f!zz zuur",
+        "de": "Haribo Soda straws f!zz zuur",
+        "en": "Haribo Soda straws f!zz zuur",
+        "ar": "Haribo Soda straws f!zz zuur"
+      },
+      "brand": "Haribo",
+      "net_weight": "180 g",
+      "allergens": [
+        "Gluten",
+        "Milk"
+      ],
+      "description": "Super lekker zijn ze, die soda staws f!zz van haribo. De een nog gekker dan de ander: deze zure snoep-staafjes smaken naar meer! In de smaken: cola, tropische passievrucht, aardbei en perzik ijsthee.",
+      "descriptions": {
+        "nl": "Super lekker zijn ze, die soda staws f!zz van haribo. De een nog gekker dan de ander: deze zure snoep-staafjes smaken naar meer! In de smaken: cola, tropische passievrucht, aardbei en perzik ijsthee.",
+        "fr": "Haribo Soda straws f!zz zuur par Haribo.",
+        "de": "Haribo Soda straws f!zz zuur von Haribo.",
+        "en": "Haribo Soda straws f!zz zuur by Haribo.",
+        "ar": "منتج Haribo Soda straws f!zz zuur من Haribo."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Suiker; glucosestroop; zetmeel; bevochtigingsmiddel: sorbitolstroop; voedingszuur: citroenzuur; TARWEMEEL; TARWEZETMEEL; palmvet; dextrose; gelatine; emulgatoren: mono- de diglyceriden van vetzuren, citroenzuurester van mono- en diglyceriden van vetzuren; zuurteregelaar: trinatriumcitraat; aroma; vruchten- en plantenconcentraten: spirulina, zwarte bes, vlierbes, aronia, druif; vlierbesextract; kleurstof: curcumine. Kan MELK bevatten.",
+        "fr": "Ingrediënten: Suiker; glucosestroop; zetmeel; bevochtigingsmiddel: sorbitolstroop; voedingszuur: citroenzuur; TARWEMEEL; TARWEZETMEEL; palmvet; dextrose; gelatine; emulgatoren: mono- de diglyceriden van vetzuren, citroenzuurester van mono- en diglyceriden van vetzuren; zuurteregelaar: trinatriumcitraat; aroma; vruchten- en plantenconcentraten: spirulina, zwarte bes, vlierbes, aronia, druif; vlierbesextract; kleurstof: curcumine. Kan MELK bevatten.",
+        "de": "Ingrediënten: Suiker; glucosestroop; zetmeel; bevochtigingsmiddel: sorbitolstroop; voedingszuur: citroenzuur; TARWEMEEL; TARWEZETMEEL; palmvet; dextrose; gelatine; emulgatoren: mono- de diglyceriden van vetzuren, citroenzuurester van mono- en diglyceriden van vetzuren; zuurteregelaar: trinatriumcitraat; aroma; vruchten- en plantenconcentraten: spirulina, zwarte bes, vlierbes, aronia, druif; vlierbesextract; kleurstof: curcumine. Kan MELK bevatten.",
+        "en": "Ingrediënten: Suiker; glucosestroop; zetmeel; bevochtigingsmiddel: sorbitolstroop; voedingszuur: citroenzuur; TARWEMEEL; TARWEZETMEEL; palmvet; dextrose; gelatine; emulgatoren: mono- de diglyceriden van vetzuren, citroenzuurester van mono- en diglyceriden van vetzuren; zuurteregelaar: trinatriumcitraat; aroma; vruchten- en plantenconcentraten: spirulina, zwarte bes, vlierbes, aronia, druif; vlierbesextract; kleurstof: curcumine. Kan MELK bevatten.",
+        "ar": "Ingrediënten: Suiker; glucosestroop; zetmeel; bevochtigingsmiddel: sorbitolstroop; voedingszuur: citroenzuur; TARWEMEEL; TARWEZETMEEL; palmvet; dextrose; gelatine; emulgatoren: mono- de diglyceriden van vetzuren, citroenzuurester van mono- en diglyceriden van vetzuren; zuurteregelaar: trinatriumcitraat; aroma; vruchten- en plantenconcentraten: spirulina, zwarte bes, vlierbes, aronia, druif; vlierbesextract; kleurstof: curcumine. Kan MELK bevatten."
+      },
+      "image": "images/3103220043325.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3103220043325.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_454d735a33784966516b4b314f394e6a4a3949423951?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "snoep",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_310"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1586.0,
+        "calories_100g": 374.0,
+        "fat_100g": 3.5,
+        "saturated_fat_100g": 2.3,
+        "carbohydrates_100g": 83.0,
+        "sugars_100g": 61.0,
+        "fiber_100g": null,
+        "proteins_100g": 1.1,
+        "salt_100g": 0.26,
+        "sodium_100g": 104.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 17,
+      "health_score": 20,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "gelatine"
+      ],
+      "reason": "Contains animal-derived ingredient requiring Halal verification: gelatine",
+      "explanations": {
+        "ar": "يحتوي على مشتق حيواني يتطلب التحقق من مصدره الحلال: gelatine",
+        "en": "Contains animal-derived ingredient requiring Halal verification: gelatine",
+        "fr": "Contient un dérivé animal nécessitant une vérification Halal : gelatine",
+        "nl": "Bevat dierlijk ingrediënt dat Halal-verificatie vereist: gelatine",
+        "de": "Enthält tierische Zutat, die eine Halal-Prüfung erfordert: gelatine"
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "carrefour.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3103220043325",
+          "updated_at": "2026-11-25T14:03:57.380738+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.39,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3103220043325",
+          "updated_at": "2026-11-25T14:03:57.380738+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3103220043325",
+          "updated_at": "2026-11-25T14:03:57.380738+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.12,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi514822/haribo-soda-straws-fzz-zuur",
+          "updated_at": "2026-11-25T14:03:57.380738+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.61,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3103220043325",
+          "updated_at": "2026-11-25T14:03:57.380738+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.03,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3103220043325",
+          "updated_at": "2026-11-25T14:03:57.380738+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.29,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3103220043325",
+          "updated_at": "2026-11-25T14:03:57.380738+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=3103220043325",
+          "updated_at": "2026-11-25T14:03:57.380738+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    }
+  }
+}

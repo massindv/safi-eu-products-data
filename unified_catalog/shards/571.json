@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "571",
-  "generated_at": "2026-11-25T13:42:35.422712+00:00",
-  "product_count": 13,
+  "generated_at": "2026-11-25T14:44:57.503205+00:00",
+  "product_count": 14,
   "products": {
     "5711953023972": {
       "barcode": "5711953023972",
@@ -205,7 +205,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
       "halal_certification_source": null
@@ -411,7 +411,7 @@
           "promo_end_date": "2026-11-29"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
       "halal_certification_source": null
@@ -617,7 +617,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "updated_at": "2026-11-25T14:21:22.321261+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
       "halal_certification_source": null
@@ -825,7 +825,7 @@
           "updated_at": "2026-11-25T08:16:17.799563+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "5711953161902": {
       "barcode": "5711953161902",
@@ -1029,7 +1029,7 @@
           "updated_at": "2026-11-25T08:47:25.521985+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "5711953161919": {
       "barcode": "5711953161919",
@@ -1233,7 +1233,7 @@
           "updated_at": "2026-11-25T08:51:23.321743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "5711953104923": {
       "barcode": "5711953104923",
@@ -1437,7 +1437,7 @@
           "updated_at": "2026-11-25T09:30:02.034776+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "5711953221408": {
       "barcode": "5711953221408",
@@ -1643,7 +1643,7 @@
           "updated_at": "2026-11-25T09:35:49.326907+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "5711953182792": {
       "barcode": "5711953182792",
@@ -1849,7 +1849,7 @@
           "updated_at": "2026-11-25T09:35:49.326907+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "5711953115868": {
       "barcode": "5711953115868",
@@ -2055,7 +2055,7 @@
           "updated_at": "2026-11-25T09:37:19.146444+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "5711953206009": {
       "barcode": "5711953206009",
@@ -2263,7 +2263,7 @@
           "updated_at": "2026-11-25T09:40:20.487486+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "5710175131106": {
       "barcode": "5710175131106",
@@ -2454,7 +2454,7 @@
           "updated_at": "2026-11-25T12:59:17.970288+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:59:17.970288+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "5711953202872": {
       "barcode": "5711953202872",
@@ -2662,7 +2662,213 @@
           "updated_at": "2026-11-25T13:39:54.036887+00:00"
         }
       ],
-      "updated_at": "2026-11-25T13:39:54.036887+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+    },
+    "5711953214875": {
+      "barcode": "5711953214875",
+      "domain": "food",
+      "names": {
+        "nl": "Arla Protein chocolade fudge mousse",
+        "fr": "Arla Protein chocolade fudge mousse",
+        "de": "Arla Protein chocolade fudge mousse",
+        "en": "Arla Protein chocolade fudge mousse",
+        "ar": "Arla Protein chocolade fudge mousse"
+      },
+      "brand": "Arla",
+      "net_weight": "200 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Mousse van Arla PROTEIN bevat 20 gram eiwit. De mousse is gezoet met natuurlijke ingrediënten en bevat geen toegevoegd suiker. Ideaal als ondersteuning van een actieve levensstijl.",
+      "descriptions": {
+        "nl": "Mousse van Arla PROTEIN bevat 20 gram eiwit. De mousse is gezoet met natuurlijke ingrediënten en bevat geen toegevoegd suiker. Ideaal als ondersteuning van een actieve levensstijl.",
+        "fr": "Arla Protein chocolade fudge mousse par Arla.",
+        "de": "Arla Protein chocolade fudge mousse von Arla.",
+        "en": "Arla Protein chocolade fudge mousse by Arla.",
+        "ar": "منتج Arla Protein chocolade fudge mousse من Arla."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: 82% magere MELK, 7,2% MELKeiwitten, ROOM, smaakversterker: erytritol, 2% cacaopoeder, gemodificeerd maïszetmeel, rundergelatine, verdikkingsmiddelen: guarpitmeel en carrageen, natuurlijk aroma, zuurteregelaars: natriumfosfaten en natriumcarbonaten, zoetstof: steviolglycosiden uit Stevia, lactase",
+        "fr": "Ingrediënten: 82% magere MELK, 7,2% MELKeiwitten, ROOM, smaakversterker: erytritol, 2% cacaopoeder, gemodificeerd maïszetmeel, rundergelatine, verdikkingsmiddelen: guarpitmeel en carrageen, natuurlijk aroma, zuurteregelaars: natriumfosfaten en natriumcarbonaten, zoetstof: steviolglycosiden uit Stevia, lactase",
+        "de": "Ingrediënten: 82% magere MELK, 7,2% MELKeiwitten, ROOM, smaakversterker: erytritol, 2% cacaopoeder, gemodificeerd maïszetmeel, rundergelatine, verdikkingsmiddelen: guarpitmeel en carrageen, natuurlijk aroma, zuurteregelaars: natriumfosfaten en natriumcarbonaten, zoetstof: steviolglycosiden uit Stevia, lactase",
+        "en": "Ingrediënten: 82% magere MELK, 7,2% MELKeiwitten, ROOM, smaakversterker: erytritol, 2% cacaopoeder, gemodificeerd maïszetmeel, rundergelatine, verdikkingsmiddelen: guarpitmeel en carrageen, natuurlijk aroma, zuurteregelaars: natriumfosfaten en natriumcarbonaten, zoetstof: steviolglycosiden uit Stevia, lactase",
+        "ar": "Ingrediënten: 82% magere MELK, 7,2% MELKeiwitten, ROOM, smaakversterker: erytritol, 2% cacaopoeder, gemodificeerd maïszetmeel, rundergelatine, verdikkingsmiddelen: guarpitmeel en carrageen, natuurlijk aroma, zuurteregelaars: natriumfosfaten en natriumcarbonaten, zoetstof: steviolglycosiden uit Stevia, lactase"
+      },
+      "image": "images/5711953214875.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5711953214875.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_39546b7057327868526a43386162753945724a6a6f77?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "chocolade",
+      "origin_country": {
+        "name": "Denmark",
+        "code": "DK",
+        "flag": "🇩🇰",
+        "inferred_from": "GS1_571"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 342.0,
+        "calories_100g": 81.0,
+        "fat_100g": 1.8,
+        "saturated_fat_100g": 1.2,
+        "carbohydrates_100g": 8.7,
+        "sugars_100g": 4.7,
+        "fiber_100g": null,
+        "proteins_100g": 10.0,
+        "salt_100g": 0.22,
+        "sodium_100g": 88.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "a",
+      "nutriscore_score": -2,
+      "health_score": 82,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "rundergelatine"
+      ],
+      "reason": "Uncertified Meat / لحم غير مذبوح حلال (rundergelatine)",
+      "explanations": {
+        "ar": "لحوم أو دواجن غير حاصلة على شهادة ذبح حلال (rundergelatine)",
+        "en": "Uncertified Meat / لحم غير مذبوح حلال (rundergelatine)",
+        "fr": "Viande ou volaille non certifiée Halal (rundergelatine)",
+        "nl": "Niet-gecertificeerd vlees of gevogelte zonder Halal-certificaat (rundergelatine)",
+        "de": "Nicht zertifiziertes Fleisch oder Geflügel ohne Halal-Zertifikat (rundergelatine)"
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "carrefour.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.02,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5711953214875",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.37,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5711953214875",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.55,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5711953214875",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi585900/arla-protein-chocolade-fudge-mousse",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.85,
+          "promo_price": 0.93,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=5711953214875",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.49,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5711953214875",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.92,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5711953214875",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.5,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5711953214875",
+          "updated_at": "2026-11-25T13:49:15.729262+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     }
   }
 }

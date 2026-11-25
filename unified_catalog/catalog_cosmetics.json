@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "domain": "cosmetics",
   "catalog_name": "SAFI Production Unified Catalog (cosmetics)",
-  "generated_at": "2026-11-25T13:42:35.422712+00:00",
+  "generated_at": "2026-11-25T14:44:57.503205+00:00",
   "image_base_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/",
   "product_count": 3,
   "unknown_count": 0,
@@ -213,7 +213,7 @@
           "updated_at": "2026-11-25T09:26:13.129983+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "8721082520409": {
       "barcode": "8721082520409",
@@ -434,7 +434,7 @@
           "updated_at": "2026-11-25T12:28:42.359020+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:28:42.359020+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     },
     "8719587056042": {
       "barcode": "8719587056042",
@@ -625,7 +625,7 @@
           "updated_at": "2026-11-25T12:42:00.890108+00:00"
         }
       ],
-      "updated_at": "2026-11-25T12:42:00.890108+00:00"
+      "updated_at": "2026-11-25T14:21:22.321261+00:00"
     }
   }
 }
