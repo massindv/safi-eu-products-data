@@ -1,0 +1,215 @@
+{
+  "version": "2.0.0",
+  "prefix": "888",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 1,
+  "products": {
+    "8886001200197": {
+      "barcode": "8886001200197",
+      "domain": "food",
+      "names": {
+        "nl": "Kopiko Koffie bonbon",
+        "fr": "Kopiko Koffie bonbon",
+        "de": "Kopiko Koffie bonbon",
+        "en": "Kopiko Koffie bonbon",
+        "ar": "Kopiko Koffie bonbon"
+      },
+      "brand": "Kopiko",
+      "net_weight": "150 g",
+      "allergens": [
+        "Soy",
+        "Milk"
+      ],
+      "description": "Kopiko koffie bonbon is een heerlijk indonesisch koffiesnoepje, gemaakt van echt koffie extract. De originele indonesische koffiesnoepjes||Individueel verpakt en heerlijk voor bij de koffie/thee of voor onderweg||Een heerlijke koffiebeleving",
+      "descriptions": {
+        "nl": "Kopiko koffie bonbon is een heerlijk indonesisch koffiesnoepje, gemaakt van echt koffie extract. De originele indonesische koffiesnoepjes||Individueel verpakt en heerlijk voor bij de koffie/thee of voor onderweg||Een heerlijke koffiebeleving",
+        "fr": "Kopiko Koffie bonbon par Kopiko.",
+        "de": "Kopiko Koffie bonbon von Kopiko.",
+        "en": "Kopiko Koffie bonbon by Kopiko.",
+        "ar": "منتج Kopiko Koffie bonbon من Kopiko."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Suiker, glucose, kokosolie, koffie extract (4,9%), boter (MELK), emulgator: lecithine (SOJA), kleur: karamel E150d, zout, natuurlijk koffie aroma.",
+        "fr": "Ingrediënten: Suiker, glucose, kokosolie, koffie extract (4,9%), boter (MELK), emulgator: lecithine (SOJA), kleur: karamel E150d, zout, natuurlijk koffie aroma.",
+        "de": "Ingrediënten: Suiker, glucose, kokosolie, koffie extract (4,9%), boter (MELK), emulgator: lecithine (SOJA), kleur: karamel E150d, zout, natuurlijk koffie aroma.",
+        "en": "Ingrediënten: Suiker, glucose, kokosolie, koffie extract (4,9%), boter (MELK), emulgator: lecithine (SOJA), kleur: karamel E150d, zout, natuurlijk koffie aroma.",
+        "ar": "Ingrediënten: Suiker, glucose, kokosolie, koffie extract (4,9%), boter (MELK), emulgator: lecithine (SOJA), kleur: karamel E150d, zout, natuurlijk koffie aroma."
+      },
+      "image": "images/8886001200197.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8886001200197.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_6d394d625469494551314b4e4b42376665724f524541?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "koffie",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "STORE_FALLBACK"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1823.9,
+        "calories_100g": 436.3,
+        "fat_100g": 9.9,
+        "saturated_fat_100g": 7.6,
+        "carbohydrates_100g": 86.2,
+        "sugars_100g": 67.1,
+        "fiber_100g": null,
+        "proteins_100g": 0.6,
+        "salt_100g": 0.28,
+        "sodium_100g": 112.0
+      },
+      "nutriscore_grade": "e",
+      "nutriscore_score": 23,
+      "health_score": 18,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "natuurlijk koffie aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk koffie aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk koffie aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk koffie aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk koffie aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk koffie aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk koffie aroma"
+      },
+      "stores": [
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.77,
+          "promo_price": 1.89,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "product_url": "https://www.carrefour.be/search?q=8886001200197",
+          "updated_at": "2026-11-25T07:02:00.723537+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.05,
+          "promo_price": 3.24,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "product_url": "https://www.delhaize.be/search?q=8886001200197",
+          "updated_at": "2026-11-25T07:02:00.723537+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.11,
+          "promo_price": 3.29,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "product_url": "https://www.colruyt.be/search?q=8886001200197",
+          "updated_at": "2026-11-25T07:02:00.723537+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.48,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.be/producten/product/wi51062/kopiko-koffie-bonbon",
+          "updated_at": "2026-11-25T07:02:00.723537+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.74,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.lidl.de/search?q=8886001200197",
+          "updated_at": "2026-11-25T07:02:00.723537+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.56,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.carrefour.fr/search?q=8886001200197",
+          "updated_at": "2026-11-25T07:02:00.723537+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.82,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.jumbo.com/search?q=8886001200197",
+          "updated_at": "2026-11-25T07:02:00.723537+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.41,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.nl/search?q=8886001200197",
+          "updated_at": "2026-11-25T07:02:00.723537+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "official_nutriscore": "e",
+      "halal_certified": false,
+      "halal_certification_source": null
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "prefix": "739",
-  "generated_at": "2026-11-25T01:18:24.045362+00:00",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
   "product_count": 1,
   "products": {
     "7394376616501": {
@@ -21,9 +21,9 @@
         "Soy",
         "Milk"
       ],
-      "description": "Op zoek naar Oatly! Haver barista edition? Dit product vind je in het gamma van Albert Heijn. Reserveer online!",
+      "description": "Het is vooral ontzettend lekker. En jij kunt schitteren met hartjes en blaadjes in het schuim. Net als anders. Je vervangt gewoon de gewone melk door eenzelfde hoeveelheid Haverdrank Barista Edition.",
       "descriptions": {
-        "nl": "Op zoek naar Oatly! Haver barista edition? Dit product vind je in het gamma van Albert Heijn. Reserveer online!",
+        "nl": "Het is vooral ontzettend lekker. En jij kunt schitteren met hartjes en blaadjes in het schuim. Net als anders. Je vervangt gewoon de gewone melk door eenzelfde hoeveelheid Haverdrank Barista Edition.",
         "fr": "Oatly! Haver barista edition par Oatly!.",
         "de": "Oatly! Haver barista edition von Oatly!.",
         "en": "Oatly! Haver barista edition by Oatly!.",
@@ -38,7 +38,7 @@
       },
       "image": "images/7394376616501.webp",
       "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7394376616501.webp",
-      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313036343637?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313036343637?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "image_domain": "static.ah.nl",
       "category": "supermarket",
       "origin_country": {
@@ -59,9 +59,9 @@
         "salt_100g": 0.1,
         "sodium_100g": 40.0
       },
-      "nutriscore_grade": "b",
+      "nutriscore_grade": "d",
       "nutriscore_score": 0,
-      "health_score": 78,
+      "health_score": 45,
       "halal_status": "HALAL",
       "is_halal": true,
       "triggers": [],
@@ -95,7 +95,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.delhaize.be/search?q=7394376616501",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "colruyt.be",
@@ -108,7 +110,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.colruyt.be/search?q=7394376616501",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "carrefour.be",
@@ -121,7 +125,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.carrefour.be/search?q=7394376616501",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "ah.be",
@@ -134,7 +140,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.ah.be/producten/product/wi412158/oatly-haver-barista-edition",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:35:56.680982+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "lidl.de",
@@ -147,7 +155,9 @@
           "currency": "EUR",
           "promo_label": "1+1",
           "product_url": "https://www.lidl.de/search?q=7394376616501",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
         },
         {
           "store": "carrefour.fr",
@@ -160,7 +170,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.carrefour.fr/search?q=7394376616501",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "ah.nl",
@@ -173,7 +185,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.ah.nl/search?q=7394376616501",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "jumbo.com",
@@ -186,10 +200,15 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.jumbo.com/search?q=7394376616501",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T01:17:59.700093+00:00"
+      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "official_nutriscore": "d",
+      "halal_certified": false,
+      "halal_certification_source": null
     }
   }
 }

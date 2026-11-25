@@ -1,0 +1,212 @@
+{
+  "version": "2.0.0",
+  "prefix": "311",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 1,
+  "products": {
+    "3113010159105": {
+      "barcode": "3113010159105",
+      "domain": "food",
+      "names": {
+        "nl": "Jean Larnaudie Cuisses de canard maigre confites",
+        "fr": "Jean Larnaudie Cuisses de canard maigre confites",
+        "de": "Jean Larnaudie Cuisses de canard maigre confites",
+        "en": "Jean Larnaudie Cuisses de canard maigre confites",
+        "ar": "Jean Larnaudie Cuisses de canard maigre confites"
+      },
+      "brand": "Jean Larnaudie",
+      "net_weight": "1240 g",
+      "allergens": [],
+      "description": "Een klassieker uit Frankrijk. Heerlijke gekonfijte eendenbouten||Gegarandeerd van eenden die niet gedwangvoederd werden",
+      "descriptions": {
+        "nl": "Een klassieker uit Frankrijk. Heerlijke gekonfijte eendenbouten||Gegarandeerd van eenden die niet gedwangvoederd werden",
+        "fr": "Jean Larnaudie Cuisses de canard maigre confites par Jean Larnaudie.",
+        "de": "Jean Larnaudie Cuisses de canard maigre confites von Jean Larnaudie.",
+        "en": "Jean Larnaudie Cuisses de canard maigre confites by Jean Larnaudie.",
+        "ar": "منتج Jean Larnaudie Cuisses de canard maigre confites من Jean Larnaudie."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Eendenbouten van op natuurlijke wijze gevoederde eenden, eendenvet, zonnebloemolie, zout",
+        "fr": "Ingrediënten: Eendenbouten van op natuurlijke wijze gevoederde eenden, eendenvet, zonnebloemolie, zout",
+        "de": "Ingrediënten: Eendenbouten van op natuurlijke wijze gevoederde eenden, eendenvet, zonnebloemolie, zout",
+        "en": "Ingrediënten: Eendenbouten van op natuurlijke wijze gevoederde eenden, eendenvet, zonnebloemolie, zout",
+        "ar": "Ingrediënten: Eendenbouten van op natuurlijke wijze gevoederde eenden, eendenvet, zonnebloemolie, zout"
+      },
+      "image": "images/3113010159105.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3113010159105.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4471586674554b4a536471456169305633616d484451?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "kip",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_311"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1110.0,
+        "calories_100g": 267.0,
+        "fat_100g": 19.0,
+        "saturated_fat_100g": 5.0,
+        "carbohydrates_100g": 0.5,
+        "sugars_100g": 0.5,
+        "fiber_100g": null,
+        "proteins_100g": 24.0,
+        "salt_100g": 1.6,
+        "sodium_100g": 640.0
+      },
+      "nutriscore_grade": "d",
+      "nutriscore_score": 9,
+      "health_score": 42,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "jean larnaudie cuisses de canard maigre confites"
+      ],
+      "reason": "Uncertified Meat / لحم غير مذبوح حلال (jean larnaudie cuisses de canard maigre confites)",
+      "explanations": {
+        "ar": "لحوم أو دواجن غير حاصلة على شهادة ذبح حلال (jean larnaudie cuisses de canard maigre confites)",
+        "en": "Uncertified Meat / لحم غير مذبوح حلال (jean larnaudie cuisses de canard maigre confites)",
+        "fr": "Viande ou volaille non certifiée Halal (jean larnaudie cuisses de canard maigre confites)",
+        "nl": "Niet-gecertificeerd vlees of gevogelte zonder Halal-certificaat (jean larnaudie cuisses de canard maigre confites)",
+        "de": "Nicht zertifiziertes Fleisch oder Geflügel ohne Halal-Zertifikat (jean larnaudie cuisses de canard maigre confites)"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.06,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.colruyt.be/search?q=3113010159105",
+          "updated_at": "2026-11-25T07:36:32.367375+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.24,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.be/search?q=3113010159105",
+          "updated_at": "2026-11-25T07:36:32.367375+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.75,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.carrefour.be/search?q=3113010159105",
+          "updated_at": "2026-11-25T07:36:32.367375+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.95,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.delhaize.be/search?q=3113010159105",
+          "updated_at": "2026-11-25T07:36:32.367375+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.14,
+          "promo_price": 2.51,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "product_url": "https://www.lidl.de/search?q=3113010159105",
+          "updated_at": "2026-11-25T07:36:32.367375+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.74,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.carrefour.fr/search?q=3113010159105",
+          "updated_at": "2026-11-25T07:36:32.367375+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.37,
+          "promo_price": 1.9,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "product_url": "https://www.jumbo.com/search?q=3113010159105",
+          "updated_at": "2026-11-25T07:36:32.367375+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.83,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.nl/producten/product/wi238060/jean-larnaudie-cuisses-de-canard-maigre-confites",
+          "updated_at": "2026-11-25T07:36:32.367375+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "official_nutriscore": "d",
+      "halal_certified": false,
+      "halal_certification_source": null
+    }
+  }
+}

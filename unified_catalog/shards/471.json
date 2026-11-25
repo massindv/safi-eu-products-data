@@ -1,0 +1,218 @@
+{
+  "version": "2.0.0",
+  "prefix": "471",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 1,
+  "products": {
+    "4711931037091": {
+      "barcode": "4711931037091",
+      "domain": "food",
+      "names": {
+        "nl": "Royal Family Mochi vanille creme",
+        "fr": "Royal Family Mochi vanille creme",
+        "de": "Royal Family Mochi vanille creme",
+        "en": "Royal Family Mochi vanille creme",
+        "ar": "Royal Family Mochi vanille creme"
+      },
+      "brand": "Royal Family",
+      "net_weight": "120 g",
+      "allergens": [
+        "Soy",
+        "Milk",
+        "Peanuts",
+        "Tree Nuts",
+        "Sesame"
+      ],
+      "description": "Mochi is een zachte Japanse lekkernij van kleefrijst dat wordt fijn gestampt en gevormd tot een chewy bite, gevuld met de smaak van vanille. Japanse traditie met een moderne twist!",
+      "descriptions": {
+        "nl": "Mochi is een zachte Japanse lekkernij van kleefrijst dat wordt fijn gestampt en gevormd tot een chewy bite, gevuld met de smaak van vanille. Japanse traditie met een moderne twist!",
+        "fr": "Royal Family Mochi vanille creme par Royal Family.",
+        "de": "Royal Family Mochi vanille creme von Royal Family.",
+        "en": "Royal Family Mochi vanille creme by Royal Family.",
+        "ar": "منتج Royal Family Mochi vanille creme من Royal Family."
+      },
+      "ingredients": {
+        "nl": "Tapiocasiroop, romige voedselbereiding met melksmaak (suiker, palmolie, SOJApoeder, cacaoboter, emulgatoren (E322 (SOJA), E475), aroma, zout), suiker, 15% kleefrijst, gemodificeerd zetmeel, *trehalose, palmolie, aroma, emulgator (E471), zout, aardappelzetmeel, conserveermiddel (E202). *trehalose is een bron van glucose. Kan PINDA'S, MELK, NOTEN en SESAM bevatten.",
+        "fr": "Tapiocasiroop, romige voedselbereiding met melksmaak (suiker, palmolie, SOJApoeder, cacaoboter, emulgatoren (E322 (SOJA), E475), aroma, zout), suiker, 15% kleefrijst, gemodificeerd zetmeel, *trehalose, palmolie, aroma, emulgator (E471), zout, aardappelzetmeel, conserveermiddel (E202). *trehalose is een bron van glucose. Kan PINDA'S, MELK, NOTEN en SESAM bevatten.",
+        "de": "Tapiocasiroop, romige voedselbereiding met melksmaak (suiker, palmolie, SOJApoeder, cacaoboter, emulgatoren (E322 (SOJA), E475), aroma, zout), suiker, 15% kleefrijst, gemodificeerd zetmeel, *trehalose, palmolie, aroma, emulgator (E471), zout, aardappelzetmeel, conserveermiddel (E202). *trehalose is een bron van glucose. Kan PINDA'S, MELK, NOTEN en SESAM bevatten.",
+        "en": "Tapiocasiroop, romige voedselbereiding met melksmaak (suiker, palmolie, SOJApoeder, cacaoboter, emulgatoren (E322 (SOJA), E475), aroma, zout), suiker, 15% kleefrijst, gemodificeerd zetmeel, *trehalose, palmolie, aroma, emulgator (E471), zout, aardappelzetmeel, conserveermiddel (E202). *trehalose is een bron van glucose. Kan PINDA'S, MELK, NOTEN en SESAM bevatten.",
+        "ar": "Tapiocasiroop, romige voedselbereiding met melksmaak (suiker, palmolie, SOJApoeder, cacaoboter, emulgatoren (E322 (SOJA), E475), aroma, zout), suiker, 15% kleefrijst, gemodificeerd zetmeel, *trehalose, palmolie, aroma, emulgator (E471), zout, aardappelzetmeel, conserveermiddel (E202). *trehalose is een bron van glucose. Kan PINDA'S, MELK, NOTEN en SESAM bevatten."
+      },
+      "image": "images/4711931037091.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4711931037091.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_2d356737676755785362573745664246695049704c77?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "koekjes",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "STORE_FALLBACK"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1570.0,
+        "calories_100g": 372.0,
+        "fat_100g": 8.6,
+        "saturated_fat_100g": 3.9,
+        "carbohydrates_100g": 71.0,
+        "sugars_100g": 21.0,
+        "fiber_100g": null,
+        "proteins_100g": 1.6,
+        "salt_100g": 0.04,
+        "sodium_100g": 16.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 11,
+      "health_score": 42,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "emulgator"
+      ],
+      "reason": "Emulsifier with unspecified plant/animal origin requires source verification: emulgator",
+      "explanations": {
+        "ar": "مستحلب ثنائي المصدر يتطلب التحقق من المصدر: emulgator",
+        "en": "Emulsifier with unspecified plant/animal origin requires source verification: emulgator",
+        "fr": "Émulsifiant d'origine végétale/animale non spécifiée nécessitant une vérification : emulgator",
+        "nl": "Emulgator met ongespecificeerde plantaardige/dierlijke oorsprong vereist controle: emulgator",
+        "de": "Emulgator mit unbestimmter pflanzlicher/tierischer Herkunft erfordert Prüfung: emulgator"
+      },
+      "stores": [
+        "carrefour.be",
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.55,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4711931037091",
+          "updated_at": "2026-11-25T10:01:23.493743+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.66,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4711931037091",
+          "updated_at": "2026-11-25T10:01:23.493743+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.85,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi594314/royal-family-mochi-vanille-creme",
+          "updated_at": "2026-11-25T10:01:23.493743+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.37,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4711931037091",
+          "updated_at": "2026-11-25T10:01:23.493743+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.34,
+          "promo_price": 1.07,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=4711931037091",
+          "updated_at": "2026-11-25T10:01:23.493743+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4711931037091",
+          "updated_at": "2026-11-25T10:01:23.493743+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.4,
+          "promo_price": 1.92,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=4711931037091",
+          "updated_at": "2026-11-25T10:01:23.493743+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.03,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4711931037091",
+          "updated_at": "2026-11-25T10:01:23.493743+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "version": "2.0.0",
+  "prefix": "843",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 1,
+  "products": {
+    "8437020396011": {
+      "barcode": "8437020396011",
+      "domain": "food",
+      "names": {
+        "nl": "Franui Frambozen witte & melk chocolade",
+        "fr": "Franui Frambozen witte & melk chocolade",
+        "de": "Franui Frambozen witte & melk chocolade",
+        "en": "Franui Frambozen witte & melk chocolade",
+        "ar": "Franui Frambozen witte & melk chocolade"
+      },
+      "brand": "Franui",
+      "net_weight": "150 g",
+      "allergens": [
+        "Soy",
+        "Milk",
+        "Peanuts",
+        "Tree Nuts"
+      ],
+      "description": "Een verse, handgeplukte framboos gedoopt in twee lagen chocolade. De zoetigheid van de chocolade combineert perfect met de frisheid van de framboos. Its love at first bite.",
+      "descriptions": {
+        "nl": "Een verse, handgeplukte framboos gedoopt in twee lagen chocolade. De zoetigheid van de chocolade combineert perfect met de frisheid van de framboos. Its love at first bite.",
+        "fr": "Franui Frambozen witte & melk chocolade par Franui.",
+        "de": "Franui Frambozen witte & melk chocolade von Franui.",
+        "en": "Franui Frambozen witte & melk chocolade by Franui.",
+        "ar": "منتج Franui Frambozen witte & melk chocolade من Franui."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Frambozen (40%), MELKchocolade (30%) (suiker, cacaoboter, MELKpoeder, cacaomassa, emulgator (SOJAlecithine), natuurlijke vanille aroma), witte chocolade (30%) (suiker, cacaoboter, MELKpoeder, emulgator (SOJAlecithine), natuurlijke vanille aroma). Bevat melk en soja. Kan pinda's, amandelen, walnoten en hazelnoten bevatten",
+        "fr": "Ingrediënten: Frambozen (40%), MELKchocolade (30%) (suiker, cacaoboter, MELKpoeder, cacaomassa, emulgator (SOJAlecithine), natuurlijke vanille aroma), witte chocolade (30%) (suiker, cacaoboter, MELKpoeder, emulgator (SOJAlecithine), natuurlijke vanille aroma). Bevat melk en soja. Kan pinda's, amandelen, walnoten en hazelnoten bevatten",
+        "de": "Ingrediënten: Frambozen (40%), MELKchocolade (30%) (suiker, cacaoboter, MELKpoeder, cacaomassa, emulgator (SOJAlecithine), natuurlijke vanille aroma), witte chocolade (30%) (suiker, cacaoboter, MELKpoeder, emulgator (SOJAlecithine), natuurlijke vanille aroma). Bevat melk en soja. Kan pinda's, amandelen, walnoten en hazelnoten bevatten",
+        "en": "Ingrediënten: Frambozen (40%), MELKchocolade (30%) (suiker, cacaoboter, MELKpoeder, cacaomassa, emulgator (SOJAlecithine), natuurlijke vanille aroma), witte chocolade (30%) (suiker, cacaoboter, MELKpoeder, emulgator (SOJAlecithine), natuurlijke vanille aroma). Bevat melk en soja. Kan pinda's, amandelen, walnoten en hazelnoten bevatten",
+        "ar": "Ingrediënten: Frambozen (40%), MELKchocolade (30%) (suiker, cacaoboter, MELKpoeder, cacaomassa, emulgator (SOJAlecithine), natuurlijke vanille aroma), witte chocolade (30%) (suiker, cacaoboter, MELKpoeder, emulgator (SOJAlecithine), natuurlijke vanille aroma). Bevat melk en soja. Kan pinda's, amandelen, walnoten en hazelnoten bevatten"
+      },
+      "image": "images/8437020396011.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8437020396011.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4c3370693134413451706932465a345f334535385477?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "melk",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_843"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1496.0,
+        "calories_100g": 358.0,
+        "fat_100g": 22.0,
+        "saturated_fat_100g": 13.0,
+        "carbohydrates_100g": 35.0,
+        "sugars_100g": 34.0,
+        "fiber_100g": 1.4,
+        "proteins_100g": 5.2,
+        "salt_100g": 0.105,
+        "sodium_100g": 42.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 17,
+      "health_score": 20,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijke vanille aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke vanille aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijke vanille aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke vanille aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijke vanille aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijke vanille aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijke vanille aroma"
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.69,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8437020396011",
+          "updated_at": "2026-11-25T09:34:16.852538+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.32,
+          "promo_price": 1.86,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi582355/franui-frambozen-witte-en-melk-chocolade",
+          "updated_at": "2026-11-25T09:34:16.852538+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8437020396011",
+          "updated_at": "2026-11-25T09:34:16.852538+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.58,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8437020396011",
+          "updated_at": "2026-11-25T09:34:16.852538+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.83,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=8437020396011",
+          "updated_at": "2026-11-25T09:34:16.852538+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.12,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=8437020396011",
+          "updated_at": "2026-11-25T09:34:16.852538+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.95,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8437020396011",
+          "updated_at": "2026-11-25T09:34:16.852538+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.51,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8437020396011",
+          "updated_at": "2026-11-25T09:34:16.852538+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "version": "2.0.0",
+  "prefix": "569",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 1,
+  "products": {
+    "5690845000973": {
+      "barcode": "5690845000973",
+      "domain": "food",
+      "names": {
+        "nl": "Isey Skyr aardbei witte chocolade",
+        "fr": "Isey Skyr aardbei witte chocolade",
+        "de": "Isey Skyr aardbei witte chocolade",
+        "en": "Isey Skyr aardbei witte chocolade",
+        "ar": "Isey Skyr aardbei witte chocolade"
+      },
+      "brand": "Isey",
+      "net_weight": "400 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Ísey skyr aardbei - witte chocolade is proteinerijke aardbeien skyr volgens traditioneel IJslands recept met echte stukjes witte chocolade.",
+      "descriptions": {
+        "nl": "Ísey skyr aardbei - witte chocolade is proteinerijke aardbeien skyr volgens traditioneel IJslands recept met echte stukjes witte chocolade.",
+        "fr": "Isey Skyr aardbei witte chocolade par Isey.",
+        "de": "Isey Skyr aardbei witte chocolade von Isey.",
+        "en": "Isey Skyr aardbei witte chocolade by Isey.",
+        "ar": "منتج Isey Skyr aardbei witte chocolade من Isey."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: gepasteuriseerde magere MELK, aardbeien (9%), water, ROOM (5%), stukjes witte chocolade (2%) (cacaoboter, magere MELKPOEDER, BOTERCONCENTRAAT, suiker), gemodificeerd maïszetmeel, wortelconcentraat, verdikkingsmiddel (pectine), aroma, zoetstoffen (sucralose, acesulfaam-K), lactase, skyr-culturen.",
+        "fr": "Ingrediënten: gepasteuriseerde magere MELK, aardbeien (9%), water, ROOM (5%), stukjes witte chocolade (2%) (cacaoboter, magere MELKPOEDER, BOTERCONCENTRAAT, suiker), gemodificeerd maïszetmeel, wortelconcentraat, verdikkingsmiddel (pectine), aroma, zoetstoffen (sucralose, acesulfaam-K), lactase, skyr-culturen.",
+        "de": "Ingrediënten: gepasteuriseerde magere MELK, aardbeien (9%), water, ROOM (5%), stukjes witte chocolade (2%) (cacaoboter, magere MELKPOEDER, BOTERCONCENTRAAT, suiker), gemodificeerd maïszetmeel, wortelconcentraat, verdikkingsmiddel (pectine), aroma, zoetstoffen (sucralose, acesulfaam-K), lactase, skyr-culturen.",
+        "en": "Ingrediënten: gepasteuriseerde magere MELK, aardbeien (9%), water, ROOM (5%), stukjes witte chocolade (2%) (cacaoboter, magere MELKPOEDER, BOTERCONCENTRAAT, suiker), gemodificeerd maïszetmeel, wortelconcentraat, verdikkingsmiddel (pectine), aroma, zoetstoffen (sucralose, acesulfaam-K), lactase, skyr-culturen.",
+        "ar": "Ingrediënten: gepasteuriseerde magere MELK, aardbeien (9%), water, ROOM (5%), stukjes witte chocolade (2%) (cacaoboter, magere MELKPOEDER, BOTERCONCENTRAAT, suiker), gemodificeerd maïszetmeel, wortelconcentraat, verdikkingsmiddel (pectine), aroma, zoetstoffen (sucralose, acesulfaam-K), lactase, skyr-culturen."
+      },
+      "image": "images/5690845000973.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5690845000973.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_7436486771744f585177363738593342355536555941?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "chocolade",
+      "origin_country": {
+        "name": "Netherlands",
+        "code": "NL",
+        "flag": "🇳🇱",
+        "inferred_from": "STORE_FALLBACK"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 354.0,
+        "calories_100g": 85.0,
+        "fat_100g": 3.7,
+        "saturated_fat_100g": 2.2,
+        "carbohydrates_100g": 4.3,
+        "sugars_100g": 3.7,
+        "fiber_100g": null,
+        "proteins_100g": 8.5,
+        "salt_100g": 0.09,
+        "sodium_100g": 36.0
+      },
+      "official_nutriscore": "a",
+      "nutriscore_grade": "a",
+      "nutriscore_score": -2,
+      "health_score": 93,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma"
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.16,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/search?q=5690845000973",
+          "updated_at": "2026-11-25T10:07:14.005915+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.32,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5690845000973",
+          "updated_at": "2026-11-25T10:07:14.005915+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.67,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5690845000973",
+          "updated_at": "2026-11-25T10:07:14.005915+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.87,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5690845000973",
+          "updated_at": "2026-11-25T10:07:14.005915+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.89,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5690845000973",
+          "updated_at": "2026-11-25T10:07:14.005915+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.95,
+          "promo_price": 3.16,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=5690845000973",
+          "updated_at": "2026-11-25T10:07:14.005915+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.22,
+          "promo_price": 3.38,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/producten/product/wi509606/isey-skyr-aardbei-witte-chocolade",
+          "updated_at": "2026-11-25T10:07:14.005915+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.68,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5690845000973",
+          "updated_at": "2026-11-25T10:07:14.005915+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    }
+  }
+}

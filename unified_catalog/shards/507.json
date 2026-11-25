@@ -1,0 +1,214 @@
+{
+  "version": "2.0.0",
+  "prefix": "507",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 1,
+  "products": {
+    "5070002633518": {
+      "barcode": "5070002633518",
+      "domain": "food",
+      "names": {
+        "nl": "Living Things Raspberry & pomegranate",
+        "fr": "Living Things Raspberry & pomegranate",
+        "de": "Living Things Raspberry & pomegranate",
+        "en": "Living Things Raspberry & pomegranate",
+        "ar": "Living Things Raspberry & pomegranate"
+      },
+      "brand": "Living Things",
+      "net_weight": "330 ml",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Sappige framboos en granaatappel in een licht bruisende, prebiotische frisdrank. Fruitig, fris en laag in suiker. Een smaakexplosie waar je je goed bij voelt.",
+      "descriptions": {
+        "nl": "Sappige framboos en granaatappel in een licht bruisende, prebiotische frisdrank. Fruitig, fris en laag in suiker. Een smaakexplosie waar je je goed bij voelt.",
+        "fr": "Living Things Raspberry & pomegranate par Living Things.",
+        "de": "Living Things Raspberry & pomegranate von Living Things.",
+        "en": "Living Things Raspberry & pomegranate by Living Things.",
+        "ar": "منتج Living Things Raspberry & pomegranate من Living Things."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: bruisend water, cichoreiwortelinuline (2,4%), wit druivensap uit concentraat (8,6%), natuurlijk aroma, voedingszuur: appelzuur, zwarte wortelconcentraat, melkzuurbacteriën.",
+        "fr": "Ingrediënten: bruisend water, cichoreiwortelinuline (2,4%), wit druivensap uit concentraat (8,6%), natuurlijk aroma, voedingszuur: appelzuur, zwarte wortelconcentraat, melkzuurbacteriën.",
+        "de": "Ingrediënten: bruisend water, cichoreiwortelinuline (2,4%), wit druivensap uit concentraat (8,6%), natuurlijk aroma, voedingszuur: appelzuur, zwarte wortelconcentraat, melkzuurbacteriën.",
+        "en": "Ingrediënten: bruisend water, cichoreiwortelinuline (2,4%), wit druivensap uit concentraat (8,6%), natuurlijk aroma, voedingszuur: appelzuur, zwarte wortelconcentraat, melkzuurbacteriën.",
+        "ar": "Ingrediënten: bruisend water, cichoreiwortelinuline (2,4%), wit druivensap uit concentraat (8,6%), natuurlijk aroma, voedingszuur: appelzuur, zwarte wortelconcentraat, melkzuurbacteriën."
+      },
+      "image": "images/5070002633518.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5070002633518.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_30627a47704a336b54634375624d6e50767756703441?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "frisdrank",
+      "origin_country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "flag": "🇬🇧",
+        "inferred_from": "GS1_507"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 54.0,
+        "calories_100g": 13.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 1.7,
+        "sugars_100g": 1.7,
+        "fiber_100g": 2.0,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.0,
+        "sodium_100g": 0.0
+      },
+      "official_nutriscore": "b",
+      "nutriscore_grade": "b",
+      "nutriscore_score": -2,
+      "health_score": 80,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijk aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk aroma"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.64,
+          "promo_price": 3.71,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=5070002633518",
+          "updated_at": "2026-11-25T08:47:25.521985+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.24,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi607626/living-things-raspberry-en-pomegranate",
+          "updated_at": "2026-11-25T08:47:25.521985+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.66,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5070002633518",
+          "updated_at": "2026-11-25T08:47:25.521985+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.93,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5070002633518",
+          "updated_at": "2026-11-25T08:47:25.521985+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.55,
+          "promo_price": 3.64,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=5070002633518",
+          "updated_at": "2026-11-25T08:47:25.521985+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 5.34,
+          "promo_price": 4.27,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=5070002633518",
+          "updated_at": "2026-11-25T08:47:25.521985+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.73,
+          "promo_price": 2.37,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=5070002633518",
+          "updated_at": "2026-11-25T08:47:25.521985+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.92,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5070002633518",
+          "updated_at": "2026-11-25T08:47:25.521985+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    }
+  }
+}

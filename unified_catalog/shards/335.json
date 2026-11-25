@@ -1,0 +1,203 @@
+{
+  "version": "2.0.0",
+  "prefix": "335",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 1,
+  "products": {
+    "3352265341143": {
+      "barcode": "3352265341143",
+      "domain": "food",
+      "names": {
+        "nl": "Saint roche Rouge organic wine",
+        "fr": "Saint roche Rouge organic wine",
+        "de": "Saint roche Rouge organic wine",
+        "en": "Saint roche Rouge organic wine",
+        "ar": "Saint roche Rouge organic wine"
+      },
+      "brand": "Saint roche",
+      "net_weight": "0,75 l",
+      "allergens": [],
+      "description": "Fruitige biologische wijn om zo te drinken en om van alles bij te eten. Op z'n lekkerst bij gerechten met Mediterrane kruiden. Die proef je namelijk ook in de wijn.",
+      "descriptions": {
+        "nl": "Fruitige biologische wijn om zo te drinken en om van alles bij te eten. Op z'n lekkerst bij gerechten met Mediterrane kruiden. Die proef je namelijk ook in de wijn.",
+        "fr": "Saint roche Rouge organic wine par Saint roche.",
+        "de": "Saint roche Rouge organic wine von Saint roche.",
+        "en": "Saint roche Rouge organic wine by Saint roche.",
+        "ar": "منتج Saint roche Rouge organic wine من Saint roche."
+      },
+      "ingredients": {
+        "nl": "Contains sulfites",
+        "fr": "Contains sulfites",
+        "de": "Contains sulfites",
+        "en": "Contains sulfites",
+        "ar": "Contains sulfites"
+      },
+      "image": "images/3352265341143.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3352265341143.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313939363437?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "soep",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_335"
+      },
+      "nutrition_per_100g": {},
+      "official_nutriscore": null,
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "health_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "saint roche rouge organic wine",
+        "wine",
+        "wijn"
+      ],
+      "reason": "Alcohol / كحول (saint roche rouge organic wine, wine, wijn)",
+      "explanations": {
+        "ar": "كحول محرم قطعا (saint roche rouge organic wine, wine, wijn)",
+        "en": "Alcohol / كحول (saint roche rouge organic wine, wine, wijn)",
+        "fr": "Alcool interdit (saint roche rouge organic wine, wine, wijn)",
+        "nl": "Verboden alcohol (saint roche rouge organic wine, wine, wijn)",
+        "de": "Verbotener Alkohol (saint roche rouge organic wine, wine, wijn)"
+      },
+      "stores": [
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.59,
+          "promo_price": 1.79,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=3352265341143",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.52,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/search?q=3352265341143",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.6,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3352265341143",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.03,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3352265341143",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.28,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3352265341143",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.34,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3352265341143",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.32,
+          "promo_price": 2.66,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/producten/product/wi113928/saint-roche-rouge-organic-wine",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.2,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3352265341143",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    }
+  }
+}

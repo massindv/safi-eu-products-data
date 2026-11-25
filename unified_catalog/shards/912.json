@@ -1,0 +1,213 @@
+{
+  "version": "2.0.0",
+  "prefix": "912",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 1,
+  "products": {
+    "9120051674393": {
+      "barcode": "9120051674393",
+      "domain": "food",
+      "names": {
+        "nl": "Neni Hummus olijfolie & kikkererwten",
+        "fr": "Neni Hummus olijfolie & kikkererwten",
+        "de": "Neni Hummus olijfolie & kikkererwten",
+        "en": "Neni Hummus olijfolie & kikkererwten",
+        "ar": "Neni Hummus olijfolie & kikkererwten"
+      },
+      "brand": "Neni",
+      "net_weight": "200 g",
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "description": "Een romige hummus gemaakt volgens het originele recept van de familie molcho, afgewerkt met kikkererwten en olijfolie.",
+      "descriptions": {
+        "nl": "Een romige hummus gemaakt volgens het originele recept van de familie molcho, afgewerkt met kikkererwten en olijfolie.",
+        "fr": "Neni Hummus olijfolie & kikkererwten par Neni.",
+        "de": "Neni Hummus olijfolie & kikkererwten von Neni.",
+        "en": "Neni Hummus olijfolie & kikkererwten by Neni.",
+        "ar": "منتج Neni Hummus olijfolie & kikkererwten من Neni."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: 96% Hummus: 72% gekookte kikkererwten (water, kikkererwten), SESAMPASTA, water, knoflook, olijfolie, zout, antioxidant: citroenzuur, conserveermiddel: kaliumsorbaat. 4% Topping: gekookte kikkererwten [water, kikkererwten, gejodeerd zout (zout, kaliumjodide)], 3% olijfolie, komijn, gejodeerd zout (zout, kaliumjodide), antioxidant: citroenzuur, conserveermiddel: kaliumsorbaat. Kan sporen van Soja bevatten.",
+        "fr": "Ingrediënten: 96% Hummus: 72% gekookte kikkererwten (water, kikkererwten), SESAMPASTA, water, knoflook, olijfolie, zout, antioxidant: citroenzuur, conserveermiddel: kaliumsorbaat. 4% Topping: gekookte kikkererwten [water, kikkererwten, gejodeerd zout (zout, kaliumjodide)], 3% olijfolie, komijn, gejodeerd zout (zout, kaliumjodide), antioxidant: citroenzuur, conserveermiddel: kaliumsorbaat. Kan sporen van Soja bevatten.",
+        "de": "Ingrediënten: 96% Hummus: 72% gekookte kikkererwten (water, kikkererwten), SESAMPASTA, water, knoflook, olijfolie, zout, antioxidant: citroenzuur, conserveermiddel: kaliumsorbaat. 4% Topping: gekookte kikkererwten [water, kikkererwten, gejodeerd zout (zout, kaliumjodide)], 3% olijfolie, komijn, gejodeerd zout (zout, kaliumjodide), antioxidant: citroenzuur, conserveermiddel: kaliumsorbaat. Kan sporen van Soja bevatten.",
+        "en": "Ingrediënten: 96% Hummus: 72% gekookte kikkererwten (water, kikkererwten), SESAMPASTA, water, knoflook, olijfolie, zout, antioxidant: citroenzuur, conserveermiddel: kaliumsorbaat. 4% Topping: gekookte kikkererwten [water, kikkererwten, gejodeerd zout (zout, kaliumjodide)], 3% olijfolie, komijn, gejodeerd zout (zout, kaliumjodide), antioxidant: citroenzuur, conserveermiddel: kaliumsorbaat. Kan sporen van Soja bevatten.",
+        "ar": "Ingrediënten: 96% Hummus: 72% gekookte kikkererwten (water, kikkererwten), SESAMPASTA, water, knoflook, olijfolie, zout, antioxidant: citroenzuur, conserveermiddel: kaliumsorbaat. 4% Topping: gekookte kikkererwten [water, kikkererwten, gejodeerd zout (zout, kaliumjodide)], 3% olijfolie, komijn, gejodeerd zout (zout, kaliumjodide), antioxidant: citroenzuur, conserveermiddel: kaliumsorbaat. Kan sporen van Soja bevatten."
+      },
+      "image": "images/9120051674393.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/9120051674393.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_69784e522d64532d527569615254436b38386b4e5f67?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "olijfolie",
+      "origin_country": {
+        "name": "Austria",
+        "code": "AT",
+        "flag": "🇦🇹",
+        "inferred_from": "GS1_912"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 791.0,
+        "calories_100g": 190.0,
+        "fat_100g": 12.0,
+        "saturated_fat_100g": 2.2,
+        "carbohydrates_100g": 8.6,
+        "sugars_100g": 1.2,
+        "fiber_100g": 6.9,
+        "proteins_100g": 8.4,
+        "salt_100g": 1.1,
+        "sodium_100g": 440.0
+      },
+      "official_nutriscore": "a",
+      "nutriscore_grade": "a",
+      "nutriscore_score": -2,
+      "health_score": 93,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.14,
+          "promo_price": 2.07,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=9120051674393",
+          "updated_at": "2026-11-25T12:35:20.367991+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.57,
+          "promo_price": 2.86,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=9120051674393",
+          "updated_at": "2026-11-25T12:35:20.367991+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.77,
+          "promo_price": 3.02,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi545624/neni-hummus-olijfolie-en-kikkererwten",
+          "updated_at": "2026-11-25T12:35:20.367991+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.09,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=9120051674393",
+          "updated_at": "2026-11-25T12:35:20.367991+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.09,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=9120051674393",
+          "updated_at": "2026-11-25T12:35:20.367991+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.19,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=9120051674393",
+          "updated_at": "2026-11-25T12:35:20.367991+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.33,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=9120051674393",
+          "updated_at": "2026-11-25T12:35:20.367991+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.85,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=9120051674393",
+          "updated_at": "2026-11-25T12:35:20.367991+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:35:20.367991+00:00"
+    }
+  }
+}

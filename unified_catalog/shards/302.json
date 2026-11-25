@@ -1,0 +1,214 @@
+{
+  "version": "2.0.0",
+  "prefix": "302",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 1,
+  "products": {
+    "3023290111680": {
+      "barcode": "3023290111680",
+      "domain": "food",
+      "names": {
+        "nl": "Nestlé Bros melkchocolade mousse",
+        "fr": "Nestlé Bros melkchocolade mousse",
+        "de": "Nestlé Bros melkchocolade mousse",
+        "en": "Nestlé Bros melkchocolade mousse",
+        "ar": "Nestlé Bros melkchocolade mousse"
+      },
+      "brand": "Nestlé",
+      "net_weight": "4 x 59 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Al het lekkere van Bros in een melkchocolade mousse, een luchtige smeltsensatie van heerlijke chocolade met de unieke Bros bubbles.",
+      "descriptions": {
+        "nl": "Al het lekkere van Bros in een melkchocolade mousse, een luchtige smeltsensatie van heerlijke chocolade met de unieke Bros bubbles.",
+        "fr": "Nestlé Bros melkchocolade mousse par Nestlé.",
+        "de": "Nestlé Bros melkchocolade mousse von Nestlé.",
+        "en": "Nestlé Bros melkchocolade mousse by Nestlé.",
+        "ar": "منتج Nestlé Bros melkchocolade mousse من Nestlé."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Volle MELK (68,9%), suiker, MELKchocolade (8%) [suiker, volle MELKpoeder, cacaoboter, cacaomassa, weipoeder (MELK), emulgator (zonnebloem lecithine), natuurlijk vanille-aroma], room (MELK), mager cacaopoeder, karamel [MELK-karamel (glucosestroop, gecondenseerde volle MELK met suiker, plantaardig vet (kopra), water), aroma, zout, emulgator (zonnebloem lecithine)], cacaopoeder, magere MELKpoeder, rundergelatine, emulgator (mono- en diglyceriden van vetzuren veresterd met melkzuur), maïszetmeel, verdikkingsmiddel (johannesbroodpitmeel)",
+        "fr": "Ingrediënten: Volle MELK (68,9%), suiker, MELKchocolade (8%) [suiker, volle MELKpoeder, cacaoboter, cacaomassa, weipoeder (MELK), emulgator (zonnebloem lecithine), natuurlijk vanille-aroma], room (MELK), mager cacaopoeder, karamel [MELK-karamel (glucosestroop, gecondenseerde volle MELK met suiker, plantaardig vet (kopra), water), aroma, zout, emulgator (zonnebloem lecithine)], cacaopoeder, magere MELKpoeder, rundergelatine, emulgator (mono- en diglyceriden van vetzuren veresterd met melkzuur), maïszetmeel, verdikkingsmiddel (johannesbroodpitmeel)",
+        "de": "Ingrediënten: Volle MELK (68,9%), suiker, MELKchocolade (8%) [suiker, volle MELKpoeder, cacaoboter, cacaomassa, weipoeder (MELK), emulgator (zonnebloem lecithine), natuurlijk vanille-aroma], room (MELK), mager cacaopoeder, karamel [MELK-karamel (glucosestroop, gecondenseerde volle MELK met suiker, plantaardig vet (kopra), water), aroma, zout, emulgator (zonnebloem lecithine)], cacaopoeder, magere MELKpoeder, rundergelatine, emulgator (mono- en diglyceriden van vetzuren veresterd met melkzuur), maïszetmeel, verdikkingsmiddel (johannesbroodpitmeel)",
+        "en": "Ingrediënten: Volle MELK (68,9%), suiker, MELKchocolade (8%) [suiker, volle MELKpoeder, cacaoboter, cacaomassa, weipoeder (MELK), emulgator (zonnebloem lecithine), natuurlijk vanille-aroma], room (MELK), mager cacaopoeder, karamel [MELK-karamel (glucosestroop, gecondenseerde volle MELK met suiker, plantaardig vet (kopra), water), aroma, zout, emulgator (zonnebloem lecithine)], cacaopoeder, magere MELKpoeder, rundergelatine, emulgator (mono- en diglyceriden van vetzuren veresterd met melkzuur), maïszetmeel, verdikkingsmiddel (johannesbroodpitmeel)",
+        "ar": "Ingrediënten: Volle MELK (68,9%), suiker, MELKchocolade (8%) [suiker, volle MELKpoeder, cacaoboter, cacaomassa, weipoeder (MELK), emulgator (zonnebloem lecithine), natuurlijk vanille-aroma], room (MELK), mager cacaopoeder, karamel [MELK-karamel (glucosestroop, gecondenseerde volle MELK met suiker, plantaardig vet (kopra), water), aroma, zout, emulgator (zonnebloem lecithine)], cacaopoeder, magere MELKpoeder, rundergelatine, emulgator (mono- en diglyceriden van vetzuren veresterd met melkzuur), maïszetmeel, verdikkingsmiddel (johannesbroodpitmeel)"
+      },
+      "image": "images/3023290111680.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3023290111680.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313732353838?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "melk",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_302"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 599.0,
+        "calories_100g": 166.0,
+        "fat_100g": 6.5,
+        "saturated_fat_100g": 4.3,
+        "carbohydrates_100g": 21.1,
+        "sugars_100g": 20.2,
+        "fiber_100g": 1.6,
+        "proteins_100g": 4.9,
+        "salt_100g": 0.14,
+        "sodium_100g": 56.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 5,
+      "health_score": 43,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "rundergelatine"
+      ],
+      "reason": "Uncertified Meat / لحم غير مذبوح حلال (rundergelatine)",
+      "explanations": {
+        "ar": "لحوم أو دواجن غير حاصلة على شهادة ذبح حلال (rundergelatine)",
+        "en": "Uncertified Meat / لحم غير مذبوح حلال (rundergelatine)",
+        "fr": "Viande ou volaille non certifiée Halal (rundergelatine)",
+        "nl": "Niet-gecertificeerd vlees of gevogelte zonder Halal-certificaat (rundergelatine)",
+        "de": "Nicht zertifiziertes Fleisch oder Geflügel ohne Halal-Zertifikat (rundergelatine)"
+      },
+      "stores": [
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.82,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3023290111680",
+          "updated_at": "2026-11-25T09:41:53.508299+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.86,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3023290111680",
+          "updated_at": "2026-11-25T09:41:53.508299+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.53,
+          "promo_price": 2.02,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=3023290111680",
+          "updated_at": "2026-11-25T09:41:53.508299+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.48,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi238020/nestle%CC%81-bros-melkchocolade-mousse",
+          "updated_at": "2026-11-25T09:41:53.508299+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.74,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3023290111680",
+          "updated_at": "2026-11-25T09:41:53.508299+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.58,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3023290111680",
+          "updated_at": "2026-11-25T09:41:53.508299+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.73,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3023290111680",
+          "updated_at": "2026-11-25T09:41:53.508299+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.35,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=3023290111680",
+          "updated_at": "2026-11-25T09:41:53.508299+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    }
+  }
+}

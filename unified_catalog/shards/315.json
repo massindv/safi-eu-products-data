@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "315",
-  "generated_at": "2026-11-25T01:18:24.045362+00:00",
-  "product_count": 2,
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 9,
   "products": {
     "3154230814085": {
       "barcode": "3154230814085",
@@ -34,7 +34,7 @@
       },
       "image": "images/3154230814085.webp",
       "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3154230814085.webp",
-      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130303135393831?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130303135393831?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "image_domain": "static.ah.nl",
       "category": "supermarket",
       "origin_country": {
@@ -44,7 +44,7 @@
         "inferred_from": "GS1_315"
       },
       "nutrition_per_100g": {
-        "energy_kj_100g": 1.029,
+        "energy_kj_100g": 1029.0,
         "calories_100g": 248.0,
         "fat_100g": 20.0,
         "saturated_fat_100g": 7.8,
@@ -55,21 +55,23 @@
         "salt_100g": 2.0,
         "sodium_100g": 800.0
       },
-      "nutriscore_grade": "c",
-      "nutriscore_score": 10,
-      "health_score": 55,
+      "nutriscore_grade": "d",
+      "nutriscore_score": 13,
+      "health_score": 48,
       "halal_status": "HARAM",
       "is_halal": false,
       "triggers": [
-        "varkensvlees"
+        "varkensvlees",
+        "herta spekreepjes gerookt bel",
+        "spekreepjes"
       ],
-      "reason": "Contains prohibited ingredient: varkensvlees",
+      "reason": "Pork / لحم خنزير (varkensvlees, herta spekreepjes gerookt bel, spekreepjes)",
       "explanations": {
-        "ar": "يحتوي على مكون محظور: varkensvlees",
-        "en": "Contains prohibited ingredient: varkensvlees",
-        "fr": "Contient un ingrédient interdit : varkensvlees",
-        "nl": "Bevat verboden ingrediënt: varkensvlees",
-        "de": "Enthält verbotene Zutat: varkensvlees"
+        "ar": "لحم خنزير محرم قطعا (varkensvlees, herta spekreepjes gerookt bel, spekreepjes)",
+        "en": "Pork / لحم خنزير (varkensvlees, herta spekreepjes gerookt bel, spekreepjes)",
+        "fr": "Porc interdit (varkensvlees, herta spekreepjes gerookt bel, spekreepjes)",
+        "nl": "Verboden varkensvlees / Pork (varkensvlees, herta spekreepjes gerookt bel, spekreepjes)",
+        "de": "Verbotenes Schweinefleisch / Pork (varkensvlees, herta spekreepjes gerookt bel, spekreepjes)"
       },
       "stores": [
         "colruyt.be",
@@ -93,7 +95,9 @@
           "currency": "EUR",
           "promo_label": "1+1",
           "product_url": "https://www.colruyt.be/search?q=3154230814085",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
         },
         {
           "store": "carrefour.be",
@@ -106,7 +110,9 @@
           "currency": "EUR",
           "promo_label": "-20%",
           "product_url": "https://www.carrefour.be/search?q=3154230814085",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
         },
         {
           "store": "delhaize.be",
@@ -119,7 +125,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.delhaize.be/search?q=3154230814085",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "ah.be",
@@ -132,7 +140,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.ah.be/producten/product/wi226425/herta-spekreepjes-gerookt-bel",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:35:48.428449+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "lidl.de",
@@ -145,7 +155,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.lidl.de/search?q=3154230814085",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "carrefour.fr",
@@ -158,7 +170,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.carrefour.fr/search?q=3154230814085",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "ah.nl",
@@ -171,7 +185,9 @@
           "currency": "EUR",
           "promo_label": "-20%",
           "product_url": "https://www.ah.nl/search?q=3154230814085",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
         },
         {
           "store": "jumbo.com",
@@ -184,10 +200,14 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.jumbo.com/search?q=3154230814085",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T01:17:59.700093+00:00"
+      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "halal_certified": false,
+      "halal_certification_source": null
     },
     "3154230813965": {
       "barcode": "3154230813965",
@@ -202,9 +222,9 @@
       "brand": "Herta",
       "net_weight": "Standard Pack",
       "allergens": [],
-      "description": "Op zoek naar Herta Gerookte spekblokjes BEL? Dit product vind je in het gamma van Albert Heijn. Reserveer online!",
+      "description": "De Herta spekblokjes hebben een ideale vlees-vetverhouding en onderscheiden zich door een unieke smaak.&#x00A0; De Herta spekblokjes zijn ideaal om te gebruiken in salades, pasta of een omelet.",
       "descriptions": {
-        "nl": "Op zoek naar Herta Gerookte spekblokjes BEL? Dit product vind je in het gamma van Albert Heijn. Reserveer online!",
+        "nl": "De Herta spekblokjes hebben een ideale vlees-vetverhouding en onderscheiden zich door een unieke smaak.&#x00A0; De Herta spekblokjes zijn ideaal om te gebruiken in salades, pasta of een omelet.",
         "fr": "Herta Gerookte spekblokjes BEL par Herta.",
         "de": "Herta Gerookte spekblokjes BEL von Herta.",
         "en": "Herta Gerookte spekblokjes BEL by Herta.",
@@ -219,7 +239,7 @@
       },
       "image": "images/3154230813965.webp",
       "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3154230813965.webp",
-      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313937313435?revLabel=1&rendition=200x200_WEBP&fileType=binary",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313937313435?revLabel=1&rendition=800x800_WEBP&fileType=binary",
       "image_domain": "static.ah.nl",
       "category": "supermarket",
       "origin_country": {
@@ -229,7 +249,7 @@
         "inferred_from": "GS1_315"
       },
       "nutrition_per_100g": {
-        "energy_kj_100g": 1.029,
+        "energy_kj_100g": 1029.0,
         "calories_100g": 248.0,
         "fat_100g": 20.0,
         "saturated_fat_100g": 7.8,
@@ -241,18 +261,22 @@
         "sodium_100g": 880.0
       },
       "nutriscore_grade": "d",
-      "nutriscore_score": 11,
-      "health_score": 53,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "nutriscore_score": 14,
+      "health_score": 46,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "varkensborst",
+        "herta gerookte spekblokjes bel",
+        "spekblokjes"
+      ],
+      "reason": "Pork / لحم خنزير (varkensborst, herta gerookte spekblokjes bel, spekblokjes)",
       "explanations": {
-        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
-        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
-        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
-        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
-        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+        "ar": "لحم خنزير محرم قطعا (varkensborst, herta gerookte spekblokjes bel, spekblokjes)",
+        "en": "Pork / لحم خنزير (varkensborst, herta gerookte spekblokjes bel, spekblokjes)",
+        "fr": "Porc interdit (varkensborst, herta gerookte spekblokjes bel, spekblokjes)",
+        "nl": "Verboden varkensvlees / Pork (varkensborst, herta gerookte spekblokjes bel, spekblokjes)",
+        "de": "Verbotenes Schweinefleisch / Pork (varkensborst, herta gerookte spekblokjes bel, spekblokjes)"
       },
       "stores": [
         "colruyt.be",
@@ -276,7 +300,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.colruyt.be/search?q=3154230813965",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "carrefour.be",
@@ -289,7 +315,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.carrefour.be/search?q=3154230813965",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "delhaize.be",
@@ -302,7 +330,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.delhaize.be/search?q=3154230813965",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "ah.be",
@@ -315,7 +345,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.ah.be/producten/product/wi409819/herta-gerookte-spekblokjes-bel",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:35:48.428449+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "lidl.de",
@@ -328,7 +360,9 @@
           "currency": "EUR",
           "promo_label": "-20%",
           "product_url": "https://www.lidl.de/search?q=3154230813965",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
         },
         {
           "store": "carrefour.fr",
@@ -341,7 +375,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.carrefour.fr/search?q=3154230813965",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "ah.nl",
@@ -354,7 +390,9 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.ah.nl/search?q=3154230813965",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         },
         {
           "store": "jumbo.com",
@@ -367,10 +405,1451 @@
           "currency": "EUR",
           "promo_label": null,
           "product_url": "https://www.jumbo.com/search?q=3154230813965",
-          "updated_at": "2026-11-25T01:17:59.700093+00:00"
+          "updated_at": "2026-11-25T01:17:59.700093+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T01:17:59.700093+00:00"
+      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "halal_certified": false,
+      "halal_certification_source": null
+    },
+    "3159470202166": {
+      "barcode": "3159470202166",
+      "domain": "food",
+      "names": {
+        "nl": "Kellogg's Special K pure chocolade",
+        "fr": "Kellogg's Special K pure chocolade",
+        "de": "Kellogg's Special K pure chocolade",
+        "en": "Kellogg's Special K pure chocolade",
+        "ar": "Kellogg's Special K pure chocolade"
+      },
+      "brand": "Kellogg's",
+      "net_weight": "300 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk"
+      ],
+      "description": "Special k's heerlijke 3-granenflakes met pure chocolade biedt tal van voedingsstoffen om je innerlijke kracht te helpen voeden. Een heerlijk en verantwoord ontbijt. Special k ontbijtgranen zijn rijk aan 9 essentiele vitaminen en mineralen||Pure chocoladekrullen||Zonder kunstmatige kleur en smaakstoffen||Zonder conserveringsmiddelen",
+      "descriptions": {
+        "nl": "Special k's heerlijke 3-granenflakes met pure chocolade biedt tal van voedingsstoffen om je innerlijke kracht te helpen voeden. Een heerlijk en verantwoord ontbijt. Special k ontbijtgranen zijn rijk aan 9 essentiele vitaminen en mineralen||Pure chocoladekrullen||Zonder kunstmatige kleur en smaakstoffen||Zonder conserveringsmiddelen",
+        "fr": "Kellogg's Special K pure chocolade par Kellogg's.",
+        "de": "Kellogg's Special K pure chocolade von Kellogg's.",
+        "en": "Kellogg's Special K pure chocolade by Kellogg's.",
+        "ar": "منتج Kellogg's Special K pure chocolade من Kellogg's."
+      },
+      "ingredients": {
+        "nl": "INGREDIËNTEN: Rijst (41%), VOLKORENTARWE (32%), pure chocolade (13%) (cacaomassa, suiker, MELKVET, emulgator {lecithinen}), suiker, GERST (4%), gemout GERSTEMEEL, zout, GERSTEMOUTEXTRACT, niacine, ijzer, riboflavine, thiamine, vitamine B6, foliumzuur, vitamine D, vitamine B12.Bevat mogelijk gluten uit andere granen, soja",
+        "fr": "INGREDIËNTEN: Rijst (41%), VOLKORENTARWE (32%), pure chocolade (13%) (cacaomassa, suiker, MELKVET, emulgator {lecithinen}), suiker, GERST (4%), gemout GERSTEMEEL, zout, GERSTEMOUTEXTRACT, niacine, ijzer, riboflavine, thiamine, vitamine B6, foliumzuur, vitamine D, vitamine B12.Bevat mogelijk gluten uit andere granen, soja",
+        "de": "INGREDIËNTEN: Rijst (41%), VOLKORENTARWE (32%), pure chocolade (13%) (cacaomassa, suiker, MELKVET, emulgator {lecithinen}), suiker, GERST (4%), gemout GERSTEMEEL, zout, GERSTEMOUTEXTRACT, niacine, ijzer, riboflavine, thiamine, vitamine B6, foliumzuur, vitamine D, vitamine B12.Bevat mogelijk gluten uit andere granen, soja",
+        "en": "INGREDIËNTEN: Rijst (41%), VOLKORENTARWE (32%), pure chocolade (13%) (cacaomassa, suiker, MELKVET, emulgator {lecithinen}), suiker, GERST (4%), gemout GERSTEMEEL, zout, GERSTEMOUTEXTRACT, niacine, ijzer, riboflavine, thiamine, vitamine B6, foliumzuur, vitamine D, vitamine B12.Bevat mogelijk gluten uit andere granen, soja",
+        "ar": "INGREDIËNTEN: Rijst (41%), VOLKORENTARWE (32%), pure chocolade (13%) (cacaomassa, suiker, MELKVET, emulgator {lecithinen}), suiker, GERST (4%), gemout GERSTEMEEL, zout, GERSTEMOUTEXTRACT, niacine, ijzer, riboflavine, thiamine, vitamine B6, foliumzuur, vitamine D, vitamine B12.Bevat mogelijk gluten uit andere granen, soja"
+      },
+      "image": "images/3159470202166.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3159470202166.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_766e7149444e41625332367857694d434e6e69556377?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "ontbijt",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_315"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1790.0,
+        "calories_100g": 424.0,
+        "fat_100g": 6.1,
+        "saturated_fat_100g": 3.2,
+        "carbohydrates_100g": 81.0,
+        "sugars_100g": 17.0,
+        "fiber_100g": 6.0,
+        "proteins_100g": 8.2,
+        "salt_100g": 0.64,
+        "sodium_100g": 256.0
+      },
+      "nutriscore_grade": "d",
+      "nutriscore_score": 3,
+      "health_score": 44,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "emulgator {lecithinen}"
+      ],
+      "reason": "Emulsifier with unspecified plant/animal origin requires source verification: emulgator {lecithinen}",
+      "explanations": {
+        "ar": "مستحلب ثنائي المصدر يتطلب التحقق من المصدر: emulgator {lecithinen}",
+        "en": "Emulsifier with unspecified plant/animal origin requires source verification: emulgator {lecithinen}",
+        "fr": "Émulsifiant d'origine végétale/animale non spécifiée nécessitant une vérification : emulgator {lecithinen}",
+        "nl": "Emulgator met ongespecificeerde plantaardige/dierlijke oorsprong vereist controle: emulgator {lecithinen}",
+        "de": "Emulgator mit unbestimmter pflanzlicher/tierischer Herkunft erfordert Prüfung: emulgator {lecithinen}"
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.8,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.colruyt.be/search?q=3159470202166",
+          "updated_at": "2026-11-25T07:16:59.194097+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.82,
+          "promo_price": 3.06,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "product_url": "https://www.delhaize.be/search?q=3159470202166",
+          "updated_at": "2026-11-25T07:16:59.194097+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.14,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.be/search?q=3159470202166",
+          "updated_at": "2026-11-25T07:16:59.194097+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.88,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.carrefour.be/search?q=3159470202166",
+          "updated_at": "2026-11-25T07:16:59.194097+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.27,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.lidl.de/search?q=3159470202166",
+          "updated_at": "2026-11-25T07:16:59.194097+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.89,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.carrefour.fr/search?q=3159470202166",
+          "updated_at": "2026-11-25T07:16:59.194097+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.08,
+          "promo_price": 2.46,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "product_url": "https://www.ah.nl/producten/product/wi122595/kellogg-s-special-k-pure-chocolade",
+          "updated_at": "2026-11-25T07:16:59.194097+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.89,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.jumbo.com/search?q=3159470202166",
+          "updated_at": "2026-11-25T07:16:59.194097+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "official_nutriscore": "d",
+      "halal_certified": false,
+      "halal_certification_source": null
+    },
+    "3159470005347": {
+      "barcode": "3159470005347",
+      "domain": "food",
+      "names": {
+        "nl": "Kellogg's Variety pack",
+        "fr": "Kellogg's Variety pack",
+        "de": "Kellogg's Variety pack",
+        "en": "Kellogg's Variety pack",
+        "ar": "Kellogg's Variety pack"
+      },
+      "brand": "Kellogg's",
+      "net_weight": "220 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk"
+      ],
+      "description": "Niet kunnen kiezen? Kellogg's variety pack bestaat uit verschillende smaken in 8 handige porties. Ideaal om 's ochtends te kunnen varieren of om mee te nemen. Waar heb jij zin in? Coco pops 2x||Honey pops 2x||Coco pops choco's 2x||Frosties 2x",
+      "descriptions": {
+        "nl": "Niet kunnen kiezen? Kellogg's variety pack bestaat uit verschillende smaken in 8 handige porties. Ideaal om 's ochtends te kunnen varieren of om mee te nemen. Waar heb jij zin in? Coco pops 2x||Honey pops 2x||Coco pops choco's 2x||Frosties 2x",
+        "fr": "Kellogg's Variety pack par Kellogg's.",
+        "de": "Kellogg's Variety pack von Kellogg's.",
+        "en": "Kellogg's Variety pack by Kellogg's.",
+        "ar": "منتج Kellogg's Variety pack من Kellogg's."
+      },
+      "ingredients": {
+        "nl": "INGREDIËNTEN: Granen (73%) (TARWEMEEL, maïsmeel, maïs, rijst), suiker, glucosesiroop, cacaopoeder met verlaagd vetgehalte, GERSTEMOUTEXTRACT, zout, cacaopoeder, maïsvezel, honing, cacaomassa, natuurlijke aroma's, aroma, niacine, ijzer, vitamine B6, riboflavine, thiamine, foliumzuur, vitamine D, vitamine B12, kaneel, kleurstoffen (carotenen).Bevat mogelijk gluten uit andere granen, aardnoten, melk, soja",
+        "fr": "INGREDIËNTEN: Granen (73%) (TARWEMEEL, maïsmeel, maïs, rijst), suiker, glucosesiroop, cacaopoeder met verlaagd vetgehalte, GERSTEMOUTEXTRACT, zout, cacaopoeder, maïsvezel, honing, cacaomassa, natuurlijke aroma's, aroma, niacine, ijzer, vitamine B6, riboflavine, thiamine, foliumzuur, vitamine D, vitamine B12, kaneel, kleurstoffen (carotenen).Bevat mogelijk gluten uit andere granen, aardnoten, melk, soja",
+        "de": "INGREDIËNTEN: Granen (73%) (TARWEMEEL, maïsmeel, maïs, rijst), suiker, glucosesiroop, cacaopoeder met verlaagd vetgehalte, GERSTEMOUTEXTRACT, zout, cacaopoeder, maïsvezel, honing, cacaomassa, natuurlijke aroma's, aroma, niacine, ijzer, vitamine B6, riboflavine, thiamine, foliumzuur, vitamine D, vitamine B12, kaneel, kleurstoffen (carotenen).Bevat mogelijk gluten uit andere granen, aardnoten, melk, soja",
+        "en": "INGREDIËNTEN: Granen (73%) (TARWEMEEL, maïsmeel, maïs, rijst), suiker, glucosesiroop, cacaopoeder met verlaagd vetgehalte, GERSTEMOUTEXTRACT, zout, cacaopoeder, maïsvezel, honing, cacaomassa, natuurlijke aroma's, aroma, niacine, ijzer, vitamine B6, riboflavine, thiamine, foliumzuur, vitamine D, vitamine B12, kaneel, kleurstoffen (carotenen).Bevat mogelijk gluten uit andere granen, aardnoten, melk, soja",
+        "ar": "INGREDIËNTEN: Granen (73%) (TARWEMEEL, maïsmeel, maïs, rijst), suiker, glucosesiroop, cacaopoeder met verlaagd vetgehalte, GERSTEMOUTEXTRACT, zout, cacaopoeder, maïsvezel, honing, cacaomassa, natuurlijke aroma's, aroma, niacine, ijzer, vitamine B6, riboflavine, thiamine, foliumzuur, vitamine D, vitamine B12, kaneel, kleurstoffen (carotenen).Bevat mogelijk gluten uit andere granen, aardnoten, melk, soja"
+      },
+      "image": "images/3159470005347.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3159470005347.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_496667703375584a51694374334a42624746304c5f77?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "ontbijt",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_315"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1629.0,
+        "calories_100g": 384.0,
+        "fat_100g": 1.7,
+        "saturated_fat_100g": 0.6,
+        "carbohydrates_100g": 83.0,
+        "sugars_100g": 25.0,
+        "fiber_100g": 4.2,
+        "proteins_100g": 7.5,
+        "salt_100g": 0.65,
+        "sodium_100g": 260.0
+      },
+      "nutriscore_grade": "d",
+      "nutriscore_score": 3,
+      "health_score": 44,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "triggers": [
+        "natuurlijke aroma's",
+        "aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's, aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijke aroma's, aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's, aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijke aroma's, aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijke aroma's, aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijke aroma's, aroma"
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "carrefour.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.49,
+          "promo_price": 2.25,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "product_url": "https://www.colruyt.be/search?q=3159470005347",
+          "updated_at": "2026-11-25T07:19:30.073127+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 5.05,
+          "promo_price": 4.04,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "product_url": "https://www.delhaize.be/search?q=3159470005347",
+          "updated_at": "2026-11-25T07:19:30.073127+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.13,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.carrefour.be/search?q=3159470005347",
+          "updated_at": "2026-11-25T07:19:30.073127+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 5.08,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.be/search?q=3159470005347",
+          "updated_at": "2026-11-25T07:19:30.073127+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.3,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.lidl.de/search?q=3159470005347",
+          "updated_at": "2026-11-25T07:19:30.073127+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.65,
+          "promo_price": 3.72,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "product_url": "https://www.carrefour.fr/search?q=3159470005347",
+          "updated_at": "2026-11-25T07:19:30.073127+00:00",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.ah.nl/producten/product/wi197624/kellogg-s-variety-pack",
+          "updated_at": "2026-11-25T07:19:30.073127+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.87,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "product_url": "https://www.jumbo.com/search?q=3159470005347",
+          "updated_at": "2026-11-25T07:19:30.073127+00:00",
+          "promo_start_date": null,
+          "promo_end_date": null
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00",
+      "official_nutriscore": "d",
+      "halal_certified": false,
+      "halal_certification_source": null
+    },
+    "3155253030759": {
+      "barcode": "3155253030759",
+      "domain": "food",
+      "names": {
+        "nl": "Président Roomboter ongezouten",
+        "fr": "Président Roomboter ongezouten",
+        "de": "Président Roomboter ongezouten",
+        "en": "Président Roomboter ongezouten",
+        "ar": "Président Roomboter ongezouten"
+      },
+      "brand": "Président",
+      "net_weight": "200 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Deze ongezouten roombotervan President wordt in isigny (frankrijk)gemaakt van cremes die zijn geselecteerd om hun smaak en zachtheid.",
+      "descriptions": {
+        "nl": "Deze ongezouten roombotervan President wordt in isigny (frankrijk)gemaakt van cremes die zijn geselecteerd om hun smaak en zachtheid.",
+        "fr": "Président Roomboter ongezouten par Président.",
+        "de": "Président Roomboter ongezouten von Président.",
+        "en": "Président Roomboter ongezouten by Président.",
+        "ar": "منتج Président Roomboter ongezouten من Président."
+      },
+      "ingredients": {
+        "nl": "Ingrediënt : roomboter (room (MELK) (oorsprong EU), zuursel (MELK)).",
+        "fr": "Ingrediënt : roomboter (room (MELK) (oorsprong EU), zuursel (MELK)).",
+        "de": "Ingrediënt : roomboter (room (MELK) (oorsprong EU), zuursel (MELK)).",
+        "en": "Ingrediënt : roomboter (room (MELK) (oorsprong EU), zuursel (MELK)).",
+        "ar": "Ingrediënt : roomboter (room (MELK) (oorsprong EU), zuursel (MELK))."
+      },
+      "image": "images/3155253030759.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3155253030759.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_386d596264766f64517161374f757067345248396967?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "boter",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_315"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 3063.0,
+        "calories_100g": 745.0,
+        "fat_100g": 82.0,
+        "saturated_fat_100g": 57.0,
+        "carbohydrates_100g": 1.0,
+        "sugars_100g": 1.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.7,
+        "salt_100g": 0.03,
+        "sodium_100g": 12.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 19,
+      "health_score": 19,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "delhaize.be",
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.1,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3155253030759",
+          "updated_at": "2026-11-25T08:54:09.567961+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.31,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3155253030759",
+          "updated_at": "2026-11-25T08:54:09.567961+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.38,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/search?q=3155253030759",
+          "updated_at": "2026-11-25T08:54:09.567961+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.4,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3155253030759",
+          "updated_at": "2026-11-25T08:54:09.567961+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.66,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3155253030759",
+          "updated_at": "2026-11-25T08:54:09.567961+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.59,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3155253030759",
+          "updated_at": "2026-11-25T08:54:09.567961+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3155253030759",
+          "updated_at": "2026-11-25T08:54:09.567961+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.14,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": "1 + 1 gratis",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/producten/product/wi590695/pre%CC%81sident-roomboter-ongezouten",
+          "updated_at": "2026-11-25T08:54:09.567961+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    },
+    "3155253030766": {
+      "barcode": "3155253030766",
+      "domain": "food",
+      "names": {
+        "nl": "Président Roomboter gezouten",
+        "fr": "Président Roomboter gezouten",
+        "de": "Président Roomboter gezouten",
+        "en": "Président Roomboter gezouten",
+        "ar": "Président Roomboter gezouten"
+      },
+      "brand": "Président",
+      "net_weight": "200 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Deze gezouten roombotervan President wordt in isigny (frankrijk)gemaakt van cremes die zijn geselecteerd om hun smaak en zachtheid.",
+      "descriptions": {
+        "nl": "Deze gezouten roombotervan President wordt in isigny (frankrijk)gemaakt van cremes die zijn geselecteerd om hun smaak en zachtheid.",
+        "fr": "Président Roomboter gezouten par Président.",
+        "de": "Président Roomboter gezouten von Président.",
+        "en": "Président Roomboter gezouten by Président.",
+        "ar": "منتج Président Roomboter gezouten من Président."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten : roomboter (MELK) (room: oorsprong EU), zout (3% max.).",
+        "fr": "Ingrediënten : roomboter (MELK) (room: oorsprong EU), zout (3% max.).",
+        "de": "Ingrediënten : roomboter (MELK) (room: oorsprong EU), zout (3% max.).",
+        "en": "Ingrediënten : roomboter (MELK) (room: oorsprong EU), zout (3% max.).",
+        "ar": "Ingrediënten : roomboter (MELK) (room: oorsprong EU), zout (3% max.)."
+      },
+      "image": "images/3155253030766.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3155253030766.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_3139564e32524d76525a324638324a6e6d59626a6251?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "boter",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_315"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2989.0,
+        "calories_100g": 727.0,
+        "fat_100g": 80.0,
+        "saturated_fat_100g": 55.0,
+        "carbohydrates_100g": 1.0,
+        "sugars_100g": 1.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.7,
+        "salt_100g": 2.0,
+        "sodium_100g": 800.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 26,
+      "health_score": 17,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.4,
+          "promo_price": 3.52,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=3155253030766",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.03,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/search?q=3155253030766",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.4,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3155253030766",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.6,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3155253030766",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3155253030766",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3155253030766",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.0,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": "1 + 1 gratis",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/producten/product/wi590694/pre%CC%81sident-roomboter-gezouten",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.41,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3155253030766",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    },
+    "3155253030780": {
+      "barcode": "3155253030780",
+      "domain": "food",
+      "names": {
+        "nl": "Président Roomboter ongezouten",
+        "fr": "Président Roomboter ongezouten",
+        "de": "Président Roomboter ongezouten",
+        "en": "Président Roomboter ongezouten",
+        "ar": "Président Roomboter ongezouten"
+      },
+      "brand": "Président",
+      "net_weight": "200 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Ontdek de nieuwe roomboter met verlaagd vetgehalte (60%) van president.",
+      "descriptions": {
+        "nl": "Ontdek de nieuwe roomboter met verlaagd vetgehalte (60%) van president.",
+        "fr": "Président Roomboter ongezouten par Président.",
+        "de": "Président Roomboter ongezouten von Président.",
+        "en": "Président Roomboter ongezouten by Président.",
+        "ar": "منتج Président Roomboter ongezouten من Président."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: roomboter (MELK), water, zuursel (MELK).",
+        "fr": "Ingrediënten: roomboter (MELK), water, zuursel (MELK).",
+        "de": "Ingrediënten: roomboter (MELK), water, zuursel (MELK).",
+        "en": "Ingrediënten: roomboter (MELK), water, zuursel (MELK).",
+        "ar": "Ingrediënten: roomboter (MELK), water, zuursel (MELK)."
+      },
+      "image": "images/3155253030780.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3155253030780.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_385f6469516d5734517a69765834396a315766515341?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "boter",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_315"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2242.0,
+        "calories_100g": 545.0,
+        "fat_100g": 60.0,
+        "saturated_fat_100g": 43.0,
+        "carbohydrates_100g": 0.8,
+        "sugars_100g": 0.8,
+        "fiber_100g": null,
+        "proteins_100g": 0.5,
+        "salt_100g": 0.03,
+        "sodium_100g": 12.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 16,
+      "health_score": 20,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.69,
+          "promo_price": 3.75,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=3155253030780",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 5.13,
+          "promo_price": 4.1,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/search?q=3155253030780",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.37,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3155253030780",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.54,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3155253030780",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.05,
+          "promo_price": 2.52,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=3155253030780",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.46,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3155253030780",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.7,
+          "promo_price": 3.76,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=3155253030780",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 5.4,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": "1 + 1 gratis",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/producten/product/wi590697/pre%CC%81sident-roomboter-ongezouten",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    },
+    "3155253030797": {
+      "barcode": "3155253030797",
+      "domain": "food",
+      "names": {
+        "nl": "Président Roomboter gezouten",
+        "fr": "Président Roomboter gezouten",
+        "de": "Président Roomboter gezouten",
+        "en": "Président Roomboter gezouten",
+        "ar": "Président Roomboter gezouten"
+      },
+      "brand": "Président",
+      "net_weight": "200 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Ontdek de nieuwe roomboter met verlaagd vetgehalte (60%) van president.",
+      "descriptions": {
+        "nl": "Ontdek de nieuwe roomboter met verlaagd vetgehalte (60%) van president.",
+        "fr": "Président Roomboter gezouten par Président.",
+        "de": "Président Roomboter gezouten von Président.",
+        "en": "Président Roomboter gezouten by Président.",
+        "ar": "منتج Président Roomboter gezouten من Président."
+      },
+      "ingredients": {
+        "nl": "Ingredienten: Roomboter (MELK) , water, zout (1,6%), zuursel (MELK).",
+        "fr": "Ingredienten: Roomboter (MELK) , water, zout (1,6%), zuursel (MELK).",
+        "de": "Ingredienten: Roomboter (MELK) , water, zout (1,6%), zuursel (MELK).",
+        "en": "Ingredienten: Roomboter (MELK) , water, zout (1,6%), zuursel (MELK).",
+        "ar": "Ingredienten: Roomboter (MELK) , water, zout (1,6%), zuursel (MELK)."
+      },
+      "image": "images/3155253030797.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3155253030797.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4b2d414c37794b345468754875612d75746250347151?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "boter",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_315"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2242.0,
+        "calories_100g": 545.0,
+        "fat_100g": 60.0,
+        "saturated_fat_100g": 43.0,
+        "carbohydrates_100g": 0.8,
+        "sugars_100g": 0.8,
+        "fiber_100g": null,
+        "proteins_100g": 0.5,
+        "salt_100g": 1.6,
+        "sodium_100g": 640.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 23,
+      "health_score": 18,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/search?q=3155253030797",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.58,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3155253030797",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3155253030797",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.85,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3155253030797",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.76,
+          "promo_price": 2.21,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=3155253030797",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3155253030797",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.9,
+          "promo_price": 3.12,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=3155253030797",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.14,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": "1 + 1 gratis",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/producten/product/wi590696/pre%CC%81sident-roomboter-gezouten",
+          "updated_at": "2026-11-25T08:55:37.864569+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    },
+    "3153126826003": {
+      "barcode": "3153126826003",
+      "domain": "food",
+      "names": {
+        "nl": "Le Rustique Camembert",
+        "fr": "Le Rustique Camembert",
+        "de": "Le Rustique Camembert",
+        "en": "Le Rustique Camembert",
+        "ar": "Le Rustique Camembert"
+      },
+      "brand": "Le Rustique",
+      "net_weight": "250 g",
+      "allergens": [],
+      "description": "Gemaakt volgens een traditioneel recept, rijk en intens van smaak met een romige textuur. Eetbare korst!",
+      "descriptions": {
+        "nl": "Gemaakt volgens een traditioneel recept, rijk en intens van smaak met een romige textuur. Eetbare korst!",
+        "fr": "Le Rustique Camembert par Le Rustique.",
+        "de": "Le Rustique Camembert von Le Rustique.",
+        "en": "Le Rustique Camembert by Le Rustique.",
+        "ar": "منتج Le Rustique Camembert من Le Rustique."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Franse kaas van gepasteuriseerde koeMELK - 45% V.G. op droge stof",
+        "fr": "Ingrediënten: Franse kaas van gepasteuriseerde koeMELK - 45% V.G. op droge stof",
+        "de": "Ingrediënten: Franse kaas van gepasteuriseerde koeMELK - 45% V.G. op droge stof",
+        "en": "Ingrediënten: Franse kaas van gepasteuriseerde koeMELK - 45% V.G. op droge stof",
+        "ar": "Ingrediënten: Franse kaas van gepasteuriseerde koeMELK - 45% V.G. op droge stof"
+      },
+      "image": "images/3153126826003.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3153126826003.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_754f376847746d685450437a664f6e34493331776b51?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "kaas",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_315"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1114.0,
+        "calories_100g": 268.0,
+        "fat_100g": 20.0,
+        "saturated_fat_100g": 14.0,
+        "carbohydrates_100g": 1.0,
+        "sugars_100g": 0.5,
+        "fiber_100g": null,
+        "proteins_100g": 21.0,
+        "salt_100g": 1.6,
+        "sodium_100g": 640.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 15,
+      "health_score": 40,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "franse kaas van gepasteuriseerde koemelk - % v"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: franse kaas van gepasteuriseerde koemelk - % v",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: franse kaas van gepasteuriseerde koemelk - % v",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: franse kaas van gepasteuriseerde koemelk - % v",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : franse kaas van gepasteuriseerde koemelk - % v",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: franse kaas van gepasteuriseerde koemelk - % v",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: franse kaas van gepasteuriseerde koemelk - % v"
+      },
+      "stores": [
+        "delhaize.be",
+        "colruyt.be",
+        "carrefour.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.93,
+          "promo_price": 3.14,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=3153126826003",
+          "updated_at": "2026-11-25T09:43:28.817602+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.97,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3153126826003",
+          "updated_at": "2026-11-25T09:43:28.817602+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.65,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3153126826003",
+          "updated_at": "2026-11-25T09:43:28.817602+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.86,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/search?q=3153126826003",
+          "updated_at": "2026-11-25T09:43:28.817602+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.42,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3153126826003",
+          "updated_at": "2026-11-25T09:43:28.817602+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.54,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3153126826003",
+          "updated_at": "2026-11-25T09:43:28.817602+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.79,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/producten/product/wi143634/le-rustique-camembert",
+          "updated_at": "2026-11-25T09:43:28.817602+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.55,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3153126826003",
+          "updated_at": "2026-11-25T09:43:28.817602+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
     }
   }
 }

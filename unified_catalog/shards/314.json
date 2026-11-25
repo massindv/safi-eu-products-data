@@ -1,0 +1,201 @@
+{
+  "version": "2.0.0",
+  "prefix": "314",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 1,
+  "products": {
+    "3142920006070": {
+      "barcode": "3142920006070",
+      "domain": "food",
+      "names": {
+        "nl": "Gabriel Meffre Cotes-du-rhone villages St Siffrein",
+        "fr": "Gabriel Meffre Cotes-du-rhone villages St Siffrein",
+        "de": "Gabriel Meffre Cotes-du-rhone villages St Siffrein",
+        "en": "Gabriel Meffre Cotes-du-rhone villages St Siffrein",
+        "ar": "Gabriel Meffre Cotes-du-rhone villages St Siffrein"
+      },
+      "brand": "Gabriel Meffre",
+      "net_weight": "0,75 l",
+      "allergens": [],
+      "description": "Verrukkelijke rode wijn met de smaak van rijp fruit en geurige kruiden. Om lekker bij op te warmen en voor aan tafel. Deze komt van Meffre, een begrip in de Rhônestreek.",
+      "descriptions": {
+        "nl": "Verrukkelijke rode wijn met de smaak van rijp fruit en geurige kruiden. Om lekker bij op te warmen en voor aan tafel. Deze komt van Meffre, een begrip in de Rhônestreek.",
+        "fr": "Gabriel Meffre Cotes-du-rhone villages St Siffrein par Gabriel Meffre.",
+        "de": "Gabriel Meffre Cotes-du-rhone villages St Siffrein von Gabriel Meffre.",
+        "en": "Gabriel Meffre Cotes-du-rhone villages St Siffrein by Gabriel Meffre.",
+        "ar": "منتج Gabriel Meffre Cotes-du-rhone villages St Siffrein من Gabriel Meffre."
+      },
+      "ingredients": {
+        "nl": "Contains sulfites",
+        "fr": "Contains sulfites",
+        "de": "Contains sulfites",
+        "en": "Contains sulfites",
+        "ar": "Contains sulfites"
+      },
+      "image": "images/3142920006070.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3142920006070.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354525f36303034333936?revLabel=6&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "soep",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_314"
+      },
+      "nutrition_per_100g": {},
+      "official_nutriscore": null,
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "health_score": null,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "wijn"
+      ],
+      "reason": "Alcohol / كحول (wijn)",
+      "explanations": {
+        "ar": "كحول محرم قطعا (wijn)",
+        "en": "Alcohol / كحول (wijn)",
+        "fr": "Alcool interdit (wijn)",
+        "nl": "Verboden alcohol (wijn)",
+        "de": "Verbotener Alkohol (wijn)"
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.54,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/search?q=3142920006070",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.07,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3142920006070",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.56,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3142920006070",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.61,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3142920006070",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3142920006070",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.52,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3142920006070",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.88,
+          "promo_price": 1.44,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=3142920006070",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.14,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/producten/product/wi440996/gabriel-meffre-cotes-du-rhone-villages-st-siffrein",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    }
+  }
+}

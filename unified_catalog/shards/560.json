@@ -1,0 +1,212 @@
+{
+  "version": "2.0.0",
+  "prefix": "560",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 1,
+  "products": {
+    "5601151960486": {
+      "barcode": "5601151960486",
+      "domain": "food",
+      "names": {
+        "nl": "Guaraná Antarctica zero",
+        "fr": "Guaraná Antarctica zero",
+        "de": "Guaraná Antarctica zero",
+        "en": "Guaraná Antarctica zero",
+        "ar": "Guaraná Antarctica zero"
+      },
+      "brand": "Guaraná",
+      "net_weight": "330 ml",
+      "allergens": [],
+      "description": "Guarana zero is een fruitige frisdrank zonder suiker die haar smaak dankt aan de unieke guarana bes uit brazilie. Beleef het braziliaanse gevoel van zon, zee, strand, samba en carnaval met guarana.",
+      "descriptions": {
+        "nl": "Guarana zero is een fruitige frisdrank zonder suiker die haar smaak dankt aan de unieke guarana bes uit brazilie. Beleef het braziliaanse gevoel van zon, zee, strand, samba en carnaval met guarana.",
+        "fr": "Guaraná Antarctica zero par Guaraná.",
+        "de": "Guaraná Antarctica zero von Guaraná.",
+        "en": "Guaraná Antarctica zero by Guaraná.",
+        "ar": "منتج Guaraná Antarctica zero من Guaraná."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: water, kooldioxide, guarana-extract (0,017%), natuurlijke aroma's, voedingszuur: citroenzuur, conserveermiddel (E 211), zoetstoffen (E 950, E 955) en kleur (E 150d).",
+        "fr": "Ingrediënten: water, kooldioxide, guarana-extract (0,017%), natuurlijke aroma's, voedingszuur: citroenzuur, conserveermiddel (E 211), zoetstoffen (E 950, E 955) en kleur (E 150d).",
+        "de": "Ingrediënten: water, kooldioxide, guarana-extract (0,017%), natuurlijke aroma's, voedingszuur: citroenzuur, conserveermiddel (E 211), zoetstoffen (E 950, E 955) en kleur (E 150d).",
+        "en": "Ingrediënten: water, kooldioxide, guarana-extract (0,017%), natuurlijke aroma's, voedingszuur: citroenzuur, conserveermiddel (E 211), zoetstoffen (E 950, E 955) en kleur (E 150d).",
+        "ar": "Ingrediënten: water, kooldioxide, guarana-extract (0,017%), natuurlijke aroma's, voedingszuur: citroenzuur, conserveermiddel (E 211), zoetstoffen (E 950, E 955) en kleur (E 150d)."
+      },
+      "image": "images/5601151960486.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5601151960486.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_55796b336758704b51316170634e6270666c2d686251?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "frisdrank",
+      "origin_country": {
+        "name": "Portugal",
+        "code": "PT",
+        "flag": "🇵🇹",
+        "inferred_from": "GS1_560"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1.0,
+        "calories_100g": 0.2,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.01,
+        "sodium_100g": 4.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 0,
+      "health_score": 65,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijke aroma's"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijke aroma's",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijke aroma's",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijke aroma's",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijke aroma's"
+      },
+      "stores": [
+        "colruyt.be",
+        "carrefour.be",
+        "ah.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.86,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5601151960486",
+          "updated_at": "2026-11-25T08:46:06.330781+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5601151960486",
+          "updated_at": "2026-11-25T08:46:06.330781+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 5.04,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi568471/guarana%CC%81-antarctica-zero",
+          "updated_at": "2026-11-25T08:46:06.330781+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 5.48,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5601151960486",
+          "updated_at": "2026-11-25T08:46:06.330781+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.51,
+          "promo_price": 4.41,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=5601151960486",
+          "updated_at": "2026-11-25T08:46:06.330781+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 5.0,
+          "promo_price": 4.0,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=5601151960486",
+          "updated_at": "2026-11-25T08:46:06.330781+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 5.15,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5601151960486",
+          "updated_at": "2026-11-25T08:46:06.330781+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 5.31,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5601151960486",
+          "updated_at": "2026-11-25T08:46:06.330781+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    }
+  }
+}

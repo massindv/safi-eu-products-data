@@ -1,0 +1,212 @@
+{
+  "version": "2.0.0",
+  "prefix": "009",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 1,
+  "products": {
+    "0090478000787": {
+      "barcode": "0090478000787",
+      "domain": "food",
+      "names": {
+        "nl": "Jarritos Mango soda",
+        "fr": "Jarritos Mango soda",
+        "de": "Jarritos Mango soda",
+        "en": "Jarritos Mango soda",
+        "ar": "Jarritos Mango soda"
+      },
+      "brand": "Jarritos",
+      "net_weight": "370 ml",
+      "allergens": [],
+      "description": "De populaire Mexicaanse Mangofrisdrank met natuurlijke smaak gemaakt met 100% echte suiker.",
+      "descriptions": {
+        "nl": "De populaire Mexicaanse Mangofrisdrank met natuurlijke smaak gemaakt met 100% echte suiker.",
+        "fr": "Jarritos Mango soda par Jarritos.",
+        "de": "Jarritos Mango soda von Jarritos.",
+        "en": "Jarritos Mango soda by Jarritos.",
+        "ar": "منتج Jarritos Mango soda من Jarritos."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Koolzuurhoudend water, suiker, groente- en fruitconcentraat (wortel, appel), zuurteregelaar: E330, natuurlijke aroma's, antioxidant: E300, conserveermiddel: E202.",
+        "fr": "Ingrediënten: Koolzuurhoudend water, suiker, groente- en fruitconcentraat (wortel, appel), zuurteregelaar: E330, natuurlijke aroma's, antioxidant: E300, conserveermiddel: E202.",
+        "de": "Ingrediënten: Koolzuurhoudend water, suiker, groente- en fruitconcentraat (wortel, appel), zuurteregelaar: E330, natuurlijke aroma's, antioxidant: E300, conserveermiddel: E202.",
+        "en": "Ingrediënten: Koolzuurhoudend water, suiker, groente- en fruitconcentraat (wortel, appel), zuurteregelaar: E330, natuurlijke aroma's, antioxidant: E300, conserveermiddel: E202.",
+        "ar": "Ingrediënten: Koolzuurhoudend water, suiker, groente- en fruitconcentraat (wortel, appel), zuurteregelaar: E330, natuurlijke aroma's, antioxidant: E300, conserveermiddel: E202."
+      },
+      "image": "images/0090478000787.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/0090478000787.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130303336353834?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "frisdrank",
+      "origin_country": {
+        "name": "United States",
+        "code": "US",
+        "flag": "🇺🇸",
+        "inferred_from": "GS1_009"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 161.0,
+        "calories_100g": 38.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 9.4,
+        "sugars_100g": 9.4,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.0,
+        "sodium_100g": 0.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 2,
+      "health_score": 24,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijke aroma's"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijke aroma's",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijke aroma's",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijke aroma's",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijke aroma's"
+      },
+      "stores": [
+        "delhaize.be",
+        "carrefour.be",
+        "colruyt.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.5,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=0090478000787",
+          "updated_at": "2026-11-25T08:41:50.428012+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.82,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=0090478000787",
+          "updated_at": "2026-11-25T08:41:50.428012+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 5.05,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=0090478000787",
+          "updated_at": "2026-11-25T08:41:50.428012+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 5.37,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi570855/jarritos-mango-soda",
+          "updated_at": "2026-11-25T08:41:50.428012+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.32,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=0090478000787",
+          "updated_at": "2026-11-25T08:41:50.428012+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 5.11,
+          "promo_price": 4.09,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=0090478000787",
+          "updated_at": "2026-11-25T08:41:50.428012+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.44,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=0090478000787",
+          "updated_at": "2026-11-25T08:41:50.428012+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 5.37,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=0090478000787",
+          "updated_at": "2026-11-25T08:41:50.428012+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    }
+  }
+}

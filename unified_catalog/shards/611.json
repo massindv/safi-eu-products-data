@@ -1,0 +1,216 @@
+{
+  "version": "2.0.0",
+  "prefix": "611",
+  "generated_at": "2026-11-25T12:55:04.466998+00:00",
+  "product_count": 1,
+  "products": {
+    "6111180007131": {
+      "barcode": "6111180007131",
+      "domain": "food",
+      "names": {
+        "nl": "Ideal Harira",
+        "fr": "Ideal Harira",
+        "de": "Ideal Harira",
+        "en": "Ideal Harira",
+        "ar": "Ideal Harira"
+      },
+      "brand": "Ideal",
+      "net_weight": "135 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "description": "De traditionele marokkaanse soep.",
+      "descriptions": {
+        "nl": "De traditionele marokkaanse soep.",
+        "fr": "Ideal Harira par Ideal.",
+        "de": "Ideal Harira von Ideal.",
+        "en": "Ideal Harira by Ideal.",
+        "ar": "منتج Ideal Harira من Ideal."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEMEEL, groenten: (tomaat 7,5%, linzen, kikkererwten, ui 0,9%, SELDER), maltodextrine, mïszetmeel, vermicelli van harde TARWE (11,2%), zout, sojaolie, smaakversterker: glutamate monosodium (E-621), specerijen: (zachte spaanse peper, kurkuma, peper, kaneel), gist, peterselie, suiker, citroenzuur E330, aroma. Kan sporen bevatten van: vis.",
+        "fr": "Ingrediënten: TARWEMEEL, groenten: (tomaat 7,5%, linzen, kikkererwten, ui 0,9%, SELDER), maltodextrine, mïszetmeel, vermicelli van harde TARWE (11,2%), zout, sojaolie, smaakversterker: glutamate monosodium (E-621), specerijen: (zachte spaanse peper, kurkuma, peper, kaneel), gist, peterselie, suiker, citroenzuur E330, aroma. Kan sporen bevatten van: vis.",
+        "de": "Ingrediënten: TARWEMEEL, groenten: (tomaat 7,5%, linzen, kikkererwten, ui 0,9%, SELDER), maltodextrine, mïszetmeel, vermicelli van harde TARWE (11,2%), zout, sojaolie, smaakversterker: glutamate monosodium (E-621), specerijen: (zachte spaanse peper, kurkuma, peper, kaneel), gist, peterselie, suiker, citroenzuur E330, aroma. Kan sporen bevatten van: vis.",
+        "en": "Ingrediënten: TARWEMEEL, groenten: (tomaat 7,5%, linzen, kikkererwten, ui 0,9%, SELDER), maltodextrine, mïszetmeel, vermicelli van harde TARWE (11,2%), zout, sojaolie, smaakversterker: glutamate monosodium (E-621), specerijen: (zachte spaanse peper, kurkuma, peper, kaneel), gist, peterselie, suiker, citroenzuur E330, aroma. Kan sporen bevatten van: vis.",
+        "ar": "Ingrediënten: TARWEMEEL, groenten: (tomaat 7,5%, linzen, kikkererwten, ui 0,9%, SELDER), maltodextrine, mïszetmeel, vermicelli van harde TARWE (11,2%), zout, sojaolie, smaakversterker: glutamate monosodium (E-621), specerijen: (zachte spaanse peper, kurkuma, peper, kaneel), gist, peterselie, suiker, citroenzuur E330, aroma. Kan sporen bevatten van: vis."
+      },
+      "image": "images/6111180007131.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/6111180007131.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_793045396454583451443273325f6b583366695a7467?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "soep",
+      "origin_country": {
+        "name": "Morocco",
+        "code": "MA",
+        "flag": "🇲🇦",
+        "inferred_from": "GS1_611"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1446.0,
+        "calories_100g": 342.0,
+        "fat_100g": 4.2,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 60.0,
+        "sugars_100g": 14.0,
+        "fiber_100g": 8.3,
+        "proteins_100g": 12.0,
+        "salt_100g": 7.5,
+        "sodium_100g": 3000.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 7,
+      "health_score": 23,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma"
+      },
+      "stores": [
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.43,
+          "promo_price": 1.22,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/search?q=6111180007131",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.25,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=6111180007131",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.27,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=6111180007131",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.39,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=6111180007131",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.3,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=6111180007131",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.18,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=6111180007131",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.78,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=6111180007131",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.32,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/producten/product/wi457973/ideal-harira",
+          "updated_at": "2026-11-25T09:14:46.247875+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    }
+  }
+}
