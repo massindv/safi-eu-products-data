@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "425",
-  "generated_at": "2026-11-25T13:11:47.605227+00:00",
-  "product_count": 4,
+  "generated_at": "2026-11-25T13:24:02.241723+00:00",
+  "product_count": 5,
   "products": {
     "4250519647890": {
       "barcode": "4250519647890",
@@ -831,6 +831,213 @@
         }
       ],
       "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    },
+    "4250519677057": {
+      "barcode": "4250519677057",
+      "domain": "food",
+      "names": {
+        "nl": "ESN Designer protein bar strawberry yoghurt",
+        "fr": "ESN Designer protein bar strawberry yoghurt",
+        "de": "ESN Designer protein bar strawberry yoghurt",
+        "en": "ESN Designer protein bar strawberry yoghurt",
+        "ar": "ESN Designer protein bar strawberry yoghurt"
+      },
+      "brand": "ESN",
+      "net_weight": "45 g",
+      "allergens": [
+        "Soy",
+        "Milk"
+      ],
+      "description": "ESN Designer protein bar strawberry yoghurt (ESN).",
+      "descriptions": {
+        "nl": "ESN Designer protein bar strawberry yoghurt (ESN).",
+        "fr": "ESN Designer protein bar strawberry yoghurt par ESN.",
+        "de": "ESN Designer protein bar strawberry yoghurt von ESN.",
+        "en": "ESN Designer protein bar strawberry yoghurt by ESN.",
+        "ar": "منتج ESN Designer protein bar strawberry yoghurt من ESN."
+      },
+      "ingredients": {
+        "nl": "Melkeiwit, zoetstoffen (maltitol), collageenpeptiden (rund), bevochtigingsmiddel (glycerol), cacaoboter, vollemelkpoeder, vulstoffen (polydextrose), palmvet,cacaomassa, zonnebloemolie, volle melk yoghurtpoeder, aardbeien stukjes, koolzaadolie, aroma, palmolie, voedingszuur (citroenzuur), keukenzout, aardbeipoeder, emulgatoren (lecithinen (soja)*), kleurend voedingsmiddel (bietenconcentraat), zoetstoffen (sucralose) Oorsprong ingrediënten: EU/Niet-EU.",
+        "fr": "Melkeiwit, zoetstoffen (maltitol), collageenpeptiden (rund), bevochtigingsmiddel (glycerol), cacaoboter, vollemelkpoeder, vulstoffen (polydextrose), palmvet,cacaomassa, zonnebloemolie, volle melk yoghurtpoeder, aardbeien stukjes, koolzaadolie, aroma, palmolie, voedingszuur (citroenzuur), keukenzout, aardbeipoeder, emulgatoren (lecithinen (soja)*), kleurend voedingsmiddel (bietenconcentraat), zoetstoffen (sucralose) Oorsprong ingrediënten: EU/Niet-EU.",
+        "de": "Melkeiwit, zoetstoffen (maltitol), collageenpeptiden (rund), bevochtigingsmiddel (glycerol), cacaoboter, vollemelkpoeder, vulstoffen (polydextrose), palmvet,cacaomassa, zonnebloemolie, volle melk yoghurtpoeder, aardbeien stukjes, koolzaadolie, aroma, palmolie, voedingszuur (citroenzuur), keukenzout, aardbeipoeder, emulgatoren (lecithinen (soja)*), kleurend voedingsmiddel (bietenconcentraat), zoetstoffen (sucralose) Oorsprong ingrediënten: EU/Niet-EU.",
+        "en": "Melkeiwit, zoetstoffen (maltitol), collageenpeptiden (rund), bevochtigingsmiddel (glycerol), cacaoboter, vollemelkpoeder, vulstoffen (polydextrose), palmvet,cacaomassa, zonnebloemolie, volle melk yoghurtpoeder, aardbeien stukjes, koolzaadolie, aroma, palmolie, voedingszuur (citroenzuur), keukenzout, aardbeipoeder, emulgatoren (lecithinen (soja)*), kleurend voedingsmiddel (bietenconcentraat), zoetstoffen (sucralose) Oorsprong ingrediënten: EU/Niet-EU.",
+        "ar": "Melkeiwit, zoetstoffen (maltitol), collageenpeptiden (rund), bevochtigingsmiddel (glycerol), cacaoboter, vollemelkpoeder, vulstoffen (polydextrose), palmvet,cacaomassa, zonnebloemolie, volle melk yoghurtpoeder, aardbeien stukjes, koolzaadolie, aroma, palmolie, voedingszuur (citroenzuur), keukenzout, aardbeipoeder, emulgatoren (lecithinen (soja)*), kleurend voedingsmiddel (bietenconcentraat), zoetstoffen (sucralose) Oorsprong ingrediënten: EU/Niet-EU."
+      },
+      "image": "images/4250519677057.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4250519677057.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_452d6e734746666b5478573364586542746e61637167?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "koek",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_425"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1668.0,
+        "calories_100g": 398.0,
+        "fat_100g": 19.0,
+        "saturated_fat_100g": 10.0,
+        "carbohydrates_100g": 32.0,
+        "sugars_100g": 4.4,
+        "fiber_100g": 4.1,
+        "proteins_100g": 33.0,
+        "salt_100g": 0.47,
+        "sodium_100g": 188.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 6,
+      "health_score": 43,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "rund"
+      ],
+      "reason": "Uncertified Meat / لحم غير مذبوح حلال (rund)",
+      "explanations": {
+        "ar": "لحوم أو دواجن غير حاصلة على شهادة ذبح حلال (rund)",
+        "en": "Uncertified Meat / لحم غير مذبوح حلال (rund)",
+        "fr": "Viande ou volaille non certifiée Halal (rund)",
+        "nl": "Niet-gecertificeerd vlees of gevogelte zonder Halal-certificaat (rund)",
+        "de": "Nicht zertifiziertes Fleisch oder Geflügel ohne Halal-Zertifikat (rund)"
+      },
+      "stores": [
+        "colruyt.be",
+        "carrefour.be",
+        "ah.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.29,
+          "promo_price": 3.43,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=4250519677057",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.56,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4250519677057",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.88,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi607243/esn-designer-protein-bar-strawberry-yoghurt",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.25,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4250519677057",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.51,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4250519677057",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.84,
+          "promo_price": 3.07,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=4250519677057",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.44,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4250519677057",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.58,
+          "promo_price": 3.66,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=4250519677057",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T13:24:02.241723+00:00"
     }
   }
 }

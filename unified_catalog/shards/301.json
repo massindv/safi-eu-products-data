@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "301",
-  "generated_at": "2026-11-25T13:11:47.605227+00:00",
-  "product_count": 2,
+  "generated_at": "2026-11-25T13:24:02.241723+00:00",
+  "product_count": 3,
   "products": {
     "3017760363396": {
       "barcode": "3017760363396",
@@ -419,6 +419,217 @@
         }
       ],
       "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    },
+    "3017760570497": {
+      "barcode": "3017760570497",
+      "domain": "food",
+      "names": {
+        "nl": "LU Prince cake & choc",
+        "fr": "LU Prince cake & choc",
+        "de": "LU Prince cake & choc",
+        "en": "LU Prince cake & choc",
+        "ar": "LU Prince cake & choc"
+      },
+      "brand": "LU",
+      "net_weight": "150 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk",
+        "Eggs"
+      ],
+      "description": "Prince cake en choc zijn zachte cakejes gevuld met chocoladestukjes. Een unieke smaak!",
+      "descriptions": {
+        "nl": "Prince cake en choc zijn zachte cakejes gevuld met chocoladestukjes. Een unieke smaak!",
+        "fr": "LU Prince cake & choc par LU.",
+        "de": "LU Prince cake & choc von LU.",
+        "en": "LU Prince cake & choc by LU.",
+        "ar": "منتج LU Prince cake & choc من LU."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEBLOEM 23 %, chocoladestukjes 18 % [suiker, cacaomassa, emulgator (SOJALECITHINEN)], palmolie, EIEREN, suiker, glucose-fructosestroop, stabilisator (glycerol), rijsmiddelen (difosfaten, natriumcarbonaten), zout, verdikkingsmiddel (xanthaangom), glucosestroop, emulgatoren (E472b, E475), aroma, magere MELKPOEDER.",
+        "fr": "Ingrediënten: TARWEBLOEM 23 %, chocoladestukjes 18 % [suiker, cacaomassa, emulgator (SOJALECITHINEN)], palmolie, EIEREN, suiker, glucose-fructosestroop, stabilisator (glycerol), rijsmiddelen (difosfaten, natriumcarbonaten), zout, verdikkingsmiddel (xanthaangom), glucosestroop, emulgatoren (E472b, E475), aroma, magere MELKPOEDER.",
+        "de": "Ingrediënten: TARWEBLOEM 23 %, chocoladestukjes 18 % [suiker, cacaomassa, emulgator (SOJALECITHINEN)], palmolie, EIEREN, suiker, glucose-fructosestroop, stabilisator (glycerol), rijsmiddelen (difosfaten, natriumcarbonaten), zout, verdikkingsmiddel (xanthaangom), glucosestroop, emulgatoren (E472b, E475), aroma, magere MELKPOEDER.",
+        "en": "Ingrediënten: TARWEBLOEM 23 %, chocoladestukjes 18 % [suiker, cacaomassa, emulgator (SOJALECITHINEN)], palmolie, EIEREN, suiker, glucose-fructosestroop, stabilisator (glycerol), rijsmiddelen (difosfaten, natriumcarbonaten), zout, verdikkingsmiddel (xanthaangom), glucosestroop, emulgatoren (E472b, E475), aroma, magere MELKPOEDER.",
+        "ar": "Ingrediënten: TARWEBLOEM 23 %, chocoladestukjes 18 % [suiker, cacaomassa, emulgator (SOJALECITHINEN)], palmolie, EIEREN, suiker, glucose-fructosestroop, stabilisator (glycerol), rijsmiddelen (difosfaten, natriumcarbonaten), zout, verdikkingsmiddel (xanthaangom), glucosestroop, emulgatoren (E472b, E475), aroma, magere MELKPOEDER."
+      },
+      "image": "images/3017760570497.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3017760570497.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4272383171626a6b5268715a455737736e6464476c77?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "koek",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_301"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1840.0,
+        "calories_100g": 440.0,
+        "fat_100g": 23.0,
+        "saturated_fat_100g": 11.0,
+        "carbohydrates_100g": 53.0,
+        "sugars_100g": 30.0,
+        "fiber_100g": 2.7,
+        "proteins_100g": 5.2,
+        "salt_100g": 0.84,
+        "sodium_100g": 336.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 19,
+      "health_score": 19,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "glycerol",
+        "emulgatoren",
+        "e472b"
+      ],
+      "reason": "Emulsifier with unspecified plant/animal origin requires source verification: glycerol, emulgatoren, e472b",
+      "explanations": {
+        "ar": "مستحلب ثنائي المصدر يتطلب التحقق من المصدر: glycerol, emulgatoren, e472b",
+        "en": "Emulsifier with unspecified plant/animal origin requires source verification: glycerol, emulgatoren, e472b",
+        "fr": "Émulsifiant d'origine végétale/animale non spécifiée nécessitant une vérification : glycerol, emulgatoren, e472b",
+        "nl": "Emulgator met ongespecificeerde plantaardige/dierlijke oorsprong vereist controle: glycerol, emulgatoren, e472b",
+        "de": "Emulgator mit unbestimmter pflanzlicher/tierischer Herkunft erfordert Prüfung: glycerol, emulgatoren, e472b"
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.49,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": "2 + 1 gratis",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi132698/lu-prince-cake-en-choc",
+          "updated_at": "2026-11-25T13:14:35.016522+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.78,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3017760570497",
+          "updated_at": "2026-11-25T13:14:35.016522+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.93,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3017760570497",
+          "updated_at": "2026-11-25T13:14:35.016522+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.41,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3017760570497",
+          "updated_at": "2026-11-25T13:14:35.016522+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.44,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3017760570497",
+          "updated_at": "2026-11-25T13:14:35.016522+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.31,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3017760570497",
+          "updated_at": "2026-11-25T13:14:35.016522+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.4,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3017760570497",
+          "updated_at": "2026-11-25T13:14:35.016522+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.45,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=3017760570497",
+          "updated_at": "2026-11-25T13:14:35.016522+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T13:14:35.016522+00:00"
     }
   }
 }

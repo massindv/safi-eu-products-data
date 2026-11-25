@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "734",
-  "generated_at": "2026-11-25T13:11:47.605227+00:00",
-  "product_count": 7,
+  "generated_at": "2026-11-25T13:24:02.241723+00:00",
+  "product_count": 8,
   "products": {
     "7340222802772": {
       "barcode": "7340222802772",
@@ -1453,6 +1453,217 @@
         }
       ],
       "updated_at": "2026-11-25T12:04:03.079846+00:00"
+    },
+    "7340001801972": {
+      "barcode": "7340001801972",
+      "domain": "food",
+      "names": {
+        "nl": "Barebells Protein bar hazelnut & nougat",
+        "fr": "Barebells Protein bar hazelnut & nougat",
+        "de": "Barebells Protein bar hazelnut & nougat",
+        "en": "Barebells Protein bar hazelnut & nougat",
+        "ar": "Barebells Protein bar hazelnut & nougat"
+      },
+      "brand": "Barebells",
+      "net_weight": "55 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk",
+        "Peanuts",
+        "Tree Nuts"
+      ],
+      "description": "Barebells Protein bar hazelnut & nougat (Barebells).",
+      "descriptions": {
+        "nl": "Barebells Protein bar hazelnut & nougat (Barebells).",
+        "fr": "Barebells Protein bar hazelnut & nougat par Barebells.",
+        "de": "Barebells Protein bar hazelnut & nougat von Barebells.",
+        "en": "Barebells Protein bar hazelnut & nougat by Barebells.",
+        "ar": "منتج Barebells Protein bar hazelnut & nougat من Barebells."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: MELKEIWITTEN, bevochtigingsmiddel (glycerol), collageenhydrolysaat, zoetstoffen (maltitolen, sucralose, acesulfaam-K), polydextrose, water, cacaoboter, geroosterde HAZELNOTEN, volle MELKPOEDER, zonnebloemolie, cacaomassa, magere cacao, aroma's, emulgator (lecithinen). Kan sporen van GLUTENBEVATTENDE GRANEN, SOJA, PINDA'S en andere NOTEN bevatten.",
+        "fr": "Ingrediënten: MELKEIWITTEN, bevochtigingsmiddel (glycerol), collageenhydrolysaat, zoetstoffen (maltitolen, sucralose, acesulfaam-K), polydextrose, water, cacaoboter, geroosterde HAZELNOTEN, volle MELKPOEDER, zonnebloemolie, cacaomassa, magere cacao, aroma's, emulgator (lecithinen). Kan sporen van GLUTENBEVATTENDE GRANEN, SOJA, PINDA'S en andere NOTEN bevatten.",
+        "de": "Ingrediënten: MELKEIWITTEN, bevochtigingsmiddel (glycerol), collageenhydrolysaat, zoetstoffen (maltitolen, sucralose, acesulfaam-K), polydextrose, water, cacaoboter, geroosterde HAZELNOTEN, volle MELKPOEDER, zonnebloemolie, cacaomassa, magere cacao, aroma's, emulgator (lecithinen). Kan sporen van GLUTENBEVATTENDE GRANEN, SOJA, PINDA'S en andere NOTEN bevatten.",
+        "en": "Ingrediënten: MELKEIWITTEN, bevochtigingsmiddel (glycerol), collageenhydrolysaat, zoetstoffen (maltitolen, sucralose, acesulfaam-K), polydextrose, water, cacaoboter, geroosterde HAZELNOTEN, volle MELKPOEDER, zonnebloemolie, cacaomassa, magere cacao, aroma's, emulgator (lecithinen). Kan sporen van GLUTENBEVATTENDE GRANEN, SOJA, PINDA'S en andere NOTEN bevatten.",
+        "ar": "Ingrediënten: MELKEIWITTEN, bevochtigingsmiddel (glycerol), collageenhydrolysaat, zoetstoffen (maltitolen, sucralose, acesulfaam-K), polydextrose, water, cacaoboter, geroosterde HAZELNOTEN, volle MELKPOEDER, zonnebloemolie, cacaomassa, magere cacao, aroma's, emulgator (lecithinen). Kan sporen van GLUTENBEVATTENDE GRANEN, SOJA, PINDA'S en andere NOTEN bevatten."
+      },
+      "image": "images/7340001801972.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7340001801972.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_3071425657764552534671656145314b424f5a4d5467?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "koek",
+      "origin_country": {
+        "name": "Sweden",
+        "code": "SE",
+        "flag": "🇸🇪",
+        "inferred_from": "GS1_734"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1562.0,
+        "calories_100g": 374.0,
+        "fat_100g": 16.0,
+        "saturated_fat_100g": 6.5,
+        "carbohydrates_100g": 29.0,
+        "sugars_100g": 2.6,
+        "fiber_100g": 5.3,
+        "proteins_100g": 36.0,
+        "salt_100g": 0.2,
+        "sodium_100g": 80.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "b",
+      "nutriscore_score": 0,
+      "health_score": 78,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "glycerol",
+        "emulgator"
+      ],
+      "reason": "Emulsifier with unspecified plant/animal origin requires source verification: glycerol, emulgator",
+      "explanations": {
+        "ar": "مستحلب ثنائي المصدر يتطلب التحقق من المصدر: glycerol, emulgator",
+        "en": "Emulsifier with unspecified plant/animal origin requires source verification: glycerol, emulgator",
+        "fr": "Émulsifiant d'origine végétale/animale non spécifiée nécessitant une vérification : glycerol, emulgator",
+        "nl": "Emulgator met ongespecificeerde plantaardige/dierlijke oorsprong vereist controle: glycerol, emulgator",
+        "de": "Emulgator mit unbestimmter pflanzlicher/tierischer Herkunft erfordert Prüfung: glycerol, emulgator"
+      },
+      "stores": [
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.05,
+          "promo_price": 1.64,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=7340001801972",
+          "updated_at": "2026-11-25T13:21:21.351290+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.5,
+          "promo_price": 2.0,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=7340001801972",
+          "updated_at": "2026-11-25T13:21:21.351290+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.62,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=7340001801972",
+          "updated_at": "2026-11-25T13:21:21.351290+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.68,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi451891/barebells-protein-bar-hazelnut-en-nougat",
+          "updated_at": "2026-11-25T13:21:21.351290+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.38,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=7340001801972",
+          "updated_at": "2026-11-25T13:21:21.351290+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.09,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=7340001801972",
+          "updated_at": "2026-11-25T13:21:21.351290+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.09,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=7340001801972",
+          "updated_at": "2026-11-25T13:21:21.351290+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.81,
+          "promo_price": 2.25,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=7340001801972",
+          "updated_at": "2026-11-25T13:21:21.351290+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T13:21:21.351290+00:00"
     }
   }
 }

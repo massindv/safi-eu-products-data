@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "501",
-  "generated_at": "2026-11-25T13:11:47.605227+00:00",
-  "product_count": 19,
+  "generated_at": "2026-11-25T13:24:02.241723+00:00",
+  "product_count": 20,
   "products": {
     "5016599010639": {
       "barcode": "5016599010639",
@@ -3890,6 +3890,215 @@
         }
       ],
       "updated_at": "2026-11-25T12:59:17.970288+00:00"
+    },
+    "5013387207622": {
+      "barcode": "5013387207622",
+      "domain": "food",
+      "names": {
+        "nl": "Prewetts Enrobed vanilla creams",
+        "fr": "Prewetts Enrobed vanilla creams",
+        "de": "Prewetts Enrobed vanilla creams",
+        "en": "Prewetts Enrobed vanilla creams",
+        "ar": "Prewetts Enrobed vanilla creams"
+      },
+      "brand": "Prewetts",
+      "net_weight": "192 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Tree Nuts"
+      ],
+      "description": "Een echt verwenkoekje, omhuld met belgische chocolade. En nog glutenvrij ook!",
+      "descriptions": {
+        "nl": "Een echt verwenkoekje, omhuld met belgische chocolade. En nog glutenvrij ook!",
+        "fr": "Prewetts Enrobed vanilla creams par Prewetts.",
+        "de": "Prewetts Enrobed vanilla creams von Prewetts.",
+        "en": "Prewetts Enrobed vanilla creams by Prewetts.",
+        "ar": "منتج Prewetts Enrobed vanilla creams من Prewetts."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Omhulling van Belgische chocolade (38%) [suiker, cacaoboter, volleMELKpoeder, cacaomassa, emulgator (SOJAlecithine), smaakstof], suiker, glutenvrij HAVERmeel, poedersuiker, palmolie, aardappelzetmeel, SOJAbloem, palmvet, rijstmeel, koolzaadolie, cacaopoeder, magere cacaopoeder, gedeeltelijk geïnverteerde suikersiroop, kleurstof (karamel), smaakstof, verdikkingsmiddel (xanthaangom), rijsmiddel(natriumbicarbonaat), zout, emulgator (mono- en diglyceridenvan vetzuren). Kan noten bevatten.",
+        "fr": "Ingrediënten: Omhulling van Belgische chocolade (38%) [suiker, cacaoboter, volleMELKpoeder, cacaomassa, emulgator (SOJAlecithine), smaakstof], suiker, glutenvrij HAVERmeel, poedersuiker, palmolie, aardappelzetmeel, SOJAbloem, palmvet, rijstmeel, koolzaadolie, cacaopoeder, magere cacaopoeder, gedeeltelijk geïnverteerde suikersiroop, kleurstof (karamel), smaakstof, verdikkingsmiddel (xanthaangom), rijsmiddel(natriumbicarbonaat), zout, emulgator (mono- en diglyceridenvan vetzuren). Kan noten bevatten.",
+        "de": "Ingrediënten: Omhulling van Belgische chocolade (38%) [suiker, cacaoboter, volleMELKpoeder, cacaomassa, emulgator (SOJAlecithine), smaakstof], suiker, glutenvrij HAVERmeel, poedersuiker, palmolie, aardappelzetmeel, SOJAbloem, palmvet, rijstmeel, koolzaadolie, cacaopoeder, magere cacaopoeder, gedeeltelijk geïnverteerde suikersiroop, kleurstof (karamel), smaakstof, verdikkingsmiddel (xanthaangom), rijsmiddel(natriumbicarbonaat), zout, emulgator (mono- en diglyceridenvan vetzuren). Kan noten bevatten.",
+        "en": "Ingrediënten: Omhulling van Belgische chocolade (38%) [suiker, cacaoboter, volleMELKpoeder, cacaomassa, emulgator (SOJAlecithine), smaakstof], suiker, glutenvrij HAVERmeel, poedersuiker, palmolie, aardappelzetmeel, SOJAbloem, palmvet, rijstmeel, koolzaadolie, cacaopoeder, magere cacaopoeder, gedeeltelijk geïnverteerde suikersiroop, kleurstof (karamel), smaakstof, verdikkingsmiddel (xanthaangom), rijsmiddel(natriumbicarbonaat), zout, emulgator (mono- en diglyceridenvan vetzuren). Kan noten bevatten.",
+        "ar": "Ingrediënten: Omhulling van Belgische chocolade (38%) [suiker, cacaoboter, volleMELKpoeder, cacaomassa, emulgator (SOJAlecithine), smaakstof], suiker, glutenvrij HAVERmeel, poedersuiker, palmolie, aardappelzetmeel, SOJAbloem, palmvet, rijstmeel, koolzaadolie, cacaopoeder, magere cacaopoeder, gedeeltelijk geïnverteerde suikersiroop, kleurstof (karamel), smaakstof, verdikkingsmiddel (xanthaangom), rijsmiddel(natriumbicarbonaat), zout, emulgator (mono- en diglyceridenvan vetzuren). Kan noten bevatten."
+      },
+      "image": "images/5013387207622.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5013387207622.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_454d47486549636a5138796144365a6e444b634b7277?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "koek",
+      "origin_country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "flag": "🇬🇧",
+        "inferred_from": "GS1_501"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2167.0,
+        "calories_100g": 518.0,
+        "fat_100g": 25.6,
+        "saturated_fat_100g": 13.6,
+        "carbohydrates_100g": 63.6,
+        "sugars_100g": 43.3,
+        "fiber_100g": null,
+        "proteins_100g": 7.0,
+        "salt_100g": 0.23,
+        "sodium_100g": 92.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 22,
+      "health_score": 18,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "emulgator",
+        "mono- en diglyceridenvan vetzuren"
+      ],
+      "reason": "Emulsifier with unspecified plant/animal origin requires source verification: emulgator, mono- en diglyceridenvan vetzuren",
+      "explanations": {
+        "ar": "مستحلب ثنائي المصدر يتطلب التحقق من المصدر: emulgator, mono- en diglyceridenvan vetzuren",
+        "en": "Emulsifier with unspecified plant/animal origin requires source verification: emulgator, mono- en diglyceridenvan vetzuren",
+        "fr": "Émulsifiant d'origine végétale/animale non spécifiée nécessitant une vérification : emulgator, mono- en diglyceridenvan vetzuren",
+        "nl": "Emulgator met ongespecificeerde plantaardige/dierlijke oorsprong vereist controle: emulgator, mono- en diglyceridenvan vetzuren",
+        "de": "Emulgator mit unbestimmter pflanzlicher/tierischer Herkunft erfordert Prüfung: emulgator, mono- en diglyceridenvan vetzuren"
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.75,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5013387207622",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi494081/prewetts-enrobed-vanilla-creams",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.9,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5013387207622",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.3,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5013387207622",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.65,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5013387207622",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.21,
+          "promo_price": 3.37,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=5013387207622",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.88,
+          "promo_price": 1.94,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=5013387207622",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.12,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5013387207622",
+          "updated_at": "2026-11-25T13:24:02.241723+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T13:24:02.241723+00:00"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "500",
-  "generated_at": "2026-11-25T13:11:47.605227+00:00",
-  "product_count": 95,
+  "generated_at": "2026-11-25T13:24:02.241723+00:00",
+  "product_count": 96,
   "products": {
     "5000232957283": {
       "barcode": "5000232957283",
@@ -19505,6 +19505,214 @@
         }
       ],
       "updated_at": "2026-11-25T12:52:27.836371+00:00"
+    },
+    "5000396056747": {
+      "barcode": "5000396056747",
+      "domain": "food",
+      "names": {
+        "nl": "McVitie's Digestives pure chocolade",
+        "fr": "McVitie's Digestives pure chocolade",
+        "de": "McVitie's Digestives pure chocolade",
+        "en": "McVitie's Digestives pure chocolade",
+        "ar": "McVitie's Digestives pure chocolade"
+      },
+      "brand": "McVitie's",
+      "net_weight": "266 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk"
+      ],
+      "description": "De basis is de originele digestive, goudgebakken knapperige tarwekoekje, overgoten met een heerlijke laag pure chocolade. Mcvitie's digestive pure chocolade dat is extra genieten!",
+      "descriptions": {
+        "nl": "De basis is de originele digestive, goudgebakken knapperige tarwekoekje, overgoten met een heerlijke laag pure chocolade. Mcvitie's digestive pure chocolade dat is extra genieten!",
+        "fr": "McVitie's Digestives pure chocolade par McVitie's.",
+        "de": "McVitie's Digestives pure chocolade von McVitie's.",
+        "en": "McVitie's Digestives pure chocolade by McVitie's.",
+        "ar": "منتج McVitie's Digestives pure chocolade من McVitie's."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: bloem (39%) (TARWEbloem, calcium, ijzer, niacine, thiamine), pure chocolade (30%) [suiker, cacaomassa, plantaardige vetten (palm, shea), boterolie (MELK), cacaoboter, emulgatoren (SOJAlecithinen, E476), natuurlijk aroma], palmolie, volkoren TARWEmeel (9%), suiker, glucose-fructosestroop, rijsmiddelen (natriumcarbonaten, appelzuur, ammoniumcarbonaten), zout Voor allergenen, inclusief glutenbevattende granen, zie HOOFDLETTERS ingrediënten.",
+        "fr": "Ingrediënten: bloem (39%) (TARWEbloem, calcium, ijzer, niacine, thiamine), pure chocolade (30%) [suiker, cacaomassa, plantaardige vetten (palm, shea), boterolie (MELK), cacaoboter, emulgatoren (SOJAlecithinen, E476), natuurlijk aroma], palmolie, volkoren TARWEmeel (9%), suiker, glucose-fructosestroop, rijsmiddelen (natriumcarbonaten, appelzuur, ammoniumcarbonaten), zout Voor allergenen, inclusief glutenbevattende granen, zie HOOFDLETTERS ingrediënten.",
+        "de": "Ingrediënten: bloem (39%) (TARWEbloem, calcium, ijzer, niacine, thiamine), pure chocolade (30%) [suiker, cacaomassa, plantaardige vetten (palm, shea), boterolie (MELK), cacaoboter, emulgatoren (SOJAlecithinen, E476), natuurlijk aroma], palmolie, volkoren TARWEmeel (9%), suiker, glucose-fructosestroop, rijsmiddelen (natriumcarbonaten, appelzuur, ammoniumcarbonaten), zout Voor allergenen, inclusief glutenbevattende granen, zie HOOFDLETTERS ingrediënten.",
+        "en": "Ingrediënten: bloem (39%) (TARWEbloem, calcium, ijzer, niacine, thiamine), pure chocolade (30%) [suiker, cacaomassa, plantaardige vetten (palm, shea), boterolie (MELK), cacaoboter, emulgatoren (SOJAlecithinen, E476), natuurlijk aroma], palmolie, volkoren TARWEmeel (9%), suiker, glucose-fructosestroop, rijsmiddelen (natriumcarbonaten, appelzuur, ammoniumcarbonaten), zout Voor allergenen, inclusief glutenbevattende granen, zie HOOFDLETTERS ingrediënten.",
+        "ar": "Ingrediënten: bloem (39%) (TARWEbloem, calcium, ijzer, niacine, thiamine), pure chocolade (30%) [suiker, cacaomassa, plantaardige vetten (palm, shea), boterolie (MELK), cacaoboter, emulgatoren (SOJAlecithinen, E476), natuurlijk aroma], palmolie, volkoren TARWEmeel (9%), suiker, glucose-fructosestroop, rijsmiddelen (natriumcarbonaten, appelzuur, ammoniumcarbonaten), zout Voor allergenen, inclusief glutenbevattende granen, zie HOOFDLETTERS ingrediënten."
+      },
+      "image": "images/5000396056747.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5000396056747.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_686c487443565968547757336a566b346b4b4f376651?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "koek",
+      "origin_country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "flag": "🇬🇧",
+        "inferred_from": "GS1_500"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2077.0,
+        "calories_100g": 496.0,
+        "fat_100g": 24.3,
+        "saturated_fat_100g": 12.9,
+        "carbohydrates_100g": 61.1,
+        "sugars_100g": 26.6,
+        "fiber_100g": 4.3,
+        "proteins_100g": 6.0,
+        "salt_100g": 0.83,
+        "sodium_100g": 332.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 17,
+      "health_score": 20,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijk aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk aroma"
+      },
+      "stores": [
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi588079/mcvitie-s-digestives-pure-chocolade",
+          "updated_at": "2026-11-25T13:19:56.360544+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.48,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5000396056747",
+          "updated_at": "2026-11-25T13:19:56.360544+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.54,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5000396056747",
+          "updated_at": "2026-11-25T13:19:56.360544+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.67,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5000396056747",
+          "updated_at": "2026-11-25T13:19:56.360544+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.8,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5000396056747",
+          "updated_at": "2026-11-25T13:19:56.360544+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.48,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5000396056747",
+          "updated_at": "2026-11-25T13:19:56.360544+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 1.99,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5000396056747",
+          "updated_at": "2026-11-25T13:19:56.360544+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5000396056747",
+          "updated_at": "2026-11-25T13:19:56.360544+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T13:19:56.360544+00:00"
     }
   }
 }
