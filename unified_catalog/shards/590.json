@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "590",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 17,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 30,
   "products": {
     "5906259705879": {
       "barcode": "5906259705879",
@@ -203,10 +203,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5900951311321": {
       "barcode": "5900951311321",
@@ -407,10 +408,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5900852926419": {
       "barcode": "5900852926419",
@@ -614,9 +616,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5900852033513": {
       "barcode": "5900852033513",
@@ -820,9 +823,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5900852033490": {
       "barcode": "5900852033490",
@@ -1026,9 +1030,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5900852926648": {
       "barcode": "5900852926648",
@@ -1230,9 +1235,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5900852926334": {
       "barcode": "5900852926334",
@@ -1434,9 +1440,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5900852060823": {
       "barcode": "5900852060823",
@@ -1638,7 +1645,8 @@
           "updated_at": "2026-11-25T08:24:05.971740+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5900259144225": {
       "barcode": "5900259144225",
@@ -1846,7 +1854,8 @@
           "updated_at": "2026-11-25T08:34:16.866925+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5900130038315": {
       "barcode": "5900130038315",
@@ -2057,7 +2066,8 @@
           "updated_at": "2026-11-25T09:18:46.513145+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5900951141645": {
       "barcode": "5900951141645",
@@ -2266,7 +2276,8 @@
           "updated_at": "2026-11-25T09:30:02.034776+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5900951141638": {
       "barcode": "5900951141638",
@@ -2475,7 +2486,8 @@
           "updated_at": "2026-11-25T09:31:29.848809+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5906207473140": {
       "barcode": "5906207473140",
@@ -2680,7 +2692,8 @@
           "updated_at": "2026-11-25T09:43:28.817602+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5900951314933": {
       "barcode": "5900951314933",
@@ -2888,7 +2901,8 @@
           "updated_at": "2026-11-25T10:07:14.005915+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5900951320934": {
       "barcode": "5900951320934",
@@ -3097,7 +3111,8 @@
           "updated_at": "2026-11-25T10:10:05.278294+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5900852068201": {
       "barcode": "5900852068201",
@@ -3302,7 +3317,8 @@
           "updated_at": "2026-11-25T12:28:42.359020+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5900951357466": {
       "barcode": "5900951357466",
@@ -3510,7 +3526,2686 @@
           "updated_at": "2026-11-25T13:50:36.522324+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5900643036068": {
+      "barcode": "5900643036068",
+      "domain": "food",
+      "names": {
+        "nl": "Activia Drinkyoghurt kiwi & aardbei",
+        "fr": "Activia Drinkyoghurt kiwi & aardbei",
+        "de": "Activia Drinkyoghurt kiwi & aardbei",
+        "en": "Activia Drinkyoghurt kiwi & aardbei",
+        "ar": "Activia Drinkyoghurt kiwi & aardbei"
+      },
+      "brand": "Activia",
+      "net_weight": "310 ml",
+      "allergens": [
+        "Gluten",
+        "Milk",
+        "Sesame"
+      ],
+      "description": "Activia drinkyoghurt Kiwi en aardbei is een heerlijke combinatie van milde yoghurt, aardbei en kiwi. Ideaal om de dag mee te beginnen of voor onderweg als tussendoortje.",
+      "descriptions": {
+        "nl": "Activia drinkyoghurt Kiwi en aardbei is een heerlijke combinatie van milde yoghurt, aardbei en kiwi. Ideaal om de dag mee te beginnen of voor onderweg als tussendoortje.",
+        "fr": "Activia Drinkyoghurt kiwi & aardbei par Activia.",
+        "de": "Activia Drinkyoghurt kiwi & aardbei von Activia.",
+        "en": "Activia Drinkyoghurt kiwi & aardbei by Activia.",
+        "ar": "منتج Activia Drinkyoghurt kiwi & aardbei من Activia."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Yoghurt (MELK) met Bifidus ActiRegularis®, suiker (7%), aardbei (2,4%), kiwi (0,6%), verdikkingsmiddelen (gemodificeerd maïszetmeel, pectine), wortel- en appel concentraat, natuurlijk aroma, wortelconcentraat, zuurteregelaars (natriumcitraat, citroenzuur) Kan bevatten: glutenbevattende granen en sesamzaad",
+        "fr": "Ingrediënten: Yoghurt (MELK) met Bifidus ActiRegularis®, suiker (7%), aardbei (2,4%), kiwi (0,6%), verdikkingsmiddelen (gemodificeerd maïszetmeel, pectine), wortel- en appel concentraat, natuurlijk aroma, wortelconcentraat, zuurteregelaars (natriumcitraat, citroenzuur) Kan bevatten: glutenbevattende granen en sesamzaad",
+        "de": "Ingrediënten: Yoghurt (MELK) met Bifidus ActiRegularis®, suiker (7%), aardbei (2,4%), kiwi (0,6%), verdikkingsmiddelen (gemodificeerd maïszetmeel, pectine), wortel- en appel concentraat, natuurlijk aroma, wortelconcentraat, zuurteregelaars (natriumcitraat, citroenzuur) Kan bevatten: glutenbevattende granen en sesamzaad",
+        "en": "Ingrediënten: Yoghurt (MELK) met Bifidus ActiRegularis®, suiker (7%), aardbei (2,4%), kiwi (0,6%), verdikkingsmiddelen (gemodificeerd maïszetmeel, pectine), wortel- en appel concentraat, natuurlijk aroma, wortelconcentraat, zuurteregelaars (natriumcitraat, citroenzuur) Kan bevatten: glutenbevattende granen en sesamzaad",
+        "ar": "Ingrediënten: Yoghurt (MELK) met Bifidus ActiRegularis®, suiker (7%), aardbei (2,4%), kiwi (0,6%), verdikkingsmiddelen (gemodificeerd maïszetmeel, pectine), wortel- en appel concentraat, natuurlijk aroma, wortelconcentraat, zuurteregelaars (natriumcitraat, citroenzuur) Kan bevatten: glutenbevattende granen en sesamzaad"
+      },
+      "image": "images/5900643036068.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5900643036068.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_454366672d38514d5233577870436e49745f69566f41?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "eieren",
+      "origin_country": {
+        "name": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "inferred_from": "GS1_590"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 266.0,
+        "calories_100g": 64.0,
+        "fat_100g": 0.9,
+        "saturated_fat_100g": 0.5,
+        "carbohydrates_100g": 10.8,
+        "sugars_100g": 10.6,
+        "fiber_100g": null,
+        "proteins_100g": 3.0,
+        "salt_100g": 0.11,
+        "sodium_100g": 44.0
+      },
+      "official_nutriscore": "b",
+      "nutriscore_grade": "b",
+      "nutriscore_score": 1,
+      "health_score": 79,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijk aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk aroma"
+      },
+      "stores": [
+        "delhaize.be",
+        "ah.be",
+        "colruyt.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.52,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5900643036068",
+          "updated_at": "2026-11-25T17:17:24.383756+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.71,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": "25% korting",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi166379/activia-drinkyoghurt-kiwi-en-aardbei",
+          "updated_at": "2026-11-25T17:17:24.383756+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.48,
+          "promo_price": 2.78,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=5900643036068",
+          "updated_at": "2026-11-25T17:17:24.383756+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.82,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5900643036068",
+          "updated_at": "2026-11-25T17:17:24.383756+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.68,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5900643036068",
+          "updated_at": "2026-11-25T17:17:24.383756+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5900643036068",
+          "updated_at": "2026-11-25T17:17:24.383756+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.72,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5900643036068",
+          "updated_at": "2026-11-25T17:17:24.383756+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.94,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5900643036068",
+          "updated_at": "2026-11-25T17:17:24.383756+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5900852044601": {
+      "barcode": "5900852044601",
+      "domain": "food",
+      "names": {
+        "nl": "Olvarit Risotto doperwten kalkoen 18m+",
+        "fr": "Olvarit Risotto doperwten kalkoen 18m+",
+        "de": "Olvarit Risotto doperwten kalkoen 18m+",
+        "en": "Olvarit Risotto doperwten kalkoen 18m+",
+        "ar": "Olvarit Risotto doperwten kalkoen 18m+"
+      },
+      "brand": "Olvarit",
+      "net_weight": "250 g",
+      "allergens": [
+        "Gluten"
+      ],
+      "description": "Olvarit risotto doperwten kalkoen is een babyhapje met natuurlijke ingredienten voor baby's van 18+ mnd. De babyvoeding heeft een herkenbare smaak en textuur die de smaakontwikkeling bevordert.",
+      "descriptions": {
+        "nl": "Olvarit risotto doperwten kalkoen is een babyhapje met natuurlijke ingredienten voor baby's van 18+ mnd. De babyvoeding heeft een herkenbare smaak en textuur die de smaakontwikkeling bevordert.",
+        "fr": "Olvarit Risotto doperwten kalkoen 18m+ par Olvarit.",
+        "de": "Olvarit Risotto doperwten kalkoen 18m+ von Olvarit.",
+        "en": "Olvarit Risotto doperwten kalkoen 18m+ by Olvarit.",
+        "ar": "منتج Olvarit Risotto doperwten kalkoen 18m+ من Olvarit."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: 41% groenten (18% doperwten, 11% courgette, 7% wortel, 3% paprika, 2% prei), water, 17,1% rijst, 8% kalkoen, 2% maïszetmeel, koolzaadolie. GLUTENVRIJ. KOEMELKEIWITVRIJ.",
+        "fr": "Ingrediënten: 41% groenten (18% doperwten, 11% courgette, 7% wortel, 3% paprika, 2% prei), water, 17,1% rijst, 8% kalkoen, 2% maïszetmeel, koolzaadolie. GLUTENVRIJ. KOEMELKEIWITVRIJ.",
+        "de": "Ingrediënten: 41% groenten (18% doperwten, 11% courgette, 7% wortel, 3% paprika, 2% prei), water, 17,1% rijst, 8% kalkoen, 2% maïszetmeel, koolzaadolie. GLUTENVRIJ. KOEMELKEIWITVRIJ.",
+        "en": "Ingrediënten: 41% groenten (18% doperwten, 11% courgette, 7% wortel, 3% paprika, 2% prei), water, 17,1% rijst, 8% kalkoen, 2% maïszetmeel, koolzaadolie. GLUTENVRIJ. KOEMELKEIWITVRIJ.",
+        "ar": "Ingrediënten: 41% groenten (18% doperwten, 11% courgette, 7% wortel, 3% paprika, 2% prei), water, 17,1% rijst, 8% kalkoen, 2% maïszetmeel, koolzaadolie. GLUTENVRIJ. KOEMELKEIWITVRIJ."
+      },
+      "image": "images/5900852044601.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5900852044601.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313837383031?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "doperwten",
+      "origin_country": {
+        "name": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "inferred_from": "GS1_590"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 286.0,
+        "calories_100g": 68.0,
+        "fat_100g": 2.4,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 7.7,
+        "sugars_100g": 1.5,
+        "fiber_100g": 1.7,
+        "proteins_100g": 3.1,
+        "salt_100g": 0.03,
+        "sodium_100g": 12.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "a",
+      "nutriscore_score": -2,
+      "health_score": 82,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "kalkoen",
+        "olvarit risotto doperwten kalkoen 18m"
+      ],
+      "reason": "Uncertified Meat / لحم غير مذبوح حلال (kalkoen, olvarit risotto doperwten kalkoen 18m)",
+      "explanations": {
+        "ar": "لحوم أو دواجن غير حاصلة على شهادة ذبح حلال (kalkoen, olvarit risotto doperwten kalkoen 18m)",
+        "en": "Uncertified Meat / لحم غير مذبوح حلال (kalkoen, olvarit risotto doperwten kalkoen 18m)",
+        "fr": "Viande ou volaille non certifiée Halal (kalkoen, olvarit risotto doperwten kalkoen 18m)",
+        "nl": "Niet-gecertificeerd vlees of gevogelte zonder Halal-certificaat (kalkoen, olvarit risotto doperwten kalkoen 18m)",
+        "de": "Nicht zertifiziertes Fleisch oder Geflügel ohne Halal-Zertifikat (kalkoen, olvarit risotto doperwten kalkoen 18m)"
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.35,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi473526/olvarit-risotto-doperwten-kalkoen-18m",
+          "updated_at": "2026-11-25T20:29:11.100496+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.75,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5900852044601",
+          "updated_at": "2026-11-25T20:29:11.100496+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.78,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5900852044601",
+          "updated_at": "2026-11-25T20:29:11.100496+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 5.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5900852044601",
+          "updated_at": "2026-11-25T20:29:11.100496+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.27,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5900852044601",
+          "updated_at": "2026-11-25T20:29:11.100496+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.39,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5900852044601",
+          "updated_at": "2026-11-25T20:29:11.100496+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.18,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5900852044601",
+          "updated_at": "2026-11-25T20:29:11.100496+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 5.02,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5900852044601",
+          "updated_at": "2026-11-25T20:29:11.100496+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5900130045047": {
+      "barcode": "5900130045047",
+      "domain": "food",
+      "names": {
+        "nl": "Lotus Biscoff Sticks",
+        "fr": "Lotus Biscoff Sticks",
+        "de": "Lotus Biscoff Sticks",
+        "en": "Lotus Biscoff Sticks",
+        "ar": "Lotus Biscoff Sticks"
+      },
+      "brand": "Lotus Biscoff",
+      "net_weight": "3 stuks",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk",
+        "Eggs",
+        "Peanuts",
+        "Tree Nuts"
+      ],
+      "description": "Het lotus-ijs op een stokje overtuigt met een heerlijke receptuur van romig ijs met karamelsmaak en stukjes lotus-karamelkoekje.",
+      "descriptions": {
+        "nl": "Het lotus-ijs op een stokje overtuigt met een heerlijke receptuur van romig ijs met karamelsmaak en stukjes lotus-karamelkoekje.",
+        "fr": "Lotus Biscoff Sticks par Lotus Biscoff.",
+        "de": "Lotus Biscoff Sticks von Lotus Biscoff.",
+        "en": "Lotus Biscoff Sticks by Lotus Biscoff.",
+        "ar": "منتج Lotus Biscoff Sticks من Lotus Biscoff."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: gereconstitueerde magere MELK, gekarameliseerde koekstukjes 24% (TARWEBLOEM, suiker, palmvet, koolzaadolie, kandijsuikersiroop, rijsmiddel (natriumwaterstofcarbonaat), SOJABLOEM, zout, kaneel), kokosvet, suiker, glucosestroop, zonnebloemolie, magere MELKPOEDER, WEIPOEDER (MELK), emulgatoren (mono- en diglyceriden van vetzuren, lecithinen (SOJA)), stabilisatoren (guarpitmeel, johannesbroodpitmeel), gekarameliseerde suikerstroop (suiker, water), zout. KAN EIEREN, PINDA'S, AMANDELEN, HAZELNOTEN, WALNOTEN, PECANNOTEN, PARANOTEN, PISTACHENOTEN, MACADAMIANOTEN, HAVER, GERST, ROGGE, SPELT EN KHORASANTARWE BEVATTEN.",
+        "fr": "Ingrediënten: gereconstitueerde magere MELK, gekarameliseerde koekstukjes 24% (TARWEBLOEM, suiker, palmvet, koolzaadolie, kandijsuikersiroop, rijsmiddel (natriumwaterstofcarbonaat), SOJABLOEM, zout, kaneel), kokosvet, suiker, glucosestroop, zonnebloemolie, magere MELKPOEDER, WEIPOEDER (MELK), emulgatoren (mono- en diglyceriden van vetzuren, lecithinen (SOJA)), stabilisatoren (guarpitmeel, johannesbroodpitmeel), gekarameliseerde suikerstroop (suiker, water), zout. KAN EIEREN, PINDA'S, AMANDELEN, HAZELNOTEN, WALNOTEN, PECANNOTEN, PARANOTEN, PISTACHENOTEN, MACADAMIANOTEN, HAVER, GERST, ROGGE, SPELT EN KHORASANTARWE BEVATTEN.",
+        "de": "Ingrediënten: gereconstitueerde magere MELK, gekarameliseerde koekstukjes 24% (TARWEBLOEM, suiker, palmvet, koolzaadolie, kandijsuikersiroop, rijsmiddel (natriumwaterstofcarbonaat), SOJABLOEM, zout, kaneel), kokosvet, suiker, glucosestroop, zonnebloemolie, magere MELKPOEDER, WEIPOEDER (MELK), emulgatoren (mono- en diglyceriden van vetzuren, lecithinen (SOJA)), stabilisatoren (guarpitmeel, johannesbroodpitmeel), gekarameliseerde suikerstroop (suiker, water), zout. KAN EIEREN, PINDA'S, AMANDELEN, HAZELNOTEN, WALNOTEN, PECANNOTEN, PARANOTEN, PISTACHENOTEN, MACADAMIANOTEN, HAVER, GERST, ROGGE, SPELT EN KHORASANTARWE BEVATTEN.",
+        "en": "Ingrediënten: gereconstitueerde magere MELK, gekarameliseerde koekstukjes 24% (TARWEBLOEM, suiker, palmvet, koolzaadolie, kandijsuikersiroop, rijsmiddel (natriumwaterstofcarbonaat), SOJABLOEM, zout, kaneel), kokosvet, suiker, glucosestroop, zonnebloemolie, magere MELKPOEDER, WEIPOEDER (MELK), emulgatoren (mono- en diglyceriden van vetzuren, lecithinen (SOJA)), stabilisatoren (guarpitmeel, johannesbroodpitmeel), gekarameliseerde suikerstroop (suiker, water), zout. KAN EIEREN, PINDA'S, AMANDELEN, HAZELNOTEN, WALNOTEN, PECANNOTEN, PARANOTEN, PISTACHENOTEN, MACADAMIANOTEN, HAVER, GERST, ROGGE, SPELT EN KHORASANTARWE BEVATTEN.",
+        "ar": "Ingrediënten: gereconstitueerde magere MELK, gekarameliseerde koekstukjes 24% (TARWEBLOEM, suiker, palmvet, koolzaadolie, kandijsuikersiroop, rijsmiddel (natriumwaterstofcarbonaat), SOJABLOEM, zout, kaneel), kokosvet, suiker, glucosestroop, zonnebloemolie, magere MELKPOEDER, WEIPOEDER (MELK), emulgatoren (mono- en diglyceriden van vetzuren, lecithinen (SOJA)), stabilisatoren (guarpitmeel, johannesbroodpitmeel), gekarameliseerde suikerstroop (suiker, water), zout. KAN EIEREN, PINDA'S, AMANDELEN, HAZELNOTEN, WALNOTEN, PECANNOTEN, PARANOTEN, PISTACHENOTEN, MACADAMIANOTEN, HAVER, GERST, ROGGE, SPELT EN KHORASANTARWE BEVATTEN."
+      },
+      "image": "images/5900130045047.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5900130045047.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_5f484f4563715348516d4b326a764e724b57526a4251?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "ijs",
+      "origin_country": {
+        "name": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "inferred_from": "GS1_590"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1486.0,
+        "calories_100g": 356.0,
+        "fat_100g": 21.0,
+        "saturated_fat_100g": 13.0,
+        "carbohydrates_100g": 39.0,
+        "sugars_100g": 25.0,
+        "fiber_100g": 0.5,
+        "proteins_100g": 3.1,
+        "salt_100g": 0.34,
+        "sodium_100g": 136.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 19,
+      "health_score": 19,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "weipoeder"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: weipoeder",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: weipoeder",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: weipoeder",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : weipoeder",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: weipoeder",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: weipoeder"
+      },
+      "stores": [
+        "colruyt.be",
+        "carrefour.be",
+        "delhaize.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.59,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5900130045047",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.79,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5900130045047",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.17,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5900130045047",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.55,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi608062/lotus-biscoff-sticks",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.01,
+          "promo_price": 2.0,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=5900130045047",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.99,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5900130045047",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.22,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5900130045047",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.35,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5900130045047",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5900130044880": {
+      "barcode": "5900130044880",
+      "domain": "food",
+      "names": {
+        "nl": "Nestlé Pirulo fruit explosion",
+        "fr": "Nestlé Pirulo fruit explosion",
+        "de": "Nestlé Pirulo fruit explosion",
+        "en": "Nestlé Pirulo fruit explosion",
+        "ar": "Nestlé Pirulo fruit explosion"
+      },
+      "brand": "Nestlé",
+      "net_weight": "6 stuks",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Verfrissende appelsorbet ontmoet fruitige zure kersensorbet met een kern van zure kersensaus. Exotische Mango-passievruchtensorbet ontmoet heerlijke kiwisorbet met een kern van kiwisaus.",
+      "descriptions": {
+        "nl": "Verfrissende appelsorbet ontmoet fruitige zure kersensorbet met een kern van zure kersensaus. Exotische Mango-passievruchtensorbet ontmoet heerlijke kiwisorbet met een kern van kiwisaus.",
+        "fr": "Nestlé Pirulo fruit explosion par Nestlé.",
+        "de": "Nestlé Pirulo fruit explosion von Nestlé.",
+        "en": "Nestlé Pirulo fruit explosion by Nestlé.",
+        "ar": "منتج Nestlé Pirulo fruit explosion من Nestlé."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Sour Cherry Apple: water, suiker, appelsap uit concentraat (13%), zure kersensap uit concentraat (10%), glucosestroop, invertsuikerstroop, zure kersensapconcentraat (0,6%), voedingszuur (citroenzuur), kleurende concentraten (rodebietensap, spirulina, saffloer), stabilisatoren (guarpitmeel, johannesbroodpitmeel), natuurlijke aroma's, verdikkingsmiddelen (pectinen, agaragar), kleurstof (curcumine), natuurlijk kersenaroma met andere natuurlijke aroma's. Kan MELK bevatten. Mango Passionsfruit-Kiwi: Ingrediënten: water, suiker, kiwisap uit concentraat (9,5%), glucosestroop, mangopuree (6,5%), passievruchtsap uit concentraat (5,5%), invertsuikerstroop, kiwiapconcentraat (0,5%), kiwipuree (0,3%), voedingszuur (citronenzuur), kleurende centraten (spirulina, safflower, wortel), stabilisatoren (guarpitmeel, johannesbroodpitmeel), natuurlijke aroma`s, verdikkingsmiddelen (pectinen, agaragar). Kan MELK bevatten.",
+        "fr": "Ingrediënten: Sour Cherry Apple: water, suiker, appelsap uit concentraat (13%), zure kersensap uit concentraat (10%), glucosestroop, invertsuikerstroop, zure kersensapconcentraat (0,6%), voedingszuur (citroenzuur), kleurende concentraten (rodebietensap, spirulina, saffloer), stabilisatoren (guarpitmeel, johannesbroodpitmeel), natuurlijke aroma's, verdikkingsmiddelen (pectinen, agaragar), kleurstof (curcumine), natuurlijk kersenaroma met andere natuurlijke aroma's. Kan MELK bevatten. Mango Passionsfruit-Kiwi: Ingrediënten: water, suiker, kiwisap uit concentraat (9,5%), glucosestroop, mangopuree (6,5%), passievruchtsap uit concentraat (5,5%), invertsuikerstroop, kiwiapconcentraat (0,5%), kiwipuree (0,3%), voedingszuur (citronenzuur), kleurende centraten (spirulina, safflower, wortel), stabilisatoren (guarpitmeel, johannesbroodpitmeel), natuurlijke aroma`s, verdikkingsmiddelen (pectinen, agaragar). Kan MELK bevatten.",
+        "de": "Ingrediënten: Sour Cherry Apple: water, suiker, appelsap uit concentraat (13%), zure kersensap uit concentraat (10%), glucosestroop, invertsuikerstroop, zure kersensapconcentraat (0,6%), voedingszuur (citroenzuur), kleurende concentraten (rodebietensap, spirulina, saffloer), stabilisatoren (guarpitmeel, johannesbroodpitmeel), natuurlijke aroma's, verdikkingsmiddelen (pectinen, agaragar), kleurstof (curcumine), natuurlijk kersenaroma met andere natuurlijke aroma's. Kan MELK bevatten. Mango Passionsfruit-Kiwi: Ingrediënten: water, suiker, kiwisap uit concentraat (9,5%), glucosestroop, mangopuree (6,5%), passievruchtsap uit concentraat (5,5%), invertsuikerstroop, kiwiapconcentraat (0,5%), kiwipuree (0,3%), voedingszuur (citronenzuur), kleurende centraten (spirulina, safflower, wortel), stabilisatoren (guarpitmeel, johannesbroodpitmeel), natuurlijke aroma`s, verdikkingsmiddelen (pectinen, agaragar). Kan MELK bevatten.",
+        "en": "Ingrediënten: Sour Cherry Apple: water, suiker, appelsap uit concentraat (13%), zure kersensap uit concentraat (10%), glucosestroop, invertsuikerstroop, zure kersensapconcentraat (0,6%), voedingszuur (citroenzuur), kleurende concentraten (rodebietensap, spirulina, saffloer), stabilisatoren (guarpitmeel, johannesbroodpitmeel), natuurlijke aroma's, verdikkingsmiddelen (pectinen, agaragar), kleurstof (curcumine), natuurlijk kersenaroma met andere natuurlijke aroma's. Kan MELK bevatten. Mango Passionsfruit-Kiwi: Ingrediënten: water, suiker, kiwisap uit concentraat (9,5%), glucosestroop, mangopuree (6,5%), passievruchtsap uit concentraat (5,5%), invertsuikerstroop, kiwiapconcentraat (0,5%), kiwipuree (0,3%), voedingszuur (citronenzuur), kleurende centraten (spirulina, safflower, wortel), stabilisatoren (guarpitmeel, johannesbroodpitmeel), natuurlijke aroma`s, verdikkingsmiddelen (pectinen, agaragar). Kan MELK bevatten.",
+        "ar": "Ingrediënten: Sour Cherry Apple: water, suiker, appelsap uit concentraat (13%), zure kersensap uit concentraat (10%), glucosestroop, invertsuikerstroop, zure kersensapconcentraat (0,6%), voedingszuur (citroenzuur), kleurende concentraten (rodebietensap, spirulina, saffloer), stabilisatoren (guarpitmeel, johannesbroodpitmeel), natuurlijke aroma's, verdikkingsmiddelen (pectinen, agaragar), kleurstof (curcumine), natuurlijk kersenaroma met andere natuurlijke aroma's. Kan MELK bevatten. Mango Passionsfruit-Kiwi: Ingrediënten: water, suiker, kiwisap uit concentraat (9,5%), glucosestroop, mangopuree (6,5%), passievruchtsap uit concentraat (5,5%), invertsuikerstroop, kiwiapconcentraat (0,5%), kiwipuree (0,3%), voedingszuur (citronenzuur), kleurende centraten (spirulina, safflower, wortel), stabilisatoren (guarpitmeel, johannesbroodpitmeel), natuurlijke aroma`s, verdikkingsmiddelen (pectinen, agaragar). Kan MELK bevatten."
+      },
+      "image": "images/5900130044880.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5900130044880.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_7459646e50483955522d4350734a3831746242313351?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "waterijs",
+      "origin_country": {
+        "name": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "inferred_from": "GS1_590"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 487.0,
+        "calories_100g": 115.0,
+        "fat_100g": 0.5,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 28.0,
+        "sugars_100g": 23.0,
+        "fiber_100g": 0.5,
+        "proteins_100g": 0.5,
+        "salt_100g": 0.01,
+        "sodium_100g": 4.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 6,
+      "health_score": 63,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijke aroma's",
+        "natuurlijk kersenaroma met andere natuurlijke aroma's"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's, natuurlijk kersenaroma met andere natuurlijke aroma's",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijke aroma's, natuurlijk kersenaroma met andere natuurlijke aroma's",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's, natuurlijk kersenaroma met andere natuurlijke aroma's",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijke aroma's, natuurlijk kersenaroma met andere natuurlijke aroma's",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijke aroma's, natuurlijk kersenaroma met andere natuurlijke aroma's",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijke aroma's, natuurlijk kersenaroma met andere natuurlijke aroma's"
+      },
+      "stores": [
+        "carrefour.be",
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.24,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5900130044880",
+          "updated_at": "2026-11-25T21:15:48.187411+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.25,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5900130044880",
+          "updated_at": "2026-11-25T21:15:48.187411+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.4,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5900130044880",
+          "updated_at": "2026-11-25T21:15:48.187411+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.08,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi608054/nestle%CC%81-pirulo-fruit-explosion",
+          "updated_at": "2026-11-25T21:15:48.187411+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.89,
+          "promo_price": 1.95,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=5900130044880",
+          "updated_at": "2026-11-25T21:15:48.187411+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.06,
+          "promo_price": 2.03,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=5900130044880",
+          "updated_at": "2026-11-25T21:15:48.187411+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.06,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5900130044880",
+          "updated_at": "2026-11-25T21:15:48.187411+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.06,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5900130044880",
+          "updated_at": "2026-11-25T21:15:48.187411+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5900852076237": {
+      "barcode": "5900852076237",
+      "domain": "food",
+      "names": {
+        "nl": "Olvarit Pompoen curry kalkoen mango 8m+",
+        "fr": "Olvarit Pompoen curry kalkoen mango 8m+",
+        "de": "Olvarit Pompoen curry kalkoen mango 8m+",
+        "en": "Olvarit Pompoen curry kalkoen mango 8m+",
+        "ar": "Olvarit Pompoen curry kalkoen mango 8m+"
+      },
+      "brand": "Olvarit",
+      "net_weight": "200 g",
+      "allergens": [
+        "Gluten",
+        "Celery"
+      ],
+      "description": "Olvarit pompoen curry kalkoen Mango is een babyhapje met pure en natuurlijke ingredienten voor baby's van 8+ maanden. Het heeft een herkenbare smaak en textuur stimuleren smaakontwikkeling.",
+      "descriptions": {
+        "nl": "Olvarit pompoen curry kalkoen Mango is een babyhapje met pure en natuurlijke ingredienten voor baby's van 8+ maanden. Het heeft een herkenbare smaak en textuur stimuleren smaakontwikkeling.",
+        "fr": "Olvarit Pompoen curry kalkoen mango 8m+ par Olvarit.",
+        "de": "Olvarit Pompoen curry kalkoen mango 8m+ von Olvarit.",
+        "en": "Olvarit Pompoen curry kalkoen mango 8m+ by Olvarit.",
+        "ar": "منتج Olvarit Pompoen curry kalkoen mango 8m+ من Olvarit."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: 41,4% groenten (21% pompoen, 9,4% tomaat, 7% wortel, 4% ui), water, 9% bulgur (TARWE), 8% kalkoen, 7% aardappel, 4% kokosnootkernextract (3,6% kokosnootkern, water), 4% mango, 3,5% volkoren speltmeel (TARWE), koolzaadolie, knoflook, peterselie, komijn. Kan selderij bevatten.",
+        "fr": "Ingrediënten: 41,4% groenten (21% pompoen, 9,4% tomaat, 7% wortel, 4% ui), water, 9% bulgur (TARWE), 8% kalkoen, 7% aardappel, 4% kokosnootkernextract (3,6% kokosnootkern, water), 4% mango, 3,5% volkoren speltmeel (TARWE), koolzaadolie, knoflook, peterselie, komijn. Kan selderij bevatten.",
+        "de": "Ingrediënten: 41,4% groenten (21% pompoen, 9,4% tomaat, 7% wortel, 4% ui), water, 9% bulgur (TARWE), 8% kalkoen, 7% aardappel, 4% kokosnootkernextract (3,6% kokosnootkern, water), 4% mango, 3,5% volkoren speltmeel (TARWE), koolzaadolie, knoflook, peterselie, komijn. Kan selderij bevatten.",
+        "en": "Ingrediënten: 41,4% groenten (21% pompoen, 9,4% tomaat, 7% wortel, 4% ui), water, 9% bulgur (TARWE), 8% kalkoen, 7% aardappel, 4% kokosnootkernextract (3,6% kokosnootkern, water), 4% mango, 3,5% volkoren speltmeel (TARWE), koolzaadolie, knoflook, peterselie, komijn. Kan selderij bevatten.",
+        "ar": "Ingrediënten: 41,4% groenten (21% pompoen, 9,4% tomaat, 7% wortel, 4% ui), water, 9% bulgur (TARWE), 8% kalkoen, 7% aardappel, 4% kokosnootkernextract (3,6% kokosnootkern, water), 4% mango, 3,5% volkoren speltmeel (TARWE), koolzaadolie, knoflook, peterselie, komijn. Kan selderij bevatten."
+      },
+      "image": "images/5900852076237.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5900852076237.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_596276697967324d516f3257425a5f79634e43735367?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babyvoeding",
+      "origin_country": {
+        "name": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "inferred_from": "GS1_590"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 300.0,
+        "calories_100g": 72.0,
+        "fat_100g": 2.6,
+        "saturated_fat_100g": 1.1,
+        "carbohydrates_100g": 8.1,
+        "sugars_100g": 2.4,
+        "fiber_100g": 1.7,
+        "proteins_100g": 3.1,
+        "salt_100g": 0.03,
+        "sodium_100g": 12.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "a",
+      "nutriscore_score": -1,
+      "health_score": 80,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "kalkoen",
+        "olvarit pompoen curry kalkoen mango 8m"
+      ],
+      "reason": "Uncertified Meat / لحم غير مذبوح حلال (kalkoen, olvarit pompoen curry kalkoen mango 8m)",
+      "explanations": {
+        "ar": "لحوم أو دواجن غير حاصلة على شهادة ذبح حلال (kalkoen, olvarit pompoen curry kalkoen mango 8m)",
+        "en": "Uncertified Meat / لحم غير مذبوح حلال (kalkoen, olvarit pompoen curry kalkoen mango 8m)",
+        "fr": "Viande ou volaille non certifiée Halal (kalkoen, olvarit pompoen curry kalkoen mango 8m)",
+        "nl": "Niet-gecertificeerd vlees of gevogelte zonder Halal-certificaat (kalkoen, olvarit pompoen curry kalkoen mango 8m)",
+        "de": "Nicht zertifiziertes Fleisch oder Geflügel ohne Halal-Zertifikat (kalkoen, olvarit pompoen curry kalkoen mango 8m)"
+      },
+      "stores": [
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5900852076237",
+          "updated_at": "2026-11-25T21:49:34.510723+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.81,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5900852076237",
+          "updated_at": "2026-11-25T21:49:34.510723+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.29,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5900852076237",
+          "updated_at": "2026-11-25T21:49:34.510723+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.3,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi606086/olvarit-pompoen-curry-kalkoen-mango-8m",
+          "updated_at": "2026-11-25T21:49:34.510723+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.26,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5900852076237",
+          "updated_at": "2026-11-25T21:49:34.510723+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.55,
+          "promo_price": 2.84,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=5900852076237",
+          "updated_at": "2026-11-25T21:49:34.510723+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.51,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5900852076237",
+          "updated_at": "2026-11-25T21:49:34.510723+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5900852076237",
+          "updated_at": "2026-11-25T21:49:34.510723+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5900852068249": {
+      "barcode": "5900852068249",
+      "domain": "food",
+      "names": {
+        "nl": "Olvarit Courgetteschotel kalfsvlees quinoa 8m+",
+        "fr": "Olvarit Courgetteschotel kalfsvlees quinoa 8m+",
+        "de": "Olvarit Courgetteschotel kalfsvlees quinoa 8m+",
+        "en": "Olvarit Courgetteschotel kalfsvlees quinoa 8m+",
+        "ar": "Olvarit Courgetteschotel kalfsvlees quinoa 8m+"
+      },
+      "brand": "Olvarit",
+      "net_weight": "200 g",
+      "allergens": [
+        "Gluten",
+        "Milk"
+      ],
+      "description": "Olvarit courgetteschotel met kalf en quinoa is een babyhapje met natuurlijke ingredienten voor baby's vanaf 8+ mnd, met smaak en textuur afgestemd op de leeftijd en de smaakontwikkeling.",
+      "descriptions": {
+        "nl": "Olvarit courgetteschotel met kalf en quinoa is een babyhapje met natuurlijke ingredienten voor baby's vanaf 8+ mnd, met smaak en textuur afgestemd op de leeftijd en de smaakontwikkeling.",
+        "fr": "Olvarit Courgetteschotel kalfsvlees quinoa 8m+ par Olvarit.",
+        "de": "Olvarit Courgetteschotel kalfsvlees quinoa 8m+ von Olvarit.",
+        "en": "Olvarit Courgetteschotel kalfsvlees quinoa 8m+ by Olvarit.",
+        "ar": "منتج Olvarit Courgetteschotel kalfsvlees quinoa 8m+ من Olvarit."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Water, 23% groenten (18% courgette, 5% spinazie), 22% aardappel, 8,5% kalfsvlees, 6% quinoa, 3,1% volle MELK, 3% glutenvrij TARWEzetmeel, koolzaadolie",
+        "fr": "Ingrediënten: Water, 23% groenten (18% courgette, 5% spinazie), 22% aardappel, 8,5% kalfsvlees, 6% quinoa, 3,1% volle MELK, 3% glutenvrij TARWEzetmeel, koolzaadolie",
+        "de": "Ingrediënten: Water, 23% groenten (18% courgette, 5% spinazie), 22% aardappel, 8,5% kalfsvlees, 6% quinoa, 3,1% volle MELK, 3% glutenvrij TARWEzetmeel, koolzaadolie",
+        "en": "Ingrediënten: Water, 23% groenten (18% courgette, 5% spinazie), 22% aardappel, 8,5% kalfsvlees, 6% quinoa, 3,1% volle MELK, 3% glutenvrij TARWEzetmeel, koolzaadolie",
+        "ar": "Ingrediënten: Water, 23% groenten (18% courgette, 5% spinazie), 22% aardappel, 8,5% kalfsvlees, 6% quinoa, 3,1% volle MELK, 3% glutenvrij TARWEzetmeel, koolzaadolie"
+      },
+      "image": "images/5900852068249.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5900852068249.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313935393930?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babyvoeding",
+      "origin_country": {
+        "name": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "inferred_from": "GS1_590"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 289.0,
+        "calories_100g": 69.0,
+        "fat_100g": 2.7,
+        "saturated_fat_100g": 0.3,
+        "carbohydrates_100g": 7.9,
+        "sugars_100g": 0.7,
+        "fiber_100g": 0.9,
+        "proteins_100g": 2.8,
+        "salt_100g": 0.03,
+        "sodium_100g": 12.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "a",
+      "nutriscore_score": -1,
+      "health_score": 80,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "kalfsvlees",
+        "olvarit courgetteschotel kalfsvlees quinoa 8m"
+      ],
+      "reason": "Uncertified Meat / لحم غير مذبوح حلال (kalfsvlees, olvarit courgetteschotel kalfsvlees quinoa 8m)",
+      "explanations": {
+        "ar": "لحوم أو دواجن غير حاصلة على شهادة ذبح حلال (kalfsvlees, olvarit courgetteschotel kalfsvlees quinoa 8m)",
+        "en": "Uncertified Meat / لحم غير مذبوح حلال (kalfsvlees, olvarit courgetteschotel kalfsvlees quinoa 8m)",
+        "fr": "Viande ou volaille non certifiée Halal (kalfsvlees, olvarit courgetteschotel kalfsvlees quinoa 8m)",
+        "nl": "Niet-gecertificeerd vlees of gevogelte zonder Halal-certificaat (kalfsvlees, olvarit courgetteschotel kalfsvlees quinoa 8m)",
+        "de": "Nicht zertifiziertes Fleisch oder Geflügel ohne Halal-Zertifikat (kalfsvlees, olvarit courgetteschotel kalfsvlees quinoa 8m)"
+      },
+      "stores": [
+        "ah.be",
+        "colruyt.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.46,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi584523/olvarit-courgetteschotel-kalfsvlees-quinoa-8m",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.22,
+          "promo_price": 2.58,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=5900852068249",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.62,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5900852068249",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.63,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5900852068249",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.75,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5900852068249",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5900852068249",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.2,
+          "promo_price": 2.56,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=5900852068249",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5900852068249",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5900852060847": {
+      "barcode": "5900852060847",
+      "domain": "food",
+      "names": {
+        "nl": "Olvarit Knijpfruit pear, banana 6m+",
+        "fr": "Olvarit Knijpfruit pear, banana 6m+",
+        "de": "Olvarit Knijpfruit pear, banana 6m+",
+        "en": "Olvarit Knijpfruit pear, banana 6m+",
+        "ar": "Olvarit Knijpfruit pear, banana 6m+"
+      },
+      "brand": "Olvarit",
+      "net_weight": "100 g",
+      "allergens": [],
+      "description": "Olvarit knijpfruit peer banaan, geschikt voor baby's vanaf 6 maanden oud. Het knijpzakje zit boordevol fruit en is ideaal als leuk, lekker en verantwoord tussendoortje!",
+      "descriptions": {
+        "nl": "Olvarit knijpfruit peer banaan, geschikt voor baby's vanaf 6 maanden oud. Het knijpzakje zit boordevol fruit en is ideaal als leuk, lekker en verantwoord tussendoortje!",
+        "fr": "Olvarit Knijpfruit pear, banana 6m+ par Olvarit.",
+        "de": "Olvarit Knijpfruit pear, banana 6m+ von Olvarit.",
+        "en": "Olvarit Knijpfruit pear, banana 6m+ by Olvarit.",
+        "ar": "منتج Olvarit Knijpfruit pear, banana 6m+ من Olvarit."
+      },
+      "ingredients": {
+        "nl": "ingrediënten : 42,46% peer, 40% banaan, 17,5% abrikoos, L-ascorbinezuur, geconcentreerd citroensap.",
+        "fr": "ingrediënten : 42,46% peer, 40% banaan, 17,5% abrikoos, L-ascorbinezuur, geconcentreerd citroensap.",
+        "de": "ingrediënten : 42,46% peer, 40% banaan, 17,5% abrikoos, L-ascorbinezuur, geconcentreerd citroensap.",
+        "en": "ingrediënten : 42,46% peer, 40% banaan, 17,5% abrikoos, L-ascorbinezuur, geconcentreerd citroensap.",
+        "ar": "ingrediënten : 42,46% peer, 40% banaan, 17,5% abrikoos, L-ascorbinezuur, geconcentreerd citroensap."
+      },
+      "image": "images/5900852060847.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5900852060847.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_43545239393031363539?revLabel=2&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babyvoeding",
+      "origin_country": {
+        "name": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "inferred_from": "GS1_590"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 271.0,
+        "calories_100g": 64.0,
+        "fat_100g": 0.2,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 13.6,
+        "sugars_100g": 13.5,
+        "fiber_100g": 2.6,
+        "proteins_100g": 0.7,
+        "salt_100g": 0.0,
+        "sodium_100g": 0.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "b",
+      "nutriscore_score": 0,
+      "health_score": 78,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.54,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5900852060847",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.7,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi538481/olvarit-knijpfruit-pear-banana-6m",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 5.09,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5900852060847",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 5.09,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5900852060847",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.12,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5900852060847",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.99,
+          "promo_price": 2.5,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=5900852060847",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.02,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5900852060847",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.92,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5900852060847",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5900852926563": {
+      "barcode": "5900852926563",
+      "domain": "food",
+      "names": {
+        "nl": "Olvarit Doperwten 4m+",
+        "fr": "Olvarit Doperwten 4m+",
+        "de": "Olvarit Doperwten 4m+",
+        "en": "Olvarit Doperwten 4m+",
+        "ar": "Olvarit Doperwten 4m+"
+      },
+      "brand": "Olvarit",
+      "net_weight": "125 g",
+      "allergens": [],
+      "description": "Olvarit doperwt is een heerlijk groentehapje om te starten met de eerste hapjes.tot de leeftijd van 6 maanden is borstvoeding de belangrijkste voeding en is dit product uitsluitend aanvullend.",
+      "descriptions": {
+        "nl": "Olvarit doperwt is een heerlijk groentehapje om te starten met de eerste hapjes.tot de leeftijd van 6 maanden is borstvoeding de belangrijkste voeding en is dit product uitsluitend aanvullend.",
+        "fr": "Olvarit Doperwten 4m+ par Olvarit.",
+        "de": "Olvarit Doperwten 4m+ von Olvarit.",
+        "en": "Olvarit Doperwten 4m+ by Olvarit.",
+        "ar": "منتج Olvarit Doperwten 4m+ من Olvarit."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: 66% doperwten, water.",
+        "fr": "Ingrediënten: 66% doperwten, water.",
+        "de": "Ingrediënten: 66% doperwten, water.",
+        "en": "Ingrediënten: 66% doperwten, water.",
+        "ar": "Ingrediënten: 66% doperwten, water."
+      },
+      "image": "images/5900852926563.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5900852926563.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313835333134?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babyvoeding",
+      "origin_country": {
+        "name": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "inferred_from": "GS1_590"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 211.0,
+        "calories_100g": 50.0,
+        "fat_100g": 0.5,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 5.5,
+        "sugars_100g": 3.2,
+        "fiber_100g": 4.3,
+        "proteins_100g": 3.8,
+        "salt_100g": 0.013,
+        "sodium_100g": 5.2
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "a",
+      "nutriscore_score": -6,
+      "health_score": 91,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "delhaize.be",
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.17,
+          "promo_price": 2.54,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=5900852926563",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.72,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5900852926563",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.4,
+          "promo_price": 2.72,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi389228/olvarit-doperwten-4m",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.15,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5900852926563",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5900852926563",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.27,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5900852926563",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.4,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5900852926563",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.41,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5900852926563",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5900852060854": {
+      "barcode": "5900852060854",
+      "domain": "food",
+      "names": {
+        "nl": "Olvarit Knijpfruit apple, banana 6m+",
+        "fr": "Olvarit Knijpfruit apple, banana 6m+",
+        "de": "Olvarit Knijpfruit apple, banana 6m+",
+        "en": "Olvarit Knijpfruit apple, banana 6m+",
+        "ar": "Olvarit Knijpfruit apple, banana 6m+"
+      },
+      "brand": "Olvarit",
+      "net_weight": "100 g",
+      "allergens": [],
+      "description": "Olvarit knijpfruit appel banaan, geschikt voor baby's vanaf 6 maanden oud. Het knijpzakje zit boordevol fruit en is ideaal als leuk, lekker en verantwoord tussendoortje!",
+      "descriptions": {
+        "nl": "Olvarit knijpfruit appel banaan, geschikt voor baby's vanaf 6 maanden oud. Het knijpzakje zit boordevol fruit en is ideaal als leuk, lekker en verantwoord tussendoortje!",
+        "fr": "Olvarit Knijpfruit apple, banana 6m+ par Olvarit.",
+        "de": "Olvarit Knijpfruit apple, banana 6m+ von Olvarit.",
+        "en": "Olvarit Knijpfruit apple, banana 6m+ by Olvarit.",
+        "ar": "منتج Olvarit Knijpfruit apple, banana 6m+ من Olvarit."
+      },
+      "ingredients": {
+        "nl": "ingrediënten : 75,96% appel, 24% banaan, Lascorbinezuur, geconcentreerd citroensap.",
+        "fr": "ingrediënten : 75,96% appel, 24% banaan, Lascorbinezuur, geconcentreerd citroensap.",
+        "de": "ingrediënten : 75,96% appel, 24% banaan, Lascorbinezuur, geconcentreerd citroensap.",
+        "en": "ingrediënten : 75,96% appel, 24% banaan, Lascorbinezuur, geconcentreerd citroensap.",
+        "ar": "ingrediënten : 75,96% appel, 24% banaan, Lascorbinezuur, geconcentreerd citroensap."
+      },
+      "image": "images/5900852060854.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5900852060854.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_43545239393031373830?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babyvoeding",
+      "origin_country": {
+        "name": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "inferred_from": "GS1_590"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 271.0,
+        "calories_100g": 64.0,
+        "fat_100g": 0.1,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 14.5,
+        "sugars_100g": 14.3,
+        "fiber_100g": 1.7,
+        "proteins_100g": 0.4,
+        "salt_100g": 0.0,
+        "sodium_100g": 0.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "b",
+      "nutriscore_score": 2,
+      "health_score": 73,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.0,
+          "promo_price": 1.5,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi538482/olvarit-knijpfruit-apple-banana-6m",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.55,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5900852060854",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.72,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5900852060854",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.18,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5900852060854",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.37,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5900852060854",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.73,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5900852060854",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5900852060854",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.84,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5900852060854",
+          "updated_at": "2026-11-25T21:51:01.546271+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5900852926785": {
+      "barcode": "5900852926785",
+      "domain": "food",
+      "names": {
+        "nl": "Olvarit Pompoen rijst 4m+",
+        "fr": "Olvarit Pompoen rijst 4m+",
+        "de": "Olvarit Pompoen rijst 4m+",
+        "en": "Olvarit Pompoen rijst 4m+",
+        "ar": "Olvarit Pompoen rijst 4m+"
+      },
+      "brand": "Olvarit",
+      "net_weight": "125 g",
+      "allergens": [],
+      "description": "Olvarit pompoen rijst is een heerlijk groentehapje om te starten met de eerste hapjes.tot de leeftijd van 6 maanden is borstvoeding de belangrijkste voeding en is dit product uitsluitend aanvullend.",
+      "descriptions": {
+        "nl": "Olvarit pompoen rijst is een heerlijk groentehapje om te starten met de eerste hapjes.tot de leeftijd van 6 maanden is borstvoeding de belangrijkste voeding en is dit product uitsluitend aanvullend.",
+        "fr": "Olvarit Pompoen rijst 4m+ par Olvarit.",
+        "de": "Olvarit Pompoen rijst 4m+ von Olvarit.",
+        "en": "Olvarit Pompoen rijst 4m+ by Olvarit.",
+        "ar": "منتج Olvarit Pompoen rijst 4m+ من Olvarit."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten : 70% pompoen, 17,1% rijst, water.",
+        "fr": "Ingrediënten : 70% pompoen, 17,1% rijst, water.",
+        "de": "Ingrediënten : 70% pompoen, 17,1% rijst, water.",
+        "en": "Ingrediënten : 70% pompoen, 17,1% rijst, water.",
+        "ar": "Ingrediënten : 70% pompoen, 17,1% rijst, water."
+      },
+      "image": "images/5900852926785.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5900852926785.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313837313931?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babyvoeding",
+      "origin_country": {
+        "name": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "inferred_from": "GS1_590"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 141.0,
+        "calories_100g": 33.0,
+        "fat_100g": 0.2,
+        "saturated_fat_100g": 0.02,
+        "carbohydrates_100g": 6.9,
+        "sugars_100g": 2.4,
+        "fiber_100g": 1.2,
+        "proteins_100g": 0.7,
+        "salt_100g": 0.05,
+        "sodium_100g": 20.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "a",
+      "nutriscore_score": -1,
+      "health_score": 80,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.07,
+          "promo_price": 3.26,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=5900852926785",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.15,
+          "promo_price": 3.32,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=5900852926785",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.35,
+          "promo_price": 3.48,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi388934/olvarit-pompoen-rijst-4m",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.16,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5900852926785",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.84,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5900852926785",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5900852926785",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.42,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5900852926785",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.45,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5900852926785",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5900852074387": {
+      "barcode": "5900852074387",
+      "domain": "food",
+      "names": {
+        "nl": "Olvarit Knijpfruit rode biet paarse wortel 12m+",
+        "fr": "Olvarit Knijpfruit rode biet paarse wortel 12m+",
+        "de": "Olvarit Knijpfruit rode biet paarse wortel 12m+",
+        "en": "Olvarit Knijpfruit rode biet paarse wortel 12m+",
+        "ar": "Olvarit Knijpfruit rode biet paarse wortel 12m+"
+      },
+      "brand": "Olvarit",
+      "net_weight": "100 g",
+      "allergens": [
+        "Gluten"
+      ],
+      "description": "Olvarit knijpfruit rode biet paarse wortel, geschikt voor baby's vanaf 12 maanden oud. Het knijpzakje zit boordevol groente en is ideaal als leuk, lekker en verantwoord tussendoortje!",
+      "descriptions": {
+        "nl": "Olvarit knijpfruit rode biet paarse wortel, geschikt voor baby's vanaf 12 maanden oud. Het knijpzakje zit boordevol groente en is ideaal als leuk, lekker en verantwoord tussendoortje!",
+        "fr": "Olvarit Knijpfruit rode biet paarse wortel 12m+ par Olvarit.",
+        "de": "Olvarit Knijpfruit rode biet paarse wortel 12m+ von Olvarit.",
+        "en": "Olvarit Knijpfruit rode biet paarse wortel 12m+ by Olvarit.",
+        "ar": "منتج Olvarit Knijpfruit rode biet paarse wortel 12m+ من Olvarit."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: 48,8% appel, 21% rode biet, 20% paarse wortel, 10% bosbes, geconcentreerd citroensap, L-ascorbinezuur. Glutenvrij. Koemelkeiwitvrij.",
+        "fr": "Ingrediënten: 48,8% appel, 21% rode biet, 20% paarse wortel, 10% bosbes, geconcentreerd citroensap, L-ascorbinezuur. Glutenvrij. Koemelkeiwitvrij.",
+        "de": "Ingrediënten: 48,8% appel, 21% rode biet, 20% paarse wortel, 10% bosbes, geconcentreerd citroensap, L-ascorbinezuur. Glutenvrij. Koemelkeiwitvrij.",
+        "en": "Ingrediënten: 48,8% appel, 21% rode biet, 20% paarse wortel, 10% bosbes, geconcentreerd citroensap, L-ascorbinezuur. Glutenvrij. Koemelkeiwitvrij.",
+        "ar": "Ingrediënten: 48,8% appel, 21% rode biet, 20% paarse wortel, 10% bosbes, geconcentreerd citroensap, L-ascorbinezuur. Glutenvrij. Koemelkeiwitvrij."
+      },
+      "image": "images/5900852074387.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5900852074387.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_793230675571746c546b655f795661485733734f6277?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babyvoeding",
+      "origin_country": {
+        "name": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "inferred_from": "GS1_590"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 193.0,
+        "calories_100g": 46.0,
+        "fat_100g": 0.5,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 9.4,
+        "sugars_100g": 8.3,
+        "fiber_100g": 2.5,
+        "proteins_100g": 0.5,
+        "salt_100g": 0.05,
+        "sodium_100g": 20.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "a",
+      "nutriscore_score": -1,
+      "health_score": 80,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.71,
+          "promo_price": 2.97,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi606077/olvarit-knijpfruit-rode-biet-paarse-wortel-12m",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.05,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5900852074387",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.59,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5900852074387",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.79,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5900852074387",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5900852074387",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.2,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5900852074387",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.41,
+          "promo_price": 2.73,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=5900852074387",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.46,
+          "promo_price": 2.77,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=5900852074387",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5900852926570": {
+      "barcode": "5900852926570",
+      "domain": "food",
+      "names": {
+        "nl": "Olvarit Wortel 4m+",
+        "fr": "Olvarit Wortel 4m+",
+        "de": "Olvarit Wortel 4m+",
+        "en": "Olvarit Wortel 4m+",
+        "ar": "Olvarit Wortel 4m+"
+      },
+      "brand": "Olvarit",
+      "net_weight": "125 g",
+      "allergens": [],
+      "description": "Olvarit wortel is een heerlijk groentehapje om te starten met de eerste hapjes.tot de leeftijd van 6 maanden is borstvoeding de belangrijkste voeding en is dit product uitsluitend aanvullend.",
+      "descriptions": {
+        "nl": "Olvarit wortel is een heerlijk groentehapje om te starten met de eerste hapjes.tot de leeftijd van 6 maanden is borstvoeding de belangrijkste voeding en is dit product uitsluitend aanvullend.",
+        "fr": "Olvarit Wortel 4m+ par Olvarit.",
+        "de": "Olvarit Wortel 4m+ von Olvarit.",
+        "en": "Olvarit Wortel 4m+ by Olvarit.",
+        "ar": "منتج Olvarit Wortel 4m+ من Olvarit."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: 90% wortel, water.",
+        "fr": "Ingrediënten: 90% wortel, water.",
+        "de": "Ingrediënten: 90% wortel, water.",
+        "en": "Ingrediënten: 90% wortel, water.",
+        "ar": "Ingrediënten: 90% wortel, water."
+      },
+      "image": "images/5900852926570.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5900852926570.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313837303938?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babyvoeding",
+      "origin_country": {
+        "name": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "inferred_from": "GS1_590"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 129.0,
+        "calories_100g": 31.0,
+        "fat_100g": 0.2,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 5.3,
+        "sugars_100g": 5.3,
+        "fiber_100g": 2.4,
+        "proteins_100g": 0.7,
+        "salt_100g": 0.08,
+        "sodium_100g": 32.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "a",
+      "nutriscore_score": -1,
+      "health_score": 80,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.01,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5900852926570",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.08,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5900852926570",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.22,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi389227/olvarit-wortel-4m",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.61,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5900852926570",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.75,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5900852926570",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.18,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5900852926570",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.43,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5900852926570",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.86,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5900852926570",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5900852060939": {
+      "barcode": "5900852060939",
+      "domain": "food",
+      "names": {
+        "nl": "Olvarit Knijpfruit aple, banana 6m+ 4-pack",
+        "fr": "Olvarit Knijpfruit aple, banana 6m+ 4-pack",
+        "de": "Olvarit Knijpfruit aple, banana 6m+ 4-pack",
+        "en": "Olvarit Knijpfruit aple, banana 6m+ 4-pack",
+        "ar": "Olvarit Knijpfruit aple, banana 6m+ 4-pack"
+      },
+      "brand": "Olvarit",
+      "net_weight": "400 g",
+      "allergens": [],
+      "description": "Olvarit knijpfruit appel banaan, geschikt voor baby's vanaf 6 maanden oud. Het knijpzakje zit boordevol fruit en is ideaal als leuk, lekker en verantwoord tussendoortje!",
+      "descriptions": {
+        "nl": "Olvarit knijpfruit appel banaan, geschikt voor baby's vanaf 6 maanden oud. Het knijpzakje zit boordevol fruit en is ideaal als leuk, lekker en verantwoord tussendoortje!",
+        "fr": "Olvarit Knijpfruit aple, banana 6m+ 4-pack par Olvarit.",
+        "de": "Olvarit Knijpfruit aple, banana 6m+ 4-pack von Olvarit.",
+        "en": "Olvarit Knijpfruit aple, banana 6m+ 4-pack by Olvarit.",
+        "ar": "منتج Olvarit Knijpfruit aple, banana 6m+ 4-pack من Olvarit."
+      },
+      "ingredients": {
+        "nl": "ingrediënten : 75,96% appel, 24% banaan, L-ascorbinezuur, geconcentreerd citroensap.",
+        "fr": "ingrediënten : 75,96% appel, 24% banaan, L-ascorbinezuur, geconcentreerd citroensap.",
+        "de": "ingrediënten : 75,96% appel, 24% banaan, L-ascorbinezuur, geconcentreerd citroensap.",
+        "en": "ingrediënten : 75,96% appel, 24% banaan, L-ascorbinezuur, geconcentreerd citroensap.",
+        "ar": "ingrediënten : 75,96% appel, 24% banaan, L-ascorbinezuur, geconcentreerd citroensap."
+      },
+      "image": "images/5900852060939.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5900852060939.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_43545239393031393036?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babyvoeding",
+      "origin_country": {
+        "name": "Poland",
+        "code": "PL",
+        "flag": "🇵🇱",
+        "inferred_from": "GS1_590"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 271.0,
+        "calories_100g": 64.0,
+        "fat_100g": 0.1,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 14.5,
+        "sugars_100g": 14.3,
+        "fiber_100g": 1.7,
+        "proteins_100g": 0.4,
+        "salt_100g": 0.0,
+        "sodium_100g": 0.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "b",
+      "nutriscore_score": 2,
+      "health_score": 73,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.83,
+          "promo_price": 1.42,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi543789/olvarit-knijpfruit-aple-banana-6m-4-pack",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.81,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5900852060939",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.23,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5900852060939",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.33,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5900852060939",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.47,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5900852060939",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.84,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5900852060939",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 1.78,
+          "promo_price": 0.89,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=5900852060939",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.27,
+          "promo_price": 1.82,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=5900852060939",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

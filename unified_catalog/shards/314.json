@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "prefix": "314",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
   "product_count": 1,
   "products": {
     "3142920006070": {
@@ -53,15 +53,15 @@
       "halal_certified": false,
       "halal_certification_source": null,
       "triggers": [
-        "wijn"
+        "rode wijn"
       ],
-      "reason": "Alcohol / كحول (wijn)",
+      "reason": "Alcohol / كحول (rode wijn)",
       "explanations": {
-        "ar": "كحول محرم قطعا (wijn)",
-        "en": "Alcohol / كحول (wijn)",
-        "fr": "Alcool interdit (wijn)",
-        "nl": "Verboden alcohol (wijn)",
-        "de": "Verbotener Alkohol (wijn)"
+        "ar": "كحول محرم قطعا (rode wijn)",
+        "en": "Alcohol / كحول (rode wijn)",
+        "fr": "Alcool interdit (rode wijn)",
+        "nl": "Verboden alcohol (rode wijn)",
+        "de": "Verbotener Alkohol (rode wijn)"
       },
       "stores": [
         "ah.be",
@@ -195,7 +195,8 @@
           "updated_at": "2026-11-25T09:14:46.247875+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

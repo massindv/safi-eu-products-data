@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "885",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 16,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 17,
   "products": {
     "8852018101024": {
       "barcode": "8852018101024",
@@ -211,10 +211,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8852018101154": {
       "barcode": "8852018101154",
@@ -423,10 +424,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8852018201069": {
       "barcode": "8852018201069",
@@ -637,10 +639,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8852018800019": {
       "barcode": "8852018800019",
@@ -849,10 +852,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8857124179554": {
       "barcode": "8857124179554",
@@ -1056,10 +1060,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8852018101062": {
       "barcode": "8852018101062",
@@ -1267,7 +1272,8 @@
           "updated_at": "2026-11-25T08:18:14.114440+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8850389116937": {
       "barcode": "8850389116937",
@@ -1471,7 +1477,8 @@
           "updated_at": "2026-11-25T08:51:23.321743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8852018101055": {
       "barcode": "8852018101055",
@@ -1683,7 +1690,8 @@
           "updated_at": "2026-11-25T09:04:11.802974+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8852018201021": {
       "barcode": "8852018201021",
@@ -1896,7 +1904,8 @@
           "updated_at": "2026-11-25T09:04:11.802974+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8852018101031": {
       "barcode": "8852018101031",
@@ -2108,7 +2117,8 @@
           "updated_at": "2026-11-25T09:05:32.571154+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8852018101079": {
       "barcode": "8852018101079",
@@ -2320,7 +2330,8 @@
           "updated_at": "2026-11-25T09:06:40.024590+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8857124179363": {
       "barcode": "8857124179363",
@@ -2527,7 +2538,8 @@
           "updated_at": "2026-11-25T09:10:49.543888+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8852018201144": {
       "barcode": "8852018201144",
@@ -2740,7 +2752,8 @@
           "updated_at": "2026-11-25T09:10:49.543888+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8857124179578": {
       "barcode": "8857124179578",
@@ -2947,7 +2960,8 @@
           "updated_at": "2026-11-25T09:13:28.111265+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8858679646065": {
       "barcode": "8858679646065",
@@ -3153,7 +3167,8 @@
           "updated_at": "2026-11-25T09:18:46.513145+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8854404001055": {
       "barcode": "8854404001055",
@@ -3359,7 +3374,213 @@
           "updated_at": "2026-11-25T12:19:28.361126+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8850389117057": {
+      "barcode": "8850389117057",
+      "domain": "food",
+      "names": {
+        "nl": "Mogu Mogu Aardbei",
+        "fr": "Mogu Mogu Aardbei",
+        "de": "Mogu Mogu Aardbei",
+        "en": "Mogu Mogu Aardbei",
+        "ar": "Mogu Mogu Aardbei"
+      },
+      "brand": "Mogu Mogu",
+      "net_weight": "1 l",
+      "allergens": [],
+      "description": "Mogu mogu aardbei 1l.",
+      "descriptions": {
+        "nl": "Mogu mogu aardbei 1l.",
+        "fr": "Mogu Mogu Aardbei par Mogu Mogu.",
+        "de": "Mogu Mogu Aardbei von Mogu Mogu.",
+        "en": "Mogu Mogu Aardbei by Mogu Mogu.",
+        "ar": "منتج Mogu Mogu Aardbei من Mogu Mogu."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: water, 25% nata de coco (kokoswater, suiker, E260, azijnzuur), suiker, fructose, voedingszuur (citroenzuur, calcium lactate), aroma, conserveermiddel: (E211), geleermiddel: gellangom, kleurstof: (E160d). E = door de E.G. goedgekeurde hulpstof.",
+        "fr": "Ingrediënten: water, 25% nata de coco (kokoswater, suiker, E260, azijnzuur), suiker, fructose, voedingszuur (citroenzuur, calcium lactate), aroma, conserveermiddel: (E211), geleermiddel: gellangom, kleurstof: (E160d). E = door de E.G. goedgekeurde hulpstof.",
+        "de": "Ingrediënten: water, 25% nata de coco (kokoswater, suiker, E260, azijnzuur), suiker, fructose, voedingszuur (citroenzuur, calcium lactate), aroma, conserveermiddel: (E211), geleermiddel: gellangom, kleurstof: (E160d). E = door de E.G. goedgekeurde hulpstof.",
+        "en": "Ingrediënten: water, 25% nata de coco (kokoswater, suiker, E260, azijnzuur), suiker, fructose, voedingszuur (citroenzuur, calcium lactate), aroma, conserveermiddel: (E211), geleermiddel: gellangom, kleurstof: (E160d). E = door de E.G. goedgekeurde hulpstof.",
+        "ar": "Ingrediënten: water, 25% nata de coco (kokoswater, suiker, E260, azijnzuur), suiker, fructose, voedingszuur (citroenzuur, calcium lactate), aroma, conserveermiddel: (E211), geleermiddel: gellangom, kleurstof: (E160d). E = door de E.G. goedgekeurde hulpstof."
+      },
+      "image": "images/8850389117057.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8850389117057.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313834393534?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "eieren",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "STORE_FALLBACK"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 153.0,
+        "calories_100g": 36.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 8.9,
+        "sugars_100g": 7.6,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.12,
+        "sodium_100g": 48.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 1,
+      "health_score": 45,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma"
+      },
+      "stores": [
+        "delhaize.be",
+        "ah.be",
+        "colruyt.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.34,
+          "promo_price": 1.07,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=8850389117057",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.49,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi502053/mogu-mogu-aardbei",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.56,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8850389117057",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.93,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8850389117057",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.17,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=8850389117057",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.62,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=8850389117057",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.3,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8850389117057",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.37,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8850389117057",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

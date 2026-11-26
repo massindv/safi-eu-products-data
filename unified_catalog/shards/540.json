@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "540",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 1,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 2,
   "products": {
     "5400706107129": {
       "barcode": "5400706107129",
@@ -201,10 +201,214 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
+    },
+    "5400706107051": {
+      "barcode": "5400706107051",
+      "domain": "food",
+      "names": {
+        "nl": "Purasana Cacao poeder",
+        "fr": "Purasana Cacao poeder",
+        "de": "Purasana Cacao poeder",
+        "en": "Purasana Cacao poeder",
+        "ar": "Purasana Cacao poeder"
+      },
+      "brand": "Purasana",
+      "net_weight": "120 g",
+      "allergens": [],
+      "description": "Purasana Cacao poeder (Purasana).",
+      "descriptions": {
+        "nl": "Purasana Cacao poeder (Purasana).",
+        "fr": "Purasana Cacao poeder par Purasana.",
+        "de": "Purasana Cacao poeder von Purasana.",
+        "en": "Purasana Cacao poeder by Purasana.",
+        "ar": "منتج Purasana Cacao poeder من Purasana."
+      },
+      "ingredients": {
+        "nl": "cacaopoeder (Theobroma cacao).",
+        "fr": "cacaopoeder (Theobroma cacao).",
+        "de": "cacaopoeder (Theobroma cacao).",
+        "en": "cacaopoeder (Theobroma cacao).",
+        "ar": "cacaopoeder (Theobroma cacao)."
+      },
+      "image": "images/5400706107051.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5400706107051.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_535875706d424f3153752d5777443453585957536567?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "cacao",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "GS1_540"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1289.0,
+        "calories_100g": 308.0,
+        "fat_100g": 11.0,
+        "saturated_fat_100g": 6.5,
+        "carbohydrates_100g": 11.9,
+        "sugars_100g": 0.0,
+        "fiber_100g": 31.1,
+        "proteins_100g": 21.0,
+        "salt_100g": 0.3,
+        "sodium_100g": 120.0
+      },
+      "official_nutriscore": "a",
+      "nutriscore_grade": "a",
+      "nutriscore_score": 0,
+      "health_score": 93,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "delhaize.be",
+        "ah.be",
+        "colruyt.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.23,
+          "promo_price": 1.78,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=5400706107051",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.99,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi594030/purasana-cacao-poeder",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.53,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5400706107051",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.53,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5400706107051",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.72,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5400706107051",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.85,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5400706107051",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.15,
+          "promo_price": 1.72,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=5400706107051",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.49,
+          "promo_price": 1.99,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=5400706107051",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

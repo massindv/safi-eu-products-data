@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "360",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 4,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 5,
   "products": {
     "3608580861591": {
       "barcode": "3608580861591",
@@ -204,7 +204,8 @@
           "updated_at": "2026-11-25T08:25:24.220486+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3608580948674": {
       "barcode": "3608580948674",
@@ -406,7 +407,8 @@
           "updated_at": "2026-11-25T08:25:24.220486+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3608580200451": {
       "barcode": "3608580200451",
@@ -608,7 +610,8 @@
           "updated_at": "2026-11-25T09:12:06.226505+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3608580070832": {
       "barcode": "3608580070832",
@@ -815,7 +818,211 @@
           "updated_at": "2026-11-25T12:24:19.431709+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3608580056065": {
+      "barcode": "3608580056065",
+      "domain": "food",
+      "names": {
+        "nl": "Bonne Maman Aardbeien frambozen minder suiker",
+        "fr": "Bonne Maman Aardbeien frambozen minder suiker",
+        "de": "Bonne Maman Aardbeien frambozen minder suiker",
+        "en": "Bonne Maman Aardbeien frambozen minder suiker",
+        "ar": "Bonne Maman Aardbeien frambozen minder suiker"
+      },
+      "brand": "Bonne Maman",
+      "net_weight": "335 g",
+      "allergens": [],
+      "description": "Bonne maman meer fruit, minder suiker is een fruitspread met 30% minder suiker dan Bonne Maman traditionele jam voor een intense fruitsmaak. Bonne maman: een liefdevol gebaar, dat maakt het verschil.",
+      "descriptions": {
+        "nl": "Bonne maman meer fruit, minder suiker is een fruitspread met 30% minder suiker dan Bonne Maman traditionele jam voor een intense fruitsmaak. Bonne maman: een liefdevol gebaar, dat maakt het verschil.",
+        "fr": "Bonne Maman Aardbeien frambozen minder suiker par Bonne Maman.",
+        "de": "Bonne Maman Aardbeien frambozen minder suiker von Bonne Maman.",
+        "en": "Bonne Maman Aardbeien frambozen minder suiker by Bonne Maman.",
+        "ar": "منتج Bonne Maman Aardbeien frambozen minder suiker من Bonne Maman."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: vruchten (aardbeien 39%, frambozen 21%), suiker, geconcentreerd citroensap, geleerdmiddel: vruchtenpectinen.",
+        "fr": "Ingrediënten: vruchten (aardbeien 39%, frambozen 21%), suiker, geconcentreerd citroensap, geleerdmiddel: vruchtenpectinen.",
+        "de": "Ingrediënten: vruchten (aardbeien 39%, frambozen 21%), suiker, geconcentreerd citroensap, geleerdmiddel: vruchtenpectinen.",
+        "en": "Ingrediënten: vruchten (aardbeien 39%, frambozen 21%), suiker, geconcentreerd citroensap, geleerdmiddel: vruchtenpectinen.",
+        "ar": "Ingrediënten: vruchten (aardbeien 39%, frambozen 21%), suiker, geconcentreerd citroensap, geleerdmiddel: vruchtenpectinen."
+      },
+      "image": "images/3608580056065.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3608580056065.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_43545239373433313239?revLabel=3&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "eieren",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_360"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 694.0,
+        "calories_100g": 164.0,
+        "fat_100g": 0.1,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 39.0,
+        "sugars_100g": 39.0,
+        "fiber_100g": 2.4,
+        "proteins_100g": 0.5,
+        "salt_100g": 0.0,
+        "sodium_100g": 0.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 8,
+      "health_score": 43,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "delhaize.be",
+        "ah.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.9,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3608580056065",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.25,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3608580056065",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.38,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": "VOOR 2.49",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi497542/bonne-maman-aardbeien-frambozen-minder-suiker",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.69,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3608580056065",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.0,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3608580056065",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.89,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3608580056065",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.27,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3608580056065",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=3608580056065",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

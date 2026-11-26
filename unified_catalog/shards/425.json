@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "425",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 5,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 9,
   "products": {
     "4250519647890": {
       "barcode": "4250519647890",
@@ -209,7 +209,8 @@
           "updated_at": "2026-11-25T09:55:31.393049+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4250519646527": {
       "barcode": "4250519646527",
@@ -416,7 +417,8 @@
           "updated_at": "2026-11-25T09:58:39.347651+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4250519646534": {
       "barcode": "4250519646534",
@@ -623,7 +625,8 @@
           "updated_at": "2026-11-25T09:58:39.347651+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4250519677033": {
       "barcode": "4250519677033",
@@ -830,7 +833,8 @@
           "updated_at": "2026-11-25T10:00:00.526229+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4250519677057": {
       "barcode": "4250519677057",
@@ -1037,7 +1041,849 @@
           "updated_at": "2026-11-25T13:24:02.241723+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4250519679563": {
+      "barcode": "4250519679563",
+      "domain": "food",
+      "names": {
+        "nl": "ESN Designer whey almond coconut",
+        "fr": "ESN Designer whey almond coconut",
+        "de": "ESN Designer whey almond coconut",
+        "en": "ESN Designer whey almond coconut",
+        "ar": "ESN Designer whey almond coconut"
+      },
+      "brand": "ESN",
+      "net_weight": "300 g",
+      "allergens": [
+        "Soy",
+        "Eggs"
+      ],
+      "description": "ESN Designer whey almond coconut (ESN).",
+      "descriptions": {
+        "nl": "ESN Designer whey almond coconut (ESN).",
+        "fr": "ESN Designer whey almond coconut par ESN.",
+        "de": "ESN Designer whey almond coconut von ESN.",
+        "en": "ESN Designer whey almond coconut by ESN.",
+        "ar": "منتج ESN Designer whey almond coconut من ESN."
+      },
+      "ingredients": {
+        "nl": "Whey protein blend 94 % (ultra-gefilterd wey eiwitconcentraat, cross-flow micro-gefilterd whey eiwit isolaat), aroma, emulgator (lecithines (zonnebloem, soybean*)), geraspte kokosnoot 1,5%, zout, zoetstoffen (sucralose, steviolglycosiden uit stevia). Oorsprongingrediënten: EU/Niet-EU.",
+        "fr": "Whey protein blend 94 % (ultra-gefilterd wey eiwitconcentraat, cross-flow micro-gefilterd whey eiwit isolaat), aroma, emulgator (lecithines (zonnebloem, soybean*)), geraspte kokosnoot 1,5%, zout, zoetstoffen (sucralose, steviolglycosiden uit stevia). Oorsprongingrediënten: EU/Niet-EU.",
+        "de": "Whey protein blend 94 % (ultra-gefilterd wey eiwitconcentraat, cross-flow micro-gefilterd whey eiwit isolaat), aroma, emulgator (lecithines (zonnebloem, soybean*)), geraspte kokosnoot 1,5%, zout, zoetstoffen (sucralose, steviolglycosiden uit stevia). Oorsprongingrediënten: EU/Niet-EU.",
+        "en": "Whey protein blend 94 % (ultra-gefilterd wey eiwitconcentraat, cross-flow micro-gefilterd whey eiwit isolaat), aroma, emulgator (lecithines (zonnebloem, soybean*)), geraspte kokosnoot 1,5%, zout, zoetstoffen (sucralose, steviolglycosiden uit stevia). Oorsprongingrediënten: EU/Niet-EU.",
+        "ar": "Whey protein blend 94 % (ultra-gefilterd wey eiwitconcentraat, cross-flow micro-gefilterd whey eiwit isolaat), aroma, emulgator (lecithines (zonnebloem, soybean*)), geraspte kokosnoot 1,5%, zout, zoetstoffen (sucralose, steviolglycosiden uit stevia). Oorsprongingrediënten: EU/Niet-EU."
+      },
+      "image": "images/4250519679563.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4250519679563.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_3468684d54366c35525979426451624c356d78677277?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "eieren",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_425"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1611.0,
+        "calories_100g": 381.0,
+        "fat_100g": 5.6,
+        "saturated_fat_100g": 3.4,
+        "carbohydrates_100g": 7.0,
+        "sugars_100g": 5.6,
+        "fiber_100g": 0.0,
+        "proteins_100g": 73.0,
+        "salt_100g": 1.1,
+        "sodium_100g": 440.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "c",
+      "nutriscore_score": 7,
+      "health_score": 62,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "whey protein blend",
+        "cross-flow micro-gefilterd whey eiwit isolaat",
+        "esn designer whey almond coconut"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: whey protein blend, cross-flow micro-gefilterd whey eiwit isolaat, esn designer whey almond coconut",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: whey protein blend, cross-flow micro-gefilterd whey eiwit isolaat, esn designer whey almond coconut",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: whey protein blend, cross-flow micro-gefilterd whey eiwit isolaat, esn designer whey almond coconut",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : whey protein blend, cross-flow micro-gefilterd whey eiwit isolaat, esn designer whey almond coconut",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: whey protein blend, cross-flow micro-gefilterd whey eiwit isolaat, esn designer whey almond coconut",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: whey protein blend, cross-flow micro-gefilterd whey eiwit isolaat, esn designer whey almond coconut"
+      },
+      "stores": [
+        "delhaize.be",
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.14,
+          "promo_price": 1.57,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=4250519679563",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.06,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4250519679563",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.11,
+          "promo_price": 3.29,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi607242/esn-designer-whey-almond-coconut",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.14,
+          "promo_price": 3.31,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=4250519679563",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.41,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4250519679563",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.1,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4250519679563",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.1,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4250519679563",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.49,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4250519679563",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4250519694191": {
+      "barcode": "4250519694191",
+      "domain": "food",
+      "names": {
+        "nl": "ESN Isoclear whey protein peach iced tea",
+        "fr": "ESN Isoclear whey protein peach iced tea",
+        "de": "ESN Isoclear whey protein peach iced tea",
+        "en": "ESN Isoclear whey protein peach iced tea",
+        "ar": "ESN Isoclear whey protein peach iced tea"
+      },
+      "brand": "ESN",
+      "net_weight": "300 g",
+      "allergens": [
+        "Gluten",
+        "Milk",
+        "Eggs"
+      ],
+      "description": "ESN Isoclear whey protein peach iced tea (ESN).",
+      "descriptions": {
+        "nl": "ESN Isoclear whey protein peach iced tea (ESN).",
+        "fr": "ESN Isoclear whey protein peach iced tea par ESN.",
+        "de": "ESN Isoclear whey protein peach iced tea von ESN.",
+        "en": "ESN Isoclear whey protein peach iced tea by ESN.",
+        "ar": "منتج ESN Isoclear whey protein peach iced tea من ESN."
+      },
+      "ingredients": {
+        "nl": "Wei-eiwitisolaat 94 %, aroma (bevat melk), voedingszuren (citroenzuur), kleurend voedingsmiddelen (gerstemoutextract (glutenvrĳ)), zoetstoffen(sucralose, acesulfaam k). Oorsprong ingrediënten: EU/Niet-EU",
+        "fr": "Wei-eiwitisolaat 94 %, aroma (bevat melk), voedingszuren (citroenzuur), kleurend voedingsmiddelen (gerstemoutextract (glutenvrĳ)), zoetstoffen(sucralose, acesulfaam k). Oorsprong ingrediënten: EU/Niet-EU",
+        "de": "Wei-eiwitisolaat 94 %, aroma (bevat melk), voedingszuren (citroenzuur), kleurend voedingsmiddelen (gerstemoutextract (glutenvrĳ)), zoetstoffen(sucralose, acesulfaam k). Oorsprong ingrediënten: EU/Niet-EU",
+        "en": "Wei-eiwitisolaat 94 %, aroma (bevat melk), voedingszuren (citroenzuur), kleurend voedingsmiddelen (gerstemoutextract (glutenvrĳ)), zoetstoffen(sucralose, acesulfaam k). Oorsprong ingrediënten: EU/Niet-EU",
+        "ar": "Wei-eiwitisolaat 94 %, aroma (bevat melk), voedingszuren (citroenzuur), kleurend voedingsmiddelen (gerstemoutextract (glutenvrĳ)), zoetstoffen(sucralose, acesulfaam k). Oorsprong ingrediënten: EU/Niet-EU"
+      },
+      "image": "images/4250519694191.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4250519694191.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_475a5648686f5379524261453853424a493045753467?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "eieren",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_425"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1467.0,
+        "calories_100g": 348.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 2.3,
+        "sugars_100g": 0.5,
+        "fiber_100g": 0.0,
+        "proteins_100g": 81.0,
+        "salt_100g": 0.1,
+        "sodium_100g": 40.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "a",
+      "nutriscore_score": -1,
+      "health_score": 80,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "wei-eiwitisolaat",
+        "esn isoclear whey protein peach iced tea"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: wei-eiwitisolaat, esn isoclear whey protein peach iced tea",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: wei-eiwitisolaat, esn isoclear whey protein peach iced tea",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: wei-eiwitisolaat, esn isoclear whey protein peach iced tea",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : wei-eiwitisolaat, esn isoclear whey protein peach iced tea",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: wei-eiwitisolaat, esn isoclear whey protein peach iced tea",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: wei-eiwitisolaat, esn isoclear whey protein peach iced tea"
+      },
+      "stores": [
+        "colruyt.be",
+        "carrefour.be",
+        "delhaize.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.57,
+          "promo_price": 2.86,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=4250519694191",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.06,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4250519694191",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.18,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4250519694191",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.87,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi594156/esn-isoclear-whey-protein-peach-iced-tea",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.76,
+          "promo_price": 1.38,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=4250519694191",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.13,
+          "promo_price": 2.5,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=4250519694191",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.68,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4250519694191",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.72,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4250519694191",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4250519679464": {
+      "barcode": "4250519679464",
+      "domain": "food",
+      "names": {
+        "nl": "ESN Designer whey protein dark cookies",
+        "fr": "ESN Designer whey protein dark cookies",
+        "de": "ESN Designer whey protein dark cookies",
+        "en": "ESN Designer whey protein dark cookies",
+        "ar": "ESN Designer whey protein dark cookies"
+      },
+      "brand": "ESN",
+      "net_weight": "300 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Eggs"
+      ],
+      "description": "ESN Designer whey protein dark cookies (ESN).",
+      "descriptions": {
+        "nl": "ESN Designer whey protein dark cookies (ESN).",
+        "fr": "ESN Designer whey protein dark cookies par ESN.",
+        "de": "ESN Designer whey protein dark cookies von ESN.",
+        "en": "ESN Designer whey protein dark cookies by ESN.",
+        "ar": "منتج ESN Designer whey protein dark cookies من ESN."
+      },
+      "ingredients": {
+        "nl": "Wei-eiwitmengsel 85 % (ultragefilterd wei-eiwitconcentraat, microgefilterd wei-eiwitisolaat), cacaopoeder 6 % (sterk ontvet), aroma, stukjes koekjes 3 % (tarwemeel, suiker, palmvet, cacaopoeder (sterk ontvet), rĳsmiddelen (ammoniumwaterstofcarbonaat, natriumwaterstofcarbonaat, kaliumcarbonaat), zout), emulgator (lecithinen (zonnebloem, soja*)), zout, zoetstoffen (sucralose, steviolglycosiden uit Stevia), anti- klontermiddel (siliciumdioxide). Oorsprong ingrediënten: EU/Niet-EU.",
+        "fr": "Wei-eiwitmengsel 85 % (ultragefilterd wei-eiwitconcentraat, microgefilterd wei-eiwitisolaat), cacaopoeder 6 % (sterk ontvet), aroma, stukjes koekjes 3 % (tarwemeel, suiker, palmvet, cacaopoeder (sterk ontvet), rĳsmiddelen (ammoniumwaterstofcarbonaat, natriumwaterstofcarbonaat, kaliumcarbonaat), zout), emulgator (lecithinen (zonnebloem, soja*)), zout, zoetstoffen (sucralose, steviolglycosiden uit Stevia), anti- klontermiddel (siliciumdioxide). Oorsprong ingrediënten: EU/Niet-EU.",
+        "de": "Wei-eiwitmengsel 85 % (ultragefilterd wei-eiwitconcentraat, microgefilterd wei-eiwitisolaat), cacaopoeder 6 % (sterk ontvet), aroma, stukjes koekjes 3 % (tarwemeel, suiker, palmvet, cacaopoeder (sterk ontvet), rĳsmiddelen (ammoniumwaterstofcarbonaat, natriumwaterstofcarbonaat, kaliumcarbonaat), zout), emulgator (lecithinen (zonnebloem, soja*)), zout, zoetstoffen (sucralose, steviolglycosiden uit Stevia), anti- klontermiddel (siliciumdioxide). Oorsprong ingrediënten: EU/Niet-EU.",
+        "en": "Wei-eiwitmengsel 85 % (ultragefilterd wei-eiwitconcentraat, microgefilterd wei-eiwitisolaat), cacaopoeder 6 % (sterk ontvet), aroma, stukjes koekjes 3 % (tarwemeel, suiker, palmvet, cacaopoeder (sterk ontvet), rĳsmiddelen (ammoniumwaterstofcarbonaat, natriumwaterstofcarbonaat, kaliumcarbonaat), zout), emulgator (lecithinen (zonnebloem, soja*)), zout, zoetstoffen (sucralose, steviolglycosiden uit Stevia), anti- klontermiddel (siliciumdioxide). Oorsprong ingrediënten: EU/Niet-EU.",
+        "ar": "Wei-eiwitmengsel 85 % (ultragefilterd wei-eiwitconcentraat, microgefilterd wei-eiwitisolaat), cacaopoeder 6 % (sterk ontvet), aroma, stukjes koekjes 3 % (tarwemeel, suiker, palmvet, cacaopoeder (sterk ontvet), rĳsmiddelen (ammoniumwaterstofcarbonaat, natriumwaterstofcarbonaat, kaliumcarbonaat), zout), emulgator (lecithinen (zonnebloem, soja*)), zout, zoetstoffen (sucralose, steviolglycosiden uit Stevia), anti- klontermiddel (siliciumdioxide). Oorsprong ingrediënten: EU/Niet-EU."
+      },
+      "image": "images/4250519679464.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4250519679464.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4d6e432d645165385459757252746656323448636867?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "eieren",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_425"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1577.0,
+        "calories_100g": 373.0,
+        "fat_100g": 5.4,
+        "saturated_fat_100g": 2.8,
+        "carbohydrates_100g": 9.6,
+        "sugars_100g": 5.6,
+        "fiber_100g": 2.3,
+        "proteins_100g": 72.0,
+        "salt_100g": 1.1,
+        "sodium_100g": 440.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "c",
+      "nutriscore_score": 4,
+      "health_score": 68,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "wei-eiwitmengsel",
+        "ultragefilterd wei-eiwitconcentraat",
+        "microgefilterd wei-eiwitisolaat",
+        "esn designer whey protein dark cookies"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: wei-eiwitmengsel, ultragefilterd wei-eiwitconcentraat, microgefilterd wei-eiwitisolaat, esn designer whey protein dark cookies",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: wei-eiwitmengsel, ultragefilterd wei-eiwitconcentraat, microgefilterd wei-eiwitisolaat, esn designer whey protein dark cookies",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: wei-eiwitmengsel, ultragefilterd wei-eiwitconcentraat, microgefilterd wei-eiwitisolaat, esn designer whey protein dark cookies",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : wei-eiwitmengsel, ultragefilterd wei-eiwitconcentraat, microgefilterd wei-eiwitisolaat, esn designer whey protein dark cookies",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: wei-eiwitmengsel, ultragefilterd wei-eiwitconcentraat, microgefilterd wei-eiwitisolaat, esn designer whey protein dark cookies",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: wei-eiwitmengsel, ultragefilterd wei-eiwitconcentraat, microgefilterd wei-eiwitisolaat, esn designer whey protein dark cookies"
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4250519679464",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.4,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4250519679464",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.83,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi594160/esn-designer-whey-protein-dark-cookies",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4250519679464",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.2,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4250519679464",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.38,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4250519679464",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.05,
+          "promo_price": 1.52,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=4250519679464",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.83,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4250519679464",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4250519694368": {
+      "barcode": "4250519694368",
+      "domain": "food",
+      "names": {
+        "nl": "ESN Isoclear whey protein fresh cherry",
+        "fr": "ESN Isoclear whey protein fresh cherry",
+        "de": "ESN Isoclear whey protein fresh cherry",
+        "en": "ESN Isoclear whey protein fresh cherry",
+        "ar": "ESN Isoclear whey protein fresh cherry"
+      },
+      "brand": "ESN",
+      "net_weight": "300 g",
+      "allergens": [
+        "Eggs"
+      ],
+      "description": "ESN Isoclear whey protein fresh cherry (ESN).",
+      "descriptions": {
+        "nl": "ESN Isoclear whey protein fresh cherry (ESN).",
+        "fr": "ESN Isoclear whey protein fresh cherry par ESN.",
+        "de": "ESN Isoclear whey protein fresh cherry von ESN.",
+        "en": "ESN Isoclear whey protein fresh cherry by ESN.",
+        "ar": "منتج ESN Isoclear whey protein fresh cherry من ESN."
+      },
+      "ingredients": {
+        "nl": "Whey eiwitisolaat 94%, aroma, zuurteregelaar (citroenzuur), kleurstof (bietenpoeder), zoetstoffen (sucralose, acesulfaam K), kleurstof (caroteen). Wei-eiwitisolaat uit de EU. Oorsprong ingrediënten: EU/Niet-EU.",
+        "fr": "Whey eiwitisolaat 94%, aroma, zuurteregelaar (citroenzuur), kleurstof (bietenpoeder), zoetstoffen (sucralose, acesulfaam K), kleurstof (caroteen). Wei-eiwitisolaat uit de EU. Oorsprong ingrediënten: EU/Niet-EU.",
+        "de": "Whey eiwitisolaat 94%, aroma, zuurteregelaar (citroenzuur), kleurstof (bietenpoeder), zoetstoffen (sucralose, acesulfaam K), kleurstof (caroteen). Wei-eiwitisolaat uit de EU. Oorsprong ingrediënten: EU/Niet-EU.",
+        "en": "Whey eiwitisolaat 94%, aroma, zuurteregelaar (citroenzuur), kleurstof (bietenpoeder), zoetstoffen (sucralose, acesulfaam K), kleurstof (caroteen). Wei-eiwitisolaat uit de EU. Oorsprong ingrediënten: EU/Niet-EU.",
+        "ar": "Whey eiwitisolaat 94%, aroma, zuurteregelaar (citroenzuur), kleurstof (bietenpoeder), zoetstoffen (sucralose, acesulfaam K), kleurstof (caroteen). Wei-eiwitisolaat uit de EU. Oorsprong ingrediënten: EU/Niet-EU."
+      },
+      "image": "images/4250519694368.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4250519694368.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_347068534e435a5754582d3538746b33596c34526851?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "eieren",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_425"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1467.0,
+        "calories_100g": 345.0,
+        "fat_100g": 0.5,
+        "saturated_fat_100g": 0.1,
+        "carbohydrates_100g": 3.8,
+        "sugars_100g": 0.7,
+        "fiber_100g": 0.0,
+        "proteins_100g": 81.0,
+        "salt_100g": 0.1,
+        "sodium_100g": 40.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "a",
+      "nutriscore_score": -1,
+      "health_score": 80,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "whey eiwitisolaat",
+        "wei-eiwitisolaat uit de eu",
+        "esn isoclear whey protein fresh cherry"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: whey eiwitisolaat, wei-eiwitisolaat uit de eu, esn isoclear whey protein fresh cherry",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: whey eiwitisolaat, wei-eiwitisolaat uit de eu, esn isoclear whey protein fresh cherry",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: whey eiwitisolaat, wei-eiwitisolaat uit de eu, esn isoclear whey protein fresh cherry",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : whey eiwitisolaat, wei-eiwitisolaat uit de eu, esn isoclear whey protein fresh cherry",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: whey eiwitisolaat, wei-eiwitisolaat uit de eu, esn isoclear whey protein fresh cherry",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: whey eiwitisolaat, wei-eiwitisolaat uit de eu, esn isoclear whey protein fresh cherry"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 5.08,
+          "promo_price": 2.54,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=4250519694368",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 5.11,
+          "promo_price": 2.56,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi594161/esn-isoclear-whey-protein-fresh-cherry",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.79,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4250519694368",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.98,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4250519694368",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.58,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4250519694368",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.49,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4250519694368",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.73,
+          "promo_price": 3.78,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=4250519694368",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 5.27,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4250519694368",
+          "updated_at": "2026-11-25T17:21:40.518695+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

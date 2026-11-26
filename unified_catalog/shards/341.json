@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "341",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 3,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 6,
   "products": {
     "3415581114713": {
       "barcode": "3415581114713",
@@ -210,7 +210,8 @@
           "updated_at": "2026-11-25T09:16:17.929283+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3415581101010": {
       "barcode": "3415581101010",
@@ -415,7 +416,8 @@
           "updated_at": "2026-11-25T09:17:36.953647+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3415581103717": {
       "barcode": "3415581103717",
@@ -621,7 +623,630 @@
           "updated_at": "2026-11-25T09:18:46.513145+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3415581122015": {
+      "barcode": "3415581122015",
+      "domain": "food",
+      "names": {
+        "nl": "Häagen-Dazs Macadamia nut brittle",
+        "fr": "Häagen-Dazs Macadamia nut brittle",
+        "de": "Häagen-Dazs Macadamia nut brittle",
+        "en": "Häagen-Dazs Macadamia nut brittle",
+        "ar": "Häagen-Dazs Macadamia nut brittle"
+      },
+      "brand": "Häagen-Dazs",
+      "net_weight": "460 ml",
+      "allergens": [
+        "Milk",
+        "Eggs"
+      ],
+      "description": "Fluweelzacht vanilleroomijs met gekarameliseerde macadamia noten. Elke schep begint met slechts 4 ingredienten: room, melk, suiker en eieren. Daar voegen we alleen nog een geweldige smaak aan toe.",
+      "descriptions": {
+        "nl": "Fluweelzacht vanilleroomijs met gekarameliseerde macadamia noten. Elke schep begint met slechts 4 ingredienten: room, melk, suiker en eieren. Daar voegen we alleen nog een geweldige smaak aan toe.",
+        "fr": "Häagen-Dazs Macadamia nut brittle par Häagen-Dazs.",
+        "de": "Häagen-Dazs Macadamia nut brittle von Häagen-Dazs.",
+        "en": "Häagen-Dazs Macadamia nut brittle by Häagen-Dazs.",
+        "ar": "منتج Häagen-Dazs Macadamia nut brittle من Häagen-Dazs."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Verse ROOM (33%), geëvaporeerde magere MELK, suiker, water, EIGEEL, glucosestroop, MACADEMIANOTEN (0,8%), kokosolie, BOTER, natuurlijk vanillearoma, rijsmiddel (natriumwaterstofcarbonaat) zout, emulgator (zonnebloemlecithine). Allergenen: zie vetgedrukte ingrediënten. KAN ANDERE BOOMNOTEN BEVATTEN.",
+        "fr": "Ingrediënten: Verse ROOM (33%), geëvaporeerde magere MELK, suiker, water, EIGEEL, glucosestroop, MACADEMIANOTEN (0,8%), kokosolie, BOTER, natuurlijk vanillearoma, rijsmiddel (natriumwaterstofcarbonaat) zout, emulgator (zonnebloemlecithine). Allergenen: zie vetgedrukte ingrediënten. KAN ANDERE BOOMNOTEN BEVATTEN.",
+        "de": "Ingrediënten: Verse ROOM (33%), geëvaporeerde magere MELK, suiker, water, EIGEEL, glucosestroop, MACADEMIANOTEN (0,8%), kokosolie, BOTER, natuurlijk vanillearoma, rijsmiddel (natriumwaterstofcarbonaat) zout, emulgator (zonnebloemlecithine). Allergenen: zie vetgedrukte ingrediënten. KAN ANDERE BOOMNOTEN BEVATTEN.",
+        "en": "Ingrediënten: Verse ROOM (33%), geëvaporeerde magere MELK, suiker, water, EIGEEL, glucosestroop, MACADEMIANOTEN (0,8%), kokosolie, BOTER, natuurlijk vanillearoma, rijsmiddel (natriumwaterstofcarbonaat) zout, emulgator (zonnebloemlecithine). Allergenen: zie vetgedrukte ingrediënten. KAN ANDERE BOOMNOTEN BEVATTEN.",
+        "ar": "Ingrediënten: Verse ROOM (33%), geëvaporeerde magere MELK, suiker, water, EIGEEL, glucosestroop, MACADEMIANOTEN (0,8%), kokosolie, BOTER, natuurlijk vanillearoma, rijsmiddel (natriumwaterstofcarbonaat) zout, emulgator (zonnebloemlecithine). Allergenen: zie vetgedrukte ingrediënten. KAN ANDERE BOOMNOTEN BEVATTEN."
+      },
+      "image": "images/3415581122015.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3415581122015.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_43545239393437323731?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "ijs",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_341"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1100.0,
+        "calories_100g": 264.0,
+        "fat_100g": 16.4,
+        "saturated_fat_100g": 10.7,
+        "carbohydrates_100g": 25.1,
+        "sugars_100g": 25.0,
+        "fiber_100g": 0.1,
+        "proteins_100g": 3.9,
+        "salt_100g": 0.22,
+        "sodium_100g": 88.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 16,
+      "health_score": 20,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "delhaize.be",
+        "carrefour.be",
+        "ah.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.27,
+          "promo_price": 1.14,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=3415581122015",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.03,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3415581122015",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.78,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi451296/ha%CC%88agen-dazs-macadamia-nut-brittle",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.1,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3415581122015",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.31,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3415581122015",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.41,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3415581122015",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.39,
+          "promo_price": 1.2,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=3415581122015",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.7,
+          "promo_price": 2.16,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=3415581122015",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3415583003718": {
+      "barcode": "3415583003718",
+      "domain": "food",
+      "names": {
+        "nl": "Häagen-Dazs Pistache cream",
+        "fr": "Häagen-Dazs Pistache cream",
+        "de": "Häagen-Dazs Pistache cream",
+        "en": "Häagen-Dazs Pistache cream",
+        "ar": "Häagen-Dazs Pistache cream"
+      },
+      "brand": "Häagen-Dazs",
+      "net_weight": "420 ml",
+      "allergens": [
+        "Milk",
+        "Eggs",
+        "Tree Nuts"
+      ],
+      "description": "Roomijs met pistachesaus en gekarameliseerde pistachestukjes. Elke schep begint met slechts 4 ingredienten: room, melk, suiker en eieren. Daar voegen we alleen nog een geweldige smaak aan toe.",
+      "descriptions": {
+        "nl": "Roomijs met pistachesaus en gekarameliseerde pistachestukjes. Elke schep begint met slechts 4 ingredienten: room, melk, suiker en eieren. Daar voegen we alleen nog een geweldige smaak aan toe.",
+        "fr": "Häagen-Dazs Pistache cream par Häagen-Dazs.",
+        "de": "Häagen-Dazs Pistache cream von Häagen-Dazs.",
+        "en": "Häagen-Dazs Pistache cream by Häagen-Dazs.",
+        "ar": "منتج Häagen-Dazs Pistache cream من Häagen-Dazs."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: verse ROOM (30%), gecondenseerde magere MELK, suiker, water, EIGEEL, glucosestroop, PISTACHEstukjes (2,8%), AMANDELstukjes (2,8%), plantaardige oliën (zonnebloem, kokos), gecondenseerde MELK met suiker, PISTACHEpasta (1%), zout, geleermiddel (pectinen), emulgator (lecithinen). allergenen: zie vetgedrukte ingrediënten. kan andere noten bevatten.",
+        "fr": "Ingrediënten: verse ROOM (30%), gecondenseerde magere MELK, suiker, water, EIGEEL, glucosestroop, PISTACHEstukjes (2,8%), AMANDELstukjes (2,8%), plantaardige oliën (zonnebloem, kokos), gecondenseerde MELK met suiker, PISTACHEpasta (1%), zout, geleermiddel (pectinen), emulgator (lecithinen). allergenen: zie vetgedrukte ingrediënten. kan andere noten bevatten.",
+        "de": "Ingrediënten: verse ROOM (30%), gecondenseerde magere MELK, suiker, water, EIGEEL, glucosestroop, PISTACHEstukjes (2,8%), AMANDELstukjes (2,8%), plantaardige oliën (zonnebloem, kokos), gecondenseerde MELK met suiker, PISTACHEpasta (1%), zout, geleermiddel (pectinen), emulgator (lecithinen). allergenen: zie vetgedrukte ingrediënten. kan andere noten bevatten.",
+        "en": "Ingrediënten: verse ROOM (30%), gecondenseerde magere MELK, suiker, water, EIGEEL, glucosestroop, PISTACHEstukjes (2,8%), AMANDELstukjes (2,8%), plantaardige oliën (zonnebloem, kokos), gecondenseerde MELK met suiker, PISTACHEpasta (1%), zout, geleermiddel (pectinen), emulgator (lecithinen). allergenen: zie vetgedrukte ingrediënten. kan andere noten bevatten.",
+        "ar": "Ingrediënten: verse ROOM (30%), gecondenseerde magere MELK, suiker, water, EIGEEL, glucosestroop, PISTACHEstukjes (2,8%), AMANDELstukjes (2,8%), plantaardige oliën (zonnebloem, kokos), gecondenseerde MELK met suiker, PISTACHEpasta (1%), zout, geleermiddel (pectinen), emulgator (lecithinen). allergenen: zie vetgedrukte ingrediënten. kan andere noten bevatten."
+      },
+      "image": "images/3415583003718.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3415583003718.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4b4c542d50436568534b754a7276647a4c5769634151?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "ijs",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_341"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1164.0,
+        "calories_100g": 279.0,
+        "fat_100g": 18.1,
+        "saturated_fat_100g": 9.8,
+        "carbohydrates_100g": 23.7,
+        "sugars_100g": 21.7,
+        "fiber_100g": 0.7,
+        "proteins_100g": 5.0,
+        "salt_100g": 0.28,
+        "sodium_100g": 112.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 14,
+      "health_score": 21,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "emulgator"
+      ],
+      "reason": "Emulsifier with unspecified plant/animal origin requires source verification: emulgator",
+      "explanations": {
+        "ar": "مستحلب ثنائي المصدر يتطلب التحقق من المصدر: emulgator",
+        "en": "Emulsifier with unspecified plant/animal origin requires source verification: emulgator",
+        "fr": "Émulsifiant d'origine végétale/animale non spécifiée nécessitant une vérification : emulgator",
+        "nl": "Emulgator met ongespecificeerde plantaardige/dierlijke oorsprong vereist controle: emulgator",
+        "de": "Emulgator mit unbestimmter pflanzlicher/tierischer Herkunft erfordert Prüfung: emulgator"
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "carrefour.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.13,
+          "promo_price": 1.56,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=3415583003718",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.38,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3415583003718",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.69,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3415583003718",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.21,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi608060/ha%CC%88agen-dazs-pistache-cream",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.02,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3415583003718",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.51,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3415583003718",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.61,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3415583003718",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=3415583003718",
+          "updated_at": "2026-11-25T21:11:22.412589+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3415581314717": {
+      "barcode": "3415581314717",
+      "domain": "food",
+      "names": {
+        "nl": "Häagen-Dazs Salted caramel",
+        "fr": "Häagen-Dazs Salted caramel",
+        "de": "Häagen-Dazs Salted caramel",
+        "en": "Häagen-Dazs Salted caramel",
+        "ar": "Häagen-Dazs Salted caramel"
+      },
+      "brand": "Häagen-Dazs",
+      "net_weight": "95 ml",
+      "allergens": [
+        "Gluten",
+        "Milk",
+        "Eggs"
+      ],
+      "description": "Fluweelzacht roomijs met karamelsaus en gezouten stukjes karamel. Elke schep begint met slechts 4 ingredienten: room, melk, suiker en eieren. Daar voegen we alleen nog een geweldige smaak aan toe.",
+      "descriptions": {
+        "nl": "Fluweelzacht roomijs met karamelsaus en gezouten stukjes karamel. Elke schep begint met slechts 4 ingredienten: room, melk, suiker en eieren. Daar voegen we alleen nog een geweldige smaak aan toe.",
+        "fr": "Häagen-Dazs Salted caramel par Häagen-Dazs.",
+        "de": "Häagen-Dazs Salted caramel von Häagen-Dazs.",
+        "en": "Häagen-Dazs Salted caramel by Häagen-Dazs.",
+        "ar": "منتج Häagen-Dazs Salted caramel من Häagen-Dazs."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: verse ROOM (29%), water, lactose verminderde gecondenseerde magere MELK met suiker, suiker, glucosestroop, gecondenseerde volle MELK met suiker, EIGEEL, gecondenseerde magere MELK met suiker, gezouten BOTER, kokosvet, BOTER, zout, emulgator (zonnebloemlecithine), verdikkingsmiddel (pectinen), natuurlijke vanillearoma's. Kan boomnoten bevatten. Glutenvrij.",
+        "fr": "Ingrediënten: verse ROOM (29%), water, lactose verminderde gecondenseerde magere MELK met suiker, suiker, glucosestroop, gecondenseerde volle MELK met suiker, EIGEEL, gecondenseerde magere MELK met suiker, gezouten BOTER, kokosvet, BOTER, zout, emulgator (zonnebloemlecithine), verdikkingsmiddel (pectinen), natuurlijke vanillearoma's. Kan boomnoten bevatten. Glutenvrij.",
+        "de": "Ingrediënten: verse ROOM (29%), water, lactose verminderde gecondenseerde magere MELK met suiker, suiker, glucosestroop, gecondenseerde volle MELK met suiker, EIGEEL, gecondenseerde magere MELK met suiker, gezouten BOTER, kokosvet, BOTER, zout, emulgator (zonnebloemlecithine), verdikkingsmiddel (pectinen), natuurlijke vanillearoma's. Kan boomnoten bevatten. Glutenvrij.",
+        "en": "Ingrediënten: verse ROOM (29%), water, lactose verminderde gecondenseerde magere MELK met suiker, suiker, glucosestroop, gecondenseerde volle MELK met suiker, EIGEEL, gecondenseerde magere MELK met suiker, gezouten BOTER, kokosvet, BOTER, zout, emulgator (zonnebloemlecithine), verdikkingsmiddel (pectinen), natuurlijke vanillearoma's. Kan boomnoten bevatten. Glutenvrij.",
+        "ar": "Ingrediënten: verse ROOM (29%), water, lactose verminderde gecondenseerde magere MELK met suiker, suiker, glucosestroop, gecondenseerde volle MELK met suiker, EIGEEL, gecondenseerde magere MELK met suiker, gezouten BOTER, kokosvet, BOTER, zout, emulgator (zonnebloemlecithine), verdikkingsmiddel (pectinen), natuurlijke vanillearoma's. Kan boomnoten bevatten. Glutenvrij."
+      },
+      "image": "images/3415581314717.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3415581314717.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_43545239393437323733?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "ijs",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_341"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1149.0,
+        "calories_100g": 275.0,
+        "fat_100g": 16.3,
+        "saturated_fat_100g": 10.9,
+        "carbohydrates_100g": 28.1,
+        "sugars_100g": 25.3,
+        "fiber_100g": 0.0,
+        "proteins_100g": 4.0,
+        "salt_100g": 0.5,
+        "sodium_100g": 200.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 18,
+      "health_score": 19,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.72,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3415581314717",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.92,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi474132/ha%CC%88agen-dazs-salted-caramel",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.32,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3415581314717",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.71,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3415581314717",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.86,
+          "promo_price": 3.09,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=3415581314717",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.68,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3415581314717",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.16,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=3415581314717",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.26,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3415581314717",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

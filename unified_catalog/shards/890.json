@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "prefix": "890",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
   "product_count": 2,
   "products": {
     "8901529084620": {
@@ -207,10 +207,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8901529080851": {
       "barcode": "8901529080851",
@@ -407,7 +408,8 @@
           "updated_at": "2026-11-25T12:59:17.970288+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

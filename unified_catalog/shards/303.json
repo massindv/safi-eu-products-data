@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "303",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 3,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 7,
   "products": {
     "3036810204014": {
       "barcode": "3036810204014",
@@ -206,7 +206,8 @@
           "updated_at": "2026-11-25T09:09:22.673665+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3036810201280": {
       "barcode": "3036810201280",
@@ -410,7 +411,8 @@
           "updated_at": "2026-11-25T12:03:31.822343+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3033710001279": {
       "barcode": "3033710001279",
@@ -618,7 +620,834 @@
           "updated_at": "2026-11-25T13:57:09.364971+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3033490988388": {
+      "barcode": "3033490988388",
+      "domain": "food",
+      "names": {
+        "nl": "Activia Yoghurt pruim",
+        "fr": "Activia Yoghurt pruim",
+        "de": "Activia Yoghurt pruim",
+        "en": "Activia Yoghurt pruim",
+        "ar": "Activia Yoghurt pruim"
+      },
+      "brand": "Activia",
+      "net_weight": "4 x 125 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Activia yoghurt pruim is een heerlijke combinatie van milde yoghurt en stukjes pruim. Ideaal voor een lekker begin van de dag of als tussendoortje.",
+      "descriptions": {
+        "nl": "Activia yoghurt pruim is een heerlijke combinatie van milde yoghurt en stukjes pruim. Ideaal voor een lekker begin van de dag of als tussendoortje.",
+        "fr": "Activia Yoghurt pruim par Activia.",
+        "de": "Activia Yoghurt pruim von Activia.",
+        "en": "Activia Yoghurt pruim by Activia.",
+        "ar": "منتج Activia Yoghurt pruim من Activia."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Yoghurt (MELK) met Bifidus ActiRegularis®, gerehydrateerde pruim (6,2%), suiker, glucose- fructosestroop, inuline, gemodificeerd zetmeel, verdikkingsmiddel (pectinen), aroma, zuurteregelaar (citroenzuur)",
+        "fr": "Ingrediënten: Yoghurt (MELK) met Bifidus ActiRegularis®, gerehydrateerde pruim (6,2%), suiker, glucose- fructosestroop, inuline, gemodificeerd zetmeel, verdikkingsmiddel (pectinen), aroma, zuurteregelaar (citroenzuur)",
+        "de": "Ingrediënten: Yoghurt (MELK) met Bifidus ActiRegularis®, gerehydrateerde pruim (6,2%), suiker, glucose- fructosestroop, inuline, gemodificeerd zetmeel, verdikkingsmiddel (pectinen), aroma, zuurteregelaar (citroenzuur)",
+        "en": "Ingrediënten: Yoghurt (MELK) met Bifidus ActiRegularis®, gerehydrateerde pruim (6,2%), suiker, glucose- fructosestroop, inuline, gemodificeerd zetmeel, verdikkingsmiddel (pectinen), aroma, zuurteregelaar (citroenzuur)",
+        "ar": "Ingrediënten: Yoghurt (MELK) met Bifidus ActiRegularis®, gerehydrateerde pruim (6,2%), suiker, glucose- fructosestroop, inuline, gemodificeerd zetmeel, verdikkingsmiddel (pectinen), aroma, zuurteregelaar (citroenzuur)"
+      },
+      "image": "images/3033490988388.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3033490988388.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4b6a305465454e5853507553445a3161375449715151?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "yoghurt",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_303"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 414.0,
+        "calories_100g": 99.0,
+        "fat_100g": 3.4,
+        "saturated_fat_100g": 2.3,
+        "carbohydrates_100g": 12.9,
+        "sugars_100g": 12.0,
+        "fiber_100g": null,
+        "proteins_100g": 3.4,
+        "salt_100g": 0.1,
+        "sodium_100g": 40.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 3,
+      "health_score": 64,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma"
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.01,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": "25% korting",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi128697/activia-yoghurt-pruim",
+          "updated_at": "2026-11-25T16:21:32.091761+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.2,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3033490988388",
+          "updated_at": "2026-11-25T16:21:32.091761+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.31,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3033490988388",
+          "updated_at": "2026-11-25T16:21:32.091761+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.7,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3033490988388",
+          "updated_at": "2026-11-25T16:21:32.091761+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.94,
+          "promo_price": 2.35,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=3033490988388",
+          "updated_at": "2026-11-25T16:21:32.091761+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.1,
+          "promo_price": 1.68,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=3033490988388",
+          "updated_at": "2026-11-25T16:21:32.091761+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.59,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=3033490988388",
+          "updated_at": "2026-11-25T16:21:32.091761+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.95,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3033490988388",
+          "updated_at": "2026-11-25T16:21:32.091761+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3033491351082": {
+      "barcode": "3033491351082",
+      "domain": "food",
+      "names": {
+        "nl": "Activia Yoghurt vanille",
+        "fr": "Activia Yoghurt vanille",
+        "de": "Activia Yoghurt vanille",
+        "en": "Activia Yoghurt vanille",
+        "ar": "Activia Yoghurt vanille"
+      },
+      "brand": "Activia",
+      "net_weight": "4 x 125 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Activia yoghurt vanille is een stevige en frisse yoghurt die heerlijk smaakt, samen met het aromatisch zoet van vanille. Ideaal als tussendoortje of als afsluiting van de dag.",
+      "descriptions": {
+        "nl": "Activia yoghurt vanille is een stevige en frisse yoghurt die heerlijk smaakt, samen met het aromatisch zoet van vanille. Ideaal als tussendoortje of als afsluiting van de dag.",
+        "fr": "Activia Yoghurt vanille par Activia.",
+        "de": "Activia Yoghurt vanille von Activia.",
+        "en": "Activia Yoghurt vanille by Activia.",
+        "ar": "منتج Activia Yoghurt vanille من Activia."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Yoghurt(MELK) met Bifidus ActiRegularis®, suiker (7,8%), natuurlijk aroma..",
+        "fr": "Ingrediënten: Yoghurt(MELK) met Bifidus ActiRegularis®, suiker (7,8%), natuurlijk aroma..",
+        "de": "Ingrediënten: Yoghurt(MELK) met Bifidus ActiRegularis®, suiker (7,8%), natuurlijk aroma..",
+        "en": "Ingrediënten: Yoghurt(MELK) met Bifidus ActiRegularis®, suiker (7,8%), natuurlijk aroma..",
+        "ar": "Ingrediënten: Yoghurt(MELK) met Bifidus ActiRegularis®, suiker (7,8%), natuurlijk aroma.."
+      },
+      "image": "images/3033491351082.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3033491351082.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_616a485a476663585368574a483764374e4159564e41?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "yoghurt",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_303"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 384.0,
+        "calories_100g": 91.0,
+        "fat_100g": 2.9,
+        "saturated_fat_100g": 2.0,
+        "carbohydrates_100g": 12.7,
+        "sugars_100g": 12.7,
+        "fiber_100g": null,
+        "proteins_100g": 3.7,
+        "salt_100g": 0.13,
+        "sodium_100g": 52.0
+      },
+      "official_nutriscore": "b",
+      "nutriscore_grade": "b",
+      "nutriscore_score": 2,
+      "health_score": 79,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijk aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk aroma"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.7,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3033491351082",
+          "updated_at": "2026-11-25T16:22:59.493457+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 5.34,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": "25% korting",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi438242/activia-yoghurt-vanille",
+          "updated_at": "2026-11-25T16:22:59.493457+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 5.39,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3033491351082",
+          "updated_at": "2026-11-25T16:22:59.493457+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 5.56,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3033491351082",
+          "updated_at": "2026-11-25T16:22:59.493457+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.74,
+          "promo_price": 3.79,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=3033491351082",
+          "updated_at": "2026-11-25T16:22:59.493457+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 5.44,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3033491351082",
+          "updated_at": "2026-11-25T16:22:59.493457+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.71,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=3033491351082",
+          "updated_at": "2026-11-25T16:22:59.493457+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.86,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3033491351082",
+          "updated_at": "2026-11-25T16:22:59.493457+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3033710046423": {
+      "barcode": "3033710046423",
+      "domain": "food",
+      "names": {
+        "nl": "Nescafé Mocca oploskoffie",
+        "fr": "Nescafé Mocca oploskoffie",
+        "de": "Nescafé Mocca oploskoffie",
+        "en": "Nescafé Mocca oploskoffie",
+        "ar": "Nescafé Mocca oploskoffie"
+      },
+      "brand": "Nescafé",
+      "net_weight": "20 stuks",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Onze Nescafe mocca oploskoffie is voor iedereen die houdt van een lekkere, pittige koffie met een verrassend volle moccasmaak en een mooi cremalaagje.",
+      "descriptions": {
+        "nl": "Onze Nescafe mocca oploskoffie is voor iedereen die houdt van een lekkere, pittige koffie met een verrassend volle moccasmaak en een mooi cremalaagje.",
+        "fr": "Nescafé Mocca oploskoffie par Nescafé.",
+        "de": "Nescafé Mocca oploskoffie von Nescafé.",
+        "en": "Nescafé Mocca oploskoffie by Nescafé.",
+        "ar": "منتج Nescafé Mocca oploskoffie من Nescafé."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: instantkoffie (54%), suiker, aroma's, maltodextrine. Mogelijk sporen van MELK.",
+        "fr": "Ingrediënten: instantkoffie (54%), suiker, aroma's, maltodextrine. Mogelijk sporen van MELK.",
+        "de": "Ingrediënten: instantkoffie (54%), suiker, aroma's, maltodextrine. Mogelijk sporen van MELK.",
+        "en": "Ingrediënten: instantkoffie (54%), suiker, aroma's, maltodextrine. Mogelijk sporen van MELK.",
+        "ar": "Ingrediënten: instantkoffie (54%), suiker, aroma's, maltodextrine. Mogelijk sporen van MELK."
+      },
+      "image": "images/3033710046423.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3033710046423.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313833323936?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "oploskoffie",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_303"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1018.0,
+        "calories_100g": 242.0,
+        "fat_100g": 0.9,
+        "saturated_fat_100g": 0.25,
+        "carbohydrates_100g": 44.31,
+        "sugars_100g": 39.03,
+        "fiber_100g": 18.6,
+        "proteins_100g": 4.26,
+        "salt_100g": 0.18,
+        "sodium_100g": 72.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 4,
+      "health_score": 44,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma's"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma's",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma's",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma's",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma's",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma's",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma's"
+      },
+      "stores": [
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.49,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3033710046423",
+          "updated_at": "2026-11-25T19:31:00.772656+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.95,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi127411/nescafe%CC%81-mocca-oploskoffie",
+          "updated_at": "2026-11-25T19:31:00.772656+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 5.26,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3033710046423",
+          "updated_at": "2026-11-25T19:31:00.772656+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 5.45,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3033710046423",
+          "updated_at": "2026-11-25T19:31:00.772656+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.82,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3033710046423",
+          "updated_at": "2026-11-25T19:31:00.772656+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 5.0,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3033710046423",
+          "updated_at": "2026-11-25T19:31:00.772656+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.52,
+          "promo_price": 2.26,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=3033710046423",
+          "updated_at": "2026-11-25T19:31:00.772656+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.68,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3033710046423",
+          "updated_at": "2026-11-25T19:31:00.772656+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3033710592258": {
+      "barcode": "3033710592258",
+      "domain": "food",
+      "names": {
+        "nl": "Nestlé Yogolino perzik 6m+",
+        "fr": "Nestlé Yogolino perzik 6m+",
+        "de": "Nestlé Yogolino perzik 6m+",
+        "en": "Nestlé Yogolino perzik 6m+",
+        "ar": "Nestlé Yogolino perzik 6m+"
+      },
+      "brand": "Nestlé",
+      "net_weight": "400 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Nestle yogolino is een heerlijk zacht zuivelhapje, bereid met melk en fruit, speciaal ontwikkeld voor baby's. Elk bekertje is een natuurlijke bron van calcium. Lekker als toetje of tussendoortje.",
+      "descriptions": {
+        "nl": "Nestle yogolino is een heerlijk zacht zuivelhapje, bereid met melk en fruit, speciaal ontwikkeld voor baby's. Elk bekertje is een natuurlijke bron van calcium. Lekker als toetje of tussendoortje.",
+        "fr": "Nestlé Yogolino perzik 6m+ par Nestlé.",
+        "de": "Nestlé Yogolino perzik 6m+ von Nestlé.",
+        "en": "Nestlé Yogolino perzik 6m+ by Nestlé.",
+        "ar": "منتج Nestlé Yogolino perzik 6m+ من Nestlé."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: gefermenteerde MELK 38% (volle MELK, MELKfermenten, verdikkingsmiddel: pectine), kwark (MELK) 9,5%, perzikpuree 8%, suiker, ROOM 4,3%, zetmeel, MELKeiwitten, zuurteregelaar: citroenzuur, verdikkingsmiddel: johannesbroodpitmeel, perzikaroma,",
+        "fr": "Ingrediënten: gefermenteerde MELK 38% (volle MELK, MELKfermenten, verdikkingsmiddel: pectine), kwark (MELK) 9,5%, perzikpuree 8%, suiker, ROOM 4,3%, zetmeel, MELKeiwitten, zuurteregelaar: citroenzuur, verdikkingsmiddel: johannesbroodpitmeel, perzikaroma,",
+        "de": "Ingrediënten: gefermenteerde MELK 38% (volle MELK, MELKfermenten, verdikkingsmiddel: pectine), kwark (MELK) 9,5%, perzikpuree 8%, suiker, ROOM 4,3%, zetmeel, MELKeiwitten, zuurteregelaar: citroenzuur, verdikkingsmiddel: johannesbroodpitmeel, perzikaroma,",
+        "en": "Ingrediënten: gefermenteerde MELK 38% (volle MELK, MELKfermenten, verdikkingsmiddel: pectine), kwark (MELK) 9,5%, perzikpuree 8%, suiker, ROOM 4,3%, zetmeel, MELKeiwitten, zuurteregelaar: citroenzuur, verdikkingsmiddel: johannesbroodpitmeel, perzikaroma,",
+        "ar": "Ingrediënten: gefermenteerde MELK 38% (volle MELK, MELKfermenten, verdikkingsmiddel: pectine), kwark (MELK) 9,5%, perzikpuree 8%, suiker, ROOM 4,3%, zetmeel, MELKeiwitten, zuurteregelaar: citroenzuur, verdikkingsmiddel: johannesbroodpitmeel, perzikaroma,"
+      },
+      "image": "images/3033710592258.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3033710592258.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_41414878324a4d5753382d70737a7966626166395751?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babyvoeding",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_303"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 346.0,
+        "calories_100g": 83.0,
+        "fat_100g": 2.8,
+        "saturated_fat_100g": 1.4,
+        "carbohydrates_100g": 11.0,
+        "sugars_100g": 7.8,
+        "fiber_100g": 0.5,
+        "proteins_100g": 2.7,
+        "salt_100g": 0.05,
+        "sodium_100g": 20.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "b",
+      "nutriscore_score": 2,
+      "health_score": 73,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.23,
+          "promo_price": 2.12,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=3033710592258",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3033710592258",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.14,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3033710592258",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.21,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi138226/nestle%CC%81-yogolino-perzik-6m",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.42,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3033710592258",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.62,
+          "promo_price": 2.9,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=3033710592258",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.35,
+          "promo_price": 2.17,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=3033710592258",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.92,
+          "promo_price": 3.14,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=3033710592258",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

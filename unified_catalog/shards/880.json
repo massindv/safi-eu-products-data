@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "880",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 11,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 13,
   "products": {
     "8801073116467": {
       "barcode": "8801073116467",
@@ -215,10 +215,11 @@
           "promo_end_date": "2026-11-29"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8801073211254": {
       "barcode": "8801073211254",
@@ -422,10 +423,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8801073113428": {
       "barcode": "8801073113428",
@@ -638,10 +640,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8801043060226": {
       "barcode": "8801043060226",
@@ -854,7 +857,8 @@
           "updated_at": "2026-11-25T09:07:51.876379+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8801043031011": {
       "barcode": "8801043031011",
@@ -1068,7 +1072,8 @@
           "updated_at": "2026-11-25T09:10:49.543888+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8801043157728": {
       "barcode": "8801043157728",
@@ -1281,7 +1286,8 @@
           "updated_at": "2026-11-25T09:10:49.543888+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8801043049566": {
       "barcode": "8801043049566",
@@ -1495,7 +1501,8 @@
           "updated_at": "2026-11-25T09:12:06.226505+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8801043046138": {
       "barcode": "8801043046138",
@@ -1711,7 +1718,8 @@
           "updated_at": "2026-11-25T09:13:28.111265+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8801392097928": {
       "barcode": "8801392097928",
@@ -1924,7 +1932,8 @@
           "updated_at": "2026-11-25T09:13:28.111265+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8801073116832": {
       "barcode": "8801073116832",
@@ -2130,7 +2139,8 @@
           "updated_at": "2026-11-25T12:19:28.361126+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8801073116863": {
       "barcode": "8801073116863",
@@ -2346,7 +2356,438 @@
           "updated_at": "2026-11-25T12:19:28.361126+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8801043157742": {
+      "barcode": "8801043157742",
+      "domain": "food",
+      "names": {
+        "nl": "Nongshim Korean kimchi noodles",
+        "fr": "Nongshim Korean kimchi noodles",
+        "de": "Nongshim Korean kimchi noodles",
+        "en": "Nongshim Korean kimchi noodles",
+        "ar": "Nongshim Korean kimchi noodles"
+      },
+      "brand": "Nongshim",
+      "net_weight": "120 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk",
+        "Eggs",
+        "Peanuts",
+        "Sesame",
+        "Mustard",
+        "Celery",
+        "Fish",
+        "Crustaceans",
+        "Molluscs"
+      ],
+      "description": "Nongshim korean kimchi is een populaire instant noodlesoep met koreaanse kimchi smaak.",
+      "descriptions": {
+        "nl": "Nongshim korean kimchi is een populaire instant noodlesoep met koreaanse kimchi smaak.",
+        "fr": "Nongshim Korean kimchi noodles par Nongshim.",
+        "de": "Nongshim Korean kimchi noodles von Nongshim.",
+        "en": "Nongshim Korean kimchi noodles by Nongshim.",
+        "ar": "منتج Nongshim Korean kimchi noodles من Nongshim."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Noedels 89%: TARWEbloem, aardappelzetmeel, palmolie, zout, zuurteregelaar: E501, E500, E339, antioxidant: E306, emulgator: E322 (bevat SOJA), smaakmaker (gistextract, SOJAbonen, knoflook, TARWEzetmeel), groene thee-extract, kleurstof: E101. Kruidenpoeder 10%: smaakmaker (maltodextrine, gehydroliseerd plantaardig eiwit (SOJA, TARWE), zout, gistextract, MOSTERDolie), zout, suiker, smaakversterkers: E621, E627, E631, smaakmaker (maltodextrine, knoflook, glucose, zwarte peper), voedingszuur: E330, kleurstof 150c. Groentevlokken vlokken 3%: Kimchi Chinese koolvlokken (Chinese kool, knoflook, chilipeper), Paksoi, wortel, groene ui. Mag gerst, schaaldieren, eieren, vis, pinda's, melk, selderij, sesamzaad en weekdieren bevatten.",
+        "fr": "Ingrediënten: Noedels 89%: TARWEbloem, aardappelzetmeel, palmolie, zout, zuurteregelaar: E501, E500, E339, antioxidant: E306, emulgator: E322 (bevat SOJA), smaakmaker (gistextract, SOJAbonen, knoflook, TARWEzetmeel), groene thee-extract, kleurstof: E101. Kruidenpoeder 10%: smaakmaker (maltodextrine, gehydroliseerd plantaardig eiwit (SOJA, TARWE), zout, gistextract, MOSTERDolie), zout, suiker, smaakversterkers: E621, E627, E631, smaakmaker (maltodextrine, knoflook, glucose, zwarte peper), voedingszuur: E330, kleurstof 150c. Groentevlokken vlokken 3%: Kimchi Chinese koolvlokken (Chinese kool, knoflook, chilipeper), Paksoi, wortel, groene ui. Mag gerst, schaaldieren, eieren, vis, pinda's, melk, selderij, sesamzaad en weekdieren bevatten.",
+        "de": "Ingrediënten: Noedels 89%: TARWEbloem, aardappelzetmeel, palmolie, zout, zuurteregelaar: E501, E500, E339, antioxidant: E306, emulgator: E322 (bevat SOJA), smaakmaker (gistextract, SOJAbonen, knoflook, TARWEzetmeel), groene thee-extract, kleurstof: E101. Kruidenpoeder 10%: smaakmaker (maltodextrine, gehydroliseerd plantaardig eiwit (SOJA, TARWE), zout, gistextract, MOSTERDolie), zout, suiker, smaakversterkers: E621, E627, E631, smaakmaker (maltodextrine, knoflook, glucose, zwarte peper), voedingszuur: E330, kleurstof 150c. Groentevlokken vlokken 3%: Kimchi Chinese koolvlokken (Chinese kool, knoflook, chilipeper), Paksoi, wortel, groene ui. Mag gerst, schaaldieren, eieren, vis, pinda's, melk, selderij, sesamzaad en weekdieren bevatten.",
+        "en": "Ingrediënten: Noedels 89%: TARWEbloem, aardappelzetmeel, palmolie, zout, zuurteregelaar: E501, E500, E339, antioxidant: E306, emulgator: E322 (bevat SOJA), smaakmaker (gistextract, SOJAbonen, knoflook, TARWEzetmeel), groene thee-extract, kleurstof: E101. Kruidenpoeder 10%: smaakmaker (maltodextrine, gehydroliseerd plantaardig eiwit (SOJA, TARWE), zout, gistextract, MOSTERDolie), zout, suiker, smaakversterkers: E621, E627, E631, smaakmaker (maltodextrine, knoflook, glucose, zwarte peper), voedingszuur: E330, kleurstof 150c. Groentevlokken vlokken 3%: Kimchi Chinese koolvlokken (Chinese kool, knoflook, chilipeper), Paksoi, wortel, groene ui. Mag gerst, schaaldieren, eieren, vis, pinda's, melk, selderij, sesamzaad en weekdieren bevatten.",
+        "ar": "Ingrediënten: Noedels 89%: TARWEbloem, aardappelzetmeel, palmolie, zout, zuurteregelaar: E501, E500, E339, antioxidant: E306, emulgator: E322 (bevat SOJA), smaakmaker (gistextract, SOJAbonen, knoflook, TARWEzetmeel), groene thee-extract, kleurstof: E101. Kruidenpoeder 10%: smaakmaker (maltodextrine, gehydroliseerd plantaardig eiwit (SOJA, TARWE), zout, gistextract, MOSTERDolie), zout, suiker, smaakversterkers: E621, E627, E631, smaakmaker (maltodextrine, knoflook, glucose, zwarte peper), voedingszuur: E330, kleurstof 150c. Groentevlokken vlokken 3%: Kimchi Chinese koolvlokken (Chinese kool, knoflook, chilipeper), Paksoi, wortel, groene ui. Mag gerst, schaaldieren, eieren, vis, pinda's, melk, selderij, sesamzaad en weekdieren bevatten."
+      },
+      "image": "images/8801043157742.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8801043157742.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_396f753531646334516843397832314338515a545751?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "groentesoep",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "STORE_FALLBACK"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1800.0,
+        "calories_100g": 427.0,
+        "fat_100g": 13.0,
+        "saturated_fat_100g": 6.5,
+        "carbohydrates_100g": 68.0,
+        "sugars_100g": 4.9,
+        "fiber_100g": null,
+        "proteins_100g": 9.6,
+        "salt_100g": 4.5,
+        "sodium_100g": 1800.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 17,
+      "health_score": 20,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.31,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8801043157742",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.58,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi457689/nongshim-korean-kimchi-noodles",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8801043157742",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.94,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8801043157742",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.81,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=8801043157742",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.03,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=8801043157742",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.76,
+          "promo_price": 3.01,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=8801043157742",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.41,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8801043157742",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8801043150620": {
+      "barcode": "8801043150620",
+      "domain": "food",
+      "names": {
+        "nl": "Nongshim Shin ramyun noodles",
+        "fr": "Nongshim Shin ramyun noodles",
+        "de": "Nongshim Shin ramyun noodles",
+        "en": "Nongshim Shin ramyun noodles",
+        "ar": "Nongshim Shin ramyun noodles"
+      },
+      "brand": "Nongshim",
+      "net_weight": "120 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk",
+        "Eggs",
+        "Peanuts",
+        "Sesame",
+        "Mustard",
+        "Celery",
+        "Fish",
+        "Crustaceans",
+        "Molluscs"
+      ],
+      "description": "Nongshim shin ramyun is een pittige vegetarische koreaanse instant noodlesoep.",
+      "descriptions": {
+        "nl": "Nongshim shin ramyun is een pittige vegetarische koreaanse instant noodlesoep.",
+        "fr": "Nongshim Shin ramyun noodles par Nongshim.",
+        "de": "Nongshim Shin ramyun noodles von Nongshim.",
+        "en": "Nongshim Shin ramyun noodles by Nongshim.",
+        "ar": "منتج Nongshim Shin ramyun noodles من Nongshim."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Noedels 89%: TARWEbloem, aardappelzetmeel, palmolie, zout, zuurteregelaar: E501, E500, E339, antioxidant: E306, emulgator: E322 (bevat SOJA), smaakmaker (gistextract, SOJAbonen, knoflook, TARWEzetmeel), groene thee-extract, kleurstof: E101. Kruidenpoeder 9%: smaakmaker (gehydroliseerd plantaardig eiwit (SOJA), maltodextrine, gistextract, zout, TARWEbloem), zout, smaakmakers (maltodextrine, zwarte peper, rode chili peper, knoflook, maïsmeel), smaakversterkers: E621, E627, E631, suiker, glucose, shiitake. Paddestoel groente vlokken 2%: paksoi, shiitake, getextureerde, plantaardige eiwitten (SOJA, TARWEGLUTEN), wortel, rode chili peper, ui,. Mag GERST, SCHAALDIEREN, EIEREN, VIS, PINDA'S, MELK, SELDERIJ, MOSTERD, SESAMzaad en WEEKDIEREN bevatten.",
+        "fr": "Ingrediënten: Noedels 89%: TARWEbloem, aardappelzetmeel, palmolie, zout, zuurteregelaar: E501, E500, E339, antioxidant: E306, emulgator: E322 (bevat SOJA), smaakmaker (gistextract, SOJAbonen, knoflook, TARWEzetmeel), groene thee-extract, kleurstof: E101. Kruidenpoeder 9%: smaakmaker (gehydroliseerd plantaardig eiwit (SOJA), maltodextrine, gistextract, zout, TARWEbloem), zout, smaakmakers (maltodextrine, zwarte peper, rode chili peper, knoflook, maïsmeel), smaakversterkers: E621, E627, E631, suiker, glucose, shiitake. Paddestoel groente vlokken 2%: paksoi, shiitake, getextureerde, plantaardige eiwitten (SOJA, TARWEGLUTEN), wortel, rode chili peper, ui,. Mag GERST, SCHAALDIEREN, EIEREN, VIS, PINDA'S, MELK, SELDERIJ, MOSTERD, SESAMzaad en WEEKDIEREN bevatten.",
+        "de": "Ingrediënten: Noedels 89%: TARWEbloem, aardappelzetmeel, palmolie, zout, zuurteregelaar: E501, E500, E339, antioxidant: E306, emulgator: E322 (bevat SOJA), smaakmaker (gistextract, SOJAbonen, knoflook, TARWEzetmeel), groene thee-extract, kleurstof: E101. Kruidenpoeder 9%: smaakmaker (gehydroliseerd plantaardig eiwit (SOJA), maltodextrine, gistextract, zout, TARWEbloem), zout, smaakmakers (maltodextrine, zwarte peper, rode chili peper, knoflook, maïsmeel), smaakversterkers: E621, E627, E631, suiker, glucose, shiitake. Paddestoel groente vlokken 2%: paksoi, shiitake, getextureerde, plantaardige eiwitten (SOJA, TARWEGLUTEN), wortel, rode chili peper, ui,. Mag GERST, SCHAALDIEREN, EIEREN, VIS, PINDA'S, MELK, SELDERIJ, MOSTERD, SESAMzaad en WEEKDIEREN bevatten.",
+        "en": "Ingrediënten: Noedels 89%: TARWEbloem, aardappelzetmeel, palmolie, zout, zuurteregelaar: E501, E500, E339, antioxidant: E306, emulgator: E322 (bevat SOJA), smaakmaker (gistextract, SOJAbonen, knoflook, TARWEzetmeel), groene thee-extract, kleurstof: E101. Kruidenpoeder 9%: smaakmaker (gehydroliseerd plantaardig eiwit (SOJA), maltodextrine, gistextract, zout, TARWEbloem), zout, smaakmakers (maltodextrine, zwarte peper, rode chili peper, knoflook, maïsmeel), smaakversterkers: E621, E627, E631, suiker, glucose, shiitake. Paddestoel groente vlokken 2%: paksoi, shiitake, getextureerde, plantaardige eiwitten (SOJA, TARWEGLUTEN), wortel, rode chili peper, ui,. Mag GERST, SCHAALDIEREN, EIEREN, VIS, PINDA'S, MELK, SELDERIJ, MOSTERD, SESAMzaad en WEEKDIEREN bevatten.",
+        "ar": "Ingrediënten: Noedels 89%: TARWEbloem, aardappelzetmeel, palmolie, zout, zuurteregelaar: E501, E500, E339, antioxidant: E306, emulgator: E322 (bevat SOJA), smaakmaker (gistextract, SOJAbonen, knoflook, TARWEzetmeel), groene thee-extract, kleurstof: E101. Kruidenpoeder 9%: smaakmaker (gehydroliseerd plantaardig eiwit (SOJA), maltodextrine, gistextract, zout, TARWEbloem), zout, smaakmakers (maltodextrine, zwarte peper, rode chili peper, knoflook, maïsmeel), smaakversterkers: E621, E627, E631, suiker, glucose, shiitake. Paddestoel groente vlokken 2%: paksoi, shiitake, getextureerde, plantaardige eiwitten (SOJA, TARWEGLUTEN), wortel, rode chili peper, ui,. Mag GERST, SCHAALDIEREN, EIEREN, VIS, PINDA'S, MELK, SELDERIJ, MOSTERD, SESAMzaad en WEEKDIEREN bevatten."
+      },
+      "image": "images/8801043150620.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8801043150620.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_726174524f2d5f3952584f664c6e4d7a5267375f7741?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "groentesoep",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "STORE_FALLBACK"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1776.0,
+        "calories_100g": 422.0,
+        "fat_100g": 13.0,
+        "saturated_fat_100g": 6.1,
+        "carbohydrates_100g": 68.0,
+        "sugars_100g": 3.0,
+        "fiber_100g": null,
+        "proteins_100g": 8.2,
+        "salt_100g": 3.8,
+        "sodium_100g": 1520.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 16,
+      "health_score": 20,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.9,
+          "promo_price": 1.45,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=8801043150620",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.12,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi457687/nongshim-shin-ramyun-noodles",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.63,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8801043150620",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.73,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8801043150620",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.46,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=8801043150620",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.62,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=8801043150620",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.88,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8801043150620",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.15,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8801043150620",
+          "updated_at": "2026-11-25T20:02:55.018788+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "003",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 5,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 6,
   "products": {
     "0033200976387": {
       "barcode": "0033200976387",
@@ -201,9 +201,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "0038900000370": {
       "barcode": "0038900000370",
@@ -402,10 +403,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "0038900092306": {
       "barcode": "0038900092306",
@@ -604,10 +606,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "0038900014261": {
       "barcode": "0038900014261",
@@ -806,10 +809,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "0038900012267": {
       "barcode": "0038900012267",
@@ -1008,10 +1012,216 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
+    },
+    "0031200456991": {
+      "barcode": "0031200456991",
+      "domain": "food",
+      "names": {
+        "nl": "Ocean Spray Cranberry classic",
+        "fr": "Ocean Spray Cranberry classic",
+        "de": "Ocean Spray Cranberry classic",
+        "en": "Ocean Spray Cranberry classic",
+        "ar": "Ocean Spray Cranberry classic"
+      },
+      "brand": "Ocean Spray",
+      "net_weight": "1 l",
+      "allergens": [],
+      "description": "Ocean spray cranberry classic is een lekkere verfrissende vruchtendrank. Cranberry sap van Ocean spray wordt op een natuurlijke Manier gemaakt, zonder kunstmatige toevoegingen.",
+      "descriptions": {
+        "nl": "Ocean spray cranberry classic is een lekkere verfrissende vruchtendrank. Cranberry sap van Ocean spray wordt op een natuurlijke Manier gemaakt, zonder kunstmatige toevoegingen.",
+        "fr": "Ocean Spray Cranberry classic par Ocean Spray.",
+        "de": "Ocean Spray Cranberry classic von Ocean Spray.",
+        "en": "Ocean Spray Cranberry classic by Ocean Spray.",
+        "ar": "منتج Ocean Spray Cranberry classic من Ocean Spray."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Water, cranberrysap uit concentraat (27%), suiker, vitamine C, geconcentreerd groente-en vruchtensap (wortel, cranberry), natuurlijk aroma",
+        "fr": "Ingrediënten: Water, cranberrysap uit concentraat (27%), suiker, vitamine C, geconcentreerd groente-en vruchtensap (wortel, cranberry), natuurlijk aroma",
+        "de": "Ingrediënten: Water, cranberrysap uit concentraat (27%), suiker, vitamine C, geconcentreerd groente-en vruchtensap (wortel, cranberry), natuurlijk aroma",
+        "en": "Ingrediënten: Water, cranberrysap uit concentraat (27%), suiker, vitamine C, geconcentreerd groente-en vruchtensap (wortel, cranberry), natuurlijk aroma",
+        "ar": "Ingrediënten: Water, cranberrysap uit concentraat (27%), suiker, vitamine C, geconcentreerd groente-en vruchtensap (wortel, cranberry), natuurlijk aroma"
+      },
+      "image": "images/0031200456991.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/0031200456991.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_504e6f71556d614f51726d517a556d65584e78384f51?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "sap",
+      "origin_country": {
+        "name": "United States",
+        "code": "US",
+        "flag": "🇺🇸",
+        "inferred_from": "GS1_003"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 167.0,
+        "calories_100g": 39.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 9.3,
+        "sugars_100g": 9.3,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.0,
+        "sodium_100g": 0.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 2,
+      "health_score": 24,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijk aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk aroma"
+      },
+      "stores": [
+        "ah.be",
+        "delhaize.be",
+        "colruyt.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.02,
+          "promo_price": 1.62,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi129477/ocean-spray-cranberry-classic",
+          "updated_at": "2026-11-25T18:53:58.470461+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.24,
+          "promo_price": 1.79,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=0031200456991",
+          "updated_at": "2026-11-25T18:53:58.470461+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.92,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=0031200456991",
+          "updated_at": "2026-11-25T18:53:58.470461+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.3,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=0031200456991",
+          "updated_at": "2026-11-25T18:53:58.470461+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.98,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=0031200456991",
+          "updated_at": "2026-11-25T18:53:58.470461+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.75,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=0031200456991",
+          "updated_at": "2026-11-25T18:53:58.470461+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 1.93,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=0031200456991",
+          "updated_at": "2026-11-25T18:53:58.470461+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.43,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=0031200456991",
+          "updated_at": "2026-11-25T18:53:58.470461+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

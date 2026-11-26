@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "730",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 3,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 5,
   "products": {
     "7300400481700": {
       "barcode": "7300400481700",
@@ -208,10 +208,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "7300400126229": {
       "barcode": "7300400126229",
@@ -413,10 +414,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "7300400481823": {
       "barcode": "7300400481823",
@@ -623,10 +625,435 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
+    },
+    "7300400122702": {
+      "barcode": "7300400122702",
+      "domain": "food",
+      "names": {
+        "nl": "Wasa Sandwich roomkaas bieslook 3-pack",
+        "fr": "Wasa Sandwich roomkaas bieslook 3-pack",
+        "de": "Wasa Sandwich roomkaas bieslook 3-pack",
+        "en": "Wasa Sandwich roomkaas bieslook 3-pack",
+        "ar": "Wasa Sandwich roomkaas bieslook 3-pack"
+      },
+      "brand": "Wasa",
+      "net_weight": "111 g",
+      "allergens": [
+        "Soy",
+        "Milk",
+        "Sesame",
+        "Mustard",
+        "Celery",
+        "Lupin"
+      ],
+      "description": "Wasa sandwich cheese en chives bestaat uit twee repen knackebrod met een vulling met kaas- en bieslooksmaak. Rijk aan vezels en geschikt voor ieder moment van de dag..",
+      "descriptions": {
+        "nl": "Wasa sandwich cheese en chives bestaat uit twee repen knackebrod met een vulling met kaas- en bieslooksmaak. Rijk aan vezels en geschikt voor ieder moment van de dag..",
+        "fr": "Wasa Sandwich roomkaas bieslook 3-pack par Wasa.",
+        "de": "Wasa Sandwich roomkaas bieslook 3-pack von Wasa.",
+        "en": "Wasa Sandwich roomkaas bieslook 3-pack by Wasa.",
+        "ar": "منتج Wasa Sandwich roomkaas bieslook 3-pack من Wasa."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: ROGGE knäckebröd (volkoren ROGGEbloem 50%, ROGGEbloem 19%, gist, zout), kaasvulling 36,5% (raapzaadolie, maltodextrine, kaaspoeder 8,3% (MELK), sheaboter, karnemelkpoeder (MELK), aroma (MELK), gedroogde bieslook 0,3%). Kan SESAMZAAD, SOJA, LUPINE, SELDERIJ en MOSTERD bevatten.",
+        "fr": "Ingrediënten: ROGGE knäckebröd (volkoren ROGGEbloem 50%, ROGGEbloem 19%, gist, zout), kaasvulling 36,5% (raapzaadolie, maltodextrine, kaaspoeder 8,3% (MELK), sheaboter, karnemelkpoeder (MELK), aroma (MELK), gedroogde bieslook 0,3%). Kan SESAMZAAD, SOJA, LUPINE, SELDERIJ en MOSTERD bevatten.",
+        "de": "Ingrediënten: ROGGE knäckebröd (volkoren ROGGEbloem 50%, ROGGEbloem 19%, gist, zout), kaasvulling 36,5% (raapzaadolie, maltodextrine, kaaspoeder 8,3% (MELK), sheaboter, karnemelkpoeder (MELK), aroma (MELK), gedroogde bieslook 0,3%). Kan SESAMZAAD, SOJA, LUPINE, SELDERIJ en MOSTERD bevatten.",
+        "en": "Ingrediënten: ROGGE knäckebröd (volkoren ROGGEbloem 50%, ROGGEbloem 19%, gist, zout), kaasvulling 36,5% (raapzaadolie, maltodextrine, kaaspoeder 8,3% (MELK), sheaboter, karnemelkpoeder (MELK), aroma (MELK), gedroogde bieslook 0,3%). Kan SESAMZAAD, SOJA, LUPINE, SELDERIJ en MOSTERD bevatten.",
+        "ar": "Ingrediënten: ROGGE knäckebröd (volkoren ROGGEbloem 50%, ROGGEbloem 19%, gist, zout), kaasvulling 36,5% (raapzaadolie, maltodextrine, kaaspoeder 8,3% (MELK), sheaboter, karnemelkpoeder (MELK), aroma (MELK), gedroogde bieslook 0,3%). Kan SESAMZAAD, SOJA, LUPINE, SELDERIJ en MOSTERD bevatten."
+      },
+      "image": "images/7300400122702.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7300400122702.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_575f2d3965546f58526c435631615532425f724a6741?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "roomkaas",
+      "origin_country": {
+        "name": "Sweden",
+        "code": "SE",
+        "flag": "🇸🇪",
+        "inferred_from": "GS1_730"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1970.0,
+        "calories_100g": 472.0,
+        "fat_100g": 24.0,
+        "saturated_fat_100g": 8.5,
+        "carbohydrates_100g": 49.0,
+        "sugars_100g": 2.0,
+        "fiber_100g": 12.0,
+        "proteins_100g": 9.0,
+        "salt_100g": 1.3,
+        "sodium_100g": 520.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 8,
+      "health_score": 43,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma"
+      },
+      "stores": [
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.66,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=7300400122702",
+          "updated_at": "2026-11-25T16:59:46.635881+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.37,
+          "promo_price": 2.7,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=7300400122702",
+          "updated_at": "2026-11-25T16:59:46.635881+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.29,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=7300400122702",
+          "updated_at": "2026-11-25T16:59:46.635881+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.48,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi177218/wasa-sandwich-roomkaas-bieslook-3-pack",
+          "updated_at": "2026-11-25T16:59:46.635881+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.65,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=7300400122702",
+          "updated_at": "2026-11-25T16:59:46.635881+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.61,
+          "promo_price": 2.89,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=7300400122702",
+          "updated_at": "2026-11-25T16:59:46.635881+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.7,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=7300400122702",
+          "updated_at": "2026-11-25T16:59:46.635881+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.3,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=7300400122702",
+          "updated_at": "2026-11-25T16:59:46.635881+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "7300400482875": {
+      "barcode": "7300400482875",
+      "domain": "food",
+      "names": {
+        "nl": "Wasa Delicate crisp roasted garlic & sea salt",
+        "fr": "Wasa Delicate crisp roasted garlic & sea salt",
+        "de": "Wasa Delicate crisp roasted garlic & sea salt",
+        "en": "Wasa Delicate crisp roasted garlic & sea salt",
+        "ar": "Wasa Delicate crisp roasted garlic & sea salt"
+      },
+      "brand": "Wasa",
+      "net_weight": "190 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk",
+        "Sesame",
+        "Mustard",
+        "Lupin"
+      ],
+      "description": "Wasa delicate crisp roasted garlic is een extra dunne, krokante cracker gebakken van volkoren tarwemeel. De smaak van knoflook en zeezout maakt het tot een hartige cracker, die rijk aan vezels is.",
+      "descriptions": {
+        "nl": "Wasa delicate crisp roasted garlic is een extra dunne, krokante cracker gebakken van volkoren tarwemeel. De smaak van knoflook en zeezout maakt het tot een hartige cracker, die rijk aan vezels is.",
+        "fr": "Wasa Delicate crisp roasted garlic & sea salt par Wasa.",
+        "de": "Wasa Delicate crisp roasted garlic & sea salt von Wasa.",
+        "en": "Wasa Delicate crisp roasted garlic & sea salt by Wasa.",
+        "ar": "منتج Wasa Delicate crisp roasted garlic & sea salt من Wasa."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Volkoren TARWEmeel 51 g*, TARWEmeel 48 g*, zonnebloemolie, geroosterde knoflookmix (geroosterde knoflook 1,5 g* (knoflook 1,4 g*, zonnebloemolie), natuurlijk aroma, peterselie 0,7 g*), zeezout 1,3 g*, zout, GERSTEmoutextract, gist, antioxidant: extracten van rozemarijn. *in g om 100 g van het product te maken. Kan LUPINE, MELK, MOSTERD, SESAMZAAD en SOJA bevatten.",
+        "fr": "Ingrediënten: Volkoren TARWEmeel 51 g*, TARWEmeel 48 g*, zonnebloemolie, geroosterde knoflookmix (geroosterde knoflook 1,5 g* (knoflook 1,4 g*, zonnebloemolie), natuurlijk aroma, peterselie 0,7 g*), zeezout 1,3 g*, zout, GERSTEmoutextract, gist, antioxidant: extracten van rozemarijn. *in g om 100 g van het product te maken. Kan LUPINE, MELK, MOSTERD, SESAMZAAD en SOJA bevatten.",
+        "de": "Ingrediënten: Volkoren TARWEmeel 51 g*, TARWEmeel 48 g*, zonnebloemolie, geroosterde knoflookmix (geroosterde knoflook 1,5 g* (knoflook 1,4 g*, zonnebloemolie), natuurlijk aroma, peterselie 0,7 g*), zeezout 1,3 g*, zout, GERSTEmoutextract, gist, antioxidant: extracten van rozemarijn. *in g om 100 g van het product te maken. Kan LUPINE, MELK, MOSTERD, SESAMZAAD en SOJA bevatten.",
+        "en": "Ingrediënten: Volkoren TARWEmeel 51 g*, TARWEmeel 48 g*, zonnebloemolie, geroosterde knoflookmix (geroosterde knoflook 1,5 g* (knoflook 1,4 g*, zonnebloemolie), natuurlijk aroma, peterselie 0,7 g*), zeezout 1,3 g*, zout, GERSTEmoutextract, gist, antioxidant: extracten van rozemarijn. *in g om 100 g van het product te maken. Kan LUPINE, MELK, MOSTERD, SESAMZAAD en SOJA bevatten.",
+        "ar": "Ingrediënten: Volkoren TARWEmeel 51 g*, TARWEmeel 48 g*, zonnebloemolie, geroosterde knoflookmix (geroosterde knoflook 1,5 g* (knoflook 1,4 g*, zonnebloemolie), natuurlijk aroma, peterselie 0,7 g*), zeezout 1,3 g*, zout, GERSTEmoutextract, gist, antioxidant: extracten van rozemarijn. *in g om 100 g van het product te maken. Kan LUPINE, MELK, MOSTERD, SESAMZAAD en SOJA bevatten."
+      },
+      "image": "images/7300400482875.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7300400482875.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_3262476670334c345350794c775557705846344c6e51?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "crackers",
+      "origin_country": {
+        "name": "Sweden",
+        "code": "SE",
+        "flag": "🇸🇪",
+        "inferred_from": "GS1_730"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1667.0,
+        "calories_100g": 396.0,
+        "fat_100g": 7.6,
+        "saturated_fat_100g": 1.0,
+        "carbohydrates_100g": 65.0,
+        "sugars_100g": 4.2,
+        "fiber_100g": 9.8,
+        "proteins_100g": 12.0,
+        "salt_100g": 2.3,
+        "sodium_100g": 920.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 4,
+      "health_score": 44,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijk aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk aroma"
+      },
+      "stores": [
+        "delhaize.be",
+        "ah.be",
+        "colruyt.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.62,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=7300400482875",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.01,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi528514/wasa-delicate-crisp-roasted-garlic-en-sea-salt",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.65,
+          "promo_price": 2.12,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=7300400482875",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.68,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=7300400482875",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.6,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=7300400482875",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.86,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=7300400482875",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.89,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=7300400482875",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.39,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=7300400482875",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

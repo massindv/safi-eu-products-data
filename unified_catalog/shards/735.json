@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "735",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 5,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 6,
   "products": {
     "7350042718955": {
       "barcode": "7350042718955",
@@ -206,7 +206,8 @@
           "updated_at": "2026-11-25T08:43:22.833814+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7350042718931": {
       "barcode": "7350042718931",
@@ -410,7 +411,8 @@
           "updated_at": "2026-11-25T08:43:22.833814+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7350042718917": {
       "barcode": "7350042718917",
@@ -614,7 +616,8 @@
           "updated_at": "2026-11-25T08:46:06.330781+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7350042719686": {
       "barcode": "7350042719686",
@@ -818,7 +821,8 @@
           "updated_at": "2026-11-25T08:47:25.521985+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7350040162859": {
       "barcode": "7350040162859",
@@ -1024,7 +1028,213 @@
           "updated_at": "2026-11-25T09:01:28.661842+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "7350042718948": {
+      "barcode": "7350042718948",
+      "domain": "food",
+      "names": {
+        "nl": "Vitamin Well Antioxidant perzik",
+        "fr": "Vitamin Well Antioxidant perzik",
+        "de": "Vitamin Well Antioxidant perzik",
+        "en": "Vitamin Well Antioxidant perzik",
+        "ar": "Vitamin Well Antioxidant perzik"
+      },
+      "brand": "Vitamin Well",
+      "net_weight": "0,5 l",
+      "allergens": [],
+      "description": "Bevat o.a. vitamine C, e, selenium en Manganese.",
+      "descriptions": {
+        "nl": "Bevat o.a. vitamine C, e, selenium en Manganese.",
+        "fr": "Vitamin Well Antioxidant perzik par Vitamin Well.",
+        "de": "Vitamin Well Antioxidant perzik von Vitamin Well.",
+        "en": "Vitamin Well Antioxidant perzik by Vitamin Well.",
+        "ar": "منتج Vitamin Well Antioxidant perzik من Vitamin Well."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Water, vruchtensuiker, zuurteregelaars (citroenzuur, natriumcitraten, calciumcarbonaat), groene thee-extract*, vlierbesextract, druivenschilextract, granaatappelextract, vitaminen (E, C), aroma's, *Er kunnen kleine deeltjes van het groene thee-extract zichtbaar zijn in de drank.",
+        "fr": "Ingrediënten: Water, vruchtensuiker, zuurteregelaars (citroenzuur, natriumcitraten, calciumcarbonaat), groene thee-extract*, vlierbesextract, druivenschilextract, granaatappelextract, vitaminen (E, C), aroma's, *Er kunnen kleine deeltjes van het groene thee-extract zichtbaar zijn in de drank.",
+        "de": "Ingrediënten: Water, vruchtensuiker, zuurteregelaars (citroenzuur, natriumcitraten, calciumcarbonaat), groene thee-extract*, vlierbesextract, druivenschilextract, granaatappelextract, vitaminen (E, C), aroma's, *Er kunnen kleine deeltjes van het groene thee-extract zichtbaar zijn in de drank.",
+        "en": "Ingrediënten: Water, vruchtensuiker, zuurteregelaars (citroenzuur, natriumcitraten, calciumcarbonaat), groene thee-extract*, vlierbesextract, druivenschilextract, granaatappelextract, vitaminen (E, C), aroma's, *Er kunnen kleine deeltjes van het groene thee-extract zichtbaar zijn in de drank.",
+        "ar": "Ingrediënten: Water, vruchtensuiker, zuurteregelaars (citroenzuur, natriumcitraten, calciumcarbonaat), groene thee-extract*, vlierbesextract, druivenschilextract, granaatappelextract, vitaminen (E, C), aroma's, *Er kunnen kleine deeltjes van het groene thee-extract zichtbaar zijn in de drank."
+      },
+      "image": "images/7350042718948.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7350042718948.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_41714e726e50506151792d4e7a566e4376546b523477?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "sap",
+      "origin_country": {
+        "name": "Sweden",
+        "code": "SE",
+        "flag": "🇸🇪",
+        "inferred_from": "GS1_735"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 71.0,
+        "calories_100g": 17.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 4.2,
+        "sugars_100g": 4.2,
+        "fiber_100g": 0.0,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.03,
+        "sodium_100g": 12.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 0,
+      "health_score": 65,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma's"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma's",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma's",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma's",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma's",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma's",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma's"
+      },
+      "stores": [
+        "ah.be",
+        "delhaize.be",
+        "colruyt.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.87,
+          "promo_price": 3.1,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi583164/vitamin-well-antioxidant-perzik",
+          "updated_at": "2026-11-25T18:58:36.030986+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.35,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=7350042718948",
+          "updated_at": "2026-11-25T18:58:36.030986+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.44,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=7350042718948",
+          "updated_at": "2026-11-25T18:58:36.030986+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.51,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=7350042718948",
+          "updated_at": "2026-11-25T18:58:36.030986+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.27,
+          "promo_price": 2.62,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=7350042718948",
+          "updated_at": "2026-11-25T18:58:36.030986+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=7350042718948",
+          "updated_at": "2026-11-25T18:58:36.030986+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.34,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=7350042718948",
+          "updated_at": "2026-11-25T18:58:36.030986+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.43,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=7350042718948",
+          "updated_at": "2026-11-25T18:58:36.030986+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "prefix": "576",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
   "product_count": 4,
   "products": {
     "5760466739924": {
@@ -203,10 +203,11 @@
           "promo_end_date": "2026-11-29"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5760466732918": {
       "barcode": "5760466732918",
@@ -262,18 +263,16 @@
       "nutriscore_grade": "d",
       "nutriscore_score": 18,
       "health_score": 39,
-      "halal_status": "SUSPICIOUS",
-      "is_halal": false,
-      "triggers": [
-        "original white cheese"
-      ],
-      "reason": "Dairy derivative with unspecified rennet/source requires verification: original white cheese",
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
       "explanations": {
-        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: original white cheese",
-        "en": "Dairy derivative with unspecified rennet/source requires verification: original white cheese",
-        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : original white cheese",
-        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: original white cheese",
-        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: original white cheese"
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
       },
       "stores": [
         "colruyt.be",
@@ -407,10 +406,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5760466920490": {
       "barcode": "5760466920490",
@@ -613,10 +613,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5760466860499": {
       "barcode": "5760466860499",
@@ -820,7 +821,8 @@
           "updated_at": "2026-11-25T09:40:20.487486+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

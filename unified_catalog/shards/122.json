@@ -1,0 +1,213 @@
+{
+  "version": "2.0.0",
+  "prefix": "122",
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 1,
+  "products": {
+    "1220000750104": {
+      "barcode": "1220000750104",
+      "domain": "food",
+      "names": {
+        "nl": "Beyond Meat Korean BBQ flavour burger",
+        "fr": "Beyond Meat Korean BBQ flavour burger",
+        "de": "Beyond Meat Korean BBQ flavour burger",
+        "en": "Beyond Meat Korean BBQ flavour burger",
+        "ar": "Beyond Meat Korean BBQ flavour burger"
+      },
+      "brand": "Beyond Meat",
+      "net_weight": "200 g",
+      "allergens": [],
+      "description": "Plantaardige burger met smoky diepte, een hint van zoet en een sappige bite.",
+      "descriptions": {
+        "nl": "Plantaardige burger met smoky diepte, een hint van zoet en een sappige bite.",
+        "fr": "Beyond Meat Korean BBQ flavour burger par Beyond Meat.",
+        "de": "Beyond Meat Korean BBQ flavour burger von Beyond Meat.",
+        "en": "Beyond Meat Korean BBQ flavour burger by Beyond Meat.",
+        "ar": "منتج Beyond Meat Korean BBQ flavour burger من Beyond Meat."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: water, erwteneiwit (15%), raapzaadolie, aroma, kokosolie, gedroogde gist, rijsteiwit, conserveermiddel (kaliumlactaat), azijn, stabilisator (methylcellulose), aardappelzetmeel, appelextract, geconcentreerd granaatappelsap, zout, kaliumchloride, kleurstof (bietenrood), wortelpoeder, gerookte maltodextrine.",
+        "fr": "Ingrediënten: water, erwteneiwit (15%), raapzaadolie, aroma, kokosolie, gedroogde gist, rijsteiwit, conserveermiddel (kaliumlactaat), azijn, stabilisator (methylcellulose), aardappelzetmeel, appelextract, geconcentreerd granaatappelsap, zout, kaliumchloride, kleurstof (bietenrood), wortelpoeder, gerookte maltodextrine.",
+        "de": "Ingrediënten: water, erwteneiwit (15%), raapzaadolie, aroma, kokosolie, gedroogde gist, rijsteiwit, conserveermiddel (kaliumlactaat), azijn, stabilisator (methylcellulose), aardappelzetmeel, appelextract, geconcentreerd granaatappelsap, zout, kaliumchloride, kleurstof (bietenrood), wortelpoeder, gerookte maltodextrine.",
+        "en": "Ingrediënten: water, erwteneiwit (15%), raapzaadolie, aroma, kokosolie, gedroogde gist, rijsteiwit, conserveermiddel (kaliumlactaat), azijn, stabilisator (methylcellulose), aardappelzetmeel, appelextract, geconcentreerd granaatappelsap, zout, kaliumchloride, kleurstof (bietenrood), wortelpoeder, gerookte maltodextrine.",
+        "ar": "Ingrediënten: water, erwteneiwit (15%), raapzaadolie, aroma, kokosolie, gedroogde gist, rijsteiwit, conserveermiddel (kaliumlactaat), azijn, stabilisator (methylcellulose), aardappelzetmeel, appelextract, geconcentreerd granaatappelsap, zout, kaliumchloride, kleurstof (bietenrood), wortelpoeder, gerookte maltodextrine."
+      },
+      "image": "images/1220000750104.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/1220000750104.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_76345f4b4e31724f5271795675363954566967614b77?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "vegan",
+      "origin_country": {
+        "name": "United States",
+        "code": "US",
+        "flag": "🇺🇸",
+        "inferred_from": "GS1_122"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 903.0,
+        "calories_100g": 217.0,
+        "fat_100g": 14.0,
+        "saturated_fat_100g": 3.5,
+        "carbohydrates_100g": 3.7,
+        "sugars_100g": 0.0,
+        "fiber_100g": 1.9,
+        "proteins_100g": 18.0,
+        "salt_100g": 0.9,
+        "sodium_100g": 360.0
+      },
+      "official_nutriscore": "b",
+      "nutriscore_grade": "b",
+      "nutriscore_score": 2,
+      "health_score": 79,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.73,
+          "promo_price": 3.78,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=1220000750104",
+          "updated_at": "2026-11-25T21:34:59.522828+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.24,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi612728/beyond-meat-korean-bbq-flavour-burger",
+          "updated_at": "2026-11-25T21:34:59.522828+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.71,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=1220000750104",
+          "updated_at": "2026-11-25T21:34:59.522828+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=1220000750104",
+          "updated_at": "2026-11-25T21:34:59.522828+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.23,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=1220000750104",
+          "updated_at": "2026-11-25T21:34:59.522828+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.6,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=1220000750104",
+          "updated_at": "2026-11-25T21:34:59.522828+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 5.04,
+          "promo_price": 4.03,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=1220000750104",
+          "updated_at": "2026-11-25T21:34:59.522828+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 5.14,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=1220000750104",
+          "updated_at": "2026-11-25T21:34:59.522828+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    }
+  }
+}

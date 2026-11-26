@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "841",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 26,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 31,
   "products": {
     "8410065630586": {
       "barcode": "8410065630586",
@@ -64,16 +64,17 @@
       "is_halal": false,
       "triggers": [
         "liqueur de tirage",
+        "cava",
         "champagne",
         "liqueur"
       ],
-      "reason": "Alcohol / كحول (liqueur de tirage, champagne, liqueur)",
+      "reason": "Alcohol / كحول (liqueur de tirage, cava, champagne, liqueur)",
       "explanations": {
-        "ar": "كحول محرم قطعا (liqueur de tirage, champagne, liqueur)",
-        "en": "Alcohol / كحول (liqueur de tirage, champagne, liqueur)",
-        "fr": "Alcool interdit (liqueur de tirage, champagne, liqueur)",
-        "nl": "Verboden alcohol (liqueur de tirage, champagne, liqueur)",
-        "de": "Verbotener Alkohol (liqueur de tirage, champagne, liqueur)"
+        "ar": "كحول محرم قطعا (liqueur de tirage, cava, champagne, liqueur)",
+        "en": "Alcohol / كحول (liqueur de tirage, cava, champagne, liqueur)",
+        "fr": "Alcool interdit (liqueur de tirage, cava, champagne, liqueur)",
+        "nl": "Verboden alcohol (liqueur de tirage, cava, champagne, liqueur)",
+        "de": "Verbotener Alkohol (liqueur de tirage, cava, champagne, liqueur)"
       },
       "stores": [
         "carrefour.be",
@@ -207,9 +208,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8410066139231": {
       "barcode": "8410066139231",
@@ -410,10 +412,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8410702054065": {
       "barcode": "8410702054065",
@@ -474,15 +477,15 @@
       "halal_status": "HARAM",
       "is_halal": false,
       "triggers": [
-        "wijn"
+        "witte wijn"
       ],
-      "reason": "Alcohol / كحول (wijn)",
+      "reason": "Alcohol / كحول (witte wijn)",
       "explanations": {
-        "ar": "كحول محرم قطعا (wijn)",
-        "en": "Alcohol / كحول (wijn)",
-        "fr": "Alcool interdit (wijn)",
-        "nl": "Verboden alcohol (wijn)",
-        "de": "Verbotener Alkohol (wijn)"
+        "ar": "كحول محرم قطعا (witte wijn)",
+        "en": "Alcohol / كحول (witte wijn)",
+        "fr": "Alcool interdit (witte wijn)",
+        "nl": "Verboden alcohol (witte wijn)",
+        "de": "Verbotener Alkohol (witte wijn)"
       },
       "stores": [
         "carrefour.be",
@@ -616,9 +619,10 @@
           "promo_end_date": "2026-11-29"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8410010877592": {
       "barcode": "8410010877592",
@@ -819,10 +823,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8410599023113": {
       "barcode": "8410599023113",
@@ -1025,10 +1030,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8411320234006": {
       "barcode": "8411320234006",
@@ -1229,10 +1235,11 @@
           "promo_end_date": "2026-11-29"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8412164008112": {
       "barcode": "8412164008112",
@@ -1442,10 +1449,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8410066142934": {
       "barcode": "8410066142934",
@@ -1649,7 +1657,8 @@
           "updated_at": "2026-11-25T08:19:53.185379+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410031936469": {
       "barcode": "8410031936469",
@@ -1855,7 +1864,8 @@
           "updated_at": "2026-11-25T08:21:25.005754+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8412600019689": {
       "barcode": "8412600019689",
@@ -2064,7 +2074,8 @@
           "updated_at": "2026-11-25T08:32:58.826082+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410702046992": {
       "barcode": "8410702046992",
@@ -2115,15 +2126,16 @@
       "halal_certified": false,
       "halal_certification_source": null,
       "triggers": [
+        "tempranillo",
         "wijn"
       ],
-      "reason": "Alcohol / كحول (wijn)",
+      "reason": "Alcohol / كحول (tempranillo, wijn)",
       "explanations": {
-        "ar": "كحول محرم قطعا (wijn)",
-        "en": "Alcohol / كحول (wijn)",
-        "fr": "Alcool interdit (wijn)",
-        "nl": "Verboden alcohol (wijn)",
-        "de": "Verbotener Alkohol (wijn)"
+        "ar": "كحول محرم قطعا (tempranillo, wijn)",
+        "en": "Alcohol / كحول (tempranillo, wijn)",
+        "fr": "Alcool interdit (tempranillo, wijn)",
+        "nl": "Verboden alcohol (tempranillo, wijn)",
+        "de": "Verbotener Alkohol (tempranillo, wijn)"
       },
       "stores": [
         "colruyt.be",
@@ -2257,7 +2269,8 @@
           "updated_at": "2026-11-25T09:10:49.543888+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410396780219": {
       "barcode": "8410396780219",
@@ -2308,15 +2321,16 @@
       "halal_certified": false,
       "halal_certification_source": null,
       "triggers": [
-        "wijn"
+        "tempranillo",
+        "rode wijn"
       ],
-      "reason": "Alcohol / كحول (wijn)",
+      "reason": "Alcohol / كحول (tempranillo, rode wijn)",
       "explanations": {
-        "ar": "كحول محرم قطعا (wijn)",
-        "en": "Alcohol / كحول (wijn)",
-        "fr": "Alcool interdit (wijn)",
-        "nl": "Verboden alcohol (wijn)",
-        "de": "Verbotener Alkohol (wijn)"
+        "ar": "كحول محرم قطعا (tempranillo, rode wijn)",
+        "en": "Alcohol / كحول (tempranillo, rode wijn)",
+        "fr": "Alcool interdit (tempranillo, rode wijn)",
+        "nl": "Verboden alcohol (tempranillo, rode wijn)",
+        "de": "Verbotener Alkohol (tempranillo, rode wijn)"
       },
       "stores": [
         "delhaize.be",
@@ -2450,7 +2464,8 @@
           "updated_at": "2026-11-25T09:12:06.226505+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410702067324": {
       "barcode": "8410702067324",
@@ -2514,15 +2529,15 @@
       "halal_certified": false,
       "halal_certification_source": null,
       "triggers": [
-        "wijn"
+        "rode wijn"
       ],
-      "reason": "Alcohol / كحول (wijn)",
+      "reason": "Alcohol / كحول (rode wijn)",
       "explanations": {
-        "ar": "كحول محرم قطعا (wijn)",
-        "en": "Alcohol / كحول (wijn)",
-        "fr": "Alcool interdit (wijn)",
-        "nl": "Verboden alcohol (wijn)",
-        "de": "Verbotener Alkohol (wijn)"
+        "ar": "كحول محرم قطعا (rode wijn)",
+        "en": "Alcohol / كحول (rode wijn)",
+        "fr": "Alcool interdit (rode wijn)",
+        "nl": "Verboden alcohol (rode wijn)",
+        "de": "Verbotener Alkohol (rode wijn)"
       },
       "stores": [
         "delhaize.be",
@@ -2656,7 +2671,8 @@
           "updated_at": "2026-11-25T09:12:06.226505+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410702063043": {
       "barcode": "8410702063043",
@@ -2702,18 +2718,21 @@
       "nutriscore_grade": null,
       "nutriscore_score": null,
       "health_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
+      "halal_status": "HARAM",
+      "is_halal": false,
       "halal_certified": false,
       "halal_certification_source": null,
-      "triggers": [],
-      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "triggers": [
+        "tempranillo",
+        "syrah"
+      ],
+      "reason": "Alcohol / كحول (tempranillo, syrah)",
       "explanations": {
-        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
-        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
-        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
-        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
-        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+        "ar": "كحول محرم قطعا (tempranillo, syrah)",
+        "en": "Alcohol / كحول (tempranillo, syrah)",
+        "fr": "Alcool interdit (tempranillo, syrah)",
+        "nl": "Verboden alcohol (tempranillo, syrah)",
+        "de": "Verbotener Alkohol (tempranillo, syrah)"
       },
       "stores": [
         "carrefour.be",
@@ -2847,7 +2866,8 @@
           "updated_at": "2026-11-25T09:14:46.247875+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410076601414": {
       "barcode": "8410076601414",
@@ -3055,7 +3075,8 @@
           "updated_at": "2026-11-25T09:49:20.127933+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410076610744": {
       "barcode": "8410076610744",
@@ -3264,7 +3285,8 @@
           "updated_at": "2026-11-25T09:50:55.287020+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410175100023": {
       "barcode": "8410175100023",
@@ -3471,7 +3493,8 @@
           "updated_at": "2026-11-25T10:00:00.526229+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410076602565": {
       "barcode": "8410076602565",
@@ -3680,7 +3703,8 @@
           "updated_at": "2026-11-25T10:01:23.493743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410076610737": {
       "barcode": "8410076610737",
@@ -3889,7 +3913,8 @@
           "updated_at": "2026-11-25T10:08:46.960191+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410748301222": {
       "barcode": "8410748301222",
@@ -4093,7 +4118,8 @@
           "updated_at": "2026-11-25T13:03:55.634887+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410076610829": {
       "barcode": "8410076610829",
@@ -4303,7 +4329,8 @@
           "updated_at": "2026-11-25T13:24:02.241723+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410076602541": {
       "barcode": "8410076602541",
@@ -4512,7 +4539,8 @@
           "updated_at": "2026-11-25T13:25:29.079458+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410525121500": {
       "barcode": "8410525121500",
@@ -4720,7 +4748,8 @@
           "updated_at": "2026-11-25T14:14:10.066309+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410525271182": {
       "barcode": "8410525271182",
@@ -4926,7 +4955,8 @@
           "updated_at": "2026-11-25T14:18:24.791799+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410525178085": {
       "barcode": "8410525178085",
@@ -5132,7 +5162,8 @@
           "updated_at": "2026-11-25T14:18:24.791799+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8410525277955": {
       "barcode": "8410525277955",
@@ -5336,7 +5367,1027 @@
           "updated_at": "2026-11-25T14:18:24.791799+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8411026031008": {
+      "barcode": "8411026031008",
+      "domain": "food",
+      "names": {
+        "nl": "Ferrer Gazpacho",
+        "fr": "Ferrer Gazpacho",
+        "de": "Ferrer Gazpacho",
+        "en": "Ferrer Gazpacho",
+        "ar": "Ferrer Gazpacho"
+      },
+      "brand": "Ferrer",
+      "net_weight": "720 ml",
+      "allergens": [
+        "Sulphites"
+      ],
+      "description": "Gazpacho.",
+      "descriptions": {
+        "nl": "Gazpacho.",
+        "fr": "Ferrer Gazpacho par Ferrer.",
+        "de": "Ferrer Gazpacho von Ferrer.",
+        "en": "Ferrer Gazpacho by Ferrer.",
+        "ar": "منتج Ferrer Gazpacho من Ferrer."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Water, tomaat (20%), rode paprika (6%), ui, olijfolie, komkommer (2%), AZIJN (SULFIET), knoflook, zoet en stabilisator: xanthaangom",
+        "fr": "Ingrediënten: Water, tomaat (20%), rode paprika (6%), ui, olijfolie, komkommer (2%), AZIJN (SULFIET), knoflook, zoet en stabilisator: xanthaangom",
+        "de": "Ingrediënten: Water, tomaat (20%), rode paprika (6%), ui, olijfolie, komkommer (2%), AZIJN (SULFIET), knoflook, zoet en stabilisator: xanthaangom",
+        "en": "Ingrediënten: Water, tomaat (20%), rode paprika (6%), ui, olijfolie, komkommer (2%), AZIJN (SULFIET), knoflook, zoet en stabilisator: xanthaangom",
+        "ar": "Ingrediënten: Water, tomaat (20%), rode paprika (6%), ui, olijfolie, komkommer (2%), AZIJN (SULFIET), knoflook, zoet en stabilisator: xanthaangom"
+      },
+      "image": "images/8411026031008.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8411026031008.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_43545239373236313235?revLabel=3&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "tomatensoep",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_841"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 143.0,
+        "calories_100g": 34.0,
+        "fat_100g": 2.4,
+        "saturated_fat_100g": 0.43,
+        "carbohydrates_100g": 2.6,
+        "sugars_100g": 1.8,
+        "fiber_100g": null,
+        "proteins_100g": 0.61,
+        "salt_100g": 0.88,
+        "sodium_100g": 352.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 3,
+      "health_score": 64,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.3,
+          "promo_price": 3.44,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi441202/ferrer-gazpacho",
+          "updated_at": "2026-11-25T20:00:05.531472+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.41,
+          "promo_price": 3.53,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=8411026031008",
+          "updated_at": "2026-11-25T20:00:05.531472+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.97,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8411026031008",
+          "updated_at": "2026-11-25T20:00:05.531472+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.98,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8411026031008",
+          "updated_at": "2026-11-25T20:00:05.531472+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=8411026031008",
+          "updated_at": "2026-11-25T20:00:05.531472+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.58,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=8411026031008",
+          "updated_at": "2026-11-25T20:00:05.531472+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.2,
+          "promo_price": 3.36,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=8411026031008",
+          "updated_at": "2026-11-25T20:00:05.531472+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.58,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8411026031008",
+          "updated_at": "2026-11-25T20:00:05.531472+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8411320282984": {
+      "barcode": "8411320282984",
+      "domain": "food",
+      "names": {
+        "nl": "Ortiz Witte tonijn in olijfolie",
+        "fr": "Ortiz Witte tonijn in olijfolie",
+        "de": "Ortiz Witte tonijn in olijfolie",
+        "en": "Ortiz Witte tonijn in olijfolie",
+        "ar": "Ortiz Witte tonijn in olijfolie"
+      },
+      "brand": "Ortiz",
+      "net_weight": "220 g",
+      "allergens": [],
+      "description": "Onze witte tonijn wordt tijdens het zomervisweek-seizoen individueel met de lijn gevangen, met levend aas of via spinvissen. Deze eeuwenoude techniek respecteert het milieu en de zeebodem.",
+      "descriptions": {
+        "nl": "Onze witte tonijn wordt tijdens het zomervisweek-seizoen individueel met de lijn gevangen, met levend aas of via spinvissen. Deze eeuwenoude techniek respecteert het milieu en de zeebodem.",
+        "fr": "Ortiz Witte tonijn in olijfolie par Ortiz.",
+        "de": "Ortiz Witte tonijn in olijfolie von Ortiz.",
+        "en": "Ortiz Witte tonijn in olijfolie by Ortiz.",
+        "ar": "منتج Ortiz Witte tonijn in olijfolie من Ortiz."
+      },
+      "ingredients": {
+        "nl": "*Bonito del Norte, aceite de oliva y sal",
+        "fr": "*Bonito del Norte, aceite de oliva y sal",
+        "de": "*Bonito del Norte, aceite de oliva y sal",
+        "en": "*Bonito del Norte, aceite de oliva y sal",
+        "ar": "*Bonito del Norte, aceite de oliva y sal"
+      },
+      "image": "images/8411320282984.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8411320282984.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_776d377a4364754253474b43725a7447754f34755967?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "tonijn",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_841"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 934.46,
+        "calories_100g": 223.42,
+        "fat_100g": 12.62,
+        "saturated_fat_100g": 2.66,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 27.46,
+        "salt_100g": 1.19,
+        "sodium_100g": 476.0
+      },
+      "official_nutriscore": "b",
+      "nutriscore_grade": "b",
+      "nutriscore_score": 4,
+      "health_score": 79,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.46,
+          "promo_price": 0.73,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi621424/ortiz-witte-tonijn-in-olijfolie",
+          "updated_at": "2026-11-25T20:38:29.711399+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.98,
+          "promo_price": 0.99,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=8411320282984",
+          "updated_at": "2026-11-25T20:38:29.711399+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8411320282984",
+          "updated_at": "2026-11-25T20:38:29.711399+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.81,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8411320282984",
+          "updated_at": "2026-11-25T20:38:29.711399+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.83,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=8411320282984",
+          "updated_at": "2026-11-25T20:38:29.711399+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.21,
+          "promo_price": 1.1,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=8411320282984",
+          "updated_at": "2026-11-25T20:38:29.711399+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.8,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8411320282984",
+          "updated_at": "2026-11-25T20:38:29.711399+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 1.86,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8411320282984",
+          "updated_at": "2026-11-25T20:38:29.711399+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8410010403876": {
+      "barcode": "8410010403876",
+      "domain": "food",
+      "names": {
+        "nl": "Carbonell Groene olijven zonder pit",
+        "fr": "Carbonell Groene olijven zonder pit",
+        "de": "Carbonell Groene olijven zonder pit",
+        "en": "Carbonell Groene olijven zonder pit",
+        "ar": "Carbonell Groene olijven zonder pit"
+      },
+      "brand": "Carbonell",
+      "net_weight": "340 g",
+      "allergens": [],
+      "description": "Carbonell groene olijven zijn eersteklas Manzanilla olijven met een unieke zachte, milde smaak en textuur, gerijpt onder de Spaanse zon. Heerlijk in salades, pasta's, olijventapenades en tapas.",
+      "descriptions": {
+        "nl": "Carbonell groene olijven zijn eersteklas Manzanilla olijven met een unieke zachte, milde smaak en textuur, gerijpt onder de Spaanse zon. Heerlijk in salades, pasta's, olijventapenades en tapas.",
+        "fr": "Carbonell Groene olijven zonder pit par Carbonell.",
+        "de": "Carbonell Groene olijven zonder pit von Carbonell.",
+        "en": "Carbonell Groene olijven zonder pit by Carbonell.",
+        "ar": "منتج Carbonell Groene olijven zonder pit من Carbonell."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: groene Manzanilla olijven, water, zout, zuurteregelaar (E270, E330), antioxidant (E300). Gepasteuriseerd.",
+        "fr": "Ingrediënten: groene Manzanilla olijven, water, zout, zuurteregelaar (E270, E330), antioxidant (E300). Gepasteuriseerd.",
+        "de": "Ingrediënten: groene Manzanilla olijven, water, zout, zuurteregelaar (E270, E330), antioxidant (E300). Gepasteuriseerd.",
+        "en": "Ingrediënten: groene Manzanilla olijven, water, zout, zuurteregelaar (E270, E330), antioxidant (E300). Gepasteuriseerd.",
+        "ar": "Ingrediënten: groene Manzanilla olijven, water, zout, zuurteregelaar (E270, E330), antioxidant (E300). Gepasteuriseerd."
+      },
+      "image": "images/8410010403876.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8410010403876.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_6256733977364e3453366532492d6d7738437a754877?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "olijven",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_841"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 707.0,
+        "calories_100g": 175.0,
+        "fat_100g": 18.0,
+        "saturated_fat_100g": 3.0,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 1.0,
+        "salt_100g": 3.5,
+        "sodium_100g": 1400.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 14,
+      "health_score": 41,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "carrefour.be",
+        "ah.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.27,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8410010403876",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.5,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8410010403876",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.95,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi408052/carbonell-groene-olijven-zonder-pit",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8410010403876",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.15,
+          "promo_price": 2.52,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=8410010403876",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.47,
+          "promo_price": 1.24,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=8410010403876",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.3,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8410010403876",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.85,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8410010403876",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8410010403883": {
+      "barcode": "8410010403883",
+      "domain": "food",
+      "names": {
+        "nl": "Carbonell Groene olijven zonder pit",
+        "fr": "Carbonell Groene olijven zonder pit",
+        "de": "Carbonell Groene olijven zonder pit",
+        "en": "Carbonell Groene olijven zonder pit",
+        "ar": "Carbonell Groene olijven zonder pit"
+      },
+      "brand": "Carbonell",
+      "net_weight": "180 g",
+      "allergens": [],
+      "description": "Carbonell groene olijven zijn eersteklas Manzanilla olijven met een unieke zachte, milde smaak en textuur, gerijpt onder de Spaanse zon. Heerlijk in salades, pasta's, olijventapenades en tapas.",
+      "descriptions": {
+        "nl": "Carbonell groene olijven zijn eersteklas Manzanilla olijven met een unieke zachte, milde smaak en textuur, gerijpt onder de Spaanse zon. Heerlijk in salades, pasta's, olijventapenades en tapas.",
+        "fr": "Carbonell Groene olijven zonder pit par Carbonell.",
+        "de": "Carbonell Groene olijven zonder pit von Carbonell.",
+        "en": "Carbonell Groene olijven zonder pit by Carbonell.",
+        "ar": "منتج Carbonell Groene olijven zonder pit من Carbonell."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: water, groene Manzanilla olijven, zout, zuurteregelaar (E270, E330), antioxidant (E300).",
+        "fr": "Ingrediënten: water, groene Manzanilla olijven, zout, zuurteregelaar (E270, E330), antioxidant (E300).",
+        "de": "Ingrediënten: water, groene Manzanilla olijven, zout, zuurteregelaar (E270, E330), antioxidant (E300).",
+        "en": "Ingrediënten: water, groene Manzanilla olijven, zout, zuurteregelaar (E270, E330), antioxidant (E300).",
+        "ar": "Ingrediënten: water, groene Manzanilla olijven, zout, zuurteregelaar (E270, E330), antioxidant (E300)."
+      },
+      "image": "images/8410010403883.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8410010403883.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_616d7a6e66727257524136376d726d4e6a346b697867?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "olijven",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_841"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 707.0,
+        "calories_100g": 172.0,
+        "fat_100g": 18.0,
+        "saturated_fat_100g": 3.0,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 1.0,
+        "salt_100g": 5.5,
+        "sodium_100g": 2200.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 14,
+      "health_score": 21,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.36,
+          "promo_price": 1.18,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=8410010403883",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.21,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8410010403883",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.78,
+          "promo_price": 2.22,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi408054/carbonell-groene-olijven-zonder-pit",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.86,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8410010403883",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.44,
+          "promo_price": 1.22,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=8410010403883",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.28,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=8410010403883",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.18,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8410010403883",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.67,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8410010403883",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8410010403852": {
+      "barcode": "8410010403852",
+      "domain": "food",
+      "names": {
+        "nl": "Carbonell Groene olijven gevuld met paprikapasta",
+        "fr": "Carbonell Groene olijven gevuld met paprikapasta",
+        "de": "Carbonell Groene olijven gevuld met paprikapasta",
+        "en": "Carbonell Groene olijven gevuld met paprikapasta",
+        "ar": "Carbonell Groene olijven gevuld met paprikapasta"
+      },
+      "brand": "Carbonell",
+      "net_weight": "350 g",
+      "allergens": [],
+      "description": "Carbonell groene olijven gevuld met paprikapasta zijn eersteklas Manzanilla olijven met een licht zoete smaak, gerijpt onder de Spaanse zon. Heerlijk voor bij de borrel.",
+      "descriptions": {
+        "nl": "Carbonell groene olijven gevuld met paprikapasta zijn eersteklas Manzanilla olijven met een licht zoete smaak, gerijpt onder de Spaanse zon. Heerlijk voor bij de borrel.",
+        "fr": "Carbonell Groene olijven gevuld met paprikapasta par Carbonell.",
+        "de": "Carbonell Groene olijven gevuld met paprikapasta von Carbonell.",
+        "en": "Carbonell Groene olijven gevuld met paprikapasta by Carbonell.",
+        "ar": "منتج Carbonell Groene olijven gevuld met paprikapasta من Carbonell."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: groene Manzanilla olijven, water, paprikapasta 9 % (water, paprika 2,5%, verdikkingsmiddelen (E401), aroma), zout, zuurteregelaar (E330). aroma, antioxidant (E300) Gepasteuriseerd.",
+        "fr": "Ingrediënten: groene Manzanilla olijven, water, paprikapasta 9 % (water, paprika 2,5%, verdikkingsmiddelen (E401), aroma), zout, zuurteregelaar (E330). aroma, antioxidant (E300) Gepasteuriseerd.",
+        "de": "Ingrediënten: groene Manzanilla olijven, water, paprikapasta 9 % (water, paprika 2,5%, verdikkingsmiddelen (E401), aroma), zout, zuurteregelaar (E330). aroma, antioxidant (E300) Gepasteuriseerd.",
+        "en": "Ingrediënten: groene Manzanilla olijven, water, paprikapasta 9 % (water, paprika 2,5%, verdikkingsmiddelen (E401), aroma), zout, zuurteregelaar (E330). aroma, antioxidant (E300) Gepasteuriseerd.",
+        "ar": "Ingrediënten: groene Manzanilla olijven, water, paprikapasta 9 % (water, paprika 2,5%, verdikkingsmiddelen (E401), aroma), zout, zuurteregelaar (E330). aroma, antioxidant (E300) Gepasteuriseerd."
+      },
+      "image": "images/8410010403852.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8410010403852.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4c4342584f4559745272797a69774e5254474d4a7251?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "olijven",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_841"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 635.0,
+        "calories_100g": 154.0,
+        "fat_100g": 16.0,
+        "saturated_fat_100g": 3.0,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 1.0,
+        "salt_100g": 4.0,
+        "sodium_100g": 1600.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 13,
+      "health_score": 41,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.1,
+          "promo_price": 2.48,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=8410010403852",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.73,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi408057/carbonell-groene-olijven-gevuld-met-paprikapasta",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.44,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8410010403852",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.54,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8410010403852",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.86,
+          "promo_price": 1.43,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=8410010403852",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.9,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=8410010403852",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.85,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8410010403852",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.29,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8410010403852",
+          "updated_at": "2026-11-25T20:47:00.657387+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

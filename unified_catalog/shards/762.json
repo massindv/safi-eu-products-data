@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "762",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 62,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 70,
   "products": {
     "7622202283994": {
       "barcode": "7622202283994",
@@ -206,10 +206,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "7622300348786": {
       "barcode": "7622300348786",
@@ -415,9 +416,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "7622210475183": {
       "barcode": "7622210475183",
@@ -619,10 +621,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "7622210993656": {
       "barcode": "7622210993656",
@@ -826,10 +829,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "7622210995063": {
       "barcode": "7622210995063",
@@ -1033,10 +1037,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "7622210410900": {
       "barcode": "7622210410900",
@@ -1245,7 +1250,8 @@
           "updated_at": "2026-11-25T08:25:24.220486+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210410863": {
       "barcode": "7622210410863",
@@ -1454,7 +1460,8 @@
           "updated_at": "2026-11-25T08:26:41.863889+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210411006": {
       "barcode": "7622210411006",
@@ -1663,7 +1670,8 @@
           "updated_at": "2026-11-25T08:26:41.863889+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202808432": {
       "barcode": "7622202808432",
@@ -1873,7 +1881,8 @@
           "updated_at": "2026-11-25T08:57:02.413112+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202273315": {
       "barcode": "7622202273315",
@@ -2081,7 +2090,8 @@
           "updated_at": "2026-11-25T08:59:55.592035+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210996268": {
       "barcode": "7622210996268",
@@ -2289,7 +2299,8 @@
           "updated_at": "2026-11-25T09:01:28.661842+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210434579": {
       "barcode": "7622210434579",
@@ -2497,7 +2508,8 @@
           "updated_at": "2026-11-25T09:31:29.848809+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210579256": {
       "barcode": "7622210579256",
@@ -2701,7 +2713,8 @@
           "updated_at": "2026-11-25T09:31:29.848809+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210495716": {
       "barcode": "7622210495716",
@@ -2911,7 +2924,8 @@
           "updated_at": "2026-11-25T09:34:16.852538+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202261565": {
       "barcode": "7622202261565",
@@ -3120,7 +3134,8 @@
           "updated_at": "2026-11-25T09:35:49.326907+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202370564": {
       "barcode": "7622202370564",
@@ -3329,7 +3344,8 @@
           "updated_at": "2026-11-25T09:35:49.326907+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202285363": {
       "barcode": "7622202285363",
@@ -3535,7 +3551,8 @@
           "updated_at": "2026-11-25T09:37:19.146444+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622201735470": {
       "barcode": "7622201735470",
@@ -3739,7 +3756,8 @@
           "updated_at": "2026-11-25T09:37:19.146444+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622400005176": {
       "barcode": "7622400005176",
@@ -3948,7 +3966,8 @@
           "updated_at": "2026-11-25T09:38:54.649039+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210651785": {
       "barcode": "7622210651785",
@@ -4157,7 +4176,8 @@
           "updated_at": "2026-11-25T09:38:54.649039+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210410924": {
       "barcode": "7622210410924",
@@ -4366,7 +4386,8 @@
           "updated_at": "2026-11-25T09:38:54.649039+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202261442": {
       "barcode": "7622202261442",
@@ -4575,7 +4596,8 @@
           "updated_at": "2026-11-25T09:40:20.487486+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622201803469": {
       "barcode": "7622201803469",
@@ -4779,7 +4801,8 @@
           "updated_at": "2026-11-25T09:41:53.508299+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210476081": {
       "barcode": "7622210476081",
@@ -4988,7 +5011,8 @@
           "updated_at": "2026-11-25T09:47:48.387209+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202238055": {
       "barcode": "7622202238055",
@@ -5199,7 +5223,8 @@
           "updated_at": "2026-11-25T09:49:20.127933+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622300489434": {
       "barcode": "7622300489434",
@@ -5407,7 +5432,8 @@
           "updated_at": "2026-11-25T09:49:20.127933+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210842572": {
       "barcode": "7622210842572",
@@ -5618,7 +5644,8 @@
           "updated_at": "2026-11-25T09:49:20.127933+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202249006": {
       "barcode": "7622202249006",
@@ -5826,7 +5853,8 @@
           "updated_at": "2026-11-25T09:52:26.756182+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622300561062": {
       "barcode": "7622300561062",
@@ -6036,7 +6064,8 @@
           "updated_at": "2026-11-25T09:52:26.756182+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622300784751": {
       "barcode": "7622300784751",
@@ -6245,7 +6274,8 @@
           "updated_at": "2026-11-25T09:54:00.339821+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622400916601": {
       "barcode": "7622400916601",
@@ -6455,7 +6485,8 @@
           "updated_at": "2026-11-25T09:55:31.393049+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202305221": {
       "barcode": "7622202305221",
@@ -6664,7 +6695,8 @@
           "updated_at": "2026-11-25T10:01:23.493743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202271700": {
       "barcode": "7622202271700",
@@ -6873,7 +6905,8 @@
           "updated_at": "2026-11-25T10:01:23.493743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202261626": {
       "barcode": "7622202261626",
@@ -7082,7 +7115,8 @@
           "updated_at": "2026-11-25T10:01:23.493743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622300787844": {
       "barcode": "7622300787844",
@@ -7291,7 +7325,8 @@
           "updated_at": "2026-11-25T10:01:23.493743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202365829": {
       "barcode": "7622202365829",
@@ -7500,7 +7535,8 @@
           "updated_at": "2026-11-25T10:01:23.493743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202273476": {
       "barcode": "7622202273476",
@@ -7709,7 +7745,8 @@
           "updated_at": "2026-11-25T10:01:23.493743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622300086404": {
       "barcode": "7622300086404",
@@ -7918,7 +7955,8 @@
           "updated_at": "2026-11-25T10:01:23.493743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622300336738": {
       "barcode": "7622300336738",
@@ -8126,7 +8164,8 @@
           "updated_at": "2026-11-25T10:02:52.086052+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622201109615": {
       "barcode": "7622201109615",
@@ -8334,7 +8373,8 @@
           "updated_at": "2026-11-25T10:02:52.086052+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210434609": {
       "barcode": "7622210434609",
@@ -8542,7 +8582,8 @@
           "updated_at": "2026-11-25T10:04:19.847665+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210475497": {
       "barcode": "7622210475497",
@@ -8751,7 +8792,8 @@
           "updated_at": "2026-11-25T10:05:42.522480+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622201110321": {
       "barcode": "7622201110321",
@@ -8959,7 +9001,8 @@
           "updated_at": "2026-11-25T10:07:14.005915+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210995025": {
       "barcode": "7622210995025",
@@ -9167,7 +9210,8 @@
           "updated_at": "2026-11-25T10:10:05.278294+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210996176": {
       "barcode": "7622210996176",
@@ -9375,7 +9419,8 @@
           "updated_at": "2026-11-25T10:10:05.278294+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622300489427": {
       "barcode": "7622300489427",
@@ -9583,7 +9628,8 @@
           "updated_at": "2026-11-25T13:13:14.466917+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210776327": {
       "barcode": "7622210776327",
@@ -9792,7 +9838,8 @@
           "updated_at": "2026-11-25T13:16:02.507607+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210495723": {
       "barcode": "7622210495723",
@@ -10001,7 +10048,8 @@
           "updated_at": "2026-11-25T13:16:02.507607+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210124401": {
       "barcode": "7622210124401",
@@ -10210,7 +10258,8 @@
           "updated_at": "2026-11-25T13:16:02.507607+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210635396": {
       "barcode": "7622210635396",
@@ -10421,7 +10470,8 @@
           "updated_at": "2026-11-25T13:16:02.507607+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210021502": {
       "barcode": "7622210021502",
@@ -10629,7 +10679,8 @@
           "updated_at": "2026-11-25T13:16:02.507607+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210411013": {
       "barcode": "7622210411013",
@@ -10838,7 +10889,8 @@
           "updated_at": "2026-11-25T13:17:21.174775+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210776266": {
       "barcode": "7622210776266",
@@ -11047,7 +11099,8 @@
           "updated_at": "2026-11-25T13:17:21.174775+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210665706": {
       "barcode": "7622210665706",
@@ -11256,7 +11309,8 @@
           "updated_at": "2026-11-25T13:17:21.174775+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210410948": {
       "barcode": "7622210410948",
@@ -11465,7 +11519,8 @@
           "updated_at": "2026-11-25T13:18:38.501590+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202309236": {
       "barcode": "7622202309236",
@@ -11673,7 +11728,8 @@
           "updated_at": "2026-11-25T13:19:56.360544+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622201751708": {
       "barcode": "7622201751708",
@@ -11882,7 +11938,8 @@
           "updated_at": "2026-11-25T13:22:46.244781+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210656490": {
       "barcode": "7622210656490",
@@ -12091,7 +12148,8 @@
           "updated_at": "2026-11-25T13:53:15.952092+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202271434": {
       "barcode": "7622202271434",
@@ -12297,7 +12355,8 @@
           "updated_at": "2026-11-25T13:54:28.945179+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210293381": {
       "barcode": "7622210293381",
@@ -12506,7 +12565,8 @@
           "updated_at": "2026-11-25T13:55:51.943697+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622202305047": {
       "barcode": "7622202305047",
@@ -12715,7 +12775,8 @@
           "updated_at": "2026-11-25T13:57:09.364971+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7622210396334": {
       "barcode": "7622210396334",
@@ -12925,7 +12986,1662 @@
           "updated_at": "2026-11-25T14:50:45.159446+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:50:45.159446+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "7622210475237": {
+      "barcode": "7622210475237",
+      "domain": "food",
+      "names": {
+        "nl": "LU Mini crackers zout",
+        "fr": "LU Mini crackers zout",
+        "de": "LU Mini crackers zout",
+        "en": "LU Mini crackers zout",
+        "ar": "LU Mini crackers zout"
+      },
+      "brand": "LU",
+      "net_weight": "250 g",
+      "allergens": [
+        "Gluten",
+        "Milk"
+      ],
+      "description": "Lichte en krokante zoute toastjes die met fijn beleg voor een stijlvol aperitiefmoment zorgen. Zo lekker dat je ze net zo goed als tussendoortje kan eten.",
+      "descriptions": {
+        "nl": "Lichte en krokante zoute toastjes die met fijn beleg voor een stijlvol aperitiefmoment zorgen. Zo lekker dat je ze net zo goed als tussendoortje kan eten.",
+        "fr": "LU Mini crackers zout par LU.",
+        "de": "LU Mini crackers zout von LU.",
+        "en": "LU Mini crackers zout by LU.",
+        "ar": "منتج LU Mini crackers zout من LU."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEBLOEM 97 %, palmolie, zout 2,1 %, zonnebloemolie, zuurteregelaar (natriumcarbonaten), GERSTEMOUTMEEL, gist. KAN MELK BEVATTEN.",
+        "fr": "Ingrediënten: TARWEBLOEM 97 %, palmolie, zout 2,1 %, zonnebloemolie, zuurteregelaar (natriumcarbonaten), GERSTEMOUTMEEL, gist. KAN MELK BEVATTEN.",
+        "de": "Ingrediënten: TARWEBLOEM 97 %, palmolie, zout 2,1 %, zonnebloemolie, zuurteregelaar (natriumcarbonaten), GERSTEMOUTMEEL, gist. KAN MELK BEVATTEN.",
+        "en": "Ingrediënten: TARWEBLOEM 97 %, palmolie, zout 2,1 %, zonnebloemolie, zuurteregelaar (natriumcarbonaten), GERSTEMOUTMEEL, gist. KAN MELK BEVATTEN.",
+        "ar": "Ingrediënten: TARWEBLOEM 97 %, palmolie, zout 2,1 %, zonnebloemolie, zuurteregelaar (natriumcarbonaten), GERSTEMOUTMEEL, gist. KAN MELK BEVATTEN."
+      },
+      "image": "images/7622210475237.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7622210475237.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_416b374969413859537857427a76674a6d69626c3041?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "zoutjes",
+      "origin_country": {
+        "name": "Switzerland",
+        "code": "CH",
+        "flag": "🇨🇭",
+        "inferred_from": "GS1_762"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1801.0,
+        "calories_100g": 428.0,
+        "fat_100g": 12.0,
+        "saturated_fat_100g": 4.9,
+        "carbohydrates_100g": 67.0,
+        "sugars_100g": 1.5,
+        "fiber_100g": 3.4,
+        "proteins_100g": 10.0,
+        "salt_100g": 2.8,
+        "sodium_100g": 1120.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 11,
+      "health_score": 22,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.48,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi389565/lu-mini-crackers-zout",
+          "updated_at": "2026-11-25T15:42:35.056007+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.68,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=7622210475237",
+          "updated_at": "2026-11-25T15:42:35.056007+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.81,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=7622210475237",
+          "updated_at": "2026-11-25T15:42:35.056007+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.25,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=7622210475237",
+          "updated_at": "2026-11-25T15:42:35.056007+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.85,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=7622210475237",
+          "updated_at": "2026-11-25T15:42:35.056007+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.49,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=7622210475237",
+          "updated_at": "2026-11-25T15:42:35.056007+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.36,
+          "promo_price": 1.68,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=7622210475237",
+          "updated_at": "2026-11-25T15:42:35.056007+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.44,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=7622210475237",
+          "updated_at": "2026-11-25T15:42:35.056007+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "7622300787837": {
+      "barcode": "7622300787837",
+      "domain": "food",
+      "names": {
+        "nl": "Milka Chocoladereep tuc",
+        "fr": "Milka Chocoladereep tuc",
+        "de": "Milka Chocoladereep tuc",
+        "en": "Milka Chocoladereep tuc",
+        "ar": "Milka Chocoladereep tuc"
+      },
+      "brand": "Milka",
+      "net_weight": "87 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk",
+        "Eggs"
+      ],
+      "description": "Milka tuc combineert krokante, gezouten tuc crackertjes met zachte Milka melkchocolade. De ideale combinatie van zoet en zout.",
+      "descriptions": {
+        "nl": "Milka tuc combineert krokante, gezouten tuc crackertjes met zachte Milka melkchocolade. De ideale combinatie van zoet en zout.",
+        "fr": "Milka Chocoladereep tuc par Milka.",
+        "de": "Milka Chocoladereep tuc von Milka.",
+        "en": "Milka Chocoladereep tuc by Milka.",
+        "ar": "منتج Milka Chocoladereep tuc من Milka."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: suiker, cacaoboter, TARWEBLOEM, magere MELKPOEDER, cacaomassa, weipoeder (van MELK), MELKVET, palmolie, glucosestroop, GERSTEMOUTEXTRACT, emulgatoren (SOJALECITHINEN, E476), zout, TARWEZETMEEL, rijsmiddelen (E503, E500, E450), BOTER, aroma's, volle MELKPOEDER, meelverbeteraar (NATRIUMDISULFIET). KAN BEVATTEN: EI.",
+        "fr": "Ingrediënten: suiker, cacaoboter, TARWEBLOEM, magere MELKPOEDER, cacaomassa, weipoeder (van MELK), MELKVET, palmolie, glucosestroop, GERSTEMOUTEXTRACT, emulgatoren (SOJALECITHINEN, E476), zout, TARWEZETMEEL, rijsmiddelen (E503, E500, E450), BOTER, aroma's, volle MELKPOEDER, meelverbeteraar (NATRIUMDISULFIET). KAN BEVATTEN: EI.",
+        "de": "Ingrediënten: suiker, cacaoboter, TARWEBLOEM, magere MELKPOEDER, cacaomassa, weipoeder (van MELK), MELKVET, palmolie, glucosestroop, GERSTEMOUTEXTRACT, emulgatoren (SOJALECITHINEN, E476), zout, TARWEZETMEEL, rijsmiddelen (E503, E500, E450), BOTER, aroma's, volle MELKPOEDER, meelverbeteraar (NATRIUMDISULFIET). KAN BEVATTEN: EI.",
+        "en": "Ingrediënten: suiker, cacaoboter, TARWEBLOEM, magere MELKPOEDER, cacaomassa, weipoeder (van MELK), MELKVET, palmolie, glucosestroop, GERSTEMOUTEXTRACT, emulgatoren (SOJALECITHINEN, E476), zout, TARWEZETMEEL, rijsmiddelen (E503, E500, E450), BOTER, aroma's, volle MELKPOEDER, meelverbeteraar (NATRIUMDISULFIET). KAN BEVATTEN: EI.",
+        "ar": "Ingrediënten: suiker, cacaoboter, TARWEBLOEM, magere MELKPOEDER, cacaomassa, weipoeder (van MELK), MELKVET, palmolie, glucosestroop, GERSTEMOUTEXTRACT, emulgatoren (SOJALECITHINEN, E476), zout, TARWEZETMEEL, rijsmiddelen (E503, E500, E450), BOTER, aroma's, volle MELKPOEDER, meelverbeteraar (NATRIUMDISULFIET). KAN BEVATTEN: EI."
+      },
+      "image": "images/7622300787837.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7622300787837.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_34792d526e51446b52486d62736a30334a6c61664851?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "melk",
+      "origin_country": {
+        "name": "Switzerland",
+        "code": "CH",
+        "flag": "🇨🇭",
+        "inferred_from": "GS1_762"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2175.0,
+        "calories_100g": 520.0,
+        "fat_100g": 28.0,
+        "saturated_fat_100g": 16.0,
+        "carbohydrates_100g": 60.0,
+        "sugars_100g": 50.0,
+        "fiber_100g": 1.9,
+        "proteins_100g": 6.4,
+        "salt_100g": 0.69,
+        "sodium_100g": 276.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 25,
+      "health_score": 17,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "weipoeder"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: weipoeder",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: weipoeder",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: weipoeder",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : weipoeder",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: weipoeder",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: weipoeder"
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.65,
+          "promo_price": 0.82,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=7622300787837",
+          "updated_at": "2026-11-25T16:00:12.520921+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.03,
+          "promo_price": 1.62,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=7622300787837",
+          "updated_at": "2026-11-25T16:00:12.520921+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.23,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi625379/milka-chocoladereep-tuc",
+          "updated_at": "2026-11-25T16:00:12.520921+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.23,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=7622300787837",
+          "updated_at": "2026-11-25T16:00:12.520921+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.14,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=7622300787837",
+          "updated_at": "2026-11-25T16:00:12.520921+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.23,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=7622300787837",
+          "updated_at": "2026-11-25T16:00:12.520921+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 1.78,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=7622300787837",
+          "updated_at": "2026-11-25T16:00:12.520921+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.32,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=7622300787837",
+          "updated_at": "2026-11-25T16:00:12.520921+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "7622210579270": {
+      "barcode": "7622210579270",
+      "domain": "food",
+      "names": {
+        "nl": "Philadelphia Knoflook & fijne kruiden",
+        "fr": "Philadelphia Knoflook & fijne kruiden",
+        "de": "Philadelphia Knoflook & fijne kruiden",
+        "en": "Philadelphia Knoflook & fijne kruiden",
+        "ar": "Philadelphia Knoflook & fijne kruiden"
+      },
+      "brand": "Philadelphia",
+      "net_weight": "185 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "De heerlijke frisse en romige smaak van philadelphia, vermengd met knoflook en fijne kruiden.",
+      "descriptions": {
+        "nl": "De heerlijke frisse en romige smaak van philadelphia, vermengd met knoflook en fijne kruiden.",
+        "fr": "Philadelphia Knoflook & fijne kruiden par Philadelphia.",
+        "de": "Philadelphia Knoflook & fijne kruiden von Philadelphia.",
+        "en": "Philadelphia Knoflook & fijne kruiden by Philadelphia.",
+        "ar": "منتج Philadelphia Knoflook & fijne kruiden من Philadelphia."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: volle MELK, ROOM, MELKEIWITTENBEREIDING, weipermeaatconcentraat (van MELK), kruiden, ui, knoflook, zout, stabilisator (guarpitmeel), voedingszuur (citroenzuur).",
+        "fr": "Ingrediënten: volle MELK, ROOM, MELKEIWITTENBEREIDING, weipermeaatconcentraat (van MELK), kruiden, ui, knoflook, zout, stabilisator (guarpitmeel), voedingszuur (citroenzuur).",
+        "de": "Ingrediënten: volle MELK, ROOM, MELKEIWITTENBEREIDING, weipermeaatconcentraat (van MELK), kruiden, ui, knoflook, zout, stabilisator (guarpitmeel), voedingszuur (citroenzuur).",
+        "en": "Ingrediënten: volle MELK, ROOM, MELKEIWITTENBEREIDING, weipermeaatconcentraat (van MELK), kruiden, ui, knoflook, zout, stabilisator (guarpitmeel), voedingszuur (citroenzuur).",
+        "ar": "Ingrediënten: volle MELK, ROOM, MELKEIWITTENBEREIDING, weipermeaatconcentraat (van MELK), kruiden, ui, knoflook, zout, stabilisator (guarpitmeel), voedingszuur (citroenzuur)."
+      },
+      "image": "images/7622210579270.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7622210579270.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_7543364f4e6a2d3152507941546a49315765416e5f77?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "roomkaas",
+      "origin_country": {
+        "name": "Switzerland",
+        "code": "CH",
+        "flag": "🇨🇭",
+        "inferred_from": "GS1_762"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 879.0,
+        "calories_100g": 212.0,
+        "fat_100g": 19.0,
+        "saturated_fat_100g": 13.0,
+        "carbohydrates_100g": 4.5,
+        "sugars_100g": 4.4,
+        "fiber_100g": 0.4,
+        "proteins_100g": 5.2,
+        "salt_100g": 1.0,
+        "sodium_100g": 400.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 13,
+      "health_score": 41,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "carrefour.be",
+        "delhaize.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.2,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=7622210579270",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.28,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=7622210579270",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.42,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=7622210579270",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.44,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi162764/philadelphia-knoflook-en-fijne-kruiden",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.98,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=7622210579270",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.26,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=7622210579270",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.29,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=7622210579270",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.79,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=7622210579270",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "7622300316396": {
+      "barcode": "7622300316396",
+      "domain": "food",
+      "names": {
+        "nl": "Philadelphia Bieslook",
+        "fr": "Philadelphia Bieslook",
+        "de": "Philadelphia Bieslook",
+        "en": "Philadelphia Bieslook",
+        "ar": "Philadelphia Bieslook"
+      },
+      "brand": "Philadelphia",
+      "net_weight": "185 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "De heerlijke frisse en romige smaak van philadelphia, vermengd met stukjes bieslook.",
+      "descriptions": {
+        "nl": "De heerlijke frisse en romige smaak van philadelphia, vermengd met stukjes bieslook.",
+        "fr": "Philadelphia Bieslook par Philadelphia.",
+        "de": "Philadelphia Bieslook von Philadelphia.",
+        "en": "Philadelphia Bieslook by Philadelphia.",
+        "ar": "منتج Philadelphia Bieslook من Philadelphia."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Volle MELK, MELKEIWITTENBEREIDING, ROOM, weipermeaatconcentraat (van MELK), bieslook, zout, stabilisatoren (guarpitmeel, carrageen), voedingszuur (citroenzuur).",
+        "fr": "Ingrediënten: Volle MELK, MELKEIWITTENBEREIDING, ROOM, weipermeaatconcentraat (van MELK), bieslook, zout, stabilisatoren (guarpitmeel, carrageen), voedingszuur (citroenzuur).",
+        "de": "Ingrediënten: Volle MELK, MELKEIWITTENBEREIDING, ROOM, weipermeaatconcentraat (van MELK), bieslook, zout, stabilisatoren (guarpitmeel, carrageen), voedingszuur (citroenzuur).",
+        "en": "Ingrediënten: Volle MELK, MELKEIWITTENBEREIDING, ROOM, weipermeaatconcentraat (van MELK), bieslook, zout, stabilisatoren (guarpitmeel, carrageen), voedingszuur (citroenzuur).",
+        "ar": "Ingrediënten: Volle MELK, MELKEIWITTENBEREIDING, ROOM, weipermeaatconcentraat (van MELK), bieslook, zout, stabilisatoren (guarpitmeel, carrageen), voedingszuur (citroenzuur)."
+      },
+      "image": "images/7622300316396.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7622300316396.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_793746444c4d74425478792d5874634e616c34474a77?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "roomkaas",
+      "origin_country": {
+        "name": "Switzerland",
+        "code": "CH",
+        "flag": "🇨🇭",
+        "inferred_from": "GS1_762"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 599.0,
+        "calories_100g": 144.0,
+        "fat_100g": 10.0,
+        "saturated_fat_100g": 6.8,
+        "carbohydrates_100g": 5.1,
+        "sugars_100g": 5.1,
+        "fiber_100g": 0.5,
+        "proteins_100g": 7.2,
+        "salt_100g": 0.95,
+        "sodium_100g": 380.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 8,
+      "health_score": 63,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.78,
+          "promo_price": 1.89,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=7622300316396",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.03,
+          "promo_price": 2.42,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi162763/philadelphia-bieslook",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.27,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=7622300316396",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=7622300316396",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.91,
+          "promo_price": 1.96,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=7622300316396",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.71,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=7622300316396",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.02,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=7622300316396",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.98,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=7622300316396",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "7622210512215": {
+      "barcode": "7622210512215",
+      "domain": "food",
+      "names": {
+        "nl": "Philadelphia Zonder lactose",
+        "fr": "Philadelphia Zonder lactose",
+        "de": "Philadelphia Zonder lactose",
+        "en": "Philadelphia Zonder lactose",
+        "ar": "Philadelphia Zonder lactose"
+      },
+      "brand": "Philadelphia",
+      "net_weight": "175 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Geniet van de heerlijke romige textuur van Philadelphia lactosevrij. Om volop van te genieten, ook voor wie lactose-intolerant is.",
+      "descriptions": {
+        "nl": "Geniet van de heerlijke romige textuur van Philadelphia lactosevrij. Om volop van te genieten, ook voor wie lactose-intolerant is.",
+        "fr": "Philadelphia Zonder lactose par Philadelphia.",
+        "de": "Philadelphia Zonder lactose von Philadelphia.",
+        "en": "Philadelphia Zonder lactose by Philadelphia.",
+        "ar": "منتج Philadelphia Zonder lactose من Philadelphia."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: volle MELK, ROOM, zout, stabilisator (guarpitmeel), lactase.",
+        "fr": "Ingrediënten: volle MELK, ROOM, zout, stabilisator (guarpitmeel), lactase.",
+        "de": "Ingrediënten: volle MELK, ROOM, zout, stabilisator (guarpitmeel), lactase.",
+        "en": "Ingrediënten: volle MELK, ROOM, zout, stabilisator (guarpitmeel), lactase.",
+        "ar": "Ingrediënten: volle MELK, ROOM, zout, stabilisator (guarpitmeel), lactase."
+      },
+      "image": "images/7622210512215.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7622210512215.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_644a7841757a7963544971726e646a596e5330444851?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "roomkaas",
+      "origin_country": {
+        "name": "Switzerland",
+        "code": "CH",
+        "flag": "🇨🇭",
+        "inferred_from": "GS1_762"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 915.0,
+        "calories_100g": 221.0,
+        "fat_100g": 21.0,
+        "saturated_fat_100g": 14.0,
+        "carbohydrates_100g": 3.2,
+        "sugars_100g": 3.2,
+        "fiber_100g": 0.2,
+        "proteins_100g": 5.4,
+        "salt_100g": 0.85,
+        "sodium_100g": 340.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 12,
+      "health_score": 41,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.5,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi384174/philadelphia-zonder-lactose",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.7,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=7622210512215",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.88,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=7622210512215",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 5.29,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=7622210512215",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.52,
+          "promo_price": 4.42,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=7622210512215",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.52,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=7622210512215",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.87,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=7622210512215",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 5.53,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=7622210512215",
+          "updated_at": "2026-11-25T16:58:24.201081+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "7622210603937": {
+      "barcode": "7622210603937",
+      "domain": "food",
+      "names": {
+        "nl": "Tuc original mini",
+        "fr": "Tuc original mini",
+        "de": "Tuc original mini",
+        "en": "Tuc original mini",
+        "ar": "Tuc original mini"
+      },
+      "brand": "Tuc",
+      "net_weight": "100 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk",
+        "Eggs"
+      ],
+      "description": "De vertrouwde krokant gezouten tuc crackertjes, maar dan net even wat kleiner. Ideaal voor een feestje, tijdens de borrel of gewoon 's avonds lekker op de bank.",
+      "descriptions": {
+        "nl": "De vertrouwde krokant gezouten tuc crackertjes, maar dan net even wat kleiner. Ideaal voor een feestje, tijdens de borrel of gewoon 's avonds lekker op de bank.",
+        "fr": "Tuc original mini par Tuc.",
+        "de": "Tuc original mini von Tuc.",
+        "en": "Tuc original mini by Tuc.",
+        "ar": "منتج Tuc original mini من Tuc."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEBLOEM, palmolie, glucosestroop, GERSTEMOUTEXTRACT, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten), zout, EIEREN, aroma, meelverbeteraar (NATRIUMDISULFIET). KAN BEVATTEN: SOJA, MELK.",
+        "fr": "Ingrediënten: TARWEBLOEM, palmolie, glucosestroop, GERSTEMOUTEXTRACT, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten), zout, EIEREN, aroma, meelverbeteraar (NATRIUMDISULFIET). KAN BEVATTEN: SOJA, MELK.",
+        "de": "Ingrediënten: TARWEBLOEM, palmolie, glucosestroop, GERSTEMOUTEXTRACT, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten), zout, EIEREN, aroma, meelverbeteraar (NATRIUMDISULFIET). KAN BEVATTEN: SOJA, MELK.",
+        "en": "Ingrediënten: TARWEBLOEM, palmolie, glucosestroop, GERSTEMOUTEXTRACT, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten), zout, EIEREN, aroma, meelverbeteraar (NATRIUMDISULFIET). KAN BEVATTEN: SOJA, MELK.",
+        "ar": "Ingrediënten: TARWEBLOEM, palmolie, glucosestroop, GERSTEMOUTEXTRACT, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten), zout, EIEREN, aroma, meelverbeteraar (NATRIUMDISULFIET). KAN BEVATTEN: SOJA, MELK."
+      },
+      "image": "images/7622210603937.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7622210603937.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_6d53644a374f55645456795155574e734d4c67546b51?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "crackers",
+      "origin_country": {
+        "name": "Switzerland",
+        "code": "CH",
+        "flag": "🇨🇭",
+        "inferred_from": "GS1_762"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2021.0,
+        "calories_100g": 482.0,
+        "fat_100g": 19.0,
+        "saturated_fat_100g": 9.0,
+        "carbohydrates_100g": 67.0,
+        "sugars_100g": 7.1,
+        "fiber_100g": 2.4,
+        "proteins_100g": 8.3,
+        "salt_100g": 1.7,
+        "sodium_100g": 680.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 15,
+      "health_score": 20,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma"
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.34,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi168436/tuc-original-mini",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.47,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=7622210603937",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.69,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=7622210603937",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.69,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=7622210603937",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.33,
+          "promo_price": 1.06,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=7622210603937",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.73,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=7622210603937",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 1.13,
+          "promo_price": 0.9,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=7622210603937",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.34,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=7622210603937",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "7622210606723": {
+      "barcode": "7622210606723",
+      "domain": "food",
+      "names": {
+        "nl": "LU Mini crackers tarwebloem en volkorenmeel",
+        "fr": "LU Mini crackers tarwebloem en volkorenmeel",
+        "de": "LU Mini crackers tarwebloem en volkorenmeel",
+        "en": "LU Mini crackers tarwebloem en volkorenmeel",
+        "ar": "LU Mini crackers tarwebloem en volkorenmeel"
+      },
+      "brand": "LU",
+      "net_weight": "250 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "description": "Lichte en krokante toastjes van tarwebloem en volkorenmeel die met fijn beleg voor een stijlvol aperitiefmoment zorgen. Zo lekker dat je ze net zo goed als tussendoortje kan eten.",
+      "descriptions": {
+        "nl": "Lichte en krokante toastjes van tarwebloem en volkorenmeel die met fijn beleg voor een stijlvol aperitiefmoment zorgen. Zo lekker dat je ze net zo goed als tussendoortje kan eten.",
+        "fr": "LU Mini crackers tarwebloem en volkorenmeel par LU.",
+        "de": "LU Mini crackers tarwebloem en volkorenmeel von LU.",
+        "en": "LU Mini crackers tarwebloem en volkorenmeel by LU.",
+        "ar": "منتج LU Mini crackers tarwebloem en volkorenmeel من LU."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEBLOEM 57 %, VOLKORENTARWEMEEL 38 %, palmolie, erwtenvezels, zuurteregelaar (natriumcarbonaten), zout, TARWEGLUTEN, SESAMZAADJES, gemoute GERSTEBLOEM, gist. KAN BEVATTEN: SOJA.",
+        "fr": "Ingrediënten: TARWEBLOEM 57 %, VOLKORENTARWEMEEL 38 %, palmolie, erwtenvezels, zuurteregelaar (natriumcarbonaten), zout, TARWEGLUTEN, SESAMZAADJES, gemoute GERSTEBLOEM, gist. KAN BEVATTEN: SOJA.",
+        "de": "Ingrediënten: TARWEBLOEM 57 %, VOLKORENTARWEMEEL 38 %, palmolie, erwtenvezels, zuurteregelaar (natriumcarbonaten), zout, TARWEGLUTEN, SESAMZAADJES, gemoute GERSTEBLOEM, gist. KAN BEVATTEN: SOJA.",
+        "en": "Ingrediënten: TARWEBLOEM 57 %, VOLKORENTARWEMEEL 38 %, palmolie, erwtenvezels, zuurteregelaar (natriumcarbonaten), zout, TARWEGLUTEN, SESAMZAADJES, gemoute GERSTEBLOEM, gist. KAN BEVATTEN: SOJA.",
+        "ar": "Ingrediënten: TARWEBLOEM 57 %, VOLKORENTARWEMEEL 38 %, palmolie, erwtenvezels, zuurteregelaar (natriumcarbonaten), zout, TARWEGLUTEN, SESAMZAADJES, gemoute GERSTEBLOEM, gist. KAN BEVATTEN: SOJA."
+      },
+      "image": "images/7622210606723.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7622210606723.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_64576a64417a534252614f44346a6974625244357477?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "crackers",
+      "origin_country": {
+        "name": "Switzerland",
+        "code": "CH",
+        "flag": "🇨🇭",
+        "inferred_from": "GS1_762"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1812.0,
+        "calories_100g": 431.0,
+        "fat_100g": 13.0,
+        "saturated_fat_100g": 5.5,
+        "carbohydrates_100g": 63.0,
+        "sugars_100g": 1.5,
+        "fiber_100g": 7.0,
+        "proteins_100g": 12.0,
+        "salt_100g": 2.1,
+        "sodium_100g": 840.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 9,
+      "health_score": 42,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.38,
+          "promo_price": 1.19,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=7622210606723",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.57,
+          "promo_price": 2.06,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi458187/lu-mini-crackers-tarwebloem-en-volkorenmeel",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.69,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=7622210606723",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.81,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=7622210606723",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.69,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=7622210606723",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.9,
+          "promo_price": 1.45,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=7622210606723",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.54,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=7622210606723",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.55,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=7622210606723",
+          "updated_at": "2026-11-25T17:58:09.400740+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "7622210475152": {
+      "barcode": "7622210475152",
+      "domain": "food",
+      "names": {
+        "nl": "LU Mini crackers naturel",
+        "fr": "LU Mini crackers naturel",
+        "de": "LU Mini crackers naturel",
+        "en": "LU Mini crackers naturel",
+        "ar": "LU Mini crackers naturel"
+      },
+      "brand": "LU",
+      "net_weight": "250 g",
+      "allergens": [
+        "Gluten",
+        "Milk"
+      ],
+      "description": "Lichte en krokante naturel toastjes die met fijn beleg voor een stijlvol aperitiefmoment zorgen. Zo lekker dat je ze net zo goed als tussendoortje kan eten.",
+      "descriptions": {
+        "nl": "Lichte en krokante naturel toastjes die met fijn beleg voor een stijlvol aperitiefmoment zorgen. Zo lekker dat je ze net zo goed als tussendoortje kan eten.",
+        "fr": "LU Mini crackers naturel par LU.",
+        "de": "LU Mini crackers naturel von LU.",
+        "en": "LU Mini crackers naturel by LU.",
+        "ar": "منتج LU Mini crackers naturel من LU."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEBLOEM 98 %, palmolie, zonnebloemolie, zout, zuurteregelaar (natriumcarbonaten), GERSTEMOUTMEEL, gist. KAN MELK BEVATTEN.",
+        "fr": "Ingrediënten: TARWEBLOEM 98 %, palmolie, zonnebloemolie, zout, zuurteregelaar (natriumcarbonaten), GERSTEMOUTMEEL, gist. KAN MELK BEVATTEN.",
+        "de": "Ingrediënten: TARWEBLOEM 98 %, palmolie, zonnebloemolie, zout, zuurteregelaar (natriumcarbonaten), GERSTEMOUTMEEL, gist. KAN MELK BEVATTEN.",
+        "en": "Ingrediënten: TARWEBLOEM 98 %, palmolie, zonnebloemolie, zout, zuurteregelaar (natriumcarbonaten), GERSTEMOUTMEEL, gist. KAN MELK BEVATTEN.",
+        "ar": "Ingrediënten: TARWEBLOEM 98 %, palmolie, zonnebloemolie, zout, zuurteregelaar (natriumcarbonaten), GERSTEMOUTMEEL, gist. KAN MELK BEVATTEN."
+      },
+      "image": "images/7622210475152.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/7622210475152.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_764a317a63435666546d69627275375965444c456151?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "toast",
+      "origin_country": {
+        "name": "Switzerland",
+        "code": "CH",
+        "flag": "🇨🇭",
+        "inferred_from": "GS1_762"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1818.0,
+        "calories_100g": 432.0,
+        "fat_100g": 12.0,
+        "saturated_fat_100g": 4.9,
+        "carbohydrates_100g": 68.0,
+        "sugars_100g": 1.6,
+        "fiber_100g": 3.5,
+        "proteins_100g": 11.0,
+        "salt_100g": 1.8,
+        "sodium_100g": 720.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 8,
+      "health_score": 43,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "carrefour.be",
+        "delhaize.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.62,
+          "promo_price": 2.9,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=7622210475152",
+          "updated_at": "2026-11-25T18:10:47.749171+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.87,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=7622210475152",
+          "updated_at": "2026-11-25T18:10:47.749171+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.22,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=7622210475152",
+          "updated_at": "2026-11-25T18:10:47.749171+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.32,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi62912/lu-mini-crackers-naturel",
+          "updated_at": "2026-11-25T18:10:47.749171+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.65,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=7622210475152",
+          "updated_at": "2026-11-25T18:10:47.749171+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.33,
+          "promo_price": 3.46,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=7622210475152",
+          "updated_at": "2026-11-25T18:10:47.749171+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.82,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=7622210475152",
+          "updated_at": "2026-11-25T18:10:47.749171+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.23,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=7622210475152",
+          "updated_at": "2026-11-25T18:10:47.749171+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

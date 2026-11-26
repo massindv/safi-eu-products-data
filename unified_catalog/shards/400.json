@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "400",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 69,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 82,
   "products": {
     "4002391377101": {
       "barcode": "4002391377101",
@@ -60,16 +60,18 @@
       "nutriscore_grade": null,
       "nutriscore_score": null,
       "health_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "rosé"
+      ],
+      "reason": "Alcohol / كحول (rosé)",
       "explanations": {
-        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
-        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
-        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
-        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
-        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+        "ar": "كحول محرم قطعا (rosé)",
+        "en": "Alcohol / كحول (rosé)",
+        "fr": "Alcool interdit (rosé)",
+        "nl": "Verboden alcohol (rosé)",
+        "de": "Verbotener Alkohol (rosé)"
       },
       "stores": [
         "colruyt.be",
@@ -203,9 +205,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "4001638095136": {
       "barcode": "4001638095136",
@@ -393,9 +396,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "4001724039082": {
       "barcode": "4001724039082",
@@ -603,7 +607,8 @@
           "updated_at": "2026-11-25T08:36:40.866397+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724023906": {
       "barcode": "4001724023906",
@@ -812,7 +817,8 @@
           "updated_at": "2026-11-25T08:36:40.866397+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724039297": {
       "barcode": "4001724039297",
@@ -1021,7 +1027,8 @@
           "updated_at": "2026-11-25T08:36:40.866397+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724015697": {
       "barcode": "4001724015697",
@@ -1230,7 +1237,8 @@
           "updated_at": "2026-11-25T08:36:40.866397+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724038900": {
       "barcode": "4001724038900",
@@ -1439,7 +1447,8 @@
           "updated_at": "2026-11-25T08:36:40.866397+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724039051": {
       "barcode": "4001724039051",
@@ -1648,7 +1657,8 @@
           "updated_at": "2026-11-25T08:37:50.552904+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724039235": {
       "barcode": "4001724039235",
@@ -1856,7 +1866,8 @@
           "updated_at": "2026-11-25T08:40:23.467476+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724039594": {
       "barcode": "4001724039594",
@@ -2065,7 +2076,8 @@
           "updated_at": "2026-11-25T08:40:23.467476+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724023876": {
       "barcode": "4001724023876",
@@ -2274,7 +2286,8 @@
           "updated_at": "2026-11-25T08:40:23.467476+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724023784": {
       "barcode": "4001724023784",
@@ -2487,7 +2500,8 @@
           "updated_at": "2026-11-25T08:41:50.428012+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4005906005056": {
       "barcode": "4005906005056",
@@ -2691,7 +2705,8 @@
           "updated_at": "2026-11-25T08:43:22.833814+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724037996": {
       "barcode": "4001724037996",
@@ -2900,7 +2915,8 @@
           "updated_at": "2026-11-25T08:43:22.833814+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4005906404125": {
       "barcode": "4005906404125",
@@ -3104,7 +3120,8 @@
           "updated_at": "2026-11-25T08:44:41.991003+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4005906005322": {
       "barcode": "4005906005322",
@@ -3308,7 +3325,8 @@
           "updated_at": "2026-11-25T08:44:41.991003+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724057055": {
       "barcode": "4001724057055",
@@ -3518,7 +3536,8 @@
           "updated_at": "2026-11-25T08:44:41.991003+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724054764": {
       "barcode": "4001724054764",
@@ -3727,7 +3746,8 @@
           "updated_at": "2026-11-25T08:44:41.991003+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4008211000877": {
       "barcode": "4008211000877",
@@ -3936,7 +3956,8 @@
           "updated_at": "2026-11-25T08:44:41.991003+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724050155": {
       "barcode": "4001724050155",
@@ -4147,7 +4168,8 @@
           "updated_at": "2026-11-25T08:44:41.991003+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724048800": {
       "barcode": "4001724048800",
@@ -4356,7 +4378,8 @@
           "updated_at": "2026-11-25T08:46:06.330781+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4000417700001": {
       "barcode": "4000417700001",
@@ -4564,7 +4587,8 @@
           "updated_at": "2026-11-25T08:59:55.592035+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4007993019831": {
       "barcode": "4007993019831",
@@ -4776,7 +4800,8 @@
           "updated_at": "2026-11-25T09:17:36.953647+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4007993036975": {
       "barcode": "4007993036975",
@@ -4987,7 +5012,8 @@
           "updated_at": "2026-11-25T09:20:04.190300+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724039112": {
       "barcode": "4001724039112",
@@ -5196,7 +5222,8 @@
           "updated_at": "2026-11-25T09:20:04.190300+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724039174": {
       "barcode": "4001724039174",
@@ -5263,16 +5290,15 @@
       "halal_certified": false,
       "halal_certification_source": null,
       "triggers": [
-        "witte wijn",
-        "wijn"
+        "witte wijn"
       ],
-      "reason": "Alcohol / كحول (witte wijn, wijn)",
+      "reason": "Alcohol / كحول (witte wijn)",
       "explanations": {
-        "ar": "كحول محرم قطعا (witte wijn, wijn)",
-        "en": "Alcohol / كحول (witte wijn, wijn)",
-        "fr": "Alcool interdit (witte wijn, wijn)",
-        "nl": "Verboden alcohol (witte wijn, wijn)",
-        "de": "Verbotener Alkohol (witte wijn, wijn)"
+        "ar": "كحول محرم قطعا (witte wijn)",
+        "en": "Alcohol / كحول (witte wijn)",
+        "fr": "Alcool interdit (witte wijn)",
+        "nl": "Verboden alcohol (witte wijn)",
+        "de": "Verbotener Alkohol (witte wijn)"
       },
       "stores": [
         "carrefour.be",
@@ -5406,7 +5432,8 @@
           "updated_at": "2026-11-25T09:20:04.190300+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724038993": {
       "barcode": "4001724038993",
@@ -5615,7 +5642,8 @@
           "updated_at": "2026-11-25T09:20:04.190300+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724023814": {
       "barcode": "4001724023814",
@@ -5825,7 +5853,8 @@
           "updated_at": "2026-11-25T09:20:04.190300+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724039563": {
       "barcode": "4001724039563",
@@ -6034,7 +6063,8 @@
           "updated_at": "2026-11-25T09:20:04.190300+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724038870": {
       "barcode": "4001724038870",
@@ -6244,7 +6274,8 @@
           "updated_at": "2026-11-25T09:20:04.190300+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724046790": {
       "barcode": "4001724046790",
@@ -6453,7 +6484,8 @@
           "updated_at": "2026-11-25T09:20:04.190300+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724038931": {
       "barcode": "4001724038931",
@@ -6662,7 +6694,8 @@
           "updated_at": "2026-11-25T09:20:04.190300+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724038818": {
       "barcode": "4001724038818",
@@ -6871,7 +6904,8 @@
           "updated_at": "2026-11-25T09:21:18.133194+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4009233014347": {
       "barcode": "4009233014347",
@@ -7085,7 +7119,8 @@
           "updated_at": "2026-11-25T09:21:18.133194+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724015635": {
       "barcode": "4001724015635",
@@ -7295,7 +7330,8 @@
           "updated_at": "2026-11-25T09:21:18.133194+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724043393": {
       "barcode": "4001724043393",
@@ -7504,7 +7540,8 @@
           "updated_at": "2026-11-25T09:21:18.133194+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724041184": {
       "barcode": "4001724041184",
@@ -7713,7 +7750,8 @@
           "updated_at": "2026-11-25T09:21:18.133194+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724016588": {
       "barcode": "4001724016588",
@@ -7922,7 +7960,8 @@
           "updated_at": "2026-11-25T09:21:18.133194+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724055433": {
       "barcode": "4001724055433",
@@ -8132,7 +8171,8 @@
           "updated_at": "2026-11-25T09:22:38.750663+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724038054": {
       "barcode": "4001724038054",
@@ -8340,7 +8380,8 @@
           "updated_at": "2026-11-25T09:22:38.750663+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724055525": {
       "barcode": "4001724055525",
@@ -8550,7 +8591,8 @@
           "updated_at": "2026-11-25T09:22:38.750663+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724038177": {
       "barcode": "4001724038177",
@@ -8759,7 +8801,8 @@
           "updated_at": "2026-11-25T09:22:38.750663+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4009233004270": {
       "barcode": "4009233004270",
@@ -8972,7 +9015,8 @@
           "updated_at": "2026-11-25T09:22:38.750663+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724038023": {
       "barcode": "4001724038023",
@@ -9180,7 +9224,8 @@
           "updated_at": "2026-11-25T09:22:38.750663+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4009233014026": {
       "barcode": "4009233014026",
@@ -9397,7 +9442,8 @@
           "updated_at": "2026-11-25T09:22:38.750663+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4009233004331": {
       "barcode": "4009233004331",
@@ -9611,7 +9657,8 @@
           "updated_at": "2026-11-25T09:22:38.750663+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001724048381": {
       "barcode": "4001724048381",
@@ -9824,7 +9871,8 @@
           "updated_at": "2026-11-25T09:54:00.339821+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4000417702005": {
       "barcode": "4000417702005",
@@ -10032,7 +10080,8 @@
           "updated_at": "2026-11-25T10:01:23.493743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4002971253009": {
       "barcode": "4002971253009",
@@ -10238,7 +10287,8 @@
           "updated_at": "2026-11-25T10:05:42.522480+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4000417630117": {
       "barcode": "4000417630117",
@@ -10446,7 +10496,8 @@
           "updated_at": "2026-11-25T13:58:36.462388+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4000417670915": {
       "barcode": "4000417670915",
@@ -10654,7 +10705,8 @@
           "updated_at": "2026-11-25T13:58:36.462388+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4000417620514": {
       "barcode": "4000417620514",
@@ -10865,7 +10917,8 @@
           "updated_at": "2026-11-25T13:58:36.462388+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686518137": {
       "barcode": "4001686518137",
@@ -11069,7 +11122,8 @@
           "updated_at": "2026-11-25T14:01:16.172053+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686472620": {
       "barcode": "4001686472620",
@@ -11276,7 +11330,8 @@
           "updated_at": "2026-11-25T14:01:16.172053+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686309599": {
       "barcode": "4001686309599",
@@ -11483,7 +11538,8 @@
           "updated_at": "2026-11-25T14:01:16.172053+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686423189": {
       "barcode": "4001686423189",
@@ -11690,7 +11746,8 @@
           "updated_at": "2026-11-25T14:01:16.172053+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686579954": {
       "barcode": "4001686579954",
@@ -11894,7 +11951,8 @@
           "updated_at": "2026-11-25T14:01:16.172053+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686583364": {
       "barcode": "4001686583364",
@@ -12098,7 +12156,8 @@
           "updated_at": "2026-11-25T14:02:40.637184+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686021828": {
       "barcode": "4001686021828",
@@ -12305,7 +12364,8 @@
           "updated_at": "2026-11-25T14:02:40.637184+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686111239": {
       "barcode": "4001686111239",
@@ -12512,7 +12572,8 @@
           "updated_at": "2026-11-25T14:02:40.637184+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4000512004905": {
       "barcode": "4000512004905",
@@ -12718,7 +12779,8 @@
           "updated_at": "2026-11-25T14:03:57.380738+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686748480": {
       "barcode": "4001686748480",
@@ -12925,7 +12987,8 @@
           "updated_at": "2026-11-25T14:03:57.380738+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686007952": {
       "barcode": "4001686007952",
@@ -13132,7 +13195,8 @@
           "updated_at": "2026-11-25T14:05:25.686971+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686784501": {
       "barcode": "4001686784501",
@@ -13339,7 +13403,8 @@
           "updated_at": "2026-11-25T14:05:25.686971+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686405093": {
       "barcode": "4001686405093",
@@ -13546,7 +13611,8 @@
           "updated_at": "2026-11-25T14:08:26.850716+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686784488": {
       "barcode": "4001686784488",
@@ -13752,7 +13818,8 @@
           "updated_at": "2026-11-25T14:09:50.028557+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4000512364320": {
       "barcode": "4000512364320",
@@ -13958,7 +14025,8 @@
           "updated_at": "2026-11-25T14:11:14.870159+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4001686002919": {
       "barcode": "4001686002919",
@@ -14164,7 +14232,8 @@
           "updated_at": "2026-11-25T14:12:43.298608+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4003084333343": {
       "barcode": "4003084333343",
@@ -14370,7 +14439,2725 @@
           "updated_at": "2026-11-25T14:12:43.298608+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4009233014446": {
+      "barcode": "4009233014446",
+      "domain": "food",
+      "names": {
+        "nl": "Wagner Piccolinis mini pizza tomaat mozzarella",
+        "fr": "Wagner Piccolinis mini pizza tomaat mozzarella",
+        "de": "Wagner Piccolinis mini pizza tomaat mozzarella",
+        "en": "Wagner Piccolinis mini pizza tomaat mozzarella",
+        "ar": "Wagner Piccolinis mini pizza tomaat mozzarella"
+      },
+      "brand": "Wagner",
+      "net_weight": "270 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk",
+        "Eggs",
+        "Mustard",
+        "Celery",
+        "Fish",
+        "Lupin"
+      ],
+      "description": "Mozzarella en zongerijpte Italiaanse tomaten op een knapperige pizzabodem! Verwarm de oven tot 200&#176;C. Verwijder de folie en leg de Piccolinis op een rooster in het midden van de oven. Na circa 9-11 minuten zijn de Piccolinis mooi goudbruin. Let op, de baktijd kan varieren per oven. Gasoven: 220&#176;C, Stand 4, 9-11 min. Heteluchtoven: 200&#176;C, 7-9 min.",
+      "descriptions": {
+        "nl": "Mozzarella en zongerijpte Italiaanse tomaten op een knapperige pizzabodem! Verwarm de oven tot 200&#176;C. Verwijder de folie en leg de Piccolinis op een rooster in het midden van de oven. Na circa 9-11 minuten zijn de Piccolinis mooi goudbruin. Let op, de baktijd kan varieren per oven. Gasoven: 220&#176;C, Stand 4, 9-11 min. Heteluchtoven: 200&#176;C, 7-9 min.",
+        "fr": "Wagner Piccolinis mini pizza tomaat mozzarella par Wagner.",
+        "de": "Wagner Piccolinis mini pizza tomaat mozzarella von Wagner.",
+        "en": "Wagner Piccolinis mini pizza tomaat mozzarella by Wagner.",
+        "ar": "منتج Wagner Piccolinis mini pizza tomaat mozzarella من Wagner."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEmeel, water, mozzarella (MELK) (16%), tomatenpuree (11%), tomatenblokjes (10%), koolzaadolie, gist, suiker, kruiden en specerijen, gedroogde zuurdesem (TARWE), zout, zetmeel, dextrose, specerijenextracten Bevat mogelijk: eieren, vis, lupine, selderij, mosterd en soja.",
+        "fr": "Ingrediënten: TARWEmeel, water, mozzarella (MELK) (16%), tomatenpuree (11%), tomatenblokjes (10%), koolzaadolie, gist, suiker, kruiden en specerijen, gedroogde zuurdesem (TARWE), zout, zetmeel, dextrose, specerijenextracten Bevat mogelijk: eieren, vis, lupine, selderij, mosterd en soja.",
+        "de": "Ingrediënten: TARWEmeel, water, mozzarella (MELK) (16%), tomatenpuree (11%), tomatenblokjes (10%), koolzaadolie, gist, suiker, kruiden en specerijen, gedroogde zuurdesem (TARWE), zout, zetmeel, dextrose, specerijenextracten Bevat mogelijk: eieren, vis, lupine, selderij, mosterd en soja.",
+        "en": "Ingrediënten: TARWEmeel, water, mozzarella (MELK) (16%), tomatenpuree (11%), tomatenblokjes (10%), koolzaadolie, gist, suiker, kruiden en specerijen, gedroogde zuurdesem (TARWE), zout, zetmeel, dextrose, specerijenextracten Bevat mogelijk: eieren, vis, lupine, selderij, mosterd en soja.",
+        "ar": "Ingrediënten: TARWEmeel, water, mozzarella (MELK) (16%), tomatenpuree (11%), tomatenblokjes (10%), koolzaadolie, gist, suiker, kruiden en specerijen, gedroogde zuurdesem (TARWE), zout, zetmeel, dextrose, specerijenextracten Bevat mogelijk: eieren, vis, lupine, selderij, mosterd en soja."
+      },
+      "image": "images/4009233014446.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4009233014446.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130303737393133?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "mozzarella",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_400"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 925.0,
+        "calories_100g": 220.0,
+        "fat_100g": 7.0,
+        "saturated_fat_100g": 2.7,
+        "carbohydrates_100g": 29.5,
+        "sugars_100g": 4.1,
+        "fiber_100g": 1.9,
+        "proteins_100g": 8.7,
+        "salt_100g": 0.69,
+        "sodium_100g": 276.0
+      },
+      "official_nutriscore": "b",
+      "nutriscore_grade": "b",
+      "nutriscore_score": 1,
+      "health_score": 79,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "mozzarella",
+        "wagner piccolinis mini pizza tomaat mozzarella"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: mozzarella, wagner piccolinis mini pizza tomaat mozzarella",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: mozzarella, wagner piccolinis mini pizza tomaat mozzarella",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: mozzarella, wagner piccolinis mini pizza tomaat mozzarella",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : mozzarella, wagner piccolinis mini pizza tomaat mozzarella",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: mozzarella, wagner piccolinis mini pizza tomaat mozzarella",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: mozzarella, wagner piccolinis mini pizza tomaat mozzarella"
+      },
+      "stores": [
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.18,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4009233014446",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.45,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi167318/wagner-piccolinis-mini-pizza-tomaat-mozzarella",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.8,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4009233014446",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.92,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4009233014446",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.37,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4009233014446",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.58,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4009233014446",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.74,
+          "promo_price": 1.37,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=4009233014446",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.9,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4009233014446",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4001724022398": {
+      "barcode": "4001724022398",
+      "domain": "food",
+      "names": {
+        "nl": "Dr. Oetker Ristorante pizza mozzarella glutenvrij",
+        "fr": "Dr. Oetker Ristorante pizza mozzarella glutenvrij",
+        "de": "Dr. Oetker Ristorante pizza mozzarella glutenvrij",
+        "en": "Dr. Oetker Ristorante pizza mozzarella glutenvrij",
+        "ar": "Dr. Oetker Ristorante pizza mozzarella glutenvrij"
+      },
+      "brand": "Dr. Oetker",
+      "net_weight": "370 g",
+      "allergens": [
+        "Soy",
+        "Milk",
+        "Eggs",
+        "Mustard"
+      ],
+      "description": "Ristorante mozzarella glutenvrij is genieten van onze bekende mozzarella pizza, maar dan zonder gluten. Royale toppings als mozzarella, Edammer kaas en cherrytomaten maken het helemaal buonissimo!",
+      "descriptions": {
+        "nl": "Ristorante mozzarella glutenvrij is genieten van onze bekende mozzarella pizza, maar dan zonder gluten. Royale toppings als mozzarella, Edammer kaas en cherrytomaten maken het helemaal buonissimo!",
+        "fr": "Dr. Oetker Ristorante pizza mozzarella glutenvrij par Dr. Oetker.",
+        "de": "Dr. Oetker Ristorante pizza mozzarella glutenvrij von Dr. Oetker.",
+        "en": "Dr. Oetker Ristorante pizza mozzarella glutenvrij by Dr. Oetker.",
+        "ar": "منتج Dr. Oetker Ristorante pizza mozzarella glutenvrij من Dr. Oetker."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: 19% MOZZARELLA KAAS, 15% tomatenpuree, water, rijstebloem, zetmeel, 7,8% cherrytomaten, EDAMMER KAAS, aardappelvlokken, raapzaadolie, erwten eiwit, gist, suiker, basilicum, zout, verdikkingsmiddelen (hydroxypropylmethylcellulose, xanthaangom), olijfolie extra vierge, emulgatoren (mono- en diglyceriden van vetzuren veresterd met melkzuur, mono- en diglyceriden van vetzuren veresterd met azijnzuur, mono- en diglyceriden van vetzuren), spinazie, peterselie, glucosestroop, gemodificeerd zetmeel, knoflook, specerijen, citroensap, dextrose, oregano, MELKEIWITTEN. Kan bevatten: SOJA, MOSTERD.",
+        "fr": "Ingrediënten: 19% MOZZARELLA KAAS, 15% tomatenpuree, water, rijstebloem, zetmeel, 7,8% cherrytomaten, EDAMMER KAAS, aardappelvlokken, raapzaadolie, erwten eiwit, gist, suiker, basilicum, zout, verdikkingsmiddelen (hydroxypropylmethylcellulose, xanthaangom), olijfolie extra vierge, emulgatoren (mono- en diglyceriden van vetzuren veresterd met melkzuur, mono- en diglyceriden van vetzuren veresterd met azijnzuur, mono- en diglyceriden van vetzuren), spinazie, peterselie, glucosestroop, gemodificeerd zetmeel, knoflook, specerijen, citroensap, dextrose, oregano, MELKEIWITTEN. Kan bevatten: SOJA, MOSTERD.",
+        "de": "Ingrediënten: 19% MOZZARELLA KAAS, 15% tomatenpuree, water, rijstebloem, zetmeel, 7,8% cherrytomaten, EDAMMER KAAS, aardappelvlokken, raapzaadolie, erwten eiwit, gist, suiker, basilicum, zout, verdikkingsmiddelen (hydroxypropylmethylcellulose, xanthaangom), olijfolie extra vierge, emulgatoren (mono- en diglyceriden van vetzuren veresterd met melkzuur, mono- en diglyceriden van vetzuren veresterd met azijnzuur, mono- en diglyceriden van vetzuren), spinazie, peterselie, glucosestroop, gemodificeerd zetmeel, knoflook, specerijen, citroensap, dextrose, oregano, MELKEIWITTEN. Kan bevatten: SOJA, MOSTERD.",
+        "en": "Ingrediënten: 19% MOZZARELLA KAAS, 15% tomatenpuree, water, rijstebloem, zetmeel, 7,8% cherrytomaten, EDAMMER KAAS, aardappelvlokken, raapzaadolie, erwten eiwit, gist, suiker, basilicum, zout, verdikkingsmiddelen (hydroxypropylmethylcellulose, xanthaangom), olijfolie extra vierge, emulgatoren (mono- en diglyceriden van vetzuren veresterd met melkzuur, mono- en diglyceriden van vetzuren veresterd met azijnzuur, mono- en diglyceriden van vetzuren), spinazie, peterselie, glucosestroop, gemodificeerd zetmeel, knoflook, specerijen, citroensap, dextrose, oregano, MELKEIWITTEN. Kan bevatten: SOJA, MOSTERD.",
+        "ar": "Ingrediënten: 19% MOZZARELLA KAAS, 15% tomatenpuree, water, rijstebloem, zetmeel, 7,8% cherrytomaten, EDAMMER KAAS, aardappelvlokken, raapzaadolie, erwten eiwit, gist, suiker, basilicum, zout, verdikkingsmiddelen (hydroxypropylmethylcellulose, xanthaangom), olijfolie extra vierge, emulgatoren (mono- en diglyceriden van vetzuren veresterd met melkzuur, mono- en diglyceriden van vetzuren veresterd met azijnzuur, mono- en diglyceriden van vetzuren), spinazie, peterselie, glucosestroop, gemodificeerd zetmeel, knoflook, specerijen, citroensap, dextrose, oregano, MELKEIWITTEN. Kan bevatten: SOJA, MOSTERD."
+      },
+      "image": "images/4001724022398.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4001724022398.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4d44486e77703932515079386a786a70747265594c41?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "mozzarella",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_400"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 947.0,
+        "calories_100g": 226.0,
+        "fat_100g": 10.0,
+        "saturated_fat_100g": 4.2,
+        "carbohydrates_100g": 23.0,
+        "sugars_100g": 2.0,
+        "fiber_100g": 1.6,
+        "proteins_100g": 10.0,
+        "salt_100g": 0.93,
+        "sodium_100g": 372.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 4,
+      "health_score": 64,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "mozzarella kaas",
+        "edammer kaas",
+        "oetker ristorante pizza mozzarella glutenvrij"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: mozzarella kaas, edammer kaas, oetker ristorante pizza mozzarella glutenvrij",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: mozzarella kaas, edammer kaas, oetker ristorante pizza mozzarella glutenvrij",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: mozzarella kaas, edammer kaas, oetker ristorante pizza mozzarella glutenvrij",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : mozzarella kaas, edammer kaas, oetker ristorante pizza mozzarella glutenvrij",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: mozzarella kaas, edammer kaas, oetker ristorante pizza mozzarella glutenvrij",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: mozzarella kaas, edammer kaas, oetker ristorante pizza mozzarella glutenvrij"
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 5.1,
+          "promo_price": 2.55,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=4001724022398",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 5.36,
+          "promo_price": 2.68,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi401987/dr-oetker-ristorante-pizza-mozzarella-glutenvrij",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.74,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4001724022398",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 5.31,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4001724022398",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.29,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4001724022398",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.51,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4001724022398",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.88,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4001724022398",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 5.24,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4001724022398",
+          "updated_at": "2026-11-25T17:02:23.607831+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4000856094990": {
+      "barcode": "4000856094990",
+      "domain": "food",
+      "names": {
+        "nl": "Warsteiner Alkoholfrei pilsener 6-pack",
+        "fr": "Warsteiner Alkoholfrei pilsener 6-pack",
+        "de": "Warsteiner Alkoholfrei pilsener 6-pack",
+        "en": "Warsteiner Alkoholfrei pilsener 6-pack",
+        "ar": "Warsteiner Alkoholfrei pilsener 6-pack"
+      },
+      "brand": "Warsteiner",
+      "net_weight": "6 x 0,33 l",
+      "allergens": [],
+      "description": "Dit alcoholarme bier van Warsteiner heeft een authentieke pilsenersmaak en een unieke isotonische werking.",
+      "descriptions": {
+        "nl": "Dit alcoholarme bier van Warsteiner heeft een authentieke pilsenersmaak en een unieke isotonische werking.",
+        "fr": "Warsteiner Alkoholfrei pilsener 6-pack par Warsteiner.",
+        "de": "Warsteiner Alkoholfrei pilsener 6-pack von Warsteiner.",
+        "en": "Warsteiner Alkoholfrei pilsener 6-pack by Warsteiner.",
+        "ar": "منتج Warsteiner Alkoholfrei pilsener 6-pack من Warsteiner."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hop extract.",
+        "fr": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hop extract.",
+        "de": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hop extract.",
+        "en": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hop extract.",
+        "ar": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hop extract."
+      },
+      "image": "images/4000856094990.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4000856094990.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_33524f4e54575931547757694b415f567a724f484d77?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "eieren",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_400"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 110.0,
+        "calories_100g": 26.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 5.4,
+        "sugars_100g": 1.7,
+        "fiber_100g": null,
+        "proteins_100g": 0.5,
+        "salt_100g": 0.0,
+        "sodium_100g": 0.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 0,
+      "health_score": 65,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "bier"
+      ],
+      "reason": "Alcohol / كحول (bier)",
+      "explanations": {
+        "ar": "كحول محرم قطعا (bier)",
+        "en": "Alcohol / كحول (bier)",
+        "fr": "Alcool interdit (bier)",
+        "nl": "Verboden alcohol (bier)",
+        "de": "Verbotener Alkohol (bier)"
+      },
+      "stores": [
+        "delhaize.be",
+        "carrefour.be",
+        "ah.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4000856094990",
+          "updated_at": "2026-11-25T17:15:47.820286+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4000856094990",
+          "updated_at": "2026-11-25T17:15:47.820286+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.28,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi409171/warsteiner-alkoholfrei-pilsener-6-pack",
+          "updated_at": "2026-11-25T17:15:47.820286+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4000856094990",
+          "updated_at": "2026-11-25T17:15:47.820286+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.84,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4000856094990",
+          "updated_at": "2026-11-25T17:15:47.820286+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.7,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4000856094990",
+          "updated_at": "2026-11-25T17:15:47.820286+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.97,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4000856094990",
+          "updated_at": "2026-11-25T17:15:47.820286+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4000856094990",
+          "updated_at": "2026-11-25T17:15:47.820286+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4000856005781": {
+      "barcode": "4000856005781",
+      "domain": "food",
+      "names": {
+        "nl": "Warsteiner Herb alkoholfrei 6-pack",
+        "fr": "Warsteiner Herb alkoholfrei 6-pack",
+        "de": "Warsteiner Herb alkoholfrei 6-pack",
+        "en": "Warsteiner Herb alkoholfrei 6-pack",
+        "ar": "Warsteiner Herb alkoholfrei 6-pack"
+      },
+      "brand": "Warsteiner",
+      "net_weight": "6 x 0,33 l",
+      "allergens": [],
+      "description": "Speciaal voor de ware hopliefhebber brouwt Warsteiner dit krachtige alcoholarme bier. Met zijn unieke dubbel gehopte smaak is warsteiner herb alkoholfrei bitter en verfrissend tegelijk..",
+      "descriptions": {
+        "nl": "Speciaal voor de ware hopliefhebber brouwt Warsteiner dit krachtige alcoholarme bier. Met zijn unieke dubbel gehopte smaak is warsteiner herb alkoholfrei bitter en verfrissend tegelijk..",
+        "fr": "Warsteiner Herb alkoholfrei 6-pack par Warsteiner.",
+        "de": "Warsteiner Herb alkoholfrei 6-pack von Warsteiner.",
+        "en": "Warsteiner Herb alkoholfrei 6-pack by Warsteiner.",
+        "ar": "منتج Warsteiner Herb alkoholfrei 6-pack من Warsteiner."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hopextract.",
+        "fr": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hopextract.",
+        "de": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hopextract.",
+        "en": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hopextract.",
+        "ar": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hopextract."
+      },
+      "image": "images/4000856005781.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4000856005781.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4668786c7931524d524e6943486265786c755a393377?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "eieren",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_400"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 110.0,
+        "calories_100g": 26.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 5.4,
+        "sugars_100g": 1.7,
+        "fiber_100g": null,
+        "proteins_100g": 0.5,
+        "salt_100g": 0.0,
+        "sodium_100g": 0.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 0,
+      "health_score": 65,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "bier"
+      ],
+      "reason": "Alcohol / كحول (bier)",
+      "explanations": {
+        "ar": "كحول محرم قطعا (bier)",
+        "en": "Alcohol / كحول (bier)",
+        "fr": "Alcool interdit (bier)",
+        "nl": "Verboden alcohol (bier)",
+        "de": "Verbotener Alkohol (bier)"
+      },
+      "stores": [
+        "carrefour.be",
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.63,
+          "promo_price": 1.3,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=4000856005781",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.43,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4000856005781",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.94,
+          "promo_price": 1.55,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi524310/warsteiner-herb-alkoholfrei-6-pack",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.99,
+          "promo_price": 1.59,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=4000856005781",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.26,
+          "promo_price": 1.01,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=4000856005781",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.04,
+          "promo_price": 1.63,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=4000856005781",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.48,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4000856005781",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.03,
+          "promo_price": 1.62,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=4000856005781",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4005500060437": {
+      "barcode": "4005500060437",
+      "domain": "food",
+      "names": {
+        "nl": "Nestlé Yogolino aardbei 6m+",
+        "fr": "Nestlé Yogolino aardbei 6m+",
+        "de": "Nestlé Yogolino aardbei 6m+",
+        "en": "Nestlé Yogolino aardbei 6m+",
+        "ar": "Nestlé Yogolino aardbei 6m+"
+      },
+      "brand": "Nestlé",
+      "net_weight": "400 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Nestle yogolino is een heerlijk zacht zuivelhapje, bereid met melk en fruit, speciaal ontwikkeld voor baby's. Elk bekertje is een natuurlijke bron van calcium. Lekker als toetje of tussendoortje.",
+      "descriptions": {
+        "nl": "Nestle yogolino is een heerlijk zacht zuivelhapje, bereid met melk en fruit, speciaal ontwikkeld voor baby's. Elk bekertje is een natuurlijke bron van calcium. Lekker als toetje of tussendoortje.",
+        "fr": "Nestlé Yogolino aardbei 6m+ par Nestlé.",
+        "de": "Nestlé Yogolino aardbei 6m+ von Nestlé.",
+        "en": "Nestlé Yogolino aardbei 6m+ by Nestlé.",
+        "ar": "منتج Nestlé Yogolino aardbei 6m+ من Nestlé."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Volle MELK 77,3%, water, aardbeienpuree 6,0%, suiker, zetmeel, MELKeiwitten, verdikkingsmiddel: pectine, MELKfermenten (MELK), aroma",
+        "fr": "Ingrediënten: Volle MELK 77,3%, water, aardbeienpuree 6,0%, suiker, zetmeel, MELKeiwitten, verdikkingsmiddel: pectine, MELKfermenten (MELK), aroma",
+        "de": "Ingrediënten: Volle MELK 77,3%, water, aardbeienpuree 6,0%, suiker, zetmeel, MELKeiwitten, verdikkingsmiddel: pectine, MELKfermenten (MELK), aroma",
+        "en": "Ingrediënten: Volle MELK 77,3%, water, aardbeienpuree 6,0%, suiker, zetmeel, MELKeiwitten, verdikkingsmiddel: pectine, MELKfermenten (MELK), aroma",
+        "ar": "Ingrediënten: Volle MELK 77,3%, water, aardbeienpuree 6,0%, suiker, zetmeel, MELKeiwitten, verdikkingsmiddel: pectine, MELKfermenten (MELK), aroma"
+      },
+      "image": "images/4005500060437.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4005500060437.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_5954783962324567542d437a736c70306656374e4867?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "eieren",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_400"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 350.0,
+        "calories_100g": 84.0,
+        "fat_100g": 2.6,
+        "saturated_fat_100g": 1.7,
+        "carbohydrates_100g": 12.0,
+        "sugars_100g": 7.7,
+        "fiber_100g": 0.5,
+        "proteins_100g": 3.0,
+        "salt_100g": 0.08,
+        "sodium_100g": 32.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "b",
+      "nutriscore_score": 2,
+      "health_score": 73,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: aroma"
+      },
+      "stores": [
+        "delhaize.be",
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.85,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4005500060437",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4005500060437",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.23,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi128352/nestle%CC%81-yogolino-aardbei-6m",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.35,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4005500060437",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.33,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4005500060437",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4005500060437",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.18,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4005500060437",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.5,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4005500060437",
+          "updated_at": "2026-11-25T17:20:14.055537+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4000856096413": {
+      "barcode": "4000856096413",
+      "domain": "food",
+      "names": {
+        "nl": "Warsteiner Premium beer",
+        "fr": "Warsteiner Premium beer",
+        "de": "Warsteiner Premium beer",
+        "en": "Warsteiner Premium beer",
+        "ar": "Warsteiner Premium beer"
+      },
+      "brand": "Warsteiner",
+      "net_weight": "0,5 l",
+      "allergens": [],
+      "description": "Warsteiner, duits Premium pilsener met een zacht frisse smaak en licht bittere afdronk.",
+      "descriptions": {
+        "nl": "Warsteiner, duits Premium pilsener met een zacht frisse smaak en licht bittere afdronk.",
+        "fr": "Warsteiner Premium beer par Warsteiner.",
+        "de": "Warsteiner Premium beer von Warsteiner.",
+        "en": "Warsteiner Premium beer by Warsteiner.",
+        "ar": "منتج Warsteiner Premium beer من Warsteiner."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hop extract.",
+        "fr": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hop extract.",
+        "de": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hop extract.",
+        "en": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hop extract.",
+        "ar": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hop extract."
+      },
+      "image": "images/4000856096413.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4000856096413.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_43545239373436393038?revLabel=2&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "mais",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_400"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 175.0,
+        "calories_100g": 42.0,
+        "fat_100g": null,
+        "saturated_fat_100g": null,
+        "carbohydrates_100g": null,
+        "sugars_100g": null,
+        "fiber_100g": null,
+        "proteins_100g": null,
+        "salt_100g": null,
+        "sodium_100g": null
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "b",
+      "nutriscore_score": 0,
+      "health_score": 78,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "warsteiner premium beer",
+        "beer"
+      ],
+      "reason": "Alcohol / كحول (warsteiner premium beer, beer)",
+      "explanations": {
+        "ar": "كحول محرم قطعا (warsteiner premium beer, beer)",
+        "en": "Alcohol / كحول (warsteiner premium beer, beer)",
+        "fr": "Alcool interdit (warsteiner premium beer, beer)",
+        "nl": "Verboden alcohol (warsteiner premium beer, beer)",
+        "de": "Verbotener Alkohol (warsteiner premium beer, beer)"
+      },
+      "stores": [
+        "delhaize.be",
+        "colruyt.be",
+        "carrefour.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.11,
+          "promo_price": 1.55,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=4000856096413",
+          "updated_at": "2026-11-25T20:24:49.545740+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.96,
+          "promo_price": 3.17,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=4000856096413",
+          "updated_at": "2026-11-25T20:24:49.545740+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.63,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4000856096413",
+          "updated_at": "2026-11-25T20:24:49.545740+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.64,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi198108/warsteiner-premium-beer",
+          "updated_at": "2026-11-25T20:24:49.545740+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.81,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4000856096413",
+          "updated_at": "2026-11-25T20:24:49.545740+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.09,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4000856096413",
+          "updated_at": "2026-11-25T20:24:49.545740+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.14,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4000856096413",
+          "updated_at": "2026-11-25T20:24:49.545740+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.97,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4000856096413",
+          "updated_at": "2026-11-25T20:24:49.545740+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4005873211740": {
+      "barcode": "4005873211740",
+      "domain": "food",
+      "names": {
+        "nl": "Erdinger Helles",
+        "fr": "Erdinger Helles",
+        "de": "Erdinger Helles",
+        "en": "Erdinger Helles",
+        "ar": "Erdinger Helles"
+      },
+      "brand": "Erdinger",
+      "net_weight": "0,5 l",
+      "allergens": [],
+      "description": "ERDINGER Brauhaus Helles wordt geproduceerd in overeenstemming met de Beierse reinheidswet. Deze wet bepaalt dat onze bieren uitsluitend met natuurlijke ingrediënten worden gebrouwen.",
+      "descriptions": {
+        "nl": "ERDINGER Brauhaus Helles wordt geproduceerd in overeenstemming met de Beierse reinheidswet. Deze wet bepaalt dat onze bieren uitsluitend met natuurlijke ingrediënten worden gebrouwen.",
+        "fr": "Erdinger Helles par Erdinger.",
+        "de": "Erdinger Helles von Erdinger.",
+        "en": "Erdinger Helles by Erdinger.",
+        "ar": "منتج Erdinger Helles من Erdinger."
+      },
+      "ingredients": {
+        "nl": "Ingredients: water, BARLEY MALT, hops",
+        "fr": "Ingredients: water, BARLEY MALT, hops",
+        "de": "Ingredients: water, BARLEY MALT, hops",
+        "en": "Ingredients: water, BARLEY MALT, hops",
+        "ar": "Ingredients: water, BARLEY MALT, hops"
+      },
+      "image": "images/4005873211740.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4005873211740.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313335343138?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "champignons",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_400"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 176.0,
+        "calories_100g": 42.0,
+        "fat_100g": null,
+        "saturated_fat_100g": null,
+        "carbohydrates_100g": null,
+        "sugars_100g": null,
+        "fiber_100g": null,
+        "proteins_100g": null,
+        "salt_100g": null,
+        "sodium_100g": null
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "b",
+      "nutriscore_score": 0,
+      "health_score": 78,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.53,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4005873211740",
+          "updated_at": "2026-11-25T20:35:18.811994+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.53,
+          "promo_price": 3.62,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=4005873211740",
+          "updated_at": "2026-11-25T20:35:18.811994+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.95,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi588934/erdinger-helles",
+          "updated_at": "2026-11-25T20:35:18.811994+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.39,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4005873211740",
+          "updated_at": "2026-11-25T20:35:18.811994+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.72,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4005873211740",
+          "updated_at": "2026-11-25T20:35:18.811994+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.13,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4005873211740",
+          "updated_at": "2026-11-25T20:35:18.811994+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.5,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4005873211740",
+          "updated_at": "2026-11-25T20:35:18.811994+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.34,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4005873211740",
+          "updated_at": "2026-11-25T20:35:18.811994+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4001724039020": {
+      "barcode": "4001724039020",
+      "domain": "food",
+      "names": {
+        "nl": "Dr. Oetker Ristorante pizza spinazie",
+        "fr": "Dr. Oetker Ristorante pizza spinazie",
+        "de": "Dr. Oetker Ristorante pizza spinazie",
+        "en": "Dr. Oetker Ristorante pizza spinazie",
+        "ar": "Dr. Oetker Ristorante pizza spinazie"
+      },
+      "brand": "Dr. Oetker",
+      "net_weight": "390 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Mustard"
+      ],
+      "description": "Ristorante spinaci is een heerlijke diepvries pizza, rijk belegd met (tja, het is geen mysterie) spinazie, mozzarella en Edammer kaas. Oh, pizza dit is genieten als je van kaas en groen houdt!",
+      "descriptions": {
+        "nl": "Ristorante spinaci is een heerlijke diepvries pizza, rijk belegd met (tja, het is geen mysterie) spinazie, mozzarella en Edammer kaas. Oh, pizza dit is genieten als je van kaas en groen houdt!",
+        "fr": "Dr. Oetker Ristorante pizza spinazie par Dr. Oetker.",
+        "de": "Dr. Oetker Ristorante pizza spinazie von Dr. Oetker.",
+        "en": "Dr. Oetker Ristorante pizza spinazie by Dr. Oetker.",
+        "ar": "منتج Dr. Oetker Ristorante pizza spinazie من Dr. Oetker."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEBLOEM, 20% spinazie, 18% tomatenpuree, 14% KAAS (MOZZARELLA, EDAMMER), water, raapzaadolie, bakkersgist, zout, suiker, gemodificeerd zetmeel, emulgator (mono- en diglyceriden van vetzuren), knoflook, uien, geroosterde uien, chilipoeder. Kan bevatten: SOJA, MOSTERD.",
+        "fr": "Ingrediënten: TARWEBLOEM, 20% spinazie, 18% tomatenpuree, 14% KAAS (MOZZARELLA, EDAMMER), water, raapzaadolie, bakkersgist, zout, suiker, gemodificeerd zetmeel, emulgator (mono- en diglyceriden van vetzuren), knoflook, uien, geroosterde uien, chilipoeder. Kan bevatten: SOJA, MOSTERD.",
+        "de": "Ingrediënten: TARWEBLOEM, 20% spinazie, 18% tomatenpuree, 14% KAAS (MOZZARELLA, EDAMMER), water, raapzaadolie, bakkersgist, zout, suiker, gemodificeerd zetmeel, emulgator (mono- en diglyceriden van vetzuren), knoflook, uien, geroosterde uien, chilipoeder. Kan bevatten: SOJA, MOSTERD.",
+        "en": "Ingrediënten: TARWEBLOEM, 20% spinazie, 18% tomatenpuree, 14% KAAS (MOZZARELLA, EDAMMER), water, raapzaadolie, bakkersgist, zout, suiker, gemodificeerd zetmeel, emulgator (mono- en diglyceriden van vetzuren), knoflook, uien, geroosterde uien, chilipoeder. Kan bevatten: SOJA, MOSTERD.",
+        "ar": "Ingrediënten: TARWEBLOEM, 20% spinazie, 18% tomatenpuree, 14% KAAS (MOZZARELLA, EDAMMER), water, raapzaadolie, bakkersgist, zout, suiker, gemodificeerd zetmeel, emulgator (mono- en diglyceriden van vetzuren), knoflook, uien, geroosterde uien, chilipoeder. Kan bevatten: SOJA, MOSTERD."
+      },
+      "image": "images/4001724039020.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4001724039020.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4f4575635570346553353255614e522d474339686967?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "diepvriespizza",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_400"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 924.0,
+        "calories_100g": 221.0,
+        "fat_100g": 11.0,
+        "saturated_fat_100g": 2.9,
+        "carbohydrates_100g": 21.0,
+        "sugars_100g": 2.4,
+        "fiber_100g": 1.9,
+        "proteins_100g": 7.1,
+        "salt_100g": 0.98,
+        "sodium_100g": 392.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 3,
+      "health_score": 64,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "kaas",
+        "mozzarella"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: kaas, mozzarella",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: kaas, mozzarella",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: kaas, mozzarella",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : kaas, mozzarella",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: kaas, mozzarella",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: kaas, mozzarella"
+      },
+      "stores": [
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.78,
+          "promo_price": 1.39,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=4001724039020",
+          "updated_at": "2026-11-25T21:01:08.020463+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.74,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4001724039020",
+          "updated_at": "2026-11-25T21:01:08.020463+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.41,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4001724039020",
+          "updated_at": "2026-11-25T21:01:08.020463+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.89,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi514000/dr-oetker-ristorante-pizza-spinazie",
+          "updated_at": "2026-11-25T21:01:08.020463+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.7,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4001724039020",
+          "updated_at": "2026-11-25T21:01:08.020463+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.72,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4001724039020",
+          "updated_at": "2026-11-25T21:01:08.020463+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.55,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4001724039020",
+          "updated_at": "2026-11-25T21:01:08.020463+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.72,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4001724039020",
+          "updated_at": "2026-11-25T21:01:08.020463+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4001724051985": {
+      "barcode": "4001724051985",
+      "domain": "food",
+      "names": {
+        "nl": "Dr. Oetker La margherita pizza classica",
+        "fr": "Dr. Oetker La margherita pizza classica",
+        "de": "Dr. Oetker La margherita pizza classica",
+        "en": "Dr. Oetker La margherita pizza classica",
+        "ar": "Dr. Oetker La margherita pizza classica"
+      },
+      "brand": "Dr. Oetker",
+      "net_weight": "297 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Mustard"
+      ],
+      "description": "La margherita classico is de echte klassieker onder de pizza's. De heerlijke steenovenbodem geeft een unieke smaak en is rijkelijk belegd met kruidige tomatensaus en mozzarella..",
+      "descriptions": {
+        "nl": "La margherita classico is de echte klassieker onder de pizza's. De heerlijke steenovenbodem geeft een unieke smaak en is rijkelijk belegd met kruidige tomatensaus en mozzarella..",
+        "fr": "Dr. Oetker La margherita pizza classica par Dr. Oetker.",
+        "de": "Dr. Oetker La margherita pizza classica von Dr. Oetker.",
+        "en": "Dr. Oetker La margherita pizza classica by Dr. Oetker.",
+        "ar": "منتج Dr. Oetker La margherita pizza classica من Dr. Oetker."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEBLOEM, 20% tomatenpuree, 18% MOZZARELLA KAAS, water, raapzaadolie, zout, gist, olijfolie extra vierge, oregano, basilicum, peper. Kan bevatten: SOJA, MOSTERD.",
+        "fr": "Ingrediënten: TARWEBLOEM, 20% tomatenpuree, 18% MOZZARELLA KAAS, water, raapzaadolie, zout, gist, olijfolie extra vierge, oregano, basilicum, peper. Kan bevatten: SOJA, MOSTERD.",
+        "de": "Ingrediënten: TARWEBLOEM, 20% tomatenpuree, 18% MOZZARELLA KAAS, water, raapzaadolie, zout, gist, olijfolie extra vierge, oregano, basilicum, peper. Kan bevatten: SOJA, MOSTERD.",
+        "en": "Ingrediënten: TARWEBLOEM, 20% tomatenpuree, 18% MOZZARELLA KAAS, water, raapzaadolie, zout, gist, olijfolie extra vierge, oregano, basilicum, peper. Kan bevatten: SOJA, MOSTERD.",
+        "ar": "Ingrediënten: TARWEBLOEM, 20% tomatenpuree, 18% MOZZARELLA KAAS, water, raapzaadolie, zout, gist, olijfolie extra vierge, oregano, basilicum, peper. Kan bevatten: SOJA, MOSTERD."
+      },
+      "image": "images/4001724051985.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4001724051985.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313734393237?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "diepvriespizza",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_400"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1020.0,
+        "calories_100g": 242.0,
+        "fat_100g": 6.2,
+        "saturated_fat_100g": 2.9,
+        "carbohydrates_100g": 36.0,
+        "sugars_100g": 2.4,
+        "fiber_100g": 2.2,
+        "proteins_100g": 9.8,
+        "salt_100g": 1.0,
+        "sodium_100g": 400.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 2,
+      "health_score": 64,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "mozzarella kaas"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: mozzarella kaas",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: mozzarella kaas",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: mozzarella kaas",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : mozzarella kaas",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: mozzarella kaas",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: mozzarella kaas"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.87,
+          "promo_price": 3.9,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=4001724051985",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.34,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi194918/dr-oetker-la-margherita-pizza-classica",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 5.24,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4001724051985",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 5.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4001724051985",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.27,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4001724051985",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.53,
+          "promo_price": 2.27,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=4001724051985",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.41,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4001724051985",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.74,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4001724051985",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4009233014002": {
+      "barcode": "4009233014002",
+      "domain": "food",
+      "names": {
+        "nl": "Wagner Piccolinis mini pizza salami",
+        "fr": "Wagner Piccolinis mini pizza salami",
+        "de": "Wagner Piccolinis mini pizza salami",
+        "en": "Wagner Piccolinis mini pizza salami",
+        "ar": "Wagner Piccolinis mini pizza salami"
+      },
+      "brand": "Wagner",
+      "net_weight": "270 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk",
+        "Eggs",
+        "Mustard",
+        "Celery",
+        "Fish",
+        "Lupin"
+      ],
+      "description": "Hartiger dan chips, maar net zo geliefd: de Original Piccolinis Salame met salami, edammer kaas en zongerijpte tomaten. Verwarm de oven tot 200&#176;C. Verwijder de folie en leg de Piccolinis op een rooster in het midden van de oven. Na circa 9-11 minuten zijn de Piccolinis mooi goudbruin. Let op, de baktijd kan varieren per oven. Gasoven: 220&#176;C, Stand 4, 9-11 min. Heteluchtoven: 200&#176;C, 7-9 min.",
+      "descriptions": {
+        "nl": "Hartiger dan chips, maar net zo geliefd: de Original Piccolinis Salame met salami, edammer kaas en zongerijpte tomaten. Verwarm de oven tot 200&#176;C. Verwijder de folie en leg de Piccolinis op een rooster in het midden van de oven. Na circa 9-11 minuten zijn de Piccolinis mooi goudbruin. Let op, de baktijd kan varieren per oven. Gasoven: 220&#176;C, Stand 4, 9-11 min. Heteluchtoven: 200&#176;C, 7-9 min.",
+        "fr": "Wagner Piccolinis mini pizza salami par Wagner.",
+        "de": "Wagner Piccolinis mini pizza salami von Wagner.",
+        "en": "Wagner Piccolinis mini pizza salami by Wagner.",
+        "ar": "منتج Wagner Piccolinis mini pizza salami من Wagner."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEmeel, water, edammer (MELK) (15%), tomatenpuree (11%), salami (10%) (varkensvlees, zout, conserveermiddel: natriumnitriet, dextrose, specerijen [bevat: MOSTERD], antioxidanten: natriumascorbaat, extracten van rozemarijn; specerijenextracten, rook), koolzaadolie, suiker, gist, kruiden en specerijen, gedroogde zuurdesem (TARWE), zout, maïszetmeel, dextrose, specerijenextracten Bevat mogelijk: eieren, vis, lupine, selderij en soja.",
+        "fr": "Ingrediënten: TARWEmeel, water, edammer (MELK) (15%), tomatenpuree (11%), salami (10%) (varkensvlees, zout, conserveermiddel: natriumnitriet, dextrose, specerijen [bevat: MOSTERD], antioxidanten: natriumascorbaat, extracten van rozemarijn; specerijenextracten, rook), koolzaadolie, suiker, gist, kruiden en specerijen, gedroogde zuurdesem (TARWE), zout, maïszetmeel, dextrose, specerijenextracten Bevat mogelijk: eieren, vis, lupine, selderij en soja.",
+        "de": "Ingrediënten: TARWEmeel, water, edammer (MELK) (15%), tomatenpuree (11%), salami (10%) (varkensvlees, zout, conserveermiddel: natriumnitriet, dextrose, specerijen [bevat: MOSTERD], antioxidanten: natriumascorbaat, extracten van rozemarijn; specerijenextracten, rook), koolzaadolie, suiker, gist, kruiden en specerijen, gedroogde zuurdesem (TARWE), zout, maïszetmeel, dextrose, specerijenextracten Bevat mogelijk: eieren, vis, lupine, selderij en soja.",
+        "en": "Ingrediënten: TARWEmeel, water, edammer (MELK) (15%), tomatenpuree (11%), salami (10%) (varkensvlees, zout, conserveermiddel: natriumnitriet, dextrose, specerijen [bevat: MOSTERD], antioxidanten: natriumascorbaat, extracten van rozemarijn; specerijenextracten, rook), koolzaadolie, suiker, gist, kruiden en specerijen, gedroogde zuurdesem (TARWE), zout, maïszetmeel, dextrose, specerijenextracten Bevat mogelijk: eieren, vis, lupine, selderij en soja.",
+        "ar": "Ingrediënten: TARWEmeel, water, edammer (MELK) (15%), tomatenpuree (11%), salami (10%) (varkensvlees, zout, conserveermiddel: natriumnitriet, dextrose, specerijen [bevat: MOSTERD], antioxidanten: natriumascorbaat, extracten van rozemarijn; specerijenextracten, rook), koolzaadolie, suiker, gist, kruiden en specerijen, gedroogde zuurdesem (TARWE), zout, maïszetmeel, dextrose, specerijenextracten Bevat mogelijk: eieren, vis, lupine, selderij en soja."
+      },
+      "image": "images/4009233014002.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4009233014002.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130303538373333?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "diepvriespizza",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_400"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1072.0,
+        "calories_100g": 256.0,
+        "fat_100g": 10.3,
+        "saturated_fat_100g": 4.0,
+        "carbohydrates_100g": 29.6,
+        "sugars_100g": 4.0,
+        "fiber_100g": 1.8,
+        "proteins_100g": 10.1,
+        "salt_100g": 1.1,
+        "sodium_100g": 440.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 4,
+      "health_score": 64,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "varkensvlees"
+      ],
+      "reason": "Pork / لحم خنزير (varkensvlees)",
+      "explanations": {
+        "ar": "لحم خنزير محرم قطعا (varkensvlees)",
+        "en": "Pork / لحم خنزير (varkensvlees)",
+        "fr": "Porc interdit (varkensvlees)",
+        "nl": "Verboden varkensvlees / Pork (varkensvlees)",
+        "de": "Verbotenes Schweinefleisch / Pork (varkensvlees)"
+      },
+      "stores": [
+        "carrefour.be",
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.91,
+          "promo_price": 0.95,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=4009233014002",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.52,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4009233014002",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.2,
+          "promo_price": 1.76,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=4009233014002",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.31,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi164157/wagner-piccolinis-mini-pizza-salami",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.55,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4009233014002",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.61,
+          "promo_price": 2.09,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=4009233014002",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4009233014002",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.48,
+          "promo_price": 1.98,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=4009233014002",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4001724039143": {
+      "barcode": "4001724039143",
+      "domain": "food",
+      "names": {
+        "nl": "Dr. Oetker Ristorante pizza vegetale",
+        "fr": "Dr. Oetker Ristorante pizza vegetale",
+        "de": "Dr. Oetker Ristorante pizza vegetale",
+        "en": "Dr. Oetker Ristorante pizza vegetale",
+        "ar": "Dr. Oetker Ristorante pizza vegetale"
+      },
+      "brand": "Dr. Oetker",
+      "net_weight": "385 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Mustard"
+      ],
+      "description": "Dol op pizza en gek van groenten? Dan is deze heerlijke Ristorante vegetale diepvries pizza - rijkelijk belegd met mozzarella, Edammer kaas, cherrytomaten, paprika en zure room - de pizza voor jou!",
+      "descriptions": {
+        "nl": "Dol op pizza en gek van groenten? Dan is deze heerlijke Ristorante vegetale diepvries pizza - rijkelijk belegd met mozzarella, Edammer kaas, cherrytomaten, paprika en zure room - de pizza voor jou!",
+        "fr": "Dr. Oetker Ristorante pizza vegetale par Dr. Oetker.",
+        "de": "Dr. Oetker Ristorante pizza vegetale von Dr. Oetker.",
+        "en": "Dr. Oetker Ristorante pizza vegetale by Dr. Oetker.",
+        "ar": "منتج Dr. Oetker Ristorante pizza vegetale من Dr. Oetker."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEBLOEM, 15% tomatenpuree, 12% KAAS (MOZZARELLA, EDAMMER), 9,0% cherrytomaten, 9,0% paprika, water, zure ROOM, raapzaadolie, 3,0% uien, 3,0% ingemaakte peperonistukjes (peperoni, water, brandewijnazijn, zout, suiker, voedingszuren (citroenzuur, azijnzuur), antioxidant (ascorbinezuur)), gehakte olijven, bakkersgist, zout, suiker, peper, knoflook, chilipeulen, oregano, peterselie, citroensap, paprika, chili-extract. Kan bevatten: SOJA, MOSTERD.",
+        "fr": "Ingrediënten: TARWEBLOEM, 15% tomatenpuree, 12% KAAS (MOZZARELLA, EDAMMER), 9,0% cherrytomaten, 9,0% paprika, water, zure ROOM, raapzaadolie, 3,0% uien, 3,0% ingemaakte peperonistukjes (peperoni, water, brandewijnazijn, zout, suiker, voedingszuren (citroenzuur, azijnzuur), antioxidant (ascorbinezuur)), gehakte olijven, bakkersgist, zout, suiker, peper, knoflook, chilipeulen, oregano, peterselie, citroensap, paprika, chili-extract. Kan bevatten: SOJA, MOSTERD.",
+        "de": "Ingrediënten: TARWEBLOEM, 15% tomatenpuree, 12% KAAS (MOZZARELLA, EDAMMER), 9,0% cherrytomaten, 9,0% paprika, water, zure ROOM, raapzaadolie, 3,0% uien, 3,0% ingemaakte peperonistukjes (peperoni, water, brandewijnazijn, zout, suiker, voedingszuren (citroenzuur, azijnzuur), antioxidant (ascorbinezuur)), gehakte olijven, bakkersgist, zout, suiker, peper, knoflook, chilipeulen, oregano, peterselie, citroensap, paprika, chili-extract. Kan bevatten: SOJA, MOSTERD.",
+        "en": "Ingrediënten: TARWEBLOEM, 15% tomatenpuree, 12% KAAS (MOZZARELLA, EDAMMER), 9,0% cherrytomaten, 9,0% paprika, water, zure ROOM, raapzaadolie, 3,0% uien, 3,0% ingemaakte peperonistukjes (peperoni, water, brandewijnazijn, zout, suiker, voedingszuren (citroenzuur, azijnzuur), antioxidant (ascorbinezuur)), gehakte olijven, bakkersgist, zout, suiker, peper, knoflook, chilipeulen, oregano, peterselie, citroensap, paprika, chili-extract. Kan bevatten: SOJA, MOSTERD.",
+        "ar": "Ingrediënten: TARWEBLOEM, 15% tomatenpuree, 12% KAAS (MOZZARELLA, EDAMMER), 9,0% cherrytomaten, 9,0% paprika, water, zure ROOM, raapzaadolie, 3,0% uien, 3,0% ingemaakte peperonistukjes (peperoni, water, brandewijnazijn, zout, suiker, voedingszuren (citroenzuur, azijnzuur), antioxidant (ascorbinezuur)), gehakte olijven, bakkersgist, zout, suiker, peper, knoflook, chilipeulen, oregano, peterselie, citroensap, paprika, chili-extract. Kan bevatten: SOJA, MOSTERD."
+      },
+      "image": "images/4001724039143.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4001724039143.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_2d37717a47685961542d756d32394459315235682d77?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "diepvriespizza",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_400"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 808.0,
+        "calories_100g": 193.0,
+        "fat_100g": 7.9,
+        "saturated_fat_100g": 2.6,
+        "carbohydrates_100g": 22.0,
+        "sugars_100g": 3.5,
+        "fiber_100g": 2.0,
+        "proteins_100g": 6.7,
+        "salt_100g": 0.97,
+        "sodium_100g": 388.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 2,
+      "health_score": 64,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "kaas",
+        "mozzarella"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: kaas, mozzarella",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: kaas, mozzarella",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: kaas, mozzarella",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : kaas, mozzarella",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: kaas, mozzarella",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: kaas, mozzarella"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.4,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4001724039143",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.29,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi514002/dr-oetker-ristorante-pizza-vegetale",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.3,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4001724039143",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.46,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4001724039143",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.82,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4001724039143",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.29,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4001724039143",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 1.42,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4001724039143",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.44,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4001724039143",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4001724046585": {
+      "barcode": "4001724046585",
+      "domain": "food",
+      "names": {
+        "nl": "Dr. Oetker Mini pizza salame",
+        "fr": "Dr. Oetker Mini pizza salame",
+        "de": "Dr. Oetker Mini pizza salame",
+        "en": "Dr. Oetker Mini pizza salame",
+        "ar": "Dr. Oetker Mini pizza salame"
+      },
+      "brand": "Dr. Oetker",
+      "net_weight": "300 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Mustard"
+      ],
+      "description": "De Mini Pizza salami van Dr. Oetker is de perfecte pizza voor liefhebbers met kleine trek. Deze pizza is rijkelijk belegd met salami en Edammer kaas.",
+      "descriptions": {
+        "nl": "De Mini Pizza salami van Dr. Oetker is de perfecte pizza voor liefhebbers met kleine trek. Deze pizza is rijkelijk belegd met salami en Edammer kaas.",
+        "fr": "Dr. Oetker Mini pizza salame par Dr. Oetker.",
+        "de": "Dr. Oetker Mini pizza salame von Dr. Oetker.",
+        "en": "Dr. Oetker Mini pizza salame by Dr. Oetker.",
+        "ar": "منتج Dr. Oetker Mini pizza salame من Dr. Oetker."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEBLOEM, water, 11% EDAMMER KAAS, 8,4% salami (varkensvlees, spek, zout, specerijenextracten, antioxidant (extract van rozemarijn), stabilisator (natriumnitriet), rook, dextrose, specerijen, knoflookpoeder), tomatenpuree, raapzaadolie, suiker, bakkersgist, zout, kruiden, specerijen, citroensapconcentraat. Kan bevatten: MOSTERD, SOJA.",
+        "fr": "Ingrediënten: TARWEBLOEM, water, 11% EDAMMER KAAS, 8,4% salami (varkensvlees, spek, zout, specerijenextracten, antioxidant (extract van rozemarijn), stabilisator (natriumnitriet), rook, dextrose, specerijen, knoflookpoeder), tomatenpuree, raapzaadolie, suiker, bakkersgist, zout, kruiden, specerijen, citroensapconcentraat. Kan bevatten: MOSTERD, SOJA.",
+        "de": "Ingrediënten: TARWEBLOEM, water, 11% EDAMMER KAAS, 8,4% salami (varkensvlees, spek, zout, specerijenextracten, antioxidant (extract van rozemarijn), stabilisator (natriumnitriet), rook, dextrose, specerijen, knoflookpoeder), tomatenpuree, raapzaadolie, suiker, bakkersgist, zout, kruiden, specerijen, citroensapconcentraat. Kan bevatten: MOSTERD, SOJA.",
+        "en": "Ingrediënten: TARWEBLOEM, water, 11% EDAMMER KAAS, 8,4% salami (varkensvlees, spek, zout, specerijenextracten, antioxidant (extract van rozemarijn), stabilisator (natriumnitriet), rook, dextrose, specerijen, knoflookpoeder), tomatenpuree, raapzaadolie, suiker, bakkersgist, zout, kruiden, specerijen, citroensapconcentraat. Kan bevatten: MOSTERD, SOJA.",
+        "ar": "Ingrediënten: TARWEBLOEM, water, 11% EDAMMER KAAS, 8,4% salami (varkensvlees, spek, zout, specerijenextracten, antioxidant (extract van rozemarijn), stabilisator (natriumnitriet), rook, dextrose, specerijen, knoflookpoeder), tomatenpuree, raapzaadolie, suiker, bakkersgist, zout, kruiden, specerijen, citroensapconcentraat. Kan bevatten: MOSTERD, SOJA."
+      },
+      "image": "images/4001724046585.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4001724046585.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4a737a545633324a517453734f617253426b36386b77?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "diepvriespizza",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_400"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1062.0,
+        "calories_100g": 253.0,
+        "fat_100g": 8.5,
+        "saturated_fat_100g": 3.3,
+        "carbohydrates_100g": 34.0,
+        "sugars_100g": 3.6,
+        "fiber_100g": 1.7,
+        "proteins_100g": 9.4,
+        "salt_100g": 1.1,
+        "sodium_100g": 440.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 4,
+      "health_score": 64,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "varkensvlees",
+        "spek"
+      ],
+      "reason": "Pork / لحم خنزير (varkensvlees, spek)",
+      "explanations": {
+        "ar": "لحم خنزير محرم قطعا (varkensvlees, spek)",
+        "en": "Pork / لحم خنزير (varkensvlees, spek)",
+        "fr": "Porc interdit (varkensvlees, spek)",
+        "nl": "Verboden varkensvlees / Pork (varkensvlees, spek)",
+        "de": "Verbotenes Schweinefleisch / Pork (varkensvlees, spek)"
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.65,
+          "promo_price": 2.92,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=4001724046585",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.17,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi561533/dr-oetker-mini-pizza-salame",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.88,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4001724046585",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.97,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4001724046585",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.65,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4001724046585",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.46,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4001724046585",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.22,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=4001724046585",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.04,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4001724046585",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4001724022473": {
+      "barcode": "4001724022473",
+      "domain": "food",
+      "names": {
+        "nl": "Dr. Oetker Ristorante pizza salami glutenvrij",
+        "fr": "Dr. Oetker Ristorante pizza salami glutenvrij",
+        "de": "Dr. Oetker Ristorante pizza salami glutenvrij",
+        "en": "Dr. Oetker Ristorante pizza salami glutenvrij",
+        "ar": "Dr. Oetker Ristorante pizza salami glutenvrij"
+      },
+      "brand": "Dr. Oetker",
+      "net_weight": "315 g",
+      "allergens": [
+        "Soy",
+        "Milk",
+        "Eggs",
+        "Mustard"
+      ],
+      "description": "Ristorante salami glutenvrij is genieten van onze bekende salami pizza, maar dan zonder gluten. Royale toppings als salami, mozzarella en Edammer kaas maken het helemaal buonissimo!",
+      "descriptions": {
+        "nl": "Ristorante salami glutenvrij is genieten van onze bekende salami pizza, maar dan zonder gluten. Royale toppings als salami, mozzarella en Edammer kaas maken het helemaal buonissimo!",
+        "fr": "Dr. Oetker Ristorante pizza salami glutenvrij par Dr. Oetker.",
+        "de": "Dr. Oetker Ristorante pizza salami glutenvrij von Dr. Oetker.",
+        "en": "Dr. Oetker Ristorante pizza salami glutenvrij by Dr. Oetker.",
+        "ar": "منتج Dr. Oetker Ristorante pizza salami glutenvrij من Dr. Oetker."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: 18% tomatenpuree, rijstebloem, 15% KAAS (MOZZARELLA, EDAMMER), water, 12% salami (varkensvlees, spek, zout, specerijen, dextrose, uienpoeder, knoflookpoeder, specerijenextracten, stabilisator (natriumnitriet), antioxidanten (extract van rozemarijn, natriumascorbaat), rook), zetmeel, aardappelvlokken, erwten eiwit, raapzaadolie, gist, suiker, zout, verdikkingsmiddelen (hydroxypropylmethylcellulose, xanthaangom), olijfolie extra vierge, glucosestroop, emulgatoren (mono- en diglyceriden van vetzuren veresterd met melkzuur, mono- en diglyceriden van vetzuren veresterd met azijnzuur), gemodificeerd zetmeel, oregano, specerijen, knoflook, dextrose, MELKEIWITTEN. Kan bevatten: SOJA, MOSTERD.",
+        "fr": "Ingrediënten: 18% tomatenpuree, rijstebloem, 15% KAAS (MOZZARELLA, EDAMMER), water, 12% salami (varkensvlees, spek, zout, specerijen, dextrose, uienpoeder, knoflookpoeder, specerijenextracten, stabilisator (natriumnitriet), antioxidanten (extract van rozemarijn, natriumascorbaat), rook), zetmeel, aardappelvlokken, erwten eiwit, raapzaadolie, gist, suiker, zout, verdikkingsmiddelen (hydroxypropylmethylcellulose, xanthaangom), olijfolie extra vierge, glucosestroop, emulgatoren (mono- en diglyceriden van vetzuren veresterd met melkzuur, mono- en diglyceriden van vetzuren veresterd met azijnzuur), gemodificeerd zetmeel, oregano, specerijen, knoflook, dextrose, MELKEIWITTEN. Kan bevatten: SOJA, MOSTERD.",
+        "de": "Ingrediënten: 18% tomatenpuree, rijstebloem, 15% KAAS (MOZZARELLA, EDAMMER), water, 12% salami (varkensvlees, spek, zout, specerijen, dextrose, uienpoeder, knoflookpoeder, specerijenextracten, stabilisator (natriumnitriet), antioxidanten (extract van rozemarijn, natriumascorbaat), rook), zetmeel, aardappelvlokken, erwten eiwit, raapzaadolie, gist, suiker, zout, verdikkingsmiddelen (hydroxypropylmethylcellulose, xanthaangom), olijfolie extra vierge, glucosestroop, emulgatoren (mono- en diglyceriden van vetzuren veresterd met melkzuur, mono- en diglyceriden van vetzuren veresterd met azijnzuur), gemodificeerd zetmeel, oregano, specerijen, knoflook, dextrose, MELKEIWITTEN. Kan bevatten: SOJA, MOSTERD.",
+        "en": "Ingrediënten: 18% tomatenpuree, rijstebloem, 15% KAAS (MOZZARELLA, EDAMMER), water, 12% salami (varkensvlees, spek, zout, specerijen, dextrose, uienpoeder, knoflookpoeder, specerijenextracten, stabilisator (natriumnitriet), antioxidanten (extract van rozemarijn, natriumascorbaat), rook), zetmeel, aardappelvlokken, erwten eiwit, raapzaadolie, gist, suiker, zout, verdikkingsmiddelen (hydroxypropylmethylcellulose, xanthaangom), olijfolie extra vierge, glucosestroop, emulgatoren (mono- en diglyceriden van vetzuren veresterd met melkzuur, mono- en diglyceriden van vetzuren veresterd met azijnzuur), gemodificeerd zetmeel, oregano, specerijen, knoflook, dextrose, MELKEIWITTEN. Kan bevatten: SOJA, MOSTERD.",
+        "ar": "Ingrediënten: 18% tomatenpuree, rijstebloem, 15% KAAS (MOZZARELLA, EDAMMER), water, 12% salami (varkensvlees, spek, zout, specerijen, dextrose, uienpoeder, knoflookpoeder, specerijenextracten, stabilisator (natriumnitriet), antioxidanten (extract van rozemarijn, natriumascorbaat), rook), zetmeel, aardappelvlokken, erwten eiwit, raapzaadolie, gist, suiker, zout, verdikkingsmiddelen (hydroxypropylmethylcellulose, xanthaangom), olijfolie extra vierge, glucosestroop, emulgatoren (mono- en diglyceriden van vetzuren veresterd met melkzuur, mono- en diglyceriden van vetzuren veresterd met azijnzuur), gemodificeerd zetmeel, oregano, specerijen, knoflook, dextrose, MELKEIWITTEN. Kan bevatten: SOJA, MOSTERD."
+      },
+      "image": "images/4001724022473.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4001724022473.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4a4d6f69663845335132714a6c6a53754d735f374f67?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "diepvriespizza",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_400"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1038.0,
+        "calories_100g": 248.0,
+        "fat_100g": 11.0,
+        "saturated_fat_100g": 4.7,
+        "carbohydrates_100g": 26.0,
+        "sugars_100g": 2.1,
+        "fiber_100g": 1.9,
+        "proteins_100g": 10.0,
+        "salt_100g": 1.4,
+        "sodium_100g": 560.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 7,
+      "health_score": 43,
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "varkensvlees",
+        "spek"
+      ],
+      "reason": "Pork / لحم خنزير (varkensvlees, spek)",
+      "explanations": {
+        "ar": "لحم خنزير محرم قطعا (varkensvlees, spek)",
+        "en": "Pork / لحم خنزير (varkensvlees, spek)",
+        "fr": "Porc interdit (varkensvlees, spek)",
+        "nl": "Verboden varkensvlees / Pork (varkensvlees, spek)",
+        "de": "Verbotenes Schweinefleisch / Pork (varkensvlees, spek)"
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.46,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4001724022473",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.65,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi401986/dr-oetker-ristorante-pizza-salami-glutenvrij",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.8,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4001724022473",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.97,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4001724022473",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.97,
+          "promo_price": 3.18,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=4001724022473",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.33,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4001724022473",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.67,
+          "promo_price": 2.94,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=4001724022473",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.17,
+          "promo_price": 3.34,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=4001724022473",
+          "updated_at": "2026-11-25T21:02:32.720945+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

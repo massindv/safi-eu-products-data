@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "315",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 9,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 11,
   "products": {
     "3154230814085": {
       "barcode": "3154230814085",
@@ -205,9 +205,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "3154230813965": {
       "barcode": "3154230813965",
@@ -410,9 +411,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "3159470202166": {
       "barcode": "3159470202166",
@@ -617,10 +619,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "3159470005347": {
       "barcode": "3159470005347",
@@ -826,10 +829,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "3155253030759": {
       "barcode": "3155253030759",
@@ -1033,7 +1037,8 @@
           "updated_at": "2026-11-25T08:54:09.567961+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3155253030766": {
       "barcode": "3155253030766",
@@ -1237,7 +1242,8 @@
           "updated_at": "2026-11-25T08:55:37.864569+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3155253030780": {
       "barcode": "3155253030780",
@@ -1441,7 +1447,8 @@
           "updated_at": "2026-11-25T08:55:37.864569+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3155253030797": {
       "barcode": "3155253030797",
@@ -1645,7 +1652,8 @@
           "updated_at": "2026-11-25T08:55:37.864569+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3153126826003": {
       "barcode": "3153126826003",
@@ -1849,7 +1857,418 @@
           "updated_at": "2026-11-25T09:43:28.817602+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3155253030803": {
+      "barcode": "3155253030803",
+      "domain": "food",
+      "names": {
+        "nl": "Président Gastronomique roomboter ongezouten",
+        "fr": "Président Gastronomique roomboter ongezouten",
+        "de": "Président Gastronomique roomboter ongezouten",
+        "en": "Président Gastronomique roomboter ongezouten",
+        "ar": "Président Gastronomique roomboter ongezouten"
+      },
+      "brand": "Président",
+      "net_weight": "225 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Deze Premium ongezouten roomboter van President is zo heerlijk en romig dankzij het karnen dat dubbel zo lang duurt als bij gewone roomboter.",
+      "descriptions": {
+        "nl": "Deze Premium ongezouten roomboter van President is zo heerlijk en romig dankzij het karnen dat dubbel zo lang duurt als bij gewone roomboter.",
+        "fr": "Président Gastronomique roomboter ongezouten par Président.",
+        "de": "Président Gastronomique roomboter ongezouten von Président.",
+        "en": "Président Gastronomique roomboter ongezouten by Président.",
+        "ar": "منتج Président Gastronomique roomboter ongezouten من Président."
+      },
+      "ingredients": {
+        "nl": "Ingredienten: Roomboter (MELK) (room: oorsprong Frankrijk).",
+        "fr": "Ingredienten: Roomboter (MELK) (room: oorsprong Frankrijk).",
+        "de": "Ingredienten: Roomboter (MELK) (room: oorsprong Frankrijk).",
+        "en": "Ingredienten: Roomboter (MELK) (room: oorsprong Frankrijk).",
+        "ar": "Ingredienten: Roomboter (MELK) (room: oorsprong Frankrijk)."
+      },
+      "image": "images/3155253030803.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3155253030803.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_505750484a4c5336526d537a56535150636873683051?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "boter",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_315"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 3063.0,
+        "calories_100g": 745.0,
+        "fat_100g": 82.0,
+        "saturated_fat_100g": 57.0,
+        "carbohydrates_100g": 1.0,
+        "sugars_100g": 1.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.7,
+        "salt_100g": 0.03,
+        "sodium_100g": 12.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 19,
+      "health_score": 19,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "delhaize.be",
+        "carrefour.be",
+        "ah.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.02,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3155253030803",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.02,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3155253030803",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.2,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": "1 + 1 gratis",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi590699/pre%CC%81sident-gastronomique-roomboter-ongezouten",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3155253030803",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.65,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3155253030803",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.74,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3155253030803",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.46,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3155253030803",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.54,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=3155253030803",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3155253030810": {
+      "barcode": "3155253030810",
+      "domain": "food",
+      "names": {
+        "nl": "Président Gastronomique roomboter gezouten",
+        "fr": "Président Gastronomique roomboter gezouten",
+        "de": "Président Gastronomique roomboter gezouten",
+        "en": "Président Gastronomique roomboter gezouten",
+        "ar": "Président Gastronomique roomboter gezouten"
+      },
+      "brand": "Président",
+      "net_weight": "225 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Deze Premium gezouten roomboter van President is zo heerlijk en romig dankzij het karnen dat dubbel zo lang duurt als bij gewone roomboter.",
+      "descriptions": {
+        "nl": "Deze Premium gezouten roomboter van President is zo heerlijk en romig dankzij het karnen dat dubbel zo lang duurt als bij gewone roomboter.",
+        "fr": "Président Gastronomique roomboter gezouten par Président.",
+        "de": "Président Gastronomique roomboter gezouten von Président.",
+        "en": "Président Gastronomique roomboter gezouten by Président.",
+        "ar": "منتج Président Gastronomique roomboter gezouten من Président."
+      },
+      "ingredients": {
+        "nl": "Ingredienten: Roomboter (MELK) (room: oorsprong Frankrijk), zout (3%max).",
+        "fr": "Ingredienten: Roomboter (MELK) (room: oorsprong Frankrijk), zout (3%max).",
+        "de": "Ingredienten: Roomboter (MELK) (room: oorsprong Frankrijk), zout (3%max).",
+        "en": "Ingredienten: Roomboter (MELK) (room: oorsprong Frankrijk), zout (3%max).",
+        "ar": "Ingredienten: Roomboter (MELK) (room: oorsprong Frankrijk), zout (3%max)."
+      },
+      "image": "images/3155253030810.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3155253030810.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_36432d576f6578465342473344314d2d54475a6f6551?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "boter",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_315"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2989.0,
+        "calories_100g": 727.0,
+        "fat_100g": 80.0,
+        "saturated_fat_100g": 55.0,
+        "carbohydrates_100g": 1.0,
+        "sugars_100g": 1.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.7,
+        "salt_100g": 2.0,
+        "sodium_100g": 800.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 26,
+      "health_score": 17,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "carrefour.be",
+        "ah.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.92,
+          "promo_price": 2.46,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=3155253030810",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 5.15,
+          "promo_price": 4.12,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=3155253030810",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.7,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": "1 + 1 gratis",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi590698/pre%CC%81sident-gastronomique-roomboter-gezouten",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 5.27,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3155253030810",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.2,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3155253030810",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 5.09,
+          "promo_price": 2.54,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=3155253030810",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.82,
+          "promo_price": 3.86,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=3155253030810",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.69,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3155253030810",
+          "updated_at": "2026-11-25T16:40:53.370430+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

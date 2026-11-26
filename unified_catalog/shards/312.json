@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "312",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 5,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 7,
   "products": {
     "3124480167026": {
       "barcode": "3124480167026",
@@ -203,10 +203,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "3124480200433": {
       "barcode": "3124480200433",
@@ -408,7 +409,8 @@
           "updated_at": "2026-11-25T08:44:41.991003+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3124480202499": {
       "barcode": "3124480202499",
@@ -613,7 +615,8 @@
           "updated_at": "2026-11-25T08:48:48.393117+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3124480197368": {
       "barcode": "3124480197368",
@@ -818,7 +821,8 @@
           "updated_at": "2026-11-25T08:48:48.393117+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3124480186621": {
       "barcode": "3124480186621",
@@ -1022,7 +1026,418 @@
           "updated_at": "2026-11-25T08:51:23.321743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3124480185624": {
+      "barcode": "3124480185624",
+      "domain": "food",
+      "names": {
+        "nl": "Oasis Appel zwarte bes framboos",
+        "fr": "Oasis Appel zwarte bes framboos",
+        "de": "Oasis Appel zwarte bes framboos",
+        "en": "Oasis Appel zwarte bes framboos",
+        "ar": "Oasis Appel zwarte bes framboos"
+      },
+      "brand": "Oasis",
+      "net_weight": "1 l",
+      "allergens": [],
+      "description": "Vruchtenfrisdrank met bronwater, gearomatiseerd.",
+      "descriptions": {
+        "nl": "Vruchtenfrisdrank met bronwater, gearomatiseerd.",
+        "fr": "Oasis Appel zwarte bes framboos par Oasis.",
+        "de": "Oasis Appel zwarte bes framboos von Oasis.",
+        "en": "Oasis Appel zwarte bes framboos by Oasis.",
+        "ar": "منتج Oasis Appel zwarte bes framboos من Oasis."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: water, vruchtensap uit concentraat 12% (appel 8,5%, zwarte bes 2% vlierbes, framboos 0.1%) suiker, voedingszuur: citoenzuur, natuurlijke aroma's, antioxidant: ascorbinezuur.",
+        "fr": "Ingrediënten: water, vruchtensap uit concentraat 12% (appel 8,5%, zwarte bes 2% vlierbes, framboos 0.1%) suiker, voedingszuur: citoenzuur, natuurlijke aroma's, antioxidant: ascorbinezuur.",
+        "de": "Ingrediënten: water, vruchtensap uit concentraat 12% (appel 8,5%, zwarte bes 2% vlierbes, framboos 0.1%) suiker, voedingszuur: citoenzuur, natuurlijke aroma's, antioxidant: ascorbinezuur.",
+        "en": "Ingrediënten: water, vruchtensap uit concentraat 12% (appel 8,5%, zwarte bes 2% vlierbes, framboos 0.1%) suiker, voedingszuur: citoenzuur, natuurlijke aroma's, antioxidant: ascorbinezuur.",
+        "ar": "Ingrediënten: water, vruchtensap uit concentraat 12% (appel 8,5%, zwarte bes 2% vlierbes, framboos 0.1%) suiker, voedingszuur: citoenzuur, natuurlijke aroma's, antioxidant: ascorbinezuur."
+      },
+      "image": "images/3124480185624.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3124480185624.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4749366836684e41534636714e425279496c30725877?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "sap",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_312"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 133.0,
+        "calories_100g": 31.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 7.5,
+        "sugars_100g": 7.5,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.0,
+        "sodium_100g": 0.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 1,
+      "health_score": 45,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijke aroma's"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijke aroma's",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijke aroma's",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijke aroma's",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijke aroma's"
+      },
+      "stores": [
+        "delhaize.be",
+        "carrefour.be",
+        "colruyt.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 5.44,
+          "promo_price": 2.72,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=3124480185624",
+          "updated_at": "2026-11-25T19:00:03.473528+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 5.63,
+          "promo_price": 4.5,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=3124480185624",
+          "updated_at": "2026-11-25T19:00:03.473528+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.61,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3124480185624",
+          "updated_at": "2026-11-25T19:00:03.473528+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 5.01,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi568557/oasis-appel-zwarte-bes-framboos",
+          "updated_at": "2026-11-25T19:00:03.473528+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.51,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3124480185624",
+          "updated_at": "2026-11-25T19:00:03.473528+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3124480185624",
+          "updated_at": "2026-11-25T19:00:03.473528+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.78,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3124480185624",
+          "updated_at": "2026-11-25T19:00:03.473528+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 5.53,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=3124480185624",
+          "updated_at": "2026-11-25T19:00:03.473528+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3124480100016": {
+      "barcode": "3124480100016",
+      "domain": "food",
+      "names": {
+        "nl": "Oasis Tropical",
+        "fr": "Oasis Tropical",
+        "de": "Oasis Tropical",
+        "en": "Oasis Tropical",
+        "ar": "Oasis Tropical"
+      },
+      "brand": "Oasis",
+      "net_weight": "1 l",
+      "allergens": [],
+      "description": "Oasis Tropical 1l.",
+      "descriptions": {
+        "nl": "Oasis Tropical 1l.",
+        "fr": "Oasis Tropical par Oasis.",
+        "de": "Oasis Tropical von Oasis.",
+        "en": "Oasis Tropical by Oasis.",
+        "ar": "منتج Oasis Tropical من Oasis."
+      },
+      "ingredients": {
+        "nl": "ingrediënten: Water, vruchtensapconcentraat 12% (sinaasappel 6%, appel, mango 0,08%, passievrucht 0,06%), suiker, fructosestroop, zuurteregelaars: citroenzuur en appelzuur, natuurlijke aroma's, zuurteregelaar: natriumcitraat, antioxidant: ascorbinezuur, kleurstof: paprika-extract, natuurlijk sinaasappelaroma",
+        "fr": "ingrediënten: Water, vruchtensapconcentraat 12% (sinaasappel 6%, appel, mango 0,08%, passievrucht 0,06%), suiker, fructosestroop, zuurteregelaars: citroenzuur en appelzuur, natuurlijke aroma's, zuurteregelaar: natriumcitraat, antioxidant: ascorbinezuur, kleurstof: paprika-extract, natuurlijk sinaasappelaroma",
+        "de": "ingrediënten: Water, vruchtensapconcentraat 12% (sinaasappel 6%, appel, mango 0,08%, passievrucht 0,06%), suiker, fructosestroop, zuurteregelaars: citroenzuur en appelzuur, natuurlijke aroma's, zuurteregelaar: natriumcitraat, antioxidant: ascorbinezuur, kleurstof: paprika-extract, natuurlijk sinaasappelaroma",
+        "en": "ingrediënten: Water, vruchtensapconcentraat 12% (sinaasappel 6%, appel, mango 0,08%, passievrucht 0,06%), suiker, fructosestroop, zuurteregelaars: citroenzuur en appelzuur, natuurlijke aroma's, zuurteregelaar: natriumcitraat, antioxidant: ascorbinezuur, kleurstof: paprika-extract, natuurlijk sinaasappelaroma",
+        "ar": "ingrediënten: Water, vruchtensapconcentraat 12% (sinaasappel 6%, appel, mango 0,08%, passievrucht 0,06%), suiker, fructosestroop, zuurteregelaars: citroenzuur en appelzuur, natuurlijke aroma's, zuurteregelaar: natriumcitraat, antioxidant: ascorbinezuur, kleurstof: paprika-extract, natuurlijk sinaasappelaroma"
+      },
+      "image": "images/3124480100016.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3124480100016.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_57524e614e6d5034525a6934643131374b586c4f7a51?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "smoothie",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_312"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 111.0,
+        "calories_100g": 26.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 6.1,
+        "sugars_100g": 6.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.03,
+        "sodium_100g": 12.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 1,
+      "health_score": 65,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijke aroma's"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijke aroma's",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijke aroma's",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijke aroma's",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijke aroma's"
+      },
+      "stores": [
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.46,
+          "promo_price": 0.73,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi416270/oasis-tropical",
+          "updated_at": "2026-11-25T19:09:38.954945+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.17,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3124480100016",
+          "updated_at": "2026-11-25T19:09:38.954945+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.41,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3124480100016",
+          "updated_at": "2026-11-25T19:09:38.954945+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.75,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3124480100016",
+          "updated_at": "2026-11-25T19:09:38.954945+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.4,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3124480100016",
+          "updated_at": "2026-11-25T19:09:38.954945+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.51,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3124480100016",
+          "updated_at": "2026-11-25T19:09:38.954945+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 1.23,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=3124480100016",
+          "updated_at": "2026-11-25T19:09:38.954945+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.74,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3124480100016",
+          "updated_at": "2026-11-25T19:09:38.954945+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

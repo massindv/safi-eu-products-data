@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "prefix": "931",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
   "product_count": 5,
   "products": {
     "9311493002534": {
@@ -206,7 +206,8 @@
           "updated_at": "2026-11-25T08:50:08.172346+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "9310432000051": {
       "barcode": "9310432000051",
@@ -413,7 +414,8 @@
           "updated_at": "2026-11-25T09:13:28.111265+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "9311218119493": {
       "barcode": "9311218119493",
@@ -459,18 +461,20 @@
       "nutriscore_grade": null,
       "nutriscore_score": null,
       "health_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
+      "halal_status": "HARAM",
+      "is_halal": false,
       "halal_certified": false,
       "halal_certification_source": null,
-      "triggers": [],
-      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "triggers": [
+        "merlot"
+      ],
+      "reason": "Alcohol / كحول (merlot)",
       "explanations": {
-        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
-        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
-        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
-        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
-        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+        "ar": "كحول محرم قطعا (merlot)",
+        "en": "Alcohol / كحول (merlot)",
+        "fr": "Alcool interdit (merlot)",
+        "nl": "Verboden alcohol (merlot)",
+        "de": "Verbotener Alkohol (merlot)"
       },
       "stores": [
         "colruyt.be",
@@ -604,7 +608,8 @@
           "updated_at": "2026-11-25T09:13:28.111265+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "9310432003663": {
       "barcode": "9310432003663",
@@ -812,7 +817,8 @@
           "updated_at": "2026-11-25T09:13:28.111265+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "9310432004592": {
       "barcode": "9310432004592",
@@ -1022,7 +1028,8 @@
           "updated_at": "2026-11-25T09:14:46.247875+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

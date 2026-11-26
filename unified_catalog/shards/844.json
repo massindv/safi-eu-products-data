@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "844",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 28,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 38,
   "products": {
     "8445290408372": {
       "barcode": "8445290408372",
@@ -210,10 +210,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445290154187": {
       "barcode": "8445290154187",
@@ -403,9 +404,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445290156044": {
       "barcode": "8445290156044",
@@ -595,9 +597,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445290872203": {
       "barcode": "8445290872203",
@@ -785,10 +788,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "b",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445290815859": {
       "barcode": "8445290815859",
@@ -976,10 +980,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "b",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445290829597": {
       "barcode": "8445290829597",
@@ -1180,10 +1185,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445291509863": {
       "barcode": "8445291509863",
@@ -1387,10 +1393,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445291512887": {
       "barcode": "8445291512887",
@@ -1593,10 +1600,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445291512658": {
       "barcode": "8445291512658",
@@ -1799,10 +1807,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445290396884": {
       "barcode": "8445290396884",
@@ -2005,10 +2014,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445290829658": {
       "barcode": "8445290829658",
@@ -2212,10 +2222,11 @@
           "promo_end_date": "2026-11-29"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445290452900": {
       "barcode": "8445290452900",
@@ -2403,9 +2414,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445292620345": {
       "barcode": "8445292620345",
@@ -2593,10 +2605,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "b",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445291718616": {
       "barcode": "8445291718616",
@@ -2799,10 +2812,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445291459038": {
       "barcode": "8445291459038",
@@ -2990,10 +3004,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "b",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445290886705": {
       "barcode": "8445290886705",
@@ -3181,10 +3196,11 @@
           "promo_end_date": "2026-11-29"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "b",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445290829474": {
       "barcode": "8445290829474",
@@ -3372,10 +3388,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "b",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445290829627": {
       "barcode": "8445290829627",
@@ -3579,10 +3596,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445292814966": {
       "barcode": "8445292814966",
@@ -3792,10 +3810,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445292835749": {
       "barcode": "8445292835749",
@@ -4005,10 +4024,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445291877528": {
       "barcode": "8445291877528",
@@ -4216,10 +4236,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "8445290763921": {
       "barcode": "8445290763921",
@@ -4421,7 +4442,8 @@
           "updated_at": "2026-11-25T08:26:41.863889+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8445291877504": {
       "barcode": "8445291877504",
@@ -4632,7 +4654,8 @@
           "updated_at": "2026-11-25T09:09:22.673665+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8445291504394": {
       "barcode": "8445291504394",
@@ -4838,7 +4861,8 @@
           "updated_at": "2026-11-25T10:05:42.522480+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8445291877481": {
       "barcode": "8445291877481",
@@ -5051,7 +5075,8 @@
           "updated_at": "2026-11-25T12:27:16.735874+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8445290451521": {
       "barcode": "8445290451521",
@@ -5262,7 +5287,8 @@
           "updated_at": "2026-11-25T12:55:04.466998+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8445292576369": {
       "barcode": "8445292576369",
@@ -5469,7 +5495,8 @@
           "updated_at": "2026-11-25T14:05:25.686971+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "8445292041362": {
       "barcode": "8445292041362",
@@ -5679,7 +5706,2002 @@
           "updated_at": "2026-11-25T14:08:26.850716+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8445292286442": {
+      "barcode": "8445292286442",
+      "domain": "food",
+      "names": {
+        "nl": "Nestlé Tropical smoothie banaan mango 12m+",
+        "fr": "Nestlé Tropical smoothie banaan mango 12m+",
+        "de": "Nestlé Tropical smoothie banaan mango 12m+",
+        "en": "Nestlé Tropical smoothie banaan mango 12m+",
+        "ar": "Nestlé Tropical smoothie banaan mango 12m+"
+      },
+      "brand": "Nestlé",
+      "net_weight": "110 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Nestlé Baby Tropical Smoothie banaan mango is een smoothie voor kinderen vanaf 12 maanden, met fruit, melk en haver, met zachte smaak en romige textuur, in een handig knijpzakje van 110 g.",
+      "descriptions": {
+        "nl": "Nestlé Baby Tropical Smoothie banaan mango is een smoothie voor kinderen vanaf 12 maanden, met fruit, melk en haver, met zachte smaak en romige textuur, in een handig knijpzakje van 110 g.",
+        "fr": "Nestlé Tropical smoothie banaan mango 12m+ par Nestlé.",
+        "de": "Nestlé Tropical smoothie banaan mango 12m+ von Nestlé.",
+        "en": "Nestlé Tropical smoothie banaan mango 12m+ by Nestlé.",
+        "ar": "منتج Nestlé Tropical smoothie banaan mango 12m+ من Nestlé."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: thermisch behandelde gefermenteerde melk 29% (volle melk, melkfermenten), mangopuree 27%, bananenpuree 27%, water, rijstegries 3%, volle havermeel 2%, geconcentreerd citroensap, magere melkpoeder, verdikkingsmiddel: pectine.",
+        "fr": "Ingrediënten: thermisch behandelde gefermenteerde melk 29% (volle melk, melkfermenten), mangopuree 27%, bananenpuree 27%, water, rijstegries 3%, volle havermeel 2%, geconcentreerd citroensap, magere melkpoeder, verdikkingsmiddel: pectine.",
+        "de": "Ingrediënten: thermisch behandelde gefermenteerde melk 29% (volle melk, melkfermenten), mangopuree 27%, bananenpuree 27%, water, rijstegries 3%, volle havermeel 2%, geconcentreerd citroensap, magere melkpoeder, verdikkingsmiddel: pectine.",
+        "en": "Ingrediënten: thermisch behandelde gefermenteerde melk 29% (volle melk, melkfermenten), mangopuree 27%, bananenpuree 27%, water, rijstegries 3%, volle havermeel 2%, geconcentreerd citroensap, magere melkpoeder, verdikkingsmiddel: pectine.",
+        "ar": "Ingrediënten: thermisch behandelde gefermenteerde melk 29% (volle melk, melkfermenten), mangopuree 27%, bananenpuree 27%, water, rijstegries 3%, volle havermeel 2%, geconcentreerd citroensap, magere melkpoeder, verdikkingsmiddel: pectine."
+      },
+      "image": "images/8445292286442.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8445292286442.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_5f426b6232716a54527a43735154476437667a654b67?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "smoothie",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_844"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 307.0,
+        "calories_100g": 73.0,
+        "fat_100g": 1.2,
+        "saturated_fat_100g": 0.7,
+        "carbohydrates_100g": 13.0,
+        "sugars_100g": 9.2,
+        "fiber_100g": 1.1,
+        "proteins_100g": 1.7,
+        "salt_100g": 0.03,
+        "sodium_100g": 12.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "b",
+      "nutriscore_score": 0,
+      "health_score": 78,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "delhaize.be",
+        "carrefour.be",
+        "ah.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.8,
+          "promo_price": 2.24,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=8445292286442",
+          "updated_at": "2026-11-25T19:08:18.404911+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.64,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8445292286442",
+          "updated_at": "2026-11-25T19:08:18.404911+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.21,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi616856/nestle%CC%81-tropical-smoothie-banaan-mango-12m",
+          "updated_at": "2026-11-25T19:08:18.404911+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.4,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8445292286442",
+          "updated_at": "2026-11-25T19:08:18.404911+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.38,
+          "promo_price": 2.7,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=8445292286442",
+          "updated_at": "2026-11-25T19:08:18.404911+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.32,
+          "promo_price": 2.66,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=8445292286442",
+          "updated_at": "2026-11-25T19:08:18.404911+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8445292286442",
+          "updated_at": "2026-11-25T19:08:18.404911+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.39,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8445292286442",
+          "updated_at": "2026-11-25T19:08:18.404911+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8445291543331": {
+      "barcode": "8445291543331",
+      "domain": "food",
+      "names": {
+        "nl": "Nestlé Magic fruit smoothie",
+        "fr": "Nestlé Magic fruit smoothie",
+        "de": "Nestlé Magic fruit smoothie",
+        "en": "Nestlé Magic fruit smoothie",
+        "ar": "Nestlé Magic fruit smoothie"
+      },
+      "brand": "Nestlé",
+      "net_weight": "150 g",
+      "allergens": [],
+      "description": "Nestle magic fruits appel aardbei banaan wortel is een knijpfruit met appel, aardbei, banaan en wortel. Geschikt voor kindjes vanaf 12 maanden en handig om mee te nemen voor onderweg.",
+      "descriptions": {
+        "nl": "Nestle magic fruits appel aardbei banaan wortel is een knijpfruit met appel, aardbei, banaan en wortel. Geschikt voor kindjes vanaf 12 maanden en handig om mee te nemen voor onderweg.",
+        "fr": "Nestlé Magic fruit smoothie par Nestlé.",
+        "de": "Nestlé Magic fruit smoothie von Nestlé.",
+        "en": "Nestlé Magic fruit smoothie by Nestlé.",
+        "ar": "منتج Nestlé Magic fruit smoothie من Nestlé."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: appel 70%. aardbei 10%. banaan 10%. wortel 10%.",
+        "fr": "Ingrediënten: appel 70%. aardbei 10%. banaan 10%. wortel 10%.",
+        "de": "Ingrediënten: appel 70%. aardbei 10%. banaan 10%. wortel 10%.",
+        "en": "Ingrediënten: appel 70%. aardbei 10%. banaan 10%. wortel 10%.",
+        "ar": "Ingrediënten: appel 70%. aardbei 10%. banaan 10%. wortel 10%."
+      },
+      "image": "images/8445291543331.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8445291543331.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_6c48786d70756162516e65734f326a3937594c562d67?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "smoothie",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_844"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 207.0,
+        "calories_100g": 49.0,
+        "fat_100g": 0.1,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 11.0,
+        "sugars_100g": 9.9,
+        "fiber_100g": 1.3,
+        "proteins_100g": 0.4,
+        "salt_100g": 0.01,
+        "sodium_100g": 4.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "b",
+      "nutriscore_score": 1,
+      "health_score": 75,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.12,
+          "promo_price": 1.56,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi627980/nestle%CC%81-magic-fruit-smoothie",
+          "updated_at": "2026-11-25T19:11:05.829744+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.28,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8445291543331",
+          "updated_at": "2026-11-25T19:11:05.829744+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.42,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8445291543331",
+          "updated_at": "2026-11-25T19:11:05.829744+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.62,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8445291543331",
+          "updated_at": "2026-11-25T19:11:05.829744+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.0,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=8445291543331",
+          "updated_at": "2026-11-25T19:11:05.829744+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.12,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=8445291543331",
+          "updated_at": "2026-11-25T19:11:05.829744+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.9,
+          "promo_price": 2.32,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=8445291543331",
+          "updated_at": "2026-11-25T19:11:05.829744+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.04,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8445291543331",
+          "updated_at": "2026-11-25T19:11:05.829744+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8445291786219": {
+      "barcode": "8445291786219",
+      "domain": "food",
+      "names": {
+        "nl": "Starbucks Nespresso chocolate hazelnut capsules",
+        "fr": "Starbucks Nespresso chocolate hazelnut capsules",
+        "de": "Starbucks Nespresso chocolate hazelnut capsules",
+        "en": "Starbucks Nespresso chocolate hazelnut capsules",
+        "ar": "Starbucks Nespresso chocolate hazelnut capsules"
+      },
+      "brand": "Starbucks",
+      "net_weight": "10 stuks",
+      "allergens": [],
+      "description": "Geniet nu thuis van Starbucks chocolate hazelnut koffie voor jouw nespresso systeem. Romige chocolade en geroosterde hazelnoot komen samen in een perfect uitgebalanceerde, verleidelijke koffie.",
+      "descriptions": {
+        "nl": "Geniet nu thuis van Starbucks chocolate hazelnut koffie voor jouw nespresso systeem. Romige chocolade en geroosterde hazelnoot komen samen in een perfect uitgebalanceerde, verleidelijke koffie.",
+        "fr": "Starbucks Nespresso chocolate hazelnut capsules par Starbucks.",
+        "de": "Starbucks Nespresso chocolate hazelnut capsules von Starbucks.",
+        "en": "Starbucks Nespresso chocolate hazelnut capsules by Starbucks.",
+        "ar": "منتج Starbucks Nespresso chocolate hazelnut capsules من Starbucks."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Gebrande en gemalen koffie, natuurlijk cacao-aroma met andere natuurlijke aroma's",
+        "fr": "Ingrediënten: Gebrande en gemalen koffie, natuurlijk cacao-aroma met andere natuurlijke aroma's",
+        "de": "Ingrediënten: Gebrande en gemalen koffie, natuurlijk cacao-aroma met andere natuurlijke aroma's",
+        "en": "Ingrediënten: Gebrande en gemalen koffie, natuurlijk cacao-aroma met andere natuurlijke aroma's",
+        "ar": "Ingrediënten: Gebrande en gemalen koffie, natuurlijk cacao-aroma met andere natuurlijke aroma's"
+      },
+      "image": "images/8445291786219.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8445291786219.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4472646637694c4f54774b4a476d6435744679506577?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "koffiepads",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_844"
+      },
+      "nutrition_per_100g": {},
+      "official_nutriscore": null,
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "health_score": null,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijk cacao-aroma met andere natuurlijke aroma's"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk cacao-aroma met andere natuurlijke aroma's",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk cacao-aroma met andere natuurlijke aroma's",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk cacao-aroma met andere natuurlijke aroma's",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk cacao-aroma met andere natuurlijke aroma's",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk cacao-aroma met andere natuurlijke aroma's",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk cacao-aroma met andere natuurlijke aroma's"
+      },
+      "stores": [
+        "delhaize.be",
+        "colruyt.be",
+        "carrefour.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.72,
+          "promo_price": 3.78,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=8445291786219",
+          "updated_at": "2026-11-25T19:23:56.822270+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.13,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8445291786219",
+          "updated_at": "2026-11-25T19:23:56.822270+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.71,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8445291786219",
+          "updated_at": "2026-11-25T19:23:56.822270+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.8,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi605451/starbucks-nespresso-chocolate-hazelnut-capsules",
+          "updated_at": "2026-11-25T19:23:56.822270+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=8445291786219",
+          "updated_at": "2026-11-25T19:23:56.822270+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.25,
+          "promo_price": 2.12,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=8445291786219",
+          "updated_at": "2026-11-25T19:23:56.822270+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.19,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8445291786219",
+          "updated_at": "2026-11-25T19:23:56.822270+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.46,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8445291786219",
+          "updated_at": "2026-11-25T19:23:56.822270+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8445291452626": {
+      "barcode": "8445291452626",
+      "domain": "food",
+      "names": {
+        "nl": "Starbucks Nespresso ristretto capsules",
+        "fr": "Starbucks Nespresso ristretto capsules",
+        "de": "Starbucks Nespresso ristretto capsules",
+        "en": "Starbucks Nespresso ristretto capsules",
+        "ar": "Starbucks Nespresso ristretto capsules"
+      },
+      "brand": "Starbucks",
+      "net_weight": "10 stuks",
+      "allergens": [],
+      "description": "Geniet thuis van de intense smaak van de Starbucks by nespresso ristretto shot. Een perfecte balans van rijke aroma's en een krachtige espresso-ervaring, ideaal voor elke koffieliefhebber.",
+      "descriptions": {
+        "nl": "Geniet thuis van de intense smaak van de Starbucks by nespresso ristretto shot. Een perfecte balans van rijke aroma's en een krachtige espresso-ervaring, ideaal voor elke koffieliefhebber.",
+        "fr": "Starbucks Nespresso ristretto capsules par Starbucks.",
+        "de": "Starbucks Nespresso ristretto capsules von Starbucks.",
+        "en": "Starbucks Nespresso ristretto capsules by Starbucks.",
+        "ar": "منتج Starbucks Nespresso ristretto capsules من Starbucks."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: gebrande en gemalen koffie, 100% Arabica.",
+        "fr": "Ingrediënten: gebrande en gemalen koffie, 100% Arabica.",
+        "de": "Ingrediënten: gebrande en gemalen koffie, 100% Arabica.",
+        "en": "Ingrediënten: gebrande en gemalen koffie, 100% Arabica.",
+        "ar": "Ingrediënten: gebrande en gemalen koffie, 100% Arabica."
+      },
+      "image": "images/8445291452626.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8445291452626.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_71726d31694f345f536e4776434b6876513367766b51?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "koffiepads",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_844"
+      },
+      "nutrition_per_100g": {},
+      "official_nutriscore": "b",
+      "nutriscore_grade": "b",
+      "nutriscore_score": 1,
+      "health_score": 77,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 5.14,
+          "promo_price": 2.57,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=8445291452626",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 5.36,
+          "promo_price": 2.68,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=8445291452626",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 5.11,
+          "promo_price": 4.09,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi589146/starbucks-nespresso-ristretto-capsules",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 5.63,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8445291452626",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.26,
+          "promo_price": 4.21,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=8445291452626",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 5.44,
+          "promo_price": 2.72,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=8445291452626",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 5.08,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8445291452626",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 5.41,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8445291452626",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8445292613507": {
+      "barcode": "8445292613507",
+      "domain": "food",
+      "names": {
+        "nl": "Nescafé Roastery lungo medium roast capsules 20",
+        "fr": "Nescafé Roastery lungo medium roast capsules 20",
+        "de": "Nescafé Roastery lungo medium roast capsules 20",
+        "en": "Nescafé Roastery lungo medium roast capsules 20",
+        "ar": "Nescafé Roastery lungo medium roast capsules 20"
+      },
+      "brand": "Nescafé",
+      "net_weight": "20 stuks",
+      "allergens": [],
+      "description": "Ontdek Nescafe roastery lungo: een heerlijke koffieblend met tonen van karamel en granen voor de perfecte lungo, gemaakt van 100% arabica. Geschikt voor jouw nespresso machine. Intensiteit 8.",
+      "descriptions": {
+        "nl": "Ontdek Nescafe roastery lungo: een heerlijke koffieblend met tonen van karamel en granen voor de perfecte lungo, gemaakt van 100% arabica. Geschikt voor jouw nespresso machine. Intensiteit 8.",
+        "fr": "Nescafé Roastery lungo medium roast capsules 20 par Nescafé.",
+        "de": "Nescafé Roastery lungo medium roast capsules 20 von Nescafé.",
+        "en": "Nescafé Roastery lungo medium roast capsules 20 by Nescafé.",
+        "ar": "منتج Nescafé Roastery lungo medium roast capsules 20 من Nescafé."
+      },
+      "ingredients": {
+        "nl": "Gebrande gemalen koffie.",
+        "fr": "Gebrande gemalen koffie.",
+        "de": "Gebrande gemalen koffie.",
+        "en": "Gebrande gemalen koffie.",
+        "ar": "Gebrande gemalen koffie."
+      },
+      "image": "images/8445292613507.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8445292613507.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_57466836516c652d513579703567594d3949544b5777?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "koffiepads",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_844"
+      },
+      "nutrition_per_100g": {},
+      "official_nutriscore": "b",
+      "nutriscore_grade": "b",
+      "nutriscore_score": 1,
+      "health_score": 77,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "carrefour.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.2,
+          "promo_price": 1.76,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=8445292613507",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.19,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8445292613507",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.81,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8445292613507",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.89,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi626570/nescafe%CC%81-roastery-lungo-medium-roast-capsules-20",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.46,
+          "promo_price": 1.97,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=8445292613507",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.75,
+          "promo_price": 2.2,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=8445292613507",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.61,
+          "promo_price": 1.3,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=8445292613507",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.03,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8445292613507",
+          "updated_at": "2026-11-25T19:25:17.892589+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8445292618267": {
+      "barcode": "8445292618267",
+      "domain": "food",
+      "names": {
+        "nl": "Nescafé Roastery espresso medium capsules",
+        "fr": "Nescafé Roastery espresso medium capsules",
+        "de": "Nescafé Roastery espresso medium capsules",
+        "en": "Nescafé Roastery espresso medium capsules",
+        "ar": "Nescafé Roastery espresso medium capsules"
+      },
+      "brand": "Nescafé",
+      "net_weight": "20 stuks",
+      "allergens": [],
+      "description": "Ontdek Nescafe roastery espresso met nootachtige en zoete graantonen in elk kopje. Geniet van kwalitatieve espresso, gemaakt van 100% arabica. Geschikt voor jouw nespresso machine. Intensiteit 7.",
+      "descriptions": {
+        "nl": "Ontdek Nescafe roastery espresso met nootachtige en zoete graantonen in elk kopje. Geniet van kwalitatieve espresso, gemaakt van 100% arabica. Geschikt voor jouw nespresso machine. Intensiteit 7.",
+        "fr": "Nescafé Roastery espresso medium capsules par Nescafé.",
+        "de": "Nescafé Roastery espresso medium capsules von Nescafé.",
+        "en": "Nescafé Roastery espresso medium capsules by Nescafé.",
+        "ar": "منتج Nescafé Roastery espresso medium capsules من Nescafé."
+      },
+      "ingredients": {
+        "nl": "Gebrande gemalen koffie.",
+        "fr": "Gebrande gemalen koffie.",
+        "de": "Gebrande gemalen koffie.",
+        "en": "Gebrande gemalen koffie.",
+        "ar": "Gebrande gemalen koffie."
+      },
+      "image": "images/8445292618267.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8445292618267.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_6137693864416c4353764f325448544f4e4156465451?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "koffiepads",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_844"
+      },
+      "nutrition_per_100g": {},
+      "official_nutriscore": "b",
+      "nutriscore_grade": "b",
+      "nutriscore_score": 1,
+      "health_score": 77,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.46,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8445292618267",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi626571/nescafe%CC%81-roastery-espresso-medium-capsules",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.98,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8445292618267",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 5.55,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8445292618267",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.14,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=8445292618267",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 5.19,
+          "promo_price": 4.15,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=8445292618267",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.51,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8445292618267",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 5.16,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8445292618267",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8445292555807": {
+      "barcode": "8445292555807",
+      "domain": "food",
+      "names": {
+        "nl": "Nescafé Roastery lungo medium roast capsules 10",
+        "fr": "Nescafé Roastery lungo medium roast capsules 10",
+        "de": "Nescafé Roastery lungo medium roast capsules 10",
+        "en": "Nescafé Roastery lungo medium roast capsules 10",
+        "ar": "Nescafé Roastery lungo medium roast capsules 10"
+      },
+      "brand": "Nescafé",
+      "net_weight": "10 stuks",
+      "allergens": [],
+      "description": "Ontdek Nescafe roastery lungo: een heerlijke koffieblend met tonen van karamel en granen voor de perfecte lungo, gemaakt van 100% arabica. Geschikt voor jouw nespresso machine. Intensiteit 8.",
+      "descriptions": {
+        "nl": "Ontdek Nescafe roastery lungo: een heerlijke koffieblend met tonen van karamel en granen voor de perfecte lungo, gemaakt van 100% arabica. Geschikt voor jouw nespresso machine. Intensiteit 8.",
+        "fr": "Nescafé Roastery lungo medium roast capsules 10 par Nescafé.",
+        "de": "Nescafé Roastery lungo medium roast capsules 10 von Nescafé.",
+        "en": "Nescafé Roastery lungo medium roast capsules 10 by Nescafé.",
+        "ar": "منتج Nescafé Roastery lungo medium roast capsules 10 من Nescafé."
+      },
+      "ingredients": {
+        "nl": "Gebrande en gemalen koffie",
+        "fr": "Gebrande en gemalen koffie",
+        "de": "Gebrande en gemalen koffie",
+        "en": "Gebrande en gemalen koffie",
+        "ar": "Gebrande en gemalen koffie"
+      },
+      "image": "images/8445292555807.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8445292555807.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_744b5254346751675471617674724353333648446251?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "koffiepads",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_844"
+      },
+      "nutrition_per_100g": {},
+      "official_nutriscore": "b",
+      "nutriscore_grade": "b",
+      "nutriscore_score": 1,
+      "health_score": 77,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 5.53,
+          "promo_price": 2.77,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=8445292555807",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 5.63,
+          "promo_price": 4.5,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=8445292555807",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.81,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi626574/nescafe%CC%81-roastery-lungo-medium-roast-capsules-10",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 5.34,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8445292555807",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.64,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=8445292555807",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.87,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=8445292555807",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 5.32,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8445292555807",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 5.61,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8445292555807",
+          "updated_at": "2026-11-25T19:28:06.536502+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8445290133403": {
+      "barcode": "8445290133403",
+      "domain": "food",
+      "names": {
+        "nl": "Nestlé Nesquik cacao",
+        "fr": "Nestlé Nesquik cacao",
+        "de": "Nestlé Nesquik cacao",
+        "en": "Nestlé Nesquik cacao",
+        "ar": "Nestlé Nesquik cacao"
+      },
+      "brand": "Nestlé",
+      "net_weight": "300 g",
+      "allergens": [
+        "Soy"
+      ],
+      "description": "Lekkere chocolademelk kan ook voedzaam zijn! Nesquik chocomelk poeder geeft je melk een twist met cacao en vitamine D. Gebruik nesquik mix voor cacaodrank als uniek verwenmoment voor het hele gezin.",
+      "descriptions": {
+        "nl": "Lekkere chocolademelk kan ook voedzaam zijn! Nesquik chocomelk poeder geeft je melk een twist met cacao en vitamine D. Gebruik nesquik mix voor cacaodrank als uniek verwenmoment voor het hele gezin.",
+        "fr": "Nestlé Nesquik cacao par Nestlé.",
+        "de": "Nestlé Nesquik cacao von Nestlé.",
+        "en": "Nestlé Nesquik cacao by Nestlé.",
+        "ar": "منتج Nestlé Nesquik cacao من Nestlé."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: suiker, mager cacaopoeder* (23%), emulgator (SOJAlecithine), zout, vitaminen (C,D), natuurlijk aroma, kaneel.",
+        "fr": "Ingrediënten: suiker, mager cacaopoeder* (23%), emulgator (SOJAlecithine), zout, vitaminen (C,D), natuurlijk aroma, kaneel.",
+        "de": "Ingrediënten: suiker, mager cacaopoeder* (23%), emulgator (SOJAlecithine), zout, vitaminen (C,D), natuurlijk aroma, kaneel.",
+        "en": "Ingrediënten: suiker, mager cacaopoeder* (23%), emulgator (SOJAlecithine), zout, vitaminen (C,D), natuurlijk aroma, kaneel.",
+        "ar": "Ingrediënten: suiker, mager cacaopoeder* (23%), emulgator (SOJAlecithine), zout, vitaminen (C,D), natuurlijk aroma, kaneel."
+      },
+      "image": "images/8445290133403.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8445290133403.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130303839313735?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "cacao",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_844"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1634.0,
+        "calories_100g": 386.0,
+        "fat_100g": 3.6,
+        "saturated_fat_100g": 1.6,
+        "carbohydrates_100g": 78.9,
+        "sugars_100g": 75.1,
+        "fiber_100g": 7.7,
+        "proteins_100g": 5.1,
+        "salt_100g": 0.41,
+        "sodium_100g": 164.0
+      },
+      "official_nutriscore": "b",
+      "nutriscore_grade": "b",
+      "nutriscore_score": 8,
+      "health_score": 78,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijk aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk aroma"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.65,
+          "promo_price": 0.82,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=8445290133403",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.55,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi561885/nestle%CC%81-nesquik-cacao",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.64,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8445290133403",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.68,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8445290133403",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.53,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=8445290133403",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.69,
+          "promo_price": 1.35,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=8445290133403",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.87,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8445290133403",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8445290133403",
+          "updated_at": "2026-11-25T19:43:15.910737+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8445291705852": {
+      "barcode": "8445291705852",
+      "domain": "food",
+      "names": {
+        "nl": "Nestlé Baby snack chewing wheels banaan 10m+",
+        "fr": "Nestlé Baby snack chewing wheels banaan 10m+",
+        "de": "Nestlé Baby snack chewing wheels banaan 10m+",
+        "en": "Nestlé Baby snack chewing wheels banaan 10m+",
+        "ar": "Nestlé Baby snack chewing wheels banaan 10m+"
+      },
+      "brand": "Nestlé",
+      "net_weight": "28 g",
+      "allergens": [
+        "Gluten",
+        "Peanuts",
+        "Tree Nuts"
+      ],
+      "description": "Nestle chewing wheels zijn een heerlijk hulpmiddel bij doorkomende tandjes voor kindjes vanaf 10 maanden. Een functioneel en smaakvol tussendoortje om op de kauwen, gemaakt voor kleine handjes.",
+      "descriptions": {
+        "nl": "Nestle chewing wheels zijn een heerlijk hulpmiddel bij doorkomende tandjes voor kindjes vanaf 10 maanden. Een functioneel en smaakvol tussendoortje om op de kauwen, gemaakt voor kleine handjes.",
+        "fr": "Nestlé Baby snack chewing wheels banaan 10m+ par Nestlé.",
+        "de": "Nestlé Baby snack chewing wheels banaan 10m+ von Nestlé.",
+        "en": "Nestlé Baby snack chewing wheels banaan 10m+ by Nestlé.",
+        "ar": "منتج Nestlé Baby snack chewing wheels banaan 10m+ من Nestlé."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEbloem 46.3%***. maïsgries 41.5%***. zonnebloemolie***. bananenpuree*** 4.5%. vitamine B1. antioxidant: alfa-tocoferol; zuurteregelaars: citroenzuur. calciumcarbonaat. Kan NOTEN en PINDA'S bevatten. ***Afkomstig van biologische oorsprong. EU / niet-EU landbouw.",
+        "fr": "Ingrediënten: TARWEbloem 46.3%***. maïsgries 41.5%***. zonnebloemolie***. bananenpuree*** 4.5%. vitamine B1. antioxidant: alfa-tocoferol; zuurteregelaars: citroenzuur. calciumcarbonaat. Kan NOTEN en PINDA'S bevatten. ***Afkomstig van biologische oorsprong. EU / niet-EU landbouw.",
+        "de": "Ingrediënten: TARWEbloem 46.3%***. maïsgries 41.5%***. zonnebloemolie***. bananenpuree*** 4.5%. vitamine B1. antioxidant: alfa-tocoferol; zuurteregelaars: citroenzuur. calciumcarbonaat. Kan NOTEN en PINDA'S bevatten. ***Afkomstig van biologische oorsprong. EU / niet-EU landbouw.",
+        "en": "Ingrediënten: TARWEbloem 46.3%***. maïsgries 41.5%***. zonnebloemolie***. bananenpuree*** 4.5%. vitamine B1. antioxidant: alfa-tocoferol; zuurteregelaars: citroenzuur. calciumcarbonaat. Kan NOTEN en PINDA'S bevatten. ***Afkomstig van biologische oorsprong. EU / niet-EU landbouw.",
+        "ar": "Ingrediënten: TARWEbloem 46.3%***. maïsgries 41.5%***. zonnebloemolie***. bananenpuree*** 4.5%. vitamine B1. antioxidant: alfa-tocoferol; zuurteregelaars: citroenzuur. calciumcarbonaat. Kan NOTEN en PINDA'S bevatten. ***Afkomstig van biologische oorsprong. EU / niet-EU landbouw."
+      },
+      "image": "images/8445291705852.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8445291705852.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_696578566c592d6c5345796656576473476a52334c51?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babyvoeding",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_844"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1789.0,
+        "calories_100g": 427.0,
+        "fat_100g": 9.9,
+        "saturated_fat_100g": 1.1,
+        "carbohydrates_100g": 77.0,
+        "sugars_100g": 2.6,
+        "fiber_100g": 2.9,
+        "proteins_100g": 6.2,
+        "salt_100g": 0.01,
+        "sodium_100g": 4.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "b",
+      "nutriscore_score": 0,
+      "health_score": 78,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.23,
+          "promo_price": 1.11,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=8445291705852",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.54,
+          "promo_price": 2.03,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=8445291705852",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.57,
+          "promo_price": 2.06,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=8445291705852",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.67,
+          "promo_price": 2.14,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi606044/nestle%CC%81-baby-snack-chewing-wheels-banaan-10m",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.13,
+          "promo_price": 2.5,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=8445291705852",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.05,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=8445291705852",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.75,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8445291705852",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.06,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8445291705852",
+          "updated_at": "2026-11-25T21:52:15.724853+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "8445291821941": {
+      "barcode": "8445291821941",
+      "domain": "food",
+      "names": {
+        "nl": "Nestlé Baby cereals multigranen fruit 8m+",
+        "fr": "Nestlé Baby cereals multigranen fruit 8m+",
+        "de": "Nestlé Baby cereals multigranen fruit 8m+",
+        "en": "Nestlé Baby cereals multigranen fruit 8m+",
+        "ar": "Nestlé Baby cereals multigranen fruit 8m+"
+      },
+      "brand": "Nestlé",
+      "net_weight": "160 g",
+      "allergens": [
+        "Gluten",
+        "Milk",
+        "Mustard",
+        "Celery"
+      ],
+      "description": "Tijd voor een goed babyontbijt! Met Nestle baby cereals multigranen met fruit geef je je kindje een voedzaam en lekker ontbijtpapje, boordevol granen. Geschikt voor baby's vanaf 8 maanden.",
+      "descriptions": {
+        "nl": "Tijd voor een goed babyontbijt! Met Nestle baby cereals multigranen met fruit geef je je kindje een voedzaam en lekker ontbijtpapje, boordevol granen. Geschikt voor baby's vanaf 8 maanden.",
+        "fr": "Nestlé Baby cereals multigranen fruit 8m+ par Nestlé.",
+        "de": "Nestlé Baby cereals multigranen fruit 8m+ von Nestlé.",
+        "en": "Nestlé Baby cereals multigranen fruit 8m+ by Nestlé.",
+        "ar": "منتج Nestlé Baby cereals multigranen fruit 8m+ من Nestlé."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Granen 95% - TARWEmeel (51,4%), volkoren TARWEmeel (27,5%), volkoren HAVERmeel (4,6%), TRITICALE, rijst-, mais-, ROGGE-, GERSTE-, TARWE-(spelt)meel, gedroogd fruit 4,2% - bananenvlokken 2,7%, appelvlokken 0,8% (appel, maiszetmeel, emulgator: lecithine), sinaasappelvlokken 0,7%, mineralen - calciumcarbonaat, ijzerfumaraat, zinksulfaat, kaliumjodide, vitaminen - C, E, niacine, B1, A, B6, foliumzuur, D, aroma Kan MELK, SELDERIJ en MOSTERD bevatten.",
+        "fr": "Ingrediënten: Granen 95% - TARWEmeel (51,4%), volkoren TARWEmeel (27,5%), volkoren HAVERmeel (4,6%), TRITICALE, rijst-, mais-, ROGGE-, GERSTE-, TARWE-(spelt)meel, gedroogd fruit 4,2% - bananenvlokken 2,7%, appelvlokken 0,8% (appel, maiszetmeel, emulgator: lecithine), sinaasappelvlokken 0,7%, mineralen - calciumcarbonaat, ijzerfumaraat, zinksulfaat, kaliumjodide, vitaminen - C, E, niacine, B1, A, B6, foliumzuur, D, aroma Kan MELK, SELDERIJ en MOSTERD bevatten.",
+        "de": "Ingrediënten: Granen 95% - TARWEmeel (51,4%), volkoren TARWEmeel (27,5%), volkoren HAVERmeel (4,6%), TRITICALE, rijst-, mais-, ROGGE-, GERSTE-, TARWE-(spelt)meel, gedroogd fruit 4,2% - bananenvlokken 2,7%, appelvlokken 0,8% (appel, maiszetmeel, emulgator: lecithine), sinaasappelvlokken 0,7%, mineralen - calciumcarbonaat, ijzerfumaraat, zinksulfaat, kaliumjodide, vitaminen - C, E, niacine, B1, A, B6, foliumzuur, D, aroma Kan MELK, SELDERIJ en MOSTERD bevatten.",
+        "en": "Ingrediënten: Granen 95% - TARWEmeel (51,4%), volkoren TARWEmeel (27,5%), volkoren HAVERmeel (4,6%), TRITICALE, rijst-, mais-, ROGGE-, GERSTE-, TARWE-(spelt)meel, gedroogd fruit 4,2% - bananenvlokken 2,7%, appelvlokken 0,8% (appel, maiszetmeel, emulgator: lecithine), sinaasappelvlokken 0,7%, mineralen - calciumcarbonaat, ijzerfumaraat, zinksulfaat, kaliumjodide, vitaminen - C, E, niacine, B1, A, B6, foliumzuur, D, aroma Kan MELK, SELDERIJ en MOSTERD bevatten.",
+        "ar": "Ingrediënten: Granen 95% - TARWEmeel (51,4%), volkoren TARWEmeel (27,5%), volkoren HAVERmeel (4,6%), TRITICALE, rijst-, mais-, ROGGE-, GERSTE-, TARWE-(spelt)meel, gedroogd fruit 4,2% - bananenvlokken 2,7%, appelvlokken 0,8% (appel, maiszetmeel, emulgator: lecithine), sinaasappelvlokken 0,7%, mineralen - calciumcarbonaat, ijzerfumaraat, zinksulfaat, kaliumjodide, vitaminen - C, E, niacine, B1, A, B6, foliumzuur, D, aroma Kan MELK, SELDERIJ en MOSTERD bevatten."
+      },
+      "image": "images/8445291821941.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/8445291821941.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_7645696f4e44385553784348632d38364e5841467277?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babyvoeding",
+      "origin_country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "🇪🇸",
+        "inferred_from": "GS1_844"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1595.0,
+        "calories_100g": 381.0,
+        "fat_100g": 2.1,
+        "saturated_fat_100g": 0.5,
+        "carbohydrates_100g": 77.0,
+        "sugars_100g": 4.2,
+        "fiber_100g": 6.0,
+        "proteins_100g": 11.0,
+        "salt_100g": 0.02,
+        "sodium_100g": 8.0
+      },
+      "official_nutriscore": null,
+      "nutriscore_grade": "a",
+      "nutriscore_score": -6,
+      "health_score": 91,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "emulgator: lecithine"
+      ],
+      "reason": "Emulsifier with unspecified plant/animal origin requires source verification: emulgator: lecithine",
+      "explanations": {
+        "ar": "مستحلب ثنائي المصدر يتطلب التحقق من المصدر: emulgator: lecithine",
+        "en": "Emulsifier with unspecified plant/animal origin requires source verification: emulgator: lecithine",
+        "fr": "Émulsifiant d'origine végétale/animale non spécifiée nécessitant une vérification : emulgator: lecithine",
+        "nl": "Emulgator met ongespecificeerde plantaardige/dierlijke oorsprong vereist controle: emulgator: lecithine",
+        "de": "Emulgator mit unbestimmter pflanzlicher/tierischer Herkunft erfordert Prüfung: emulgator: lecithine"
+      },
+      "stores": [
+        "ah.be",
+        "colruyt.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.42,
+          "promo_price": 2.74,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi601307/nestle%CC%81-baby-cereals-multigranen-fruit-8m",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.72,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=8445291821941",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=8445291821941",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.78,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=8445291821941",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.52,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=8445291821941",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.22,
+          "promo_price": 3.38,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=8445291821941",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 3.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=8445291821941",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.93,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=8445291821941",
+          "updated_at": "2026-11-25T21:53:46.482448+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

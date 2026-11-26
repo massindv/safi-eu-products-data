@@ -1,0 +1,218 @@
+{
+  "version": "2.0.0",
+  "prefix": "594",
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 1,
+  "products": {
+    "5949040204823": {
+      "barcode": "5949040204823",
+      "domain": "food",
+      "names": {
+        "nl": "Elephant Pretzels chili & lime",
+        "fr": "Elephant Pretzels chili & lime",
+        "de": "Elephant Pretzels chili & lime",
+        "en": "Elephant Pretzels chili & lime",
+        "ar": "Elephant Pretzels chili & lime"
+      },
+      "brand": "Elephant",
+      "net_weight": "160 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Mustard"
+      ],
+      "description": "Elephant Chili en lime zijn knapperige pretzels met een heerlijke combinatie van frisse limoen en een pittige Chilitoets perfect voor wie houdt van een verrassende smaakervaring.",
+      "descriptions": {
+        "nl": "Elephant Chili en lime zijn knapperige pretzels met een heerlijke combinatie van frisse limoen en een pittige Chilitoets perfect voor wie houdt van een verrassende smaakervaring.",
+        "fr": "Elephant Pretzels chili & lime par Elephant.",
+        "de": "Elephant Pretzels chili & lime von Elephant.",
+        "en": "Elephant Pretzels chili & lime by Elephant.",
+        "ar": "منتج Elephant Pretzels chili & lime من Elephant."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: witte TARWEBLOEM, plantaardige oliën (koolzaad, zonnebloem - in wisselende verhoudingen), chili en limoen seasoning 7% [zout, zetmeel, dextrose, zuurteregelaar: natriumacetaat; kruiden van (paprika, look, komijn, chili 1,7%, korianderzaad), suiker, gistextract, ui, natuurlijk aroma, zuurteregelaar: citroenzuur; limoensappoeder 0,6%, maltodextrine, antioxidant: rozemarijnextract], suiker, GERSTEMOUTEXTRACT, zeezout, rijsmiddel: natriumbicarbonaat; emulgator: SOJAlecithine. Kan sporen bevatten van sesam en mosterd.",
+        "fr": "Ingrediënten: witte TARWEBLOEM, plantaardige oliën (koolzaad, zonnebloem - in wisselende verhoudingen), chili en limoen seasoning 7% [zout, zetmeel, dextrose, zuurteregelaar: natriumacetaat; kruiden van (paprika, look, komijn, chili 1,7%, korianderzaad), suiker, gistextract, ui, natuurlijk aroma, zuurteregelaar: citroenzuur; limoensappoeder 0,6%, maltodextrine, antioxidant: rozemarijnextract], suiker, GERSTEMOUTEXTRACT, zeezout, rijsmiddel: natriumbicarbonaat; emulgator: SOJAlecithine. Kan sporen bevatten van sesam en mosterd.",
+        "de": "Ingrediënten: witte TARWEBLOEM, plantaardige oliën (koolzaad, zonnebloem - in wisselende verhoudingen), chili en limoen seasoning 7% [zout, zetmeel, dextrose, zuurteregelaar: natriumacetaat; kruiden van (paprika, look, komijn, chili 1,7%, korianderzaad), suiker, gistextract, ui, natuurlijk aroma, zuurteregelaar: citroenzuur; limoensappoeder 0,6%, maltodextrine, antioxidant: rozemarijnextract], suiker, GERSTEMOUTEXTRACT, zeezout, rijsmiddel: natriumbicarbonaat; emulgator: SOJAlecithine. Kan sporen bevatten van sesam en mosterd.",
+        "en": "Ingrediënten: witte TARWEBLOEM, plantaardige oliën (koolzaad, zonnebloem - in wisselende verhoudingen), chili en limoen seasoning 7% [zout, zetmeel, dextrose, zuurteregelaar: natriumacetaat; kruiden van (paprika, look, komijn, chili 1,7%, korianderzaad), suiker, gistextract, ui, natuurlijk aroma, zuurteregelaar: citroenzuur; limoensappoeder 0,6%, maltodextrine, antioxidant: rozemarijnextract], suiker, GERSTEMOUTEXTRACT, zeezout, rijsmiddel: natriumbicarbonaat; emulgator: SOJAlecithine. Kan sporen bevatten van sesam en mosterd.",
+        "ar": "Ingrediënten: witte TARWEBLOEM, plantaardige oliën (koolzaad, zonnebloem - in wisselende verhoudingen), chili en limoen seasoning 7% [zout, zetmeel, dextrose, zuurteregelaar: natriumacetaat; kruiden van (paprika, look, komijn, chili 1,7%, korianderzaad), suiker, gistextract, ui, natuurlijk aroma, zuurteregelaar: citroenzuur; limoensappoeder 0,6%, maltodextrine, antioxidant: rozemarijnextract], suiker, GERSTEMOUTEXTRACT, zeezout, rijsmiddel: natriumbicarbonaat; emulgator: SOJAlecithine. Kan sporen bevatten van sesam en mosterd."
+      },
+      "image": "images/5949040204823.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5949040204823.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_3643636d4f41564d51506d7159645173417174775a51?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "zoutjes",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "STORE_FALLBACK"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1838.0,
+        "calories_100g": 437.0,
+        "fat_100g": 14.0,
+        "saturated_fat_100g": 1.1,
+        "carbohydrates_100g": 68.0,
+        "sugars_100g": 6.8,
+        "fiber_100g": null,
+        "proteins_100g": 9.1,
+        "salt_100g": 2.3,
+        "sodium_100g": 920.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 12,
+      "health_score": 41,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijk aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk aroma"
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "carrefour.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.21,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5949040204823",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.47,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5949040204823",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5949040204823",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.1,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi610665/elephant-pretzels-chili-en-lime",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.96,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5949040204823",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.31,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5949040204823",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.81,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5949040204823",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.08,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5949040204823",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    }
+  }
+}

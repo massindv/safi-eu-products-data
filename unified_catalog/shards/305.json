@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "prefix": "305",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
   "product_count": 8,
   "products": {
     "3052910013677": {
@@ -203,10 +203,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "3052910013776": {
       "barcode": "3052910013776",
@@ -407,10 +408,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "3056440070896": {
       "barcode": "3056440070896",
@@ -613,10 +615,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "3052911286797": {
       "barcode": "3052911286797",
@@ -817,10 +820,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "3052911556661": {
       "barcode": "3052911556661",
@@ -1022,10 +1026,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "3052910013745": {
       "barcode": "3052910013745",
@@ -1227,7 +1232,8 @@
           "updated_at": "2026-11-25T14:42:17.820335+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:42:17.820335+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3052911286810": {
       "barcode": "3052911286810",
@@ -1432,7 +1438,8 @@
           "updated_at": "2026-11-25T14:42:17.820335+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:42:17.820335+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3052910051365": {
       "barcode": "3052910051365",
@@ -1636,7 +1643,8 @@
           "updated_at": "2026-11-25T14:42:17.820335+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:42:17.820335+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

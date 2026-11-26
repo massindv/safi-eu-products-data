@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "599",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 14,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 16,
   "products": {
     "5997523324377": {
       "barcode": "5997523324377",
@@ -215,10 +215,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5997523313234": {
       "barcode": "5997523313234",
@@ -431,10 +432,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5997523313005": {
       "barcode": "5997523313005",
@@ -647,10 +649,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5997523324292": {
       "barcode": "5997523324292",
@@ -864,7 +867,8 @@
           "updated_at": "2026-11-25T09:02:49.958012+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5997523315832": {
       "barcode": "5997523315832",
@@ -1078,7 +1082,8 @@
           "updated_at": "2026-11-25T09:02:49.958012+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5997523313135": {
       "barcode": "5997523313135",
@@ -1292,7 +1297,8 @@
           "updated_at": "2026-11-25T09:02:49.958012+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5997523324315": {
       "barcode": "5997523324315",
@@ -1506,7 +1512,8 @@
           "updated_at": "2026-11-25T09:09:22.673665+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5997523313159": {
       "barcode": "5997523313159",
@@ -1720,7 +1727,8 @@
           "updated_at": "2026-11-25T09:10:49.543888+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5997523317072": {
       "barcode": "5997523317072",
@@ -1934,7 +1942,8 @@
           "updated_at": "2026-11-25T09:12:06.226505+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5997523315856": {
       "barcode": "5997523315856",
@@ -2148,7 +2157,8 @@
           "updated_at": "2026-11-25T09:13:28.111265+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5997523335410": {
       "barcode": "5997523335410",
@@ -2362,7 +2372,8 @@
           "updated_at": "2026-11-25T13:05:14.184024+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5996379380803": {
       "barcode": "5996379380803",
@@ -2569,7 +2580,8 @@
           "updated_at": "2026-11-25T14:01:16.172053+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5996379749761": {
       "barcode": "5996379749761",
@@ -2773,7 +2785,8 @@
           "updated_at": "2026-11-25T14:01:16.172053+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5996379315959": {
       "barcode": "5996379315959",
@@ -2980,7 +2993,413 @@
           "updated_at": "2026-11-25T14:05:25.686971+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5997156700036": {
+      "barcode": "5997156700036",
+      "domain": "food",
+      "names": {
+        "nl": "Ziegler Kaaswafels",
+        "fr": "Ziegler Kaaswafels",
+        "de": "Ziegler Kaaswafels",
+        "en": "Ziegler Kaaswafels",
+        "ar": "Ziegler Kaaswafels"
+      },
+      "brand": "Ziegler",
+      "net_weight": "150 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Eggs",
+        "Sesame"
+      ],
+      "description": "De Ziegler kaaswafels worden gemaakt volgens authentiek recept van de familie Ziegler in Hongarije. Kaaswafels zijn een lekker tussendoortje of als snack te eten.",
+      "descriptions": {
+        "nl": "De Ziegler kaaswafels worden gemaakt volgens authentiek recept van de familie Ziegler in Hongarije. Kaaswafels zijn een lekker tussendoortje of als snack te eten.",
+        "fr": "Ziegler Kaaswafels par Ziegler.",
+        "de": "Ziegler Kaaswafels von Ziegler.",
+        "en": "Ziegler Kaaswafels by Ziegler.",
+        "ar": "منتج Ziegler Kaaswafels من Ziegler."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: TARWEmeel (77 %), KAASPOEDER (overeenkomstig met 22% kaas), WEIPOEDER, palm vet, zout, EIPOEDER, paprika, emulgeermiddel (SOJALECITHINE), zwarte peper. Kan sporen bevatten van sesam.",
+        "fr": "Ingrediënten: TARWEmeel (77 %), KAASPOEDER (overeenkomstig met 22% kaas), WEIPOEDER, palm vet, zout, EIPOEDER, paprika, emulgeermiddel (SOJALECITHINE), zwarte peper. Kan sporen bevatten van sesam.",
+        "de": "Ingrediënten: TARWEmeel (77 %), KAASPOEDER (overeenkomstig met 22% kaas), WEIPOEDER, palm vet, zout, EIPOEDER, paprika, emulgeermiddel (SOJALECITHINE), zwarte peper. Kan sporen bevatten van sesam.",
+        "en": "Ingrediënten: TARWEmeel (77 %), KAASPOEDER (overeenkomstig met 22% kaas), WEIPOEDER, palm vet, zout, EIPOEDER, paprika, emulgeermiddel (SOJALECITHINE), zwarte peper. Kan sporen bevatten van sesam.",
+        "ar": "Ingrediënten: TARWEmeel (77 %), KAASPOEDER (overeenkomstig met 22% kaas), WEIPOEDER, palm vet, zout, EIPOEDER, paprika, emulgeermiddel (SOJALECITHINE), zwarte peper. Kan sporen bevatten van sesam."
+      },
+      "image": "images/5997156700036.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5997156700036.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_43545239373032303832?revLabel=4&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "zoutjes",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "STORE_FALLBACK"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1709.0,
+        "calories_100g": 407.0,
+        "fat_100g": 9.0,
+        "saturated_fat_100g": 5.0,
+        "carbohydrates_100g": 63.0,
+        "sugars_100g": 4.0,
+        "fiber_100g": null,
+        "proteins_100g": 15.0,
+        "salt_100g": 3.0,
+        "sodium_100g": 1200.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 14,
+      "health_score": 21,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "overeenkomstig met % kaas",
+        "weipoeder"
+      ],
+      "reason": "Dairy derivative with unspecified rennet/source requires verification: overeenkomstig met % kaas, weipoeder",
+      "explanations": {
+        "ar": "مشتق ألبان غير محدد المنفحة يتطلب التحقق من المصدر: overeenkomstig met % kaas, weipoeder",
+        "en": "Dairy derivative with unspecified rennet/source requires verification: overeenkomstig met % kaas, weipoeder",
+        "fr": "Dérivé laitier à présure/origine non spécifiée nécessitant une vérification : overeenkomstig met % kaas, weipoeder",
+        "nl": "Zuivelderivaat met ongespecificeerd stremsel/herkomst vereist verificatie: overeenkomstig met % kaas, weipoeder",
+        "de": "Milchderivat mit unbestimmtem Lab/Ursprung erfordert Überprüfung: overeenkomstig met % kaas, weipoeder"
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.07,
+          "promo_price": 3.26,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=5997156700036",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.77,
+          "promo_price": 3.82,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi198058/ziegler-kaaswafels",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.47,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5997156700036",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.62,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5997156700036",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.65,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5997156700036",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 5.03,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5997156700036",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.6,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5997156700036",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.78,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5997156700036",
+          "updated_at": "2026-11-25T15:44:13.659058+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5997100022511": {
+      "barcode": "5997100022511",
+      "domain": "food",
+      "names": {
+        "nl": "Pickwick Green lemon groene thee",
+        "fr": "Pickwick Green lemon groene thee",
+        "de": "Pickwick Green lemon groene thee",
+        "en": "Pickwick Green lemon groene thee",
+        "ar": "Pickwick Green lemon groene thee"
+      },
+      "brand": "Pickwick",
+      "net_weight": "20 stuks",
+      "allergens": [],
+      "description": "Een frisse groene thee met een karakteristieke lichte kleur. Door een vleugje citroen krijgt de thee een heel verfrissende smaak.",
+      "descriptions": {
+        "nl": "Een frisse groene thee met een karakteristieke lichte kleur. Door een vleugje citroen krijgt de thee een heel verfrissende smaak.",
+        "fr": "Pickwick Green lemon groene thee par Pickwick.",
+        "de": "Pickwick Green lemon groene thee von Pickwick.",
+        "en": "Pickwick Green lemon groene thee by Pickwick.",
+        "ar": "منتج Pickwick Green lemon groene thee من Pickwick."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: groene thee*, citroengras, natuurlijk aroma, citroenschilletjes (2,5%).",
+        "fr": "Ingrediënten: groene thee*, citroengras, natuurlijk aroma, citroenschilletjes (2,5%).",
+        "de": "Ingrediënten: groene thee*, citroengras, natuurlijk aroma, citroenschilletjes (2,5%).",
+        "en": "Ingrediënten: groene thee*, citroengras, natuurlijk aroma, citroenschilletjes (2,5%).",
+        "ar": "Ingrediënten: groene thee*, citroengras, natuurlijk aroma, citroenschilletjes (2,5%)."
+      },
+      "image": "images/5997100022511.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5997100022511.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130303430323730?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "groene_thee",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "STORE_FALLBACK"
+      },
+      "nutrition_per_100g": {},
+      "official_nutriscore": "b",
+      "nutriscore_grade": "b",
+      "nutriscore_score": 1,
+      "health_score": 77,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijk aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk aroma"
+      },
+      "stores": [
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.82,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi63782/pickwick-green-lemon-groene-thee",
+          "updated_at": "2026-11-25T19:36:17.860148+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.83,
+          "promo_price": 2.26,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=5997100022511",
+          "updated_at": "2026-11-25T19:36:17.860148+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.31,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5997100022511",
+          "updated_at": "2026-11-25T19:36:17.860148+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.35,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5997100022511",
+          "updated_at": "2026-11-25T19:36:17.860148+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.95,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5997100022511",
+          "updated_at": "2026-11-25T19:36:17.860148+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.73,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5997100022511",
+          "updated_at": "2026-11-25T19:36:17.860148+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.23,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5997100022511",
+          "updated_at": "2026-11-25T19:36:17.860148+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.63,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5997100022511",
+          "updated_at": "2026-11-25T19:36:17.860148+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

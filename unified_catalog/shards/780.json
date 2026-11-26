@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "prefix": "780",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
   "product_count": 5,
   "products": {
     "7804315304807": {
@@ -61,16 +61,18 @@
       "nutriscore_grade": null,
       "nutriscore_score": null,
       "health_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
-      "triggers": [],
-      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "halal_status": "HARAM",
+      "is_halal": false,
+      "triggers": [
+        "borrelwijn"
+      ],
+      "reason": "Alcohol / كحول (borrelwijn)",
       "explanations": {
-        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
-        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
-        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
-        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
-        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+        "ar": "كحول محرم قطعا (borrelwijn)",
+        "en": "Alcohol / كحول (borrelwijn)",
+        "fr": "Alcool interdit (borrelwijn)",
+        "nl": "Verboden alcohol (borrelwijn)",
+        "de": "Verbotener Alkohol (borrelwijn)"
       },
       "stores": [
         "carrefour.be",
@@ -204,9 +206,10 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "7804315030027": {
       "barcode": "7804315030027",
@@ -252,18 +255,20 @@
       "nutriscore_grade": null,
       "nutriscore_score": null,
       "health_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
+      "halal_status": "HARAM",
+      "is_halal": false,
       "halal_certified": false,
       "halal_certification_source": null,
-      "triggers": [],
-      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "triggers": [
+        "merlot"
+      ],
+      "reason": "Alcohol / كحول (merlot)",
       "explanations": {
-        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
-        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
-        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
-        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
-        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+        "ar": "كحول محرم قطعا (merlot)",
+        "en": "Alcohol / كحول (merlot)",
+        "fr": "Alcool interdit (merlot)",
+        "nl": "Verboden alcohol (merlot)",
+        "de": "Verbotener Alkohol (merlot)"
       },
       "stores": [
         "ah.be",
@@ -397,7 +402,8 @@
           "updated_at": "2026-11-25T09:12:06.226505+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7802180088884": {
       "barcode": "7802180088884",
@@ -443,18 +449,21 @@
       "nutriscore_grade": null,
       "nutriscore_score": null,
       "health_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
+      "halal_status": "HARAM",
+      "is_halal": false,
       "halal_certified": false,
       "halal_certification_source": null,
-      "triggers": [],
-      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "triggers": [
+        "merlot",
+        "borrelwijn"
+      ],
+      "reason": "Alcohol / كحول (merlot, borrelwijn)",
       "explanations": {
-        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
-        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
-        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
-        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
-        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+        "ar": "كحول محرم قطعا (merlot, borrelwijn)",
+        "en": "Alcohol / كحول (merlot, borrelwijn)",
+        "fr": "Alcool interdit (merlot, borrelwijn)",
+        "nl": "Verboden alcohol (merlot, borrelwijn)",
+        "de": "Verbotener Alkohol (merlot, borrelwijn)"
       },
       "stores": [
         "ah.be",
@@ -588,7 +597,8 @@
           "updated_at": "2026-11-25T09:13:28.111265+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7804320462004": {
       "barcode": "7804320462004",
@@ -634,18 +644,20 @@
       "nutriscore_grade": null,
       "nutriscore_score": null,
       "health_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
+      "halal_status": "HARAM",
+      "is_halal": false,
       "halal_certified": false,
       "halal_certification_source": null,
-      "triggers": [],
-      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "triggers": [
+        "merlot"
+      ],
+      "reason": "Alcohol / كحول (merlot)",
       "explanations": {
-        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
-        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
-        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
-        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
-        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+        "ar": "كحول محرم قطعا (merlot)",
+        "en": "Alcohol / كحول (merlot)",
+        "fr": "Alcool interdit (merlot)",
+        "nl": "Verboden alcohol (merlot)",
+        "de": "Verbotener Alkohol (merlot)"
       },
       "stores": [
         "carrefour.be",
@@ -779,7 +791,8 @@
           "updated_at": "2026-11-25T09:14:46.247875+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "7804600770171": {
       "barcode": "7804600770171",
@@ -825,18 +838,21 @@
       "nutriscore_grade": null,
       "nutriscore_score": null,
       "health_score": null,
-      "halal_status": "HALAL",
-      "is_halal": true,
+      "halal_status": "HARAM",
+      "is_halal": false,
       "halal_certified": false,
       "halal_certification_source": null,
-      "triggers": [],
-      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "triggers": [
+        "cabernet sauvignon",
+        "syrah"
+      ],
+      "reason": "Alcohol / كحول (cabernet sauvignon, syrah)",
       "explanations": {
-        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
-        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
-        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
-        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
-        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+        "ar": "كحول محرم قطعا (cabernet sauvignon, syrah)",
+        "en": "Alcohol / كحول (cabernet sauvignon, syrah)",
+        "fr": "Alcool interdit (cabernet sauvignon, syrah)",
+        "nl": "Verboden alcohol (cabernet sauvignon, syrah)",
+        "de": "Verbotener Alkohol (cabernet sauvignon, syrah)"
       },
       "stores": [
         "colruyt.be",
@@ -970,7 +986,8 @@
           "updated_at": "2026-11-25T09:14:46.247875+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

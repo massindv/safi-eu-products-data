@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "061",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 9,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 15,
   "products": {
     "0613008732806": {
       "barcode": "0613008732806",
@@ -195,7 +195,8 @@
           "updated_at": "2026-11-25T08:43:22.833814+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "0613008743529": {
       "barcode": "0613008743529",
@@ -388,7 +389,8 @@
           "updated_at": "2026-11-25T08:47:25.521985+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "0613008753788": {
       "barcode": "0613008753788",
@@ -581,7 +583,8 @@
           "updated_at": "2026-11-25T08:48:48.393117+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "0613008761202": {
       "barcode": "0613008761202",
@@ -785,7 +788,8 @@
           "updated_at": "2026-11-25T08:50:08.172346+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "0613008742409": {
       "barcode": "0613008742409",
@@ -978,7 +982,8 @@
           "updated_at": "2026-11-25T08:50:08.172346+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "0613008764975": {
       "barcode": "0613008764975",
@@ -1182,7 +1187,8 @@
           "updated_at": "2026-11-25T08:51:23.321743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "0612322030087": {
       "barcode": "0612322030087",
@@ -1388,7 +1394,8 @@
           "updated_at": "2026-11-25T10:00:00.526229+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "0612322000790": {
       "barcode": "0612322000790",
@@ -1594,7 +1601,8 @@
           "updated_at": "2026-11-25T13:24:02.241723+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "0612322000783": {
       "barcode": "0612322000783",
@@ -1803,7 +1811,1212 @@
           "updated_at": "2026-11-25T13:25:29.079458+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "0612322001926": {
+      "barcode": "0612322001926",
+      "domain": "food",
+      "names": {
+        "nl": "Nairn's Volkoren crackers glutenvrij",
+        "fr": "Nairn's Volkoren crackers glutenvrij",
+        "de": "Nairn's Volkoren crackers glutenvrij",
+        "en": "Nairn's Volkoren crackers glutenvrij",
+        "ar": "Nairn's Volkoren crackers glutenvrij"
+      },
+      "brand": "Nairn's",
+      "net_weight": "160 g",
+      "allergens": [
+        "Gluten",
+        "Milk",
+        "Tree Nuts"
+      ],
+      "description": "Deze heerlijke volkoren crackers zijn vezelrijk en bovendien verpakt in handige zakjes. Perfect om mee te nemen in je tas, voor on-the-go.",
+      "descriptions": {
+        "nl": "Deze heerlijke volkoren crackers zijn vezelrijk en bovendien verpakt in handige zakjes. Perfect om mee te nemen in je tas, voor on-the-go.",
+        "fr": "Nairn's Volkoren crackers glutenvrij par Nairn's.",
+        "de": "Nairn's Volkoren crackers glutenvrij von Nairn's.",
+        "en": "Nairn's Volkoren crackers glutenvrij by Nairn's.",
+        "ar": "منتج Nairn's Volkoren crackers glutenvrij من Nairn's."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Glutenvrije volkoren HAVER (51%), maismeel, rijstbloem, duurzame palmolie, tapiocazetmeel, maïszetmeel, rijsmiddel: ammoniumcarbonaten, bruine rijststroop, zeezout Zowel ons recept als onze fabriek is vrij van noten. Wij kunnen niet garanderen dat onze ingrediënten vrij van noten zijn. Kan sporen van melk bevatten. melk Allergie-advies: Voor allergenen, zie de VETGEDRUKTE ingrediënten.",
+        "fr": "Ingrediënten: Glutenvrije volkoren HAVER (51%), maismeel, rijstbloem, duurzame palmolie, tapiocazetmeel, maïszetmeel, rijsmiddel: ammoniumcarbonaten, bruine rijststroop, zeezout Zowel ons recept als onze fabriek is vrij van noten. Wij kunnen niet garanderen dat onze ingrediënten vrij van noten zijn. Kan sporen van melk bevatten. melk Allergie-advies: Voor allergenen, zie de VETGEDRUKTE ingrediënten.",
+        "de": "Ingrediënten: Glutenvrije volkoren HAVER (51%), maismeel, rijstbloem, duurzame palmolie, tapiocazetmeel, maïszetmeel, rijsmiddel: ammoniumcarbonaten, bruine rijststroop, zeezout Zowel ons recept als onze fabriek is vrij van noten. Wij kunnen niet garanderen dat onze ingrediënten vrij van noten zijn. Kan sporen van melk bevatten. melk Allergie-advies: Voor allergenen, zie de VETGEDRUKTE ingrediënten.",
+        "en": "Ingrediënten: Glutenvrije volkoren HAVER (51%), maismeel, rijstbloem, duurzame palmolie, tapiocazetmeel, maïszetmeel, rijsmiddel: ammoniumcarbonaten, bruine rijststroop, zeezout Zowel ons recept als onze fabriek is vrij van noten. Wij kunnen niet garanderen dat onze ingrediënten vrij van noten zijn. Kan sporen van melk bevatten. melk Allergie-advies: Voor allergenen, zie de VETGEDRUKTE ingrediënten.",
+        "ar": "Ingrediënten: Glutenvrije volkoren HAVER (51%), maismeel, rijstbloem, duurzame palmolie, tapiocazetmeel, maïszetmeel, rijsmiddel: ammoniumcarbonaten, bruine rijststroop, zeezout Zowel ons recept als onze fabriek is vrij van noten. Wij kunnen niet garanderen dat onze ingrediënten vrij van noten zijn. Kan sporen van melk bevatten. melk Allergie-advies: Voor allergenen, zie de VETGEDRUKTE ingrediënten."
+      },
+      "image": "images/0612322001926.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/0612322001926.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313339333430?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "crackers",
+      "origin_country": {
+        "name": "United States",
+        "code": "US",
+        "flag": "🇺🇸",
+        "inferred_from": "GS1_061"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1886.0,
+        "calories_100g": 449.0,
+        "fat_100g": 15.1,
+        "saturated_fat_100g": 6.3,
+        "carbohydrates_100g": 66.1,
+        "sugars_100g": 1.5,
+        "fiber_100g": 5.8,
+        "proteins_100g": 9.2,
+        "salt_100g": 1.59,
+        "sodium_100g": 636.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 8,
+      "health_score": 43,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "delhaize.be",
+        "ah.be",
+        "colruyt.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 5.5,
+          "promo_price": 2.75,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=0612322001926",
+          "updated_at": "2026-11-25T17:59:45.650875+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.46,
+          "promo_price": 3.57,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi587625/nairn-s-volkoren-crackers-glutenvrij",
+          "updated_at": "2026-11-25T17:59:45.650875+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.48,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=0612322001926",
+          "updated_at": "2026-11-25T17:59:45.650875+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 5.05,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=0612322001926",
+          "updated_at": "2026-11-25T17:59:45.650875+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.12,
+          "promo_price": 2.56,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=0612322001926",
+          "updated_at": "2026-11-25T17:59:45.650875+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 5.55,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=0612322001926",
+          "updated_at": "2026-11-25T17:59:45.650875+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=0612322001926",
+          "updated_at": "2026-11-25T17:59:45.650875+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.84,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=0612322001926",
+          "updated_at": "2026-11-25T17:59:45.650875+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "0613008761172": {
+      "barcode": "0613008761172",
+      "domain": "food",
+      "names": {
+        "nl": "Arizona Green tea with honey",
+        "fr": "Arizona Green tea with honey",
+        "de": "Arizona Green tea with honey",
+        "en": "Arizona Green tea with honey",
+        "ar": "Arizona Green tea with honey"
+      },
+      "brand": "Arizona",
+      "net_weight": "0,5 l",
+      "allergens": [],
+      "description": "Een verfrissende ijsthee, die voor 100% bestaat uit natuurlijke groene thee en een vleugje honing.",
+      "descriptions": {
+        "nl": "Een verfrissende ijsthee, die voor 100% bestaat uit natuurlijke groene thee en een vleugje honing.",
+        "fr": "Arizona Green tea with honey par Arizona.",
+        "de": "Arizona Green tea with honey von Arizona.",
+        "en": "Arizona Green tea with honey by Arizona.",
+        "ar": "منتج Arizona Green tea with honey من Arizona."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Ingrediënten: Water, suiker, fructose, 2% perensap uit concentraat, honing (0,43%), groene thee-extract (0,12%), antioxidant: ascorbinezuur, voedingszuur: citroenzuur, natuurlijk aroma, zoetstof: steviolglycosiden.",
+        "fr": "Ingrediënten: Ingrediënten: Water, suiker, fructose, 2% perensap uit concentraat, honing (0,43%), groene thee-extract (0,12%), antioxidant: ascorbinezuur, voedingszuur: citroenzuur, natuurlijk aroma, zoetstof: steviolglycosiden.",
+        "de": "Ingrediënten: Ingrediënten: Water, suiker, fructose, 2% perensap uit concentraat, honing (0,43%), groene thee-extract (0,12%), antioxidant: ascorbinezuur, voedingszuur: citroenzuur, natuurlijk aroma, zoetstof: steviolglycosiden.",
+        "en": "Ingrediënten: Ingrediënten: Water, suiker, fructose, 2% perensap uit concentraat, honing (0,43%), groene thee-extract (0,12%), antioxidant: ascorbinezuur, voedingszuur: citroenzuur, natuurlijk aroma, zoetstof: steviolglycosiden.",
+        "ar": "Ingrediënten: Ingrediënten: Water, suiker, fructose, 2% perensap uit concentraat, honing (0,43%), groene thee-extract (0,12%), antioxidant: ascorbinezuur, voedingszuur: citroenzuur, natuurlijk aroma, zoetstof: steviolglycosiden."
+      },
+      "image": "images/0613008761172.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/0613008761172.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_444367596d42586254394372564f5f5a6b5478556f77?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "ijsthee",
+      "origin_country": {
+        "name": "United States",
+        "code": "US",
+        "flag": "🇺🇸",
+        "inferred_from": "GS1_061"
+      },
+      "nutrition_per_100g": {},
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 14,
+      "health_score": 41,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijk aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk aroma"
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 1.93,
+          "promo_price": 0.96,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi173432/arizona-green-tea-with-honey",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.49,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=0613008761172",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.71,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=0613008761172",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.27,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=0613008761172",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 1.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=0613008761172",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=0613008761172",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 1.59,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=0613008761172",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 1.94,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=0613008761172",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "0613008743482": {
+      "barcode": "0613008743482",
+      "domain": "food",
+      "names": {
+        "nl": "Arizona Iced tea with peach flavour",
+        "fr": "Arizona Iced tea with peach flavour",
+        "de": "Arizona Iced tea with peach flavour",
+        "en": "Arizona Iced tea with peach flavour",
+        "ar": "Arizona Iced tea with peach flavour"
+      },
+      "brand": "Arizona",
+      "net_weight": "330 ml",
+      "allergens": [],
+      "description": "Een verfrissende ijsthee, gemaakt van zuivere zwarte thee en echt perzik sap.",
+      "descriptions": {
+        "nl": "Een verfrissende ijsthee, gemaakt van zuivere zwarte thee en echt perzik sap.",
+        "fr": "Arizona Iced tea with peach flavour par Arizona.",
+        "de": "Arizona Iced tea with peach flavour von Arizona.",
+        "en": "Arizona Iced tea with peach flavour by Arizona.",
+        "ar": "منتج Arizona Iced tea with peach flavour من Arizona."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Ingrediënten: Water, suiker, 0,1% perziksap uit concentraat, zwarte thee-extract (0,14%), voedingszuur:citroenzuur en appelzuur, natuurlijke aroma, antioxidant: ascorbinezuur, zoetstof: steviolglycosiden.",
+        "fr": "Ingrediënten: Ingrediënten: Water, suiker, 0,1% perziksap uit concentraat, zwarte thee-extract (0,14%), voedingszuur:citroenzuur en appelzuur, natuurlijke aroma, antioxidant: ascorbinezuur, zoetstof: steviolglycosiden.",
+        "de": "Ingrediënten: Ingrediënten: Water, suiker, 0,1% perziksap uit concentraat, zwarte thee-extract (0,14%), voedingszuur:citroenzuur en appelzuur, natuurlijke aroma, antioxidant: ascorbinezuur, zoetstof: steviolglycosiden.",
+        "en": "Ingrediënten: Ingrediënten: Water, suiker, 0,1% perziksap uit concentraat, zwarte thee-extract (0,14%), voedingszuur:citroenzuur en appelzuur, natuurlijke aroma, antioxidant: ascorbinezuur, zoetstof: steviolglycosiden.",
+        "ar": "Ingrediënten: Ingrediënten: Water, suiker, 0,1% perziksap uit concentraat, zwarte thee-extract (0,14%), voedingszuur:citroenzuur en appelzuur, natuurlijke aroma, antioxidant: ascorbinezuur, zoetstof: steviolglycosiden."
+      },
+      "image": "images/0613008743482.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/0613008743482.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130303334343331?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "ijsthee",
+      "origin_country": {
+        "name": "United States",
+        "code": "US",
+        "flag": "🇺🇸",
+        "inferred_from": "GS1_061"
+      },
+      "nutrition_per_100g": {},
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 14,
+      "health_score": 41,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijke aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijke aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijke aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijke aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijke aroma"
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.85,
+          "promo_price": 1.48,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=0613008743482",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.04,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=0613008743482",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.33,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi415307/arizona-iced-tea-with-peach-flavour",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.5,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=0613008743482",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.29,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=0613008743482",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.4,
+          "promo_price": 1.2,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=0613008743482",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.69,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=0613008743482",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=0613008743482",
+          "updated_at": "2026-11-25T18:46:38.778035+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "0613008730697": {
+      "barcode": "0613008730697",
+      "domain": "food",
+      "names": {
+        "nl": "Arizona Extra juicy lemon",
+        "fr": "Arizona Extra juicy lemon",
+        "de": "Arizona Extra juicy lemon",
+        "en": "Arizona Extra juicy lemon",
+        "ar": "Arizona Extra juicy lemon"
+      },
+      "brand": "Arizona",
+      "net_weight": "0,5 l",
+      "allergens": [],
+      "description": "Een verfrissende ijsthee, gemaakt van zuivere zwarte thee en natuurlijk citroensap.",
+      "descriptions": {
+        "nl": "Een verfrissende ijsthee, gemaakt van zuivere zwarte thee en natuurlijk citroensap.",
+        "fr": "Arizona Extra juicy lemon par Arizona.",
+        "de": "Arizona Extra juicy lemon von Arizona.",
+        "en": "Arizona Extra juicy lemon by Arizona.",
+        "ar": "منتج Arizona Extra juicy lemon من Arizona."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Ingrediënten: water, suiker, 4,3% vruchtensap uit concentraat (citroen 2,3%, peer 2,0%), zwarte thee-extract (0,14%), voedingszuur: citroenzuur, antioxidant: ascorbinezuur, natuurlijke aroma's.",
+        "fr": "Ingrediënten: Ingrediënten: water, suiker, 4,3% vruchtensap uit concentraat (citroen 2,3%, peer 2,0%), zwarte thee-extract (0,14%), voedingszuur: citroenzuur, antioxidant: ascorbinezuur, natuurlijke aroma's.",
+        "de": "Ingrediënten: Ingrediënten: water, suiker, 4,3% vruchtensap uit concentraat (citroen 2,3%, peer 2,0%), zwarte thee-extract (0,14%), voedingszuur: citroenzuur, antioxidant: ascorbinezuur, natuurlijke aroma's.",
+        "en": "Ingrediënten: Ingrediënten: water, suiker, 4,3% vruchtensap uit concentraat (citroen 2,3%, peer 2,0%), zwarte thee-extract (0,14%), voedingszuur: citroenzuur, antioxidant: ascorbinezuur, natuurlijke aroma's.",
+        "ar": "Ingrediënten: Ingrediënten: water, suiker, 4,3% vruchtensap uit concentraat (citroen 2,3%, peer 2,0%), zwarte thee-extract (0,14%), voedingszuur: citroenzuur, antioxidant: ascorbinezuur, natuurlijke aroma's."
+      },
+      "image": "images/0613008730697.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/0613008730697.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313137313532?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "ijsthee",
+      "origin_country": {
+        "name": "United States",
+        "code": "US",
+        "flag": "🇺🇸",
+        "inferred_from": "GS1_061"
+      },
+      "nutrition_per_100g": {},
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 22,
+      "health_score": 21,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijke aroma's"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijke aroma's",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijke aroma's",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijke aroma's",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijke aroma's",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijke aroma's"
+      },
+      "stores": [
+        "ah.be",
+        "colruyt.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.24,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi173431/arizona-extra-juicy-lemon",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.22,
+          "promo_price": 2.58,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=0613008730697",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.72,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=0613008730697",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.2,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=0613008730697",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.64,
+          "promo_price": 2.11,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=0613008730697",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.37,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=0613008730697",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.96,
+          "promo_price": 2.37,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=0613008730697",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.72,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=0613008730697",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "0612322000769": {
+      "barcode": "0612322000769",
+      "domain": "food",
+      "names": {
+        "nl": "Nairn's Original flatbread glutenfree",
+        "fr": "Nairn's Original flatbread glutenfree",
+        "de": "Nairn's Original flatbread glutenfree",
+        "en": "Nairn's Original flatbread glutenfree",
+        "ar": "Nairn's Original flatbread glutenfree"
+      },
+      "brand": "Nairn's",
+      "net_weight": "150 g",
+      "allergens": [
+        "Gluten",
+        "Milk",
+        "Tree Nuts"
+      ],
+      "description": "De Nairn's flatbreads zijn het perfecte glutenvrije alternatief voor je boterham. Deze crackers zijn vezelrijk, licht en knapperig en heerlijk met je favoriete topping.",
+      "descriptions": {
+        "nl": "De Nairn's flatbreads zijn het perfecte glutenvrije alternatief voor je boterham. Deze crackers zijn vezelrijk, licht en knapperig en heerlijk met je favoriete topping.",
+        "fr": "Nairn's Original flatbread glutenfree par Nairn's.",
+        "de": "Nairn's Original flatbread glutenfree von Nairn's.",
+        "en": "Nairn's Original flatbread glutenfree by Nairn's.",
+        "ar": "منتج Nairn's Original flatbread glutenfree من Nairn's."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Glutenvrije VOLKORENHAVER (76%), tapioca zetmeel, duurzame palmolie, maïszetmeel, bruine rijstsiroop, zeezout, rijsmiddel: ammoniumbicarbonaat Ons recept en onze fabriek zijn bieden vrij van noten. We kunnen niet garanderen dat onze ingrediënten vrij zijn van noten. Geproduceerd op apparatuur die in aanraking komt met melk. Allergie-advies: Zie de HOOFDLETTERS ingrediënten voor allergenen.",
+        "fr": "Ingrediënten: Glutenvrije VOLKORENHAVER (76%), tapioca zetmeel, duurzame palmolie, maïszetmeel, bruine rijstsiroop, zeezout, rijsmiddel: ammoniumbicarbonaat Ons recept en onze fabriek zijn bieden vrij van noten. We kunnen niet garanderen dat onze ingrediënten vrij zijn van noten. Geproduceerd op apparatuur die in aanraking komt met melk. Allergie-advies: Zie de HOOFDLETTERS ingrediënten voor allergenen.",
+        "de": "Ingrediënten: Glutenvrije VOLKORENHAVER (76%), tapioca zetmeel, duurzame palmolie, maïszetmeel, bruine rijstsiroop, zeezout, rijsmiddel: ammoniumbicarbonaat Ons recept en onze fabriek zijn bieden vrij van noten. We kunnen niet garanderen dat onze ingrediënten vrij zijn van noten. Geproduceerd op apparatuur die in aanraking komt met melk. Allergie-advies: Zie de HOOFDLETTERS ingrediënten voor allergenen.",
+        "en": "Ingrediënten: Glutenvrije VOLKORENHAVER (76%), tapioca zetmeel, duurzame palmolie, maïszetmeel, bruine rijstsiroop, zeezout, rijsmiddel: ammoniumbicarbonaat Ons recept en onze fabriek zijn bieden vrij van noten. We kunnen niet garanderen dat onze ingrediënten vrij zijn van noten. Geproduceerd op apparatuur die in aanraking komt met melk. Allergie-advies: Zie de HOOFDLETTERS ingrediënten voor allergenen.",
+        "ar": "Ingrediënten: Glutenvrije VOLKORENHAVER (76%), tapioca zetmeel, duurzame palmolie, maïszetmeel, bruine rijstsiroop, zeezout, rijsmiddel: ammoniumbicarbonaat Ons recept en onze fabriek zijn bieden vrij van noten. We kunnen niet garanderen dat onze ingrediënten vrij zijn van noten. Geproduceerd op apparatuur die in aanraking komt met melk. Allergie-advies: Zie de HOOFDLETTERS ingrediënten voor allergenen."
+      },
+      "image": "images/0612322000769.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/0612322000769.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130323032323637?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "glutenvrij",
+      "origin_country": {
+        "name": "United States",
+        "code": "US",
+        "flag": "🇺🇸",
+        "inferred_from": "GS1_061"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1844.0,
+        "calories_100g": 439.0,
+        "fat_100g": 14.7,
+        "saturated_fat_100g": 5.8,
+        "carbohydrates_100g": 63.5,
+        "sugars_100g": 2.7,
+        "fiber_100g": 7.8,
+        "proteins_100g": 9.3,
+        "salt_100g": 1.47,
+        "sodium_100g": 588.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 6,
+      "health_score": 43,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=0612322000769",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 1.42,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=0612322000769",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.63,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=0612322000769",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.15,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi482616/nairn-s-original-flatbread-glutenfree",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.04,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=0612322000769",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 1.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=0612322000769",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 1.8,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=0612322000769",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.13,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=0612322000769",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "0612322000776": {
+      "barcode": "0612322000776",
+      "domain": "food",
+      "names": {
+        "nl": "Nairn's Rosemary & sea salt flatbread",
+        "fr": "Nairn's Rosemary & sea salt flatbread",
+        "de": "Nairn's Rosemary & sea salt flatbread",
+        "en": "Nairn's Rosemary & sea salt flatbread",
+        "ar": "Nairn's Rosemary & sea salt flatbread"
+      },
+      "brand": "Nairn's",
+      "net_weight": "150 g",
+      "allergens": [
+        "Gluten",
+        "Milk",
+        "Eggs",
+        "Tree Nuts"
+      ],
+      "description": "De Nairn's flatbreads zijn het perfecte glutenvrije alternatief voor je boterham. Deze crackers zijn vezelrijk, licht en knapperig en heerlijk met je favoriete topping.",
+      "descriptions": {
+        "nl": "De Nairn's flatbreads zijn het perfecte glutenvrije alternatief voor je boterham. Deze crackers zijn vezelrijk, licht en knapperig en heerlijk met je favoriete topping.",
+        "fr": "Nairn's Rosemary & sea salt flatbread par Nairn's.",
+        "de": "Nairn's Rosemary & sea salt flatbread von Nairn's.",
+        "en": "Nairn's Rosemary & sea salt flatbread by Nairn's.",
+        "ar": "منتج Nairn's Rosemary & sea salt flatbread من Nairn's."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Glutenvrije volkoren HAVER (75%), tapiocazetmeel, duurzame palmolie, maïszetmeel, bruine rijststroop, rozemarijn (2%), zeezout (2%), rijsmiddel: ammoniumbicarbonaat Zowel ons recept als onze fabriek zijn vrij van noten. Wij kunnen niet garanderen dat onze ingrediënten vrij van noten zijn. Kan sporen van melkbevatten Niet geschikt als u allergisch bent voor avenine - haver bevat dit eiwit. Zie voor allergenen de HOOFDLETTERS ingrediënten.",
+        "fr": "Ingrediënten: Glutenvrije volkoren HAVER (75%), tapiocazetmeel, duurzame palmolie, maïszetmeel, bruine rijststroop, rozemarijn (2%), zeezout (2%), rijsmiddel: ammoniumbicarbonaat Zowel ons recept als onze fabriek zijn vrij van noten. Wij kunnen niet garanderen dat onze ingrediënten vrij van noten zijn. Kan sporen van melkbevatten Niet geschikt als u allergisch bent voor avenine - haver bevat dit eiwit. Zie voor allergenen de HOOFDLETTERS ingrediënten.",
+        "de": "Ingrediënten: Glutenvrije volkoren HAVER (75%), tapiocazetmeel, duurzame palmolie, maïszetmeel, bruine rijststroop, rozemarijn (2%), zeezout (2%), rijsmiddel: ammoniumbicarbonaat Zowel ons recept als onze fabriek zijn vrij van noten. Wij kunnen niet garanderen dat onze ingrediënten vrij van noten zijn. Kan sporen van melkbevatten Niet geschikt als u allergisch bent voor avenine - haver bevat dit eiwit. Zie voor allergenen de HOOFDLETTERS ingrediënten.",
+        "en": "Ingrediënten: Glutenvrije volkoren HAVER (75%), tapiocazetmeel, duurzame palmolie, maïszetmeel, bruine rijststroop, rozemarijn (2%), zeezout (2%), rijsmiddel: ammoniumbicarbonaat Zowel ons recept als onze fabriek zijn vrij van noten. Wij kunnen niet garanderen dat onze ingrediënten vrij van noten zijn. Kan sporen van melkbevatten Niet geschikt als u allergisch bent voor avenine - haver bevat dit eiwit. Zie voor allergenen de HOOFDLETTERS ingrediënten.",
+        "ar": "Ingrediënten: Glutenvrije volkoren HAVER (75%), tapiocazetmeel, duurzame palmolie, maïszetmeel, bruine rijststroop, rozemarijn (2%), zeezout (2%), rijsmiddel: ammoniumbicarbonaat Zowel ons recept als onze fabriek zijn vrij van noten. Wij kunnen niet garanderen dat onze ingrediënten vrij van noten zijn. Kan sporen van melkbevatten Niet geschikt als u allergisch bent voor avenine - haver bevat dit eiwit. Zie voor allergenen de HOOFDLETTERS ingrediënten."
+      },
+      "image": "images/0612322000776.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/0612322000776.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130323032323633?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "glutenvrij",
+      "origin_country": {
+        "name": "United States",
+        "code": "US",
+        "flag": "🇺🇸",
+        "inferred_from": "GS1_061"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1807.0,
+        "calories_100g": 430.0,
+        "fat_100g": 14.2,
+        "saturated_fat_100g": 5.6,
+        "carbohydrates_100g": 63.0,
+        "sugars_100g": 2.8,
+        "fiber_100g": 7.2,
+        "proteins_100g": 9.0,
+        "salt_100g": 1.8,
+        "sodium_100g": 720.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 7,
+      "health_score": 43,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.65,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=0612322000776",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.43,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=0612322000776",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.45,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=0612322000776",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.67,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi494404/nairn-s-rosemary-en-sea-salt-flatbread",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.01,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=0612322000776",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 3.71,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=0612322000776",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.69,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=0612322000776",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=0612322000776",
+          "updated_at": "2026-11-25T21:45:22.413514+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

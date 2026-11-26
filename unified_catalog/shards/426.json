@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "426",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 10,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 11,
   "products": {
     "4260462987059": {
       "barcode": "4260462987059",
@@ -204,10 +204,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "4260462987547": {
       "barcode": "4260462987547",
@@ -411,10 +412,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "4260462987622": {
       "barcode": "4260462987622",
@@ -618,10 +620,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "4260629556128": {
       "barcode": "4260629556128",
@@ -827,7 +830,8 @@
           "updated_at": "2026-11-25T08:46:06.330781+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4260370660730": {
       "barcode": "4260370660730",
@@ -1029,7 +1033,8 @@
           "updated_at": "2026-11-25T08:46:06.330781+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4260629556098": {
       "barcode": "4260629556098",
@@ -1235,7 +1240,8 @@
           "updated_at": "2026-11-25T08:46:06.330781+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4260189213011": {
       "barcode": "4260189213011",
@@ -1441,7 +1447,8 @@
           "updated_at": "2026-11-25T08:48:48.393117+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4260629556371": {
       "barcode": "4260629556371",
@@ -1643,7 +1650,8 @@
           "updated_at": "2026-11-25T08:50:08.172346+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4262456580246": {
       "barcode": "4262456580246",
@@ -1848,7 +1856,8 @@
           "updated_at": "2026-11-25T14:14:10.066309+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "4262456580253": {
       "barcode": "4262456580253",
@@ -2054,7 +2063,200 @@
           "updated_at": "2026-11-25T14:14:10.066309+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4260268813736": {
+      "barcode": "4260268813736",
+      "domain": "food",
+      "names": {
+        "nl": "Crew Republic Trooper",
+        "fr": "Crew Republic Trooper",
+        "de": "Crew Republic Trooper",
+        "en": "Crew Republic Trooper",
+        "ar": "Crew Republic Trooper"
+      },
+      "brand": "Crew Republic",
+      "net_weight": "0,5 l",
+      "allergens": [],
+      "description": "Pils zoals pils bedoelt is onderscheidend, vers en vol hop.",
+      "descriptions": {
+        "nl": "Pils zoals pils bedoelt is onderscheidend, vers en vol hop.",
+        "fr": "Crew Republic Trooper par Crew Republic.",
+        "de": "Crew Republic Trooper von Crew Republic.",
+        "en": "Crew Republic Trooper by Crew Republic.",
+        "ar": "منتج Crew Republic Trooper من Crew Republic."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: water, GERSTEMOUT, hop, gist",
+        "fr": "Ingrediënten: water, GERSTEMOUT, hop, gist",
+        "de": "Ingrediënten: water, GERSTEMOUT, hop, gist",
+        "en": "Ingrediënten: water, GERSTEMOUT, hop, gist",
+        "ar": "Ingrediënten: water, GERSTEMOUT, hop, gist"
+      },
+      "image": "images/4260268813736.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4260268813736.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313930313132?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "mais",
+      "origin_country": {
+        "name": "Germany",
+        "code": "DE",
+        "flag": "🇩🇪",
+        "inferred_from": "GS1_426"
+      },
+      "nutrition_per_100g": {},
+      "official_nutriscore": null,
+      "nutriscore_grade": null,
+      "nutriscore_score": null,
+      "health_score": null,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.15,
+          "promo_price": 2.08,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi588933/crew-republic-trooper",
+          "updated_at": "2026-11-25T20:26:19.477429+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.52,
+          "promo_price": 3.62,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=4260268813736",
+          "updated_at": "2026-11-25T20:26:19.477429+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.19,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4260268813736",
+          "updated_at": "2026-11-25T20:26:19.477429+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.33,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4260268813736",
+          "updated_at": "2026-11-25T20:26:19.477429+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.21,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4260268813736",
+          "updated_at": "2026-11-25T20:26:19.477429+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 5.08,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4260268813736",
+          "updated_at": "2026-11-25T20:26:19.477429+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.87,
+          "promo_price": 2.44,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=4260268813736",
+          "updated_at": "2026-11-25T20:26:19.477429+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.22,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=4260268813736",
+          "updated_at": "2026-11-25T20:26:19.477429+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "prefix": "322",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
   "product_count": 3,
   "products": {
     "3228020232028": {
@@ -203,10 +203,11 @@
           "promo_end_date": "2026-11-29"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "3228024160051": {
       "barcode": "3228024160051",
@@ -413,7 +414,8 @@
           "updated_at": "2026-11-25T09:37:19.146444+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3228022230039": {
       "barcode": "3228022230039",
@@ -615,7 +617,8 @@
           "updated_at": "2026-11-25T09:38:54.649039+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

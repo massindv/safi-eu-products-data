@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "501",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 23,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 28,
   "products": {
     "5016599010639": {
       "barcode": "5016599010639",
@@ -203,10 +203,11 @@
           "promo_end_date": "2026-11-29"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5016599011247": {
       "barcode": "5016599011247",
@@ -407,10 +408,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5011546492834": {
       "barcode": "5011546492834",
@@ -613,10 +615,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5011766778008": {
       "barcode": "5011766778008",
@@ -815,10 +818,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5011766778169": {
       "barcode": "5011766778169",
@@ -1017,10 +1021,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5010477363473": {
       "barcode": "5010477363473",
@@ -1222,10 +1227,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5010029000023": {
       "barcode": "5010029000023",
@@ -1426,10 +1432,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5016599010554": {
       "barcode": "5016599010554",
@@ -1630,10 +1637,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5016599010653": {
       "barcode": "5016599010653",
@@ -1834,10 +1842,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "b",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5016599010646": {
       "barcode": "5016599010646",
@@ -2038,10 +2047,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5016599007424": {
       "barcode": "5016599007424",
@@ -2242,10 +2252,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "b",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5016599010578": {
       "barcode": "5016599010578",
@@ -2446,10 +2457,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "c",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5016599010899": {
       "barcode": "5016599010899",
@@ -2650,10 +2662,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "b",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5016599010561": {
       "barcode": "5016599010561",
@@ -2854,10 +2867,11 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00",
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
       "official_nutriscore": "a",
       "halal_certified": false,
-      "halal_certification_source": null
+      "halal_certification_source": null,
+      "safety_grade": null
     },
     "5016599010622": {
       "barcode": "5016599010622",
@@ -3061,7 +3075,8 @@
           "updated_at": "2026-11-25T08:21:25.005754+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5013387205741": {
       "barcode": "5013387205741",
@@ -3267,7 +3282,8 @@
           "updated_at": "2026-11-25T10:01:23.493743+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5011308700979": {
       "barcode": "5011308700979",
@@ -3474,7 +3490,8 @@
           "updated_at": "2026-11-25T12:25:58.399491+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5011308701488": {
       "barcode": "5011308701488",
@@ -3682,7 +3699,8 @@
           "updated_at": "2026-11-25T12:59:17.970288+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5011308700955": {
       "barcode": "5011308700955",
@@ -3889,7 +3907,8 @@
           "updated_at": "2026-11-25T12:59:17.970288+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5013387207622": {
       "barcode": "5013387207622",
@@ -4098,7 +4117,8 @@
           "updated_at": "2026-11-25T13:24:02.241723+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5012035956400": {
       "barcode": "5012035956400",
@@ -4305,7 +4325,8 @@
           "updated_at": "2026-11-25T14:01:16.172053+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5012035971724": {
       "barcode": "5012035971724",
@@ -4511,7 +4532,8 @@
           "updated_at": "2026-11-25T14:05:25.686971+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "5011061170026": {
       "barcode": "5011061170026",
@@ -4715,7 +4737,1023 @@
           "updated_at": "2026-11-25T14:14:10.066309+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5011544070072": {
+      "barcode": "5011544070072",
+      "domain": "food",
+      "names": {
+        "nl": "LoSalt Mineraalzout met jodium",
+        "fr": "LoSalt Mineraalzout met jodium",
+        "de": "LoSalt Mineraalzout met jodium",
+        "en": "LoSalt Mineraalzout met jodium",
+        "ar": "LoSalt Mineraalzout met jodium"
+      },
+      "brand": "LoSalt",
+      "net_weight": "350 g",
+      "allergens": [],
+      "description": "LoSalt mineraal zout met jodium bevat 66% minder natrium.",
+      "descriptions": {
+        "nl": "LoSalt mineraal zout met jodium bevat 66% minder natrium.",
+        "fr": "LoSalt Mineraalzout met jodium par LoSalt.",
+        "de": "LoSalt Mineraalzout met jodium von LoSalt.",
+        "en": "LoSalt Mineraalzout met jodium by LoSalt.",
+        "ar": "منتج LoSalt Mineraalzout met jodium من LoSalt."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Natriumchloride (33,3% max.), kaliumchloride (66% min.), jodium (50mg/kg(KI)), antiklontermiddel (magnesiumcarb (0,5%))",
+        "fr": "Ingrediënten: Natriumchloride (33,3% max.), kaliumchloride (66% min.), jodium (50mg/kg(KI)), antiklontermiddel (magnesiumcarb (0,5%))",
+        "de": "Ingrediënten: Natriumchloride (33,3% max.), kaliumchloride (66% min.), jodium (50mg/kg(KI)), antiklontermiddel (magnesiumcarb (0,5%))",
+        "en": "Ingrediënten: Natriumchloride (33,3% max.), kaliumchloride (66% min.), jodium (50mg/kg(KI)), antiklontermiddel (magnesiumcarb (0,5%))",
+        "ar": "Ingrediënten: Natriumchloride (33,3% max.), kaliumchloride (66% min.), jodium (50mg/kg(KI)), antiklontermiddel (magnesiumcarb (0,5%))"
+      },
+      "image": "images/5011544070072.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5011544070072.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_73465058483968415466323856646166543044776667?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "zoutjes",
+      "origin_country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "flag": "🇬🇧",
+        "inferred_from": "GS1_501"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": null,
+        "calories_100g": null,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 33.0,
+        "sodium_100g": 13200.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 10,
+      "health_score": 22,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "ah.be",
+        "carrefour.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.92,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi128527/losalt-mineraalzout-met-jodium",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.21,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5011544070072",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.33,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5011544070072",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.65,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5011544070072",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 4.29,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5011544070072",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.12,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5011544070072",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.63,
+          "promo_price": 2.31,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=5011544070072",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.31,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5011544070072",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5011544070034": {
+      "barcode": "5011544070034",
+      "domain": "food",
+      "names": {
+        "nl": "LoSalt Mineraalzout",
+        "fr": "LoSalt Mineraalzout",
+        "de": "LoSalt Mineraalzout",
+        "en": "LoSalt Mineraalzout",
+        "ar": "LoSalt Mineraalzout"
+      },
+      "brand": "LoSalt",
+      "net_weight": "350 g",
+      "allergens": [],
+      "description": "LoSalt mineraalzout zonder jodium.",
+      "descriptions": {
+        "nl": "LoSalt mineraalzout zonder jodium.",
+        "fr": "LoSalt Mineraalzout par LoSalt.",
+        "de": "LoSalt Mineraalzout von LoSalt.",
+        "en": "LoSalt Mineraalzout by LoSalt.",
+        "ar": "منتج LoSalt Mineraalzout من LoSalt."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Natriumchloride (33,3% max.), kaliumchloride (66% min.), antiklontermiddel (magnesiumcarb (0,5%))",
+        "fr": "Ingrediënten: Natriumchloride (33,3% max.), kaliumchloride (66% min.), antiklontermiddel (magnesiumcarb (0,5%))",
+        "de": "Ingrediënten: Natriumchloride (33,3% max.), kaliumchloride (66% min.), antiklontermiddel (magnesiumcarb (0,5%))",
+        "en": "Ingrediënten: Natriumchloride (33,3% max.), kaliumchloride (66% min.), antiklontermiddel (magnesiumcarb (0,5%))",
+        "ar": "Ingrediënten: Natriumchloride (33,3% max.), kaliumchloride (66% min.), antiklontermiddel (magnesiumcarb (0,5%))"
+      },
+      "image": "images/5011544070034.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5011544070034.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4f31796430436b50543447464f4377374e2d4e473067?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "zoutjes",
+      "origin_country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "flag": "🇬🇧",
+        "inferred_from": "GS1_501"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": null,
+        "calories_100g": null,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 33.0,
+        "sodium_100g": 13200.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 10,
+      "health_score": 22,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "delhaize.be",
+        "ah.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.84,
+          "promo_price": 2.27,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=5011544070034",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.55,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5011544070034",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.81,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi201933/losalt-mineraalzout",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.11,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5011544070034",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.14,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5011544070034",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.19,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5011544070034",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.99,
+          "promo_price": 1.5,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=5011544070034",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.03,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5011544070034",
+          "updated_at": "2026-11-25T15:45:39.718778+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5011038032500": {
+      "barcode": "5011038032500",
+      "domain": "food",
+      "names": {
+        "nl": "Kerrygold Pure Ierse boter ongezouten",
+        "fr": "Kerrygold Pure Ierse boter ongezouten",
+        "de": "Kerrygold Pure Ierse boter ongezouten",
+        "en": "Kerrygold Pure Ierse boter ongezouten",
+        "ar": "Kerrygold Pure Ierse boter ongezouten"
+      },
+      "brand": "Kerrygold",
+      "net_weight": "250 g",
+      "allergens": [],
+      "description": "Kerrygold is een heerlijke, zachte boter gemaakt van melk van ierse grasgevoerde koeien. Perfect voor smeren, bakken en braden. Ontdek de van nature romige smaak!",
+      "descriptions": {
+        "nl": "Kerrygold is een heerlijke, zachte boter gemaakt van melk van ierse grasgevoerde koeien. Perfect voor smeren, bakken en braden. Ontdek de van nature romige smaak!",
+        "fr": "Kerrygold Pure Ierse boter ongezouten par Kerrygold.",
+        "de": "Kerrygold Pure Ierse boter ongezouten von Kerrygold.",
+        "en": "Kerrygold Pure Ierse boter ongezouten by Kerrygold.",
+        "ar": "منتج Kerrygold Pure Ierse boter ongezouten من Kerrygold."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: BOTER",
+        "fr": "Ingrediënten: BOTER",
+        "de": "Ingrediënten: BOTER",
+        "en": "Ingrediënten: BOTER",
+        "ar": "Ingrediënten: BOTER"
+      },
+      "image": "images/5011038032500.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5011038032500.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4254315379672d64514c576649537558746264645641?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "boter",
+      "origin_country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "flag": "🇬🇧",
+        "inferred_from": "GS1_501"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 3076.0,
+        "calories_100g": 748.0,
+        "fat_100g": 82.5,
+        "saturated_fat_100g": 56.0,
+        "carbohydrates_100g": 0.7,
+        "sugars_100g": 0.7,
+        "fiber_100g": null,
+        "proteins_100g": 0.7,
+        "salt_100g": 0.02,
+        "sodium_100g": 8.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 19,
+      "health_score": 19,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 1.7,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5011038032500",
+          "updated_at": "2026-11-25T16:39:32.251881+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.34,
+          "promo_price": 1.87,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi429627/kerrygold-pure-ierse-boter-ongezouten",
+          "updated_at": "2026-11-25T16:39:32.251881+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.36,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5011038032500",
+          "updated_at": "2026-11-25T16:39:32.251881+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.48,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5011038032500",
+          "updated_at": "2026-11-25T16:39:32.251881+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.62,
+          "promo_price": 2.1,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=5011038032500",
+          "updated_at": "2026-11-25T16:39:32.251881+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.43,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5011038032500",
+          "updated_at": "2026-11-25T16:39:32.251881+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.44,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5011038032500",
+          "updated_at": "2026-11-25T16:39:32.251881+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.47,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5011038032500",
+          "updated_at": "2026-11-25T16:39:32.251881+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5011038136086": {
+      "barcode": "5011038136086",
+      "domain": "food",
+      "names": {
+        "nl": "Kerrygold Pure Ierse boter gezouten",
+        "fr": "Kerrygold Pure Ierse boter gezouten",
+        "de": "Kerrygold Pure Ierse boter gezouten",
+        "en": "Kerrygold Pure Ierse boter gezouten",
+        "ar": "Kerrygold Pure Ierse boter gezouten"
+      },
+      "brand": "Kerrygold",
+      "net_weight": "250 g",
+      "allergens": [],
+      "description": "Kerrygold is een heerlijke, zachte boter gemaakt van melk van ierse grasgevoerde koeien. Perfect voor smeren, bakken en braden. Ontdek de van nature romige smaak!",
+      "descriptions": {
+        "nl": "Kerrygold is een heerlijke, zachte boter gemaakt van melk van ierse grasgevoerde koeien. Perfect voor smeren, bakken en braden. Ontdek de van nature romige smaak!",
+        "fr": "Kerrygold Pure Ierse boter gezouten par Kerrygold.",
+        "de": "Kerrygold Pure Ierse boter gezouten von Kerrygold.",
+        "en": "Kerrygold Pure Ierse boter gezouten by Kerrygold.",
+        "ar": "منتج Kerrygold Pure Ierse boter gezouten من Kerrygold."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: BOTER, zout (1,8%). 80% V.G.",
+        "fr": "Ingrediënten: BOTER, zout (1,8%). 80% V.G.",
+        "de": "Ingrediënten: BOTER, zout (1,8%). 80% V.G.",
+        "en": "Ingrediënten: BOTER, zout (1,8%). 80% V.G.",
+        "ar": "Ingrediënten: BOTER, zout (1,8%). 80% V.G."
+      },
+      "image": "images/5011038136086.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5011038136086.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_6b61656f4d486e4b5367364b677647633352687a6641?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "margarine",
+      "origin_country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "flag": "🇬🇧",
+        "inferred_from": "GS1_501"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 2982.0,
+        "calories_100g": 725.0,
+        "fat_100g": 80.0,
+        "saturated_fat_100g": 54.0,
+        "carbohydrates_100g": 0.6,
+        "sugars_100g": 0.6,
+        "fiber_100g": null,
+        "proteins_100g": 0.7,
+        "salt_100g": 1.8,
+        "sodium_100g": 720.0
+      },
+      "official_nutriscore": "e",
+      "nutriscore_grade": "e",
+      "nutriscore_score": 25,
+      "health_score": 17,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "carrefour.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.53,
+          "promo_price": 1.76,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.colruyt.be/search?q=5011038136086",
+          "updated_at": "2026-11-25T16:47:26.786427+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.31,
+          "promo_price": 2.65,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=5011038136086",
+          "updated_at": "2026-11-25T16:47:26.786427+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.03,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=5011038136086",
+          "updated_at": "2026-11-25T16:47:26.786427+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi429630/kerrygold-pure-ierse-boter-gezouten",
+          "updated_at": "2026-11-25T16:47:26.786427+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.87,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=5011038136086",
+          "updated_at": "2026-11-25T16:47:26.786427+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.65,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5011038136086",
+          "updated_at": "2026-11-25T16:47:26.786427+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.75,
+          "promo_price": 1.38,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=5011038136086",
+          "updated_at": "2026-11-25T16:47:26.786427+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.99,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5011038136086",
+          "updated_at": "2026-11-25T16:47:26.786427+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "5014271400426": {
+      "barcode": "5014271400426",
+      "domain": "food",
+      "names": {
+        "nl": "St. Dalfour Vruchtenspread Aardbei",
+        "fr": "St. Dalfour Vruchtenspread Aardbei",
+        "de": "St. Dalfour Vruchtenspread Aardbei",
+        "en": "St. Dalfour Vruchtenspread Aardbei",
+        "ar": "St. Dalfour Vruchtenspread Aardbei"
+      },
+      "brand": "St. Dalfour",
+      "net_weight": "284 g",
+      "allergens": [],
+      "description": "Bonjour! Heerlijke 100% natuurlijke vruchtenspread gemaakt naar traditioneel frans recept. Door zorgvuldige bereiding wordt de heerlijke smaak van aardbeien optimaal behouden.",
+      "descriptions": {
+        "nl": "Bonjour! Heerlijke 100% natuurlijke vruchtenspread gemaakt naar traditioneel frans recept. Door zorgvuldige bereiding wordt de heerlijke smaak van aardbeien optimaal behouden.",
+        "fr": "St. Dalfour Vruchtenspread Aardbei par St. Dalfour.",
+        "de": "St. Dalfour Vruchtenspread Aardbei von St. Dalfour.",
+        "en": "St. Dalfour Vruchtenspread Aardbei by St. Dalfour.",
+        "ar": "منتج St. Dalfour Vruchtenspread Aardbei من St. Dalfour."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Aardbeien [51%] (herkomst eu & niet-eu), ongezoete geconcentreerde vruchtensappen (druiven en dadels), geleermiddel: pectine, citroensap.",
+        "fr": "Ingrediënten: Aardbeien [51%] (herkomst eu & niet-eu), ongezoete geconcentreerde vruchtensappen (druiven en dadels), geleermiddel: pectine, citroensap.",
+        "de": "Ingrediënten: Aardbeien [51%] (herkomst eu & niet-eu), ongezoete geconcentreerde vruchtensappen (druiven en dadels), geleermiddel: pectine, citroensap.",
+        "en": "Ingrediënten: Aardbeien [51%] (herkomst eu & niet-eu), ongezoete geconcentreerde vruchtensappen (druiven en dadels), geleermiddel: pectine, citroensap.",
+        "ar": "Ingrediënten: Aardbeien [51%] (herkomst eu & niet-eu), ongezoete geconcentreerde vruchtensappen (druiven en dadels), geleermiddel: pectine, citroensap."
+      },
+      "image": "images/5014271400426.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/5014271400426.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_6e43793864456b4f5352653361495175616565576251?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "eieren",
+      "origin_country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "flag": "🇬🇧",
+        "inferred_from": "GS1_501"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 859.0,
+        "calories_100g": 202.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 50.0,
+        "sugars_100g": 48.0,
+        "fiber_100g": 1.1,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.02,
+        "sodium_100g": 8.0
+      },
+      "official_nutriscore": "c",
+      "nutriscore_grade": "c",
+      "nutriscore_score": 11,
+      "health_score": 62,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "carrefour.be",
+        "ah.be",
+        "delhaize.be",
+        "colruyt.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.76,
+          "promo_price": 2.21,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=5014271400426",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.55,
+          "promo_price": 2.84,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.be/producten/product/wi284260/st-dalfour-vruchtenspread-aardbei",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.67,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=5014271400426",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.78,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=5014271400426",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.85,
+          "promo_price": 1.43,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=5014271400426",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.92,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=5014271400426",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.79,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.nl/search?q=5014271400426",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.12,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=5014271400426",
+          "updated_at": "2026-11-25T17:18:41.802863+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

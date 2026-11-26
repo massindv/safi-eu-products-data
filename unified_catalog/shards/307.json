@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "307",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 6,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 8,
   "products": {
     "3073781191547": {
       "barcode": "3073781191547",
@@ -213,7 +213,8 @@
           "updated_at": "2026-11-25T09:31:29.848809+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3073781195026": {
       "barcode": "3073781195026",
@@ -417,7 +418,8 @@
           "updated_at": "2026-11-25T09:32:50.321419+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3073781227222": {
       "barcode": "3073781227222",
@@ -621,7 +623,8 @@
           "updated_at": "2026-11-25T09:34:16.852538+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3073781205480": {
       "barcode": "3073781205480",
@@ -827,7 +830,8 @@
           "updated_at": "2026-11-25T09:40:20.487486+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3073781091861": {
       "barcode": "3073781091861",
@@ -1031,7 +1035,8 @@
           "updated_at": "2026-11-25T12:47:13.806276+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     },
     "3073781181913": {
       "barcode": "3073781181913",
@@ -1235,7 +1240,418 @@
           "updated_at": "2026-11-25T12:48:38.983900+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3073781189834": {
+      "barcode": "3073781189834",
+      "domain": "food",
+      "names": {
+        "nl": "Babybel 14 jonge 45+ kaasjes",
+        "fr": "Babybel 14 jonge 45+ kaasjes",
+        "de": "Babybel 14 jonge 45+ kaasjes",
+        "en": "Babybel 14 jonge 45+ kaasjes",
+        "ar": "Babybel 14 jonge 45+ kaasjes"
+      },
+      "brand": "Babybel",
+      "net_weight": "280 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Mini Babybel jonge 45+ kaas tussendoortje is een heerlijke, zachte kaas en gemakkelijk per stuk verpakt. Perfect voor onderweg of als snack.",
+      "descriptions": {
+        "nl": "Mini Babybel jonge 45+ kaas tussendoortje is een heerlijke, zachte kaas en gemakkelijk per stuk verpakt. Perfect voor onderweg of als snack.",
+        "fr": "Babybel 14 jonge 45+ kaasjes par Babybel.",
+        "de": "Babybel 14 jonge 45+ kaasjes von Babybel.",
+        "en": "Babybel 14 jonge 45+ kaasjes by Babybel.",
+        "ar": "منتج Babybel 14 jonge 45+ kaasjes من Babybel."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Gepasteuriseerde MELK (98%), zout, zuursel (bevat MELK), vegetarisch stremsel",
+        "fr": "Ingrediënten: Gepasteuriseerde MELK (98%), zout, zuursel (bevat MELK), vegetarisch stremsel",
+        "de": "Ingrediënten: Gepasteuriseerde MELK (98%), zout, zuursel (bevat MELK), vegetarisch stremsel",
+        "en": "Ingrediënten: Gepasteuriseerde MELK (98%), zout, zuursel (bevat MELK), vegetarisch stremsel",
+        "ar": "Ingrediënten: Gepasteuriseerde MELK (98%), zout, zuursel (bevat MELK), vegetarisch stremsel"
+      },
+      "image": "images/3073781189834.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3073781189834.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_61694443316a5047536557713054426f6e324c387a51?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babymelk",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_307"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1225.0,
+        "calories_100g": 295.0,
+        "fat_100g": 23.0,
+        "saturated_fat_100g": 15.5,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 22.0,
+        "salt_100g": 1.8,
+        "sodium_100g": 720.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 15,
+      "health_score": 40,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "delhaize.be",
+        "colruyt.be",
+        "carrefour.be",
+        "ah.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 2.12,
+          "promo_price": 1.7,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.delhaize.be/search?q=3073781189834",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 1.93,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3073781189834",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.74,
+          "promo_price": 2.19,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.be/search?q=3073781189834",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.48,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi539545/babybel-14-jonge-45-kaasjes",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.42,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=3073781189834",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.57,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=3073781189834",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.41,
+          "promo_price": 1.93,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=3073781189834",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.31,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3073781189834",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "3073781007374": {
+      "barcode": "3073781007374",
+      "domain": "food",
+      "names": {
+        "nl": "Babybel Original mini 10 stuks",
+        "fr": "Babybel Original mini 10 stuks",
+        "de": "Babybel Original mini 10 stuks",
+        "en": "Babybel Original mini 10 stuks",
+        "ar": "Babybel Original mini 10 stuks"
+      },
+      "brand": "Babybel",
+      "net_weight": "200 g",
+      "allergens": [
+        "Milk"
+      ],
+      "description": "Mini Babybel jonge 45+ kaas tussendoortje is een heerlijke, zachte kaas en gemakkelijk per stuk verpakt. Perfect voor onderweg of als snack.",
+      "descriptions": {
+        "nl": "Mini Babybel jonge 45+ kaas tussendoortje is een heerlijke, zachte kaas en gemakkelijk per stuk verpakt. Perfect voor onderweg of als snack.",
+        "fr": "Babybel Original mini 10 stuks par Babybel.",
+        "de": "Babybel Original mini 10 stuks von Babybel.",
+        "en": "Babybel Original mini 10 stuks by Babybel.",
+        "ar": "منتج Babybel Original mini 10 stuks من Babybel."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: Gepasteuriseerde MELK (98%), zout, zuursel (bevat MELK), vegetarisch stremsel",
+        "fr": "Ingrediënten: Gepasteuriseerde MELK (98%), zout, zuursel (bevat MELK), vegetarisch stremsel",
+        "de": "Ingrediënten: Gepasteuriseerde MELK (98%), zout, zuursel (bevat MELK), vegetarisch stremsel",
+        "en": "Ingrediënten: Gepasteuriseerde MELK (98%), zout, zuursel (bevat MELK), vegetarisch stremsel",
+        "ar": "Ingrediënten: Gepasteuriseerde MELK (98%), zout, zuursel (bevat MELK), vegetarisch stremsel"
+      },
+      "image": "images/3073781007374.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/3073781007374.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_4354523130313538393238?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "babymelk",
+      "origin_country": {
+        "name": "France",
+        "code": "FR",
+        "flag": "🇫🇷",
+        "inferred_from": "GS1_307"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 1225.0,
+        "calories_100g": 295.0,
+        "fat_100g": 23.0,
+        "saturated_fat_100g": 15.5,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 22.0,
+        "salt_100g": 1.8,
+        "sodium_100g": 720.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 15,
+      "health_score": 40,
+      "halal_status": "HALAL",
+      "is_halal": true,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [],
+      "reason": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+      "explanations": {
+        "ar": "جميع المكونات المعلنة نباتية، ألبان، أو معادن مصرح بها ولا تحتوي على محظورات.",
+        "en": "All declared ingredients are plant, dairy, or mineral-based with no prohibited additives.",
+        "fr": "Tous les ingrédients déclarés sont d'origine végétale, laitière ou minérale sans additifs interdits.",
+        "nl": "Alle vermelde ingrediënten zijn plantaardig, zuivel of mineraal zonder verboden toevoegingen.",
+        "de": "Alle deklarierten Zutaten sind pflanzlich, milchbasiert oder mineralisch ohne verbotene Zusätze."
+      },
+      "stores": [
+        "colruyt.be",
+        "delhaize.be",
+        "ah.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "ah.nl",
+        "jumbo.com"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 4.2,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=3073781007374",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 4.54,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=3073781007374",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 4.76,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi193642/babybel-original-mini-10-stuks",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 4.86,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=3073781007374",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 5.11,
+          "promo_price": 2.56,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.lidl.de/search?q=3073781007374",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.13,
+          "promo_price": 3.3,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.carrefour.fr/search?q=3073781007374",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 5.1,
+          "promo_price": 2.55,
+          "currency": "EUR",
+          "promo_label": "1+1",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=3073781007374",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 4.6,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.jumbo.com/search?q=3073781007374",
+          "updated_at": "2026-11-25T21:56:42.744395+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

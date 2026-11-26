@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "912",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 1,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 2,
   "products": {
     "9120051674393": {
       "barcode": "9120051674393",
@@ -207,7 +207,213 @@
           "updated_at": "2026-11-25T12:35:20.367991+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "9120128134881": {
+      "barcode": "9120128134881",
+      "domain": "food",
+      "names": {
+        "nl": "Waterdrop Ice tea peach",
+        "fr": "Waterdrop Ice tea peach",
+        "de": "Waterdrop Ice tea peach",
+        "en": "Waterdrop Ice tea peach",
+        "ar": "Waterdrop Ice tea peach"
+      },
+      "brand": "Waterdrop",
+      "net_weight": "12 stuks",
+      "allergens": [],
+      "description": "Bruisblokje voor de bereiding van een verfrissend drankje met de smaak perzik gecombineerd met de zachte tartheid van zwarte thee.",
+      "descriptions": {
+        "nl": "Bruisblokje voor de bereiding van een verfrissend drankje met de smaak perzik gecombineerd met de zachte tartheid van zwarte thee.",
+        "fr": "Waterdrop Ice tea peach par Waterdrop.",
+        "de": "Waterdrop Ice tea peach von Waterdrop.",
+        "en": "Waterdrop Ice tea peach by Waterdrop.",
+        "ar": "منتج Waterdrop Ice tea peach من Waterdrop."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: voedingszuur citroenzuur, zwarte thee-extract (7%), zuurteregelaars: natriumcarbonaten, kaliumcarbonaten; mango-extract, inuline, zuurteregelaar appelzuur, zuurteregelaar calciumcarbonaat, natuurlijk aroma, zoetstof sucralose, mango fruitpoeder, citrusvezels, vitamine C, niacine",
+        "fr": "Ingrediënten: voedingszuur citroenzuur, zwarte thee-extract (7%), zuurteregelaars: natriumcarbonaten, kaliumcarbonaten; mango-extract, inuline, zuurteregelaar appelzuur, zuurteregelaar calciumcarbonaat, natuurlijk aroma, zoetstof sucralose, mango fruitpoeder, citrusvezels, vitamine C, niacine",
+        "de": "Ingrediënten: voedingszuur citroenzuur, zwarte thee-extract (7%), zuurteregelaars: natriumcarbonaten, kaliumcarbonaten; mango-extract, inuline, zuurteregelaar appelzuur, zuurteregelaar calciumcarbonaat, natuurlijk aroma, zoetstof sucralose, mango fruitpoeder, citrusvezels, vitamine C, niacine",
+        "en": "Ingrediënten: voedingszuur citroenzuur, zwarte thee-extract (7%), zuurteregelaars: natriumcarbonaten, kaliumcarbonaten; mango-extract, inuline, zuurteregelaar appelzuur, zuurteregelaar calciumcarbonaat, natuurlijk aroma, zoetstof sucralose, mango fruitpoeder, citrusvezels, vitamine C, niacine",
+        "ar": "Ingrediënten: voedingszuur citroenzuur, zwarte thee-extract (7%), zuurteregelaars: natriumcarbonaten, kaliumcarbonaten; mango-extract, inuline, zuurteregelaar appelzuur, zuurteregelaar calciumcarbonaat, natuurlijk aroma, zoetstof sucralose, mango fruitpoeder, citrusvezels, vitamine C, niacine"
+      },
+      "image": "images/9120128134881.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/9120128134881.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_6a622d39495937385257364546345a73395a67787067?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "ijsthee",
+      "origin_country": {
+        "name": "Austria",
+        "code": "AT",
+        "flag": "🇦🇹",
+        "inferred_from": "GS1_912"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 4.0,
+        "calories_100g": 1.0,
+        "fat_100g": 0.0,
+        "saturated_fat_100g": 0.0,
+        "carbohydrates_100g": 0.0,
+        "sugars_100g": 0.0,
+        "fiber_100g": null,
+        "proteins_100g": 0.0,
+        "salt_100g": 0.05,
+        "sodium_100g": 20.0
+      },
+      "official_nutriscore": "a",
+      "nutriscore_grade": "a",
+      "nutriscore_score": 0,
+      "health_score": 93,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "natuurlijk aroma"
+      ],
+      "reason": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+      "explanations": {
+        "ar": "نكهات مجهولة المصدر تتطلب التحقق الاحتياطي من خلوها من الكحول أو المشتقات الحيوانية: natuurlijk aroma",
+        "en": "Flavorings of unspecified origin require precautionary verification of alcohol/animal carrier: natuurlijk aroma",
+        "fr": "Arômes d'origine non spécifiée nécessitant une vérification de précaution (support alcoolique/animal) : natuurlijk aroma",
+        "nl": "Aroma's van ongespecificeerde oorsprong vereisen voorzorgscontrole op alcohol/dierlijke drager: natuurlijk aroma",
+        "de": "Aromen unbestimmter Herkunft erfordern eine Vorsichtsprüfung auf Alkohol-/Tierträger: natuurlijk aroma"
+      },
+      "stores": [
+        "colruyt.be",
+        "ah.be",
+        "delhaize.be",
+        "carrefour.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 3.2,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=9120128134881",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 3.55,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi575869/waterdrop-ice-tea-peach",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.77,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=9120128134881",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 3.94,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=9120128134881",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 3.35,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=9120128134881",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 4.19,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=9120128134881",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 3.6,
+          "promo_price": 2.88,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=9120128134881",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 4.21,
+          "promo_price": 3.37,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=9120128134881",
+          "updated_at": "2026-11-25T18:48:05.498854+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }

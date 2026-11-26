@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "prefix": "475",
-  "generated_at": "2026-11-25T15:30:32.371159+00:00",
-  "product_count": 1,
+  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "product_count": 2,
   "products": {
     "4750072119891": {
       "barcode": "4750072119891",
@@ -208,7 +208,218 @@
           "updated_at": "2026-11-25T09:35:49.326907+00:00"
         }
       ],
-      "updated_at": "2026-11-25T14:21:22.321261+00:00"
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
+    },
+    "4750075001612": {
+      "barcode": "4750075001612",
+      "domain": "food",
+      "names": {
+        "nl": "Mini Melts Ice cream bubble gum",
+        "fr": "Mini Melts Ice cream bubble gum",
+        "de": "Mini Melts Ice cream bubble gum",
+        "en": "Mini Melts Ice cream bubble gum",
+        "ar": "Mini Melts Ice cream bubble gum"
+      },
+      "brand": "Mini Melts",
+      "net_weight": "70 g",
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Milk",
+        "Tree Nuts"
+      ],
+      "description": "Ontdek de kleurrijke ijsballetjes van Mini Melts en maak van elk moment een klein feestje!",
+      "descriptions": {
+        "nl": "Ontdek de kleurrijke ijsballetjes van Mini Melts en maak van elk moment een klein feestje!",
+        "fr": "Mini Melts Ice cream bubble gum par Mini Melts.",
+        "de": "Mini Melts Ice cream bubble gum von Mini Melts.",
+        "en": "Mini Melts Ice cream bubble gum by Mini Melts.",
+        "ar": "منتج Mini Melts Ice cream bubble gum من Mini Melts."
+      },
+      "ingredients": {
+        "nl": "Ingrediënten: MELK 68%, BOTER, suiker, magere MELKpoeder, maltodextrine, glucosestroop, emulgator: mono- en diglyceriden van vetzuren; stabilisator: guarpitmeel, taragom, xanthaangom, carrageen; gemodificeerd zetmeel, dextrose, aroma: bubble gum; kleurstoffen: spirulina-concentraat, bietenconcentraat, koperchlorofylline, bètacaroteen; zoetstof: sucralose. Het product kan sporen van gluten, soja en noten bevatten.",
+        "fr": "Ingrediënten: MELK 68%, BOTER, suiker, magere MELKpoeder, maltodextrine, glucosestroop, emulgator: mono- en diglyceriden van vetzuren; stabilisator: guarpitmeel, taragom, xanthaangom, carrageen; gemodificeerd zetmeel, dextrose, aroma: bubble gum; kleurstoffen: spirulina-concentraat, bietenconcentraat, koperchlorofylline, bètacaroteen; zoetstof: sucralose. Het product kan sporen van gluten, soja en noten bevatten.",
+        "de": "Ingrediënten: MELK 68%, BOTER, suiker, magere MELKpoeder, maltodextrine, glucosestroop, emulgator: mono- en diglyceriden van vetzuren; stabilisator: guarpitmeel, taragom, xanthaangom, carrageen; gemodificeerd zetmeel, dextrose, aroma: bubble gum; kleurstoffen: spirulina-concentraat, bietenconcentraat, koperchlorofylline, bètacaroteen; zoetstof: sucralose. Het product kan sporen van gluten, soja en noten bevatten.",
+        "en": "Ingrediënten: MELK 68%, BOTER, suiker, magere MELKpoeder, maltodextrine, glucosestroop, emulgator: mono- en diglyceriden van vetzuren; stabilisator: guarpitmeel, taragom, xanthaangom, carrageen; gemodificeerd zetmeel, dextrose, aroma: bubble gum; kleurstoffen: spirulina-concentraat, bietenconcentraat, koperchlorofylline, bètacaroteen; zoetstof: sucralose. Het product kan sporen van gluten, soja en noten bevatten.",
+        "ar": "Ingrediënten: MELK 68%, BOTER, suiker, magere MELKpoeder, maltodextrine, glucosestroop, emulgator: mono- en diglyceriden van vetzuren; stabilisator: guarpitmeel, taragom, xanthaangom, carrageen; gemodificeerd zetmeel, dextrose, aroma: bubble gum; kleurstoffen: spirulina-concentraat, bietenconcentraat, koperchlorofylline, bètacaroteen; zoetstof: sucralose. Het product kan sporen van gluten, soja en noten bevatten."
+      },
+      "image": "images/4750075001612.webp",
+      "image_url": "https://raw.githubusercontent.com/massindv/safi-eu-products-data/main/unified/images/4750075001612.webp",
+      "image_source_url": "https://static.ah.nl/dam/product/AHI_66653864706b474f53516553554575647054434e6d51?revLabel=1&rendition=800x800_WEBP&fileType=binary",
+      "image_domain": "static.ah.nl",
+      "category": "ijs",
+      "origin_country": {
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "🇧🇪",
+        "inferred_from": "STORE_FALLBACK"
+      },
+      "nutrition_per_100g": {
+        "energy_kj_100g": 850.0,
+        "calories_100g": 204.0,
+        "fat_100g": 12.4,
+        "saturated_fat_100g": 8.2,
+        "carbohydrates_100g": 18.7,
+        "sugars_100g": 13.4,
+        "fiber_100g": null,
+        "proteins_100g": 4.4,
+        "salt_100g": 0.18,
+        "sodium_100g": 72.0
+      },
+      "official_nutriscore": "d",
+      "nutriscore_grade": "d",
+      "nutriscore_score": 10,
+      "health_score": 42,
+      "halal_status": "SUSPICIOUS",
+      "is_halal": false,
+      "halal_certified": false,
+      "halal_certification_source": null,
+      "triggers": [
+        "emulgator: mono- en diglyceriden van vetzuren"
+      ],
+      "reason": "Emulsifier with unspecified plant/animal origin requires source verification: emulgator: mono- en diglyceriden van vetzuren",
+      "explanations": {
+        "ar": "مستحلب ثنائي المصدر يتطلب التحقق من المصدر: emulgator: mono- en diglyceriden van vetzuren",
+        "en": "Emulsifier with unspecified plant/animal origin requires source verification: emulgator: mono- en diglyceriden van vetzuren",
+        "fr": "Émulsifiant d'origine végétale/animale non spécifiée nécessitant une vérification : emulgator: mono- en diglyceriden van vetzuren",
+        "nl": "Emulgator met ongespecificeerde plantaardige/dierlijke oorsprong vereist controle: emulgator: mono- en diglyceriden van vetzuren",
+        "de": "Emulgator mit unbestimmter pflanzlicher/tierischer Herkunft erfordert Prüfung: emulgator: mono- en diglyceriden van vetzuren"
+      },
+      "stores": [
+        "ah.be",
+        "colruyt.be",
+        "carrefour.be",
+        "delhaize.be",
+        "lidl.de",
+        "carrefour.fr",
+        "jumbo.com",
+        "ah.nl"
+      ],
+      "offers": [
+        {
+          "store": "ah.be",
+          "store_name": "Albert Heijn BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "ah",
+          "price": 2.31,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.ah.be/producten/product/wi625221/mini-melts-ice-cream-bubble-gum",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "colruyt.be",
+          "store_name": "Colruyt",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "colruyt",
+          "price": 2.63,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.colruyt.be/search?q=4750075001612",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "carrefour.be",
+          "store_name": "Carrefour BE",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "carrefour",
+          "price": 2.66,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.be/search?q=4750075001612",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "delhaize.be",
+          "store_name": "Delhaize",
+          "country": "Belgium",
+          "country_code": "BE",
+          "logo_key": "delhaize",
+          "price": 3.0,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.delhaize.be/search?q=4750075001612",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "lidl.de",
+          "store_name": "Lidl DE",
+          "country": "Germany",
+          "country_code": "DE",
+          "logo_key": "lidl",
+          "price": 2.95,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.lidl.de/search?q=4750075001612",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "carrefour.fr",
+          "store_name": "Carrefour FR",
+          "country": "France",
+          "country_code": "FR",
+          "logo_key": "carrefour",
+          "price": 2.94,
+          "promo_price": null,
+          "currency": "EUR",
+          "promo_label": null,
+          "promo_start_date": null,
+          "promo_end_date": null,
+          "product_url": "https://www.carrefour.fr/search?q=4750075001612",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "jumbo.com",
+          "store_name": "Jumbo",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "jumbo",
+          "price": 2.33,
+          "promo_price": 1.86,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.jumbo.com/search?q=4750075001612",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        },
+        {
+          "store": "ah.nl",
+          "store_name": "Albert Heijn NL",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "logo_key": "ah",
+          "price": 2.6,
+          "promo_price": 2.08,
+          "currency": "EUR",
+          "promo_label": "-20%",
+          "promo_start_date": "2026-11-23",
+          "promo_end_date": "2026-11-29",
+          "product_url": "https://www.ah.nl/search?q=4750075001612",
+          "updated_at": "2026-11-25T21:12:54.995067+00:00"
+        }
+      ],
+      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "safety_grade": null
     }
   }
 }
