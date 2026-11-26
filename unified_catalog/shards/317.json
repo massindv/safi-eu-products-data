@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "prefix": "317",
-  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "generated_at": "2026-11-26T00:44:11.383221+00:00",
   "product_count": 9,
   "products": {
     "3175460000017": {
@@ -204,7 +204,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "updated_at": "2026-11-26T00:44:11.383221+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
       "halal_certification_source": null,
@@ -407,7 +407,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "updated_at": "2026-11-26T00:44:11.383221+00:00",
       "official_nutriscore": "d",
       "halal_certified": false,
       "halal_certification_source": null,
@@ -615,7 +615,7 @@
           "promo_end_date": null
         }
       ],
-      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "updated_at": "2026-11-26T00:44:11.383221+00:00",
       "official_nutriscore": "e",
       "halal_certified": false,
       "halal_certification_source": null,
@@ -827,7 +827,7 @@
           "updated_at": "2026-11-25T09:54:00.339821+00:00"
         }
       ],
-      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "updated_at": "2026-11-26T00:44:11.383221+00:00",
       "safety_grade": null
     },
     "3178530403459": {
@@ -1038,7 +1038,7 @@
           "updated_at": "2026-11-25T10:00:00.526229+00:00"
         }
       ],
-      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "updated_at": "2026-11-26T00:44:11.383221+00:00",
       "safety_grade": null
     },
     "3175460030083": {
@@ -1244,7 +1244,7 @@
           "updated_at": "2026-11-25T16:58:24.201081+00:00"
         }
       ],
-      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "updated_at": "2026-11-26T00:44:11.383221+00:00",
       "safety_grade": null
     },
     "3175360000100": {
@@ -1455,7 +1455,7 @@
           "updated_at": "2026-11-25T16:59:46.635881+00:00"
         }
       ],
-      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "updated_at": "2026-11-26T00:44:11.383221+00:00",
       "safety_grade": null
     },
     "3178041337328": {
@@ -1502,18 +1502,18 @@
       "nutriscore_grade": null,
       "nutriscore_score": null,
       "health_score": 74,
-      "halal_status": "HALAL",
+      "halal_status": "EXTERNAL_CARE",
       "is_halal": true,
       "halal_certified": false,
       "halal_certification_source": null,
       "triggers": [],
-      "reason": "Cosmetic product verified HALAL — all declared ingredients are plant, mineral, or permissible synthetic.",
+      "reason": "External Care • Safe — non-ingested cosmetic product.",
       "explanations": {
-        "ar": "مستحضر تجميل حلال ومناسب — جميع المكونات نباتية أو معدنية أو صناعية مباحة.",
-        "en": "Cosmetic product verified HALAL — all declared ingredients are plant, mineral, or permissible synthetic.",
-        "fr": "Produit cosmétique HALAL — tous les ingrédients déclarés sont végétaux, minéraux ou synthétiques permis.",
-        "nl": "Cosmeticaproduct is HALAL — alle vermelde ingrediënten zijn plantaardig, mineraal of toegestaan.",
-        "de": "Kosmetikprodukt als HALAL verifiziert — alle Inhaltsstoffe sind pflanzlich, mineralisch oder zulässig."
+        "en": "External Care • Safe — non-ingested cosmetic product.",
+        "nl": "Uitwendige verzorging • Veilig — cosmetisch product voor uitwendig gebruik.",
+        "fr": "Soin externe • Sûr — produit cosmétique à usage externe uniquement.",
+        "de": "Äußere Pflege • Sicher — kosmetisches Produkt zur äußerlichen Anwendung.",
+        "ar": "مستحضر خارجي • آمن — للاستخدام الموضعي الخارجي فقط."
       },
       "stores": [
         "delhaize.be",
@@ -1647,7 +1647,7 @@
           "updated_at": "2026-11-25T23:12:36.607451+00:00"
         }
       ],
-      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "updated_at": "2026-11-26T00:44:11.383221+00:00",
       "safety_grade": "B"
     },
     "3178041327978": {
@@ -1694,18 +1694,18 @@
       "nutriscore_grade": null,
       "nutriscore_score": null,
       "health_score": 77,
-      "halal_status": "HALAL",
+      "halal_status": "EXTERNAL_CARE",
       "is_halal": true,
       "halal_certified": false,
       "halal_certification_source": null,
       "triggers": [],
-      "reason": "Cosmetic product verified HALAL — all declared ingredients are plant, mineral, or permissible synthetic.",
+      "reason": "External Care • Safe — non-ingested cosmetic product.",
       "explanations": {
-        "ar": "مستحضر تجميل حلال ومناسب — جميع المكونات نباتية أو معدنية أو صناعية مباحة.",
-        "en": "Cosmetic product verified HALAL — all declared ingredients are plant, mineral, or permissible synthetic.",
-        "fr": "Produit cosmétique HALAL — tous les ingrédients déclarés sont végétaux, minéraux ou synthétiques permis.",
-        "nl": "Cosmeticaproduct is HALAL — alle vermelde ingrediënten zijn plantaardig, mineraal of toegestaan.",
-        "de": "Kosmetikprodukt als HALAL verifiziert — alle Inhaltsstoffe sind pflanzlich, mineralisch oder zulässig."
+        "en": "External Care • Safe — non-ingested cosmetic product.",
+        "nl": "Uitwendige verzorging • Veilig — cosmetisch product voor uitwendig gebruik.",
+        "fr": "Soin externe • Sûr — produit cosmétique à usage externe uniquement.",
+        "de": "Äußere Pflege • Sicher — kosmetisches Produkt zur äußerlichen Anwendung.",
+        "ar": "مستحضر خارجي • آمن — للاستخدام الموضعي الخارجي فقط."
       },
       "stores": [
         "delhaize.be",
@@ -1839,7 +1839,7 @@
           "updated_at": "2026-11-25T23:13:54.493901+00:00"
         }
       ],
-      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "updated_at": "2026-11-26T00:44:11.383221+00:00",
       "safety_grade": "B"
     }
   }

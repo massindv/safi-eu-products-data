@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "prefix": "001",
-  "generated_at": "2026-11-25T23:54:31.362456+00:00",
+  "generated_at": "2026-11-26T00:44:11.383221+00:00",
   "product_count": 3,
   "products": {
     "0010181032356": {
@@ -50,22 +50,18 @@
       "nutriscore_grade": null,
       "nutriscore_score": null,
       "health_score": 77,
-      "halal_status": "SUSPICIOUS",
-      "is_halal": false,
+      "halal_status": "EXTERNAL_CARE",
+      "is_halal": true,
       "halal_certified": false,
       "halal_certification_source": null,
-      "triggers": [
-        "glycerin",
-        "glyceryl stearate",
-        "peg – stearate"
-      ],
-      "reason": "Cosmetic product flagged SUSPICIOUS — verify source of: glycerin, glyceryl stearate, peg – stearate.",
+      "triggers": [],
+      "reason": "External Care • Safe — non-ingested cosmetic product.",
       "explanations": {
-        "ar": "مستحضر تجميل مشبوه — يرجى التحقق من مصدر: glycerin, glyceryl stearate, peg – stearate.",
-        "en": "Cosmetic product flagged SUSPICIOUS — verify source of: glycerin, glyceryl stearate, peg – stearate.",
-        "fr": "Produit cosmétique DOUTEUX — vérifiez l'origine de : glycerin, glyceryl stearate, peg – stearate.",
-        "nl": "Cosmeticaproduct is TWIJFELACHTIG — controleer de herkomst van: glycerin, glyceryl stearate, peg – stearate.",
-        "de": "Kosmetikprodukt ist ZWEIFELHAFT — Herkunft prüfen für: glycerin, glyceryl stearate, peg – stearate."
+        "en": "External Care • Safe — non-ingested cosmetic product.",
+        "nl": "Uitwendige verzorging • Veilig — cosmetisch product voor uitwendig gebruik.",
+        "fr": "Soin externe • Sûr — produit cosmétique à usage externe uniquement.",
+        "de": "Äußere Pflege • Sicher — kosmetisches Produkt zur äußerlichen Anwendung.",
+        "ar": "مستحضر خارجي • آمن — للاستخدام الموضعي الخارجي فقط."
       },
       "stores": [
         "colruyt.be",
@@ -199,7 +195,7 @@
           "updated_at": "2026-11-25T09:26:13.129983+00:00"
         }
       ],
-      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "updated_at": "2026-11-26T00:44:11.383221+00:00",
       "safety_grade": "B"
     },
     "0010181023002": {
@@ -248,18 +244,18 @@
       "nutriscore_grade": null,
       "nutriscore_score": null,
       "health_score": 91,
-      "halal_status": "HALAL",
+      "halal_status": "EXTERNAL_CARE",
       "is_halal": true,
       "halal_certified": false,
       "halal_certification_source": null,
       "triggers": [],
-      "reason": "Cosmetic product verified HALAL — all declared ingredients are plant, mineral, or permissible synthetic.",
+      "reason": "External Care • Safe — non-ingested cosmetic product.",
       "explanations": {
-        "ar": "مستحضر تجميل حلال ومناسب — جميع المكونات نباتية أو معدنية أو صناعية مباحة.",
-        "en": "Cosmetic product verified HALAL — all declared ingredients are plant, mineral, or permissible synthetic.",
-        "fr": "Produit cosmétique HALAL — tous les ingrédients déclarés sont végétaux, minéraux ou synthétiques permis.",
-        "nl": "Cosmeticaproduct is HALAL — alle vermelde ingrediënten zijn plantaardig, mineraal of toegestaan.",
-        "de": "Kosmetikprodukt als HALAL verifiziert — alle Inhaltsstoffe sind pflanzlich, mineralisch oder zulässig."
+        "en": "External Care • Safe — non-ingested cosmetic product.",
+        "nl": "Uitwendige verzorging • Veilig — cosmetisch product voor uitwendig gebruik.",
+        "fr": "Soin externe • Sûr — produit cosmétique à usage externe uniquement.",
+        "de": "Äußere Pflege • Sicher — kosmetisches Produkt zur äußerlichen Anwendung.",
+        "ar": "مستحضر خارجي • آمن — للاستخدام الموضعي الخارجي فقط."
       },
       "stores": [
         "delhaize.be",
@@ -393,7 +389,7 @@
           "updated_at": "2026-11-25T22:56:31.810007+00:00"
         }
       ],
-      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "updated_at": "2026-11-26T00:44:11.383221+00:00",
       "safety_grade": "A"
     },
     "0010181041808": {
@@ -440,22 +436,18 @@
       "nutriscore_grade": null,
       "nutriscore_score": null,
       "health_score": 72,
-      "halal_status": "SUSPICIOUS",
-      "is_halal": false,
+      "halal_status": "EXTERNAL_CARE",
+      "is_halal": true,
       "halal_certified": false,
       "halal_certification_source": null,
-      "triggers": [
-        "glyceryl stearate",
-        "glycerin mineral oil",
-        "peg-stearate"
-      ],
-      "reason": "Cosmetic product flagged SUSPICIOUS — verify source of: glyceryl stearate, glycerin mineral oil, peg-stearate.",
+      "triggers": [],
+      "reason": "External Care • Safe — non-ingested cosmetic product.",
       "explanations": {
-        "ar": "مستحضر تجميل مشبوه — يرجى التحقق من مصدر: glyceryl stearate, glycerin mineral oil, peg-stearate.",
-        "en": "Cosmetic product flagged SUSPICIOUS — verify source of: glyceryl stearate, glycerin mineral oil, peg-stearate.",
-        "fr": "Produit cosmétique DOUTEUX — vérifiez l'origine de : glyceryl stearate, glycerin mineral oil, peg-stearate.",
-        "nl": "Cosmeticaproduct is TWIJFELACHTIG — controleer de herkomst van: glyceryl stearate, glycerin mineral oil, peg-stearate.",
-        "de": "Kosmetikprodukt ist ZWEIFELHAFT — Herkunft prüfen für: glyceryl stearate, glycerin mineral oil, peg-stearate."
+        "en": "External Care • Safe — non-ingested cosmetic product.",
+        "nl": "Uitwendige verzorging • Veilig — cosmetisch product voor uitwendig gebruik.",
+        "fr": "Soin externe • Sûr — produit cosmétique à usage externe uniquement.",
+        "de": "Äußere Pflege • Sicher — kosmetisches Produkt zur äußerlichen Anwendung.",
+        "ar": "مستحضر خارجي • آمن — للاستخدام الموضعي الخارجي فقط."
       },
       "stores": [
         "ah.be",
@@ -589,7 +581,7 @@
           "updated_at": "2026-11-25T23:45:45.902473+00:00"
         }
       ],
-      "updated_at": "2026-11-25T23:54:31.362456+00:00",
+      "updated_at": "2026-11-26T00:44:11.383221+00:00",
       "safety_grade": "B"
     }
   }
